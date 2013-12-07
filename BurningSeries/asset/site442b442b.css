@@ -1,0 +1,1081 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* new html5 elements are blocking */
+section, header, footer, nav, article {
+    display: block;
+}
+
+nav {
+    position: relative;
+    z-index: 1;
+}
+
+/* page layout */
+html {
+    background: #127 url('img/background_gradient.png') repeat-x;
+}
+
+.hidden {
+    display: none;
+}
+
+#root {
+    background-color: white;
+}
+
+/* don't give any styles to ie6 using > */
+body > #root {
+    font-size: 16px;
+    font-family: 'Trebuchet MS', sans-serif;
+
+    width: 900px;
+    margin: 5px auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    box-shadow: 0 0 5px #77f;
+    -moz-box-shadow: 0 0 5px #77f;
+    -webkit-box-shadow: 0 0 5px #77f;
+    background: #fff url('img/header.v265a365a3.jpg?1999999') no-repeat;
+
+    position: relative; /* in order to fix placeholder simulation problems */
+}
+
+#root > header > h1 > a {
+    display: block;
+    width: 720px;
+    height: 169px;
+    float: left;
+    text-indent: -9999em;
+}
+#socialshareprivacy {
+    position: absolute;
+    right: 0;
+    visibility: hidden;
+}
+#socialshareprivacy li {
+    background-color: transparent;
+}
+#socialshareprivacy li.settings_info {
+    display: none;
+}
+
+/* Admin */
+.news td {
+    border: 1px solid #000;
+    padding: 5px;
+}
+.news .save {
+    display: none;
+}
+.news.editing .save {
+    display: inline;
+}
+
+#user {
+    float: right;
+    margin: 10px;
+    padding: 7px;
+    border: 1px solid black;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    width: 142px;
+    height: 132px;
+    background-color: #66f;
+}
+#user > fieldset input {
+    width: 140px;
+    font-size: 14px;
+    background-color: #ddf;
+}
+#rememberLogin {
+    display: block;
+    margin-top: 5px;
+    font-size: 13.45px;
+}
+#rememberLogin > input {
+    font-size: 16px;
+    position: relative;
+    top: 2px;
+    width: auto !important;
+    border: none !important;
+    background-color: transparent !important;
+}
+#user > fieldset > input {
+    margin-top: 5px;
+    width: 50px;
+    display: inline;
+}
+
+ol {
+    margin: 0 0 0 25px;
+}
+
+nav > ul {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    background-color: #66f;
+    font-size: 16px;
+    line-height: 2em;
+}
+
+nav > ul > li {
+    float: left;
+    width: 120px;
+    text-align: center;
+    border-right: 1px solid black;
+    position: relative;
+}
+nav > ul > li:hover, nav > ul > li > ul {
+    background-color: #aaf;
+}
+
+nav > ul > li > ul {
+    display: none;
+    position: absolute;
+    left: -1px;
+    width: 100%;
+    border: 1px solid black;
+    border-bottom: none;
+}
+nav > ul > li > ul > li {
+    border-bottom: 1px solid black;
+}
+nav > ul > li > ul > li:hover {
+    background-color: #ddf;
+}
+
+nav > ul > li:hover > ul {
+    display: block;
+}
+
+nav a {
+    display: block;
+}
+
+#help {
+    float: right;
+    border: none;
+    width: 25px;
+    height: 25px;
+    margin: 3px;
+    background-color: #66f;
+}
+#other-series-nav {
+    width: 200px;
+}
+
+#root > section {
+    padding: 1em;
+    display: block;
+}
+
+.messageBox {
+    border: 1px solid;
+    line-height: 1em;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.messageBox.error {
+    border-color: red;
+    background-color: #fa7;
+}
+.messageBox.info {
+    border-color: gray;
+    background-color: #ccc;
+}
+.messageBox.newMessages {
+    border-color: blue;
+    background-color: #7af;
+}
+
+#root > footer {
+    border-top: 1px solid black;
+}
+#root > footer > ul > li {
+    float: left;
+    margin-left: 1em;
+}
+
+#ad {
+    width: 468px;
+    margin: 30px auto 0 auto;
+}
+#ad > header {
+    border-bottom: 1px dotted gray;
+    padding: 3px;
+    margin-bottom: 3px;
+}
+
+/* styles */
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: none;
+}
+
+img {
+    border: none;
+}
+
+h3 {
+    margin-top: 20px;
+}
+hgroup > h2 + h3 {
+    margin-top: 0;
+}
+
+fieldset {
+    border: none;
+}
+
+input, textarea, select {
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 0 4px;
+}
+th {
+    text-align: left;
+}
+tr:nth-child(even) {
+    background-color: #bbf;
+}
+
+section fieldset {
+    margin-top: 15px;
+}
+section legend {
+    font-size: 20px;
+}
+section legend > small {
+    font-size: 16px;
+}
+section label {
+    display: block;
+    width: 350px;
+    margin-top: 3px;
+}
+section label > input {
+    float: right;
+    font-size: 16px;
+}
+
+section input:not([type=submit]) {
+    width: 168px;
+}
+section input[type=checkbox], section input[type=radio] {
+    float: none;
+    margin-right: 5px;
+    width: auto;
+}
+section textarea {
+    display: block !important;
+    width: 350px;
+    height: 120px;
+}
+
+:target {
+    background-color: #fbb !important;
+}
+
+.placeholder {
+    color: #666;
+}
+
+/**
+ * Global Macros
+ */
+
+.nowrap {
+    white-space: nowrap;
+}
+
+/* line of page-buttons */
+.pages {
+    margin: 5px 0;
+    overflow: auto;
+}
+
+.pages > li {
+    float: left;
+    line-height: 24px;
+    width: 24px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.pages > li > a {
+    display: block;
+    text-decoration: none;
+}
+
+.pages > li > a:hover {
+    background-color: #66f;
+}
+
+/* special button in page-button line*/
+.pages > .button {
+    width: auto;
+}
+
+.pages > .button > a {
+    padding: 0 5px;
+}
+
+.pages > .button > a > .icon {
+    position: relative;
+    top: 2px;
+}
+
+/* currently selected page */
+.pages > .current {
+    background-color: #99f;
+}
+
+/* icons */
+.icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    background: transparent url('img/icons.v10.png') no-repeat;
+    text-indent: -9999px;
+}
+*:first-child+html .icon {
+    text-indent: 0;
+    font-size: 0;
+    line-height: 0;
+} /* IE7 fix */
+
+.v-centered.icon {
+    position: relative;
+    top: 4px;
+}
+
+.icon.add {
+    background-position: -0px 0;
+}
+.icon.arrow_redo {
+    background-position: -16px 0;
+}
+.icon.arrow_refresh {
+    background-position: -32px 0;
+}
+.icon.bug {
+    background-position: -48px 0;
+}
+.icon.bug_delete {
+    background-position: -64px 0;
+}
+.icon.cog {
+    background-position: -80px 0;
+}
+.icon.crossed_eye {
+    background-position: -96px 0;
+}
+.icon.delete {
+    background-position: -112px 0;
+}
+.icon.DivxStage {
+    background-position: -128px 0;
+}
+.icon.email_add {
+    background-position: -144px 0;
+}
+.icon.email_go {
+    background-position: -160px 0;
+}
+.icon.exclamation {
+    background-position: -176px 0;
+}
+.icon.eye {
+    background-position: -192px 0;
+}
+.icon.lightning {
+    background-position: -208px 0;
+}
+.icon.link_go {
+    background-position: -224px 0;
+}
+.icon.lock {
+    background-position: -240px 0;
+}
+.icon.lock_open {
+    background-position: -256px 0;
+}
+.icon.medal_bronze {
+    background-position: -272px 0;
+}
+.icon.medal_gold {
+    background-position: -288px 0;
+}
+.icon.medal_silver {
+    background-position: -304px 0;
+}
+.icon.Megavideo {
+    background-position: -320px 0;
+}
+.icon.MyVideo {
+    background-position: -336px 0;
+}
+.icon.page_white_edit {
+    background-position: -352px 0;
+}
+.icon.page_white_wrench {
+    background-position: -368px 0;
+}
+.icon.PutLocker {
+    background-position: -384px 0;
+}
+.icon.RapidVideo {
+    background-position: -400px 0;
+}
+.icon.skype {
+    background-position: -416px 0;
+}
+.icon.Veoh {
+    background-position: -432px 0;
+}
+.icon.VideoBB {
+    background-position: -448px 0;
+}
+.icon.YouTube {
+    background-position: -464px 0;
+}
+.icon.zShare {
+    background-position: -480px 0;
+}
+.icon.MySpass {
+    background-position: -496px 0
+}
+.icon.rapidshare {
+    background-position: -512px 0
+}
+.icon.Sockshare {
+    background-position: -528px 0
+}
+.icon.Videobam {
+    background-position: -544px 0
+}
+.icon.Ecostream {
+    background-position: -560px 0
+}.icon.BitShare {
+    background-position: -576px 0
+}.icon.VideoWeed {
+    background-position: -592px 0
+}.icon.UploadC {
+    background-position: -608px 0
+}/**
+ * Page Specific Styles
+ */
+.zufall-aendern select {
+    float:right;
+    font-size: 16px;
+    width: 200px;
+}
+.zufall-aendern label {
+    margin-top: 5px;
+}
+
+.serie .epiInfo {
+    display: none;
+    position: absolute;
+    background-color: white;
+    border: 1px solid black;
+    z-index: 100;
+    margin-left: -1px;
+    padding: 5px;
+    text-align: left;
+}
+
+.serie li:hover > .epiInfo {
+    display: block;
+}
+
+.serie #video_actions > a, .serie #video_actions > div {
+    float: left;
+}
+.serie #video_actions > a {
+    margin: 0 10px;
+}
+.serie #video_actions > div > a {
+    display: block;
+    line-height: 1.8em;
+}
+
+#titleEnglish {
+    display: block;
+}
+
+.serie .watched {
+    background-color: #9f6 !important;
+}
+
+.serie dt {
+    font-weight: bold;
+}
+
+.home > .column {
+    width: 420px;
+}
+.home > #column1 {
+    float: left;
+}
+.home > #column2 {
+    float: right;
+}
+.home > .column > section, .home > #teaser {
+    display: block;
+    border: 1px solid black;
+    margin-top: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-topright: 10px;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    background-color: #007;
+    background-image: -moz-linear-gradient(#007 0px, #005 24px);
+    box-shadow: 0 0 3px #007;
+    -moz-box-shadow: 0 0 3px #007;
+    -webkit-box-shadow: 0 0 3px #007;
+}
+.home > .column > section > header, .home > #teaser > header {
+    display: block;
+    color: white;
+    padding: 0 20px;
+}
+.home > .column > section > header > h3, .home > #teaser > header > h3 {
+    margin: 0;
+    float: left;
+    font-size: 19px;
+}
+.home > .column > section > header > h3 > small {
+    font-weight: normal;
+    font-size: small;
+}
+.home > .column > section > header > span {
+    float: right;
+    padding-top: 3px;
+}
+
+.home > .column > section > div, .home > #teaser > div {
+    padding: 10px;
+    background-color: white;
+}
+
+.home #quote blockquote {
+    border-left: 7px solid #88f;
+    padding-left: 7px;
+}
+.home li:nth-child(even) {
+    background-color: #bbf;
+}
+
+.home #shoutbox dl {
+    max-height: 400px;
+    overflow-y: auto;
+}
+.home #shoutbox dl > dt {
+    background-color: #bbf;
+}
+.home #shoutbox .sbDelete {
+    float: right;
+    margin-right: 2px;
+    margin-top: 2px;
+}
+
+.home #shoutbox a.superAdmin,.home #shoutbox a.mod,.home #shoutbox a.superMod,.home #shoutbox a.user {
+    background-image: url("img/admin_star.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding: 0 0 0 16px;
+}
+.home #shoutbox a.mod {
+    background-image: url("img/mod_star.png");
+}
+.home #shoutbox a.superMod {
+    background-image: url("img/smod_star.png");
+}
+.home #shoutbox a.user {
+    background-image: url("img/user_star.png");
+    background-position: 6px center;
+}
+.home #shoutbox #sbOutput .error {
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.home #sbMsg {
+    height: 50px;
+    width: 340px;
+    float: left;
+}
+.home #sbSubmit {
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+.home #shoutbox time, .home #news time {
+    font-size: small;
+}
+.home #news article  {
+    display: block;
+    margin-bottom: 10px;
+}
+.home #news h4 {
+    display: inline;
+    font-size: 16px;
+}
+.home #feedback h4 {
+    margin-top: 10px;
+}
+.home #feedback h4:first-of-type {
+    margin-top: 0;
+}
+
+.home table {
+    width: 100%
+}
+
+#defect div {
+    height: 300px;
+    overflow: auto;
+}
+
+.suche input {
+    margin: 5px 0;
+    font-size: 16px;
+    width: 300px !important;
+    float: left;
+}
+.suche select {
+    border: none;
+    font-size: 16px;
+}
+
+.suche #search_submit {
+    background: transparent url('img/search.png') no-repeat;
+    border: none;
+    width: 22px !important;
+    height: 22px;
+    margin-left: 5px;
+    text-indent: -9999em;
+    font-size: 0; /* IE 7 */
+}
+
+.hilfe dt, .user-center dt {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.andere-serien input {
+    font-size: 24px;
+    width: 865px !important;
+    margin: 7px 0;
+}
+.andere-serien fieldset {
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.andere-serien ul, .vorgeschlagene-serien ul {
+    -moz-column-count: 3;
+    -webkit-column-count: 3;
+}
+.vorgeschlagene-serien li > span {
+    color: #fff;
+    line-height: 1.5;
+    display: inline-block;
+    width: 30px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.user-center #nav {
+    float: left;
+    width: 200px;
+    background-color: #aaf;
+    border: 1px solid black;
+    border-bottom: none;
+}
+.user-center #nav li {
+    border-bottom: 1px solid black;
+    padding: 3px;
+}
+.user-center #nav li.title {
+    font-weight: bold;
+    padding: 8px 3px;
+}
+.user-center #usrCnt {
+    float: right;
+    width: 650px;
+}
+.user-center h3 {
+    margin-top: 0;
+}
+
+.user-center .col {
+    width: 200px;
+    float: left;
+    background-color: #bbf;
+    border: 1px solid black;
+    margin-right: 3px;
+    min-height: 34px;
+}
+.user-center .col li {
+    margin: 3px;
+    padding: 3px;
+    border: 1px solid black;
+    background-color: #aaf;
+}
+.user-center .col.greyed {
+    opacity: 0.7;
+    -moz-opacity: 0.7;
+    -webkit-opacity: 0.7;
+}
+.user-center #msg {
+    font-size: smaller;
+}
+
+.admin-newdescriptions textarea {
+    width: 800px;
+}
+.admin-newdescriptions input[type=submit] {
+    float: none;
+    margin-top: 3px;
+}
+.admin-newdescriptions del {
+    background-color: #f88;
+    text-decoration: none;
+}
+.admin-newdescriptions ins {
+    background-color: #8f8;
+    text-decoration: none;
+}
+
+.user dt {
+    width: 200px;
+    float: left;
+    clear: left;
+}
+.user dd {
+    margin-left: 200px;
+}
+
+.rettet-den-regenwald > h2 {
+    text-align: center;
+}
+.rettet-den-regenwald > section {
+    width: 840px;
+    margin: auto;
+    display: block;
+}
+.rettet-den-regenwald > section > img {
+    float: left;
+}
+.rettet-den-regenwald > section > article {
+    width: 700px;
+    float: right;
+    margin-top: 35px;
+}
+.rettet-den-regenwald > section > article > p {
+    margin-bottom: 1.4em;
+}
+.rettet-den-regenwald > section > article > p > strong {
+    display: block;
+    font-size: 24px;
+    margin-top: 0.8em;
+}
+.rettet-den-regenwald > a, .rettet-den-regenwald > p {
+    margin: auto;
+    display: block;
+    width: 622px;
+}
+
+.messages .pagesNavi {
+    margin: 10px 0;
+}
+.messages table {
+    width: 100%;
+}
+.messages fieldset {
+    margin-bottom: 20px;
+}
+.messages label, .messages textarea {
+    width: 500px;
+}
+.messages textarea {
+    margin-top: 5px;
+}
+.messages input[type=submit] {
+    font-size: 16px;
+    margin-top: 5px;
+}
+.messages label > input {
+    width: 300px;
+}
+.messages > section {
+    border: 1px solid blue;
+    padding: 10px;
+}
+.messages > section > h3 {
+    margin: 0;
+}
+
+.forum :target {
+    background-color: #fff !important;
+}
+
+.listingElement {
+    padding: 5px;
+    margin-top: 5px;
+    border: 1px solid #444;
+    overflow: auto;
+}
+
+.listingElement small {
+    display: block;
+    margin-top: 1px;
+    color: #444;
+}
+.listingElement small a {
+    color: #444;
+}
+
+.forum .main {
+    float: left;
+}
+
+.forum .side {
+    float: right;
+}
+
+.forum .postHeader {
+    border-bottom: 1px dotted #444;
+    margin-bottom: 5px;
+    overflow: auto;
+}
+
+.forum .bigForm textarea {
+    width: 866px;
+    margin-bottom: 10px;
+}
+.forum .bigForm input {
+    width: 866px;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+.forum .bigForm input[type=submit] {
+    width: auto;
+    float: right;
+}
+
+.forum .editPost textarea {
+    width: 855px;
+    height: auto;
+    resize: none;
+}
+.forum .editPost input {
+    float: right;
+    margin-top: 5px;
+}
+
+.forum .editTitle {
+    display: inline;
+}
+.forum .editTitle input {
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+.forum .editTitle select {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.forum .editTitle input[type=submit] {
+    font-size: 18px;
+    width: auto;
+}
+
+.forum .backLink {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#inlineRating {
+display: inline-block;
+}
+#rating,
+#rating a:hover,
+#rating a:active,
+#rating a:focus,
+#rating #r_actual {
+background: url('img/stars.png') left -1000px repeat-x;
+}
+#rating {
+position:relative;
+width:80px;
+height:16px;
+overflow:hidden;
+background-position: left top;
+}
+#rating li {
+display: inline;
+}
+#rating a,
+#rating #r_actual {
+position:absolute;
+top:0;
+left:0;
+text-indent:-1000em;
+height:16px;
+line-height:16px;
+outline:none;
+overflow:hidden;
+border: none;
+}
+#rating a:hover,
+#rating a:active,
+#rating a:focus {
+background-position: left bottom;
+}
+#rating a#r_1 {
+width:20%;
+z-index:6;
+}
+#rating a#r_2 {
+width:40%;
+z-index:5;
+}
+#rating a#r_3 {
+width:60%;
+z-index:4;
+}
+#rating a#r_4 {
+width:80%;
+z-index:3;
+}
+#rating a#r_5 {
+width:100%;
+z-index:2;
+}
+#rating #r_actual {
+z-index:1;
+background-position: left center;
+}
+
+/* make all the clearing */
+#root > header:after,
+nav > ul:after,
+#root > footer > ul:after,
+.rettet-den-regenwald section:after ,
+.home > .column > section > header:after,
+.home > #teaser > header:after {
+    content: ' ';
+    display: block;
+    visibility: hidden;
+    clear: both;
+    height: 0;
+}
+#root > header,
+nav > ul,
+#root > footer > ul,
+.rettet-den-regenwald section,
+.home > .column > section > header,
+.home > #teaser > header {
+    display: inline-block;
+}
+/* IE/Mac\*/
+#root > header,
+nav > ul,
+#root > footer > ul,
+.rettet-den-regenwald section,
+.home > .column > section > header,
+.home > #teaser > header {
+    display: block;
+}
+/* end IE/Mac */
+
+
+/* Poll */
+.poll label {
+    display: inline-block;
+}
+.poll .answer .percent-cont {
+    position: relative;
+}
+.poll .answer .percent-cont .cnt {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+}
+.poll .answer .percent {
+    background-color: #66f;
+}
+.poll .answer .percent span {
+    padding: 0 0 0 10px;
+    color: #fff;
+}
+.poll .answer input[type="radio"] {
+    float: left;
+    margin: 6px 10px 0 0;
+}
+
+.clearer {
+    clear: both;
+}
+
+.add-form {
+    display: none;
+}
+
+.show .add-form {
+    display: block;
+}
+
+.proposedCovers .cover img {
+    float: left;
+}
+
+.proposedCovers .cover .desc {
+    float: left;
+    padding: 0 0 0 10px;
+    width: 230px;
+}
+
+.serie .cover-image {
+    float: right;
+    padding: 0 0 0 15px;
+    width: 150px;
+}
+/*
+.serie .staffeln {
+    float: left;
+    width: 700px;
+}
+*/
