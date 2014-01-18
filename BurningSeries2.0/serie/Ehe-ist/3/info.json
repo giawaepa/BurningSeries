@@ -1,0 +1,30 @@
+{
+        "series":"Ehe ist?",
+        "seasons":4,
+        "cover":"Ehe-ist-.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Strafzettel","english":"Speed Bumps","hoster":[]},
+                {"german":"Das rote Cabrio","english":"Joy Ride","hoster":[]},
+                {"german":"Der Freund an ihrer Seite","english":"Dreamguys","hoster":[]},
+                {"german":"Der Traum-Schwiegersohn","english":"Sugar Dougie","hoster":[]},
+                {"german":"Alles Käse","english":"Philadelphia Freedom","hoster":["PutLocker","Sockshare"]},
+                {"german":"Nur ein kleines Schnipp-Schnipp","english":"Circumdecision","hoster":[]},
+                {"german":"Das geheime Fleischbällchen","english":"Secret Meatball","hoster":[]},
+                {"german":"Eddie, das Scheidungskind","english":"The Courtship of Eddie&#039;s Parents","hoster":[]},
+                {"german":"Keine Couch für Kenny","english":"The Buffer","hoster":[]},
+                {"german":"Eine Frau mit Klasse","english":"The Ex-Factor","hoster":[]},
+                {"german":"Keine Klagen","english":"No Complaints","hoster":[]},
+                {"german":"Wer schnarcht, verliert","english":"Snore Loser","hoster":[]},
+                {"german":"Das perfekte Paar","english":"The Perfect Couple","hoster":[]},
+                {"german":"Abkürzung zum Glück","english":"Ally Abroad","hoster":[]},
+                {"german":"Familienferien","english":"Family Vacation","hoster":[]},
+                {"german":"Auf den Hund gekommen","english":"Dog Fight","hoster":[]},
+                {"german":"Des Bruders Hüter / Mr. T und die Männer","english":"Brother&#039;s Keeper","hoster":[]},
+                {"german":"Durchgebrannt","english":"Can&#039;t Elope","hoster":[]},
+                {"german":"Mrs. Perfect?","english":"One Night Stand","hoster":[]},
+                {"german":"Joy lernt nie aus","english":"The Joy of Learning","hoster":[]},
+                {"german":"Das exklusive Geschenk","english":"Handbag Story","hoster":[]},
+                {"german":"Wer sucht, der findet","english":"Cold Case","hoster":[]}
+         ]
+}

@@ -1,0 +1,14 @@
+{
+        "series":"Primeval ? Rückkehr der Urzeitmonster",
+        "seasons":5,
+        "cover":"Primeval-Rueckkehr-der-Urzeitmonster_47ee7ae09f21f49ecbfcafc9c0d9edcc.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die andere Seite","english":"Episode 1","hoster":["YouTube","MyVideo","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Spinnennest","english":"Episode 2","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Unter Wasser","english":"Episode 3","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Verschwörungstheorie","english":"Episode 4","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Aus Heiterm Himmel","english":"Episode 5","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Der gnadenlose Jäger","english":"Episode 6","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]}
+         ]
+}

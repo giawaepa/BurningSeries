@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Yuzo und seine Brüder",
+         "titleen":"Episode 074",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=a0YULGAdXAE"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=w5ma7wz69hI"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6262248/Detektiv_Conan_Folge_74_1_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6262464/Detektiv_Conan_Folge_74_2_2"
+                }
+       ]
+}

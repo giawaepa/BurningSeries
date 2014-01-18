@@ -1,0 +1,16 @@
+{
+        "series":"Alles Atze",
+        "seasons":6,
+        "cover":"Alles-Atze_a365bdc14aba8ab98c5db36e9b3a641b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Osterwunder","english":"","hoster":[]},
+                {"german":"Die Geiselnahme","english":"","hoster":[]},
+                {"german":"Samenraub","english":"","hoster":["PutLocker"]},
+                {"german":"Die Sportskanone","english":"","hoster":["PutLocker"]},
+                {"german":"Vatertag","english":"","hoster":[]},
+                {"german":"Ein echter Höhepunkt","english":"","hoster":[]},
+                {"german":"Herz ist Trumpf","english":"","hoster":["PutLocker"]},
+                {"german":"Der Dieb von Bagdad","english":"","hoster":[]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Flügel des Ikarus (2)",
+         "titleen":"Episode 219",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=IC9GLbMFkEs"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5789711/Detektiv_Conan_Folge_219_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5790254/Detektiv_Conan_Folge_219_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5790553/Detektiv_Conan_Folge_219_3_3"
+                }
+       ]
+}

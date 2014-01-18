@@ -1,0 +1,19 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Stadt in Angst","english":"","hoster":["PutLocker"]},
+                {"german":"Alte Schule","english":"","hoster":[]},
+                {"german":"Infarkt","english":"","hoster":[]},
+                {"german":"Entführt","english":"","hoster":[]},
+                {"german":"Rattennest","english":"","hoster":[]},
+                {"german":"Totalverlust","english":"","hoster":[]},
+                {"german":"Inkasso","english":"","hoster":[]},
+                {"german":"Auge um Auge","english":"","hoster":[]},
+                {"german":"Unter Feinden","english":"","hoster":[]},
+                {"german":"Leben und leben lassen","english":"","hoster":[]},
+                {"german":"Exodus","english":"","hoster":[]}
+         ]
+}

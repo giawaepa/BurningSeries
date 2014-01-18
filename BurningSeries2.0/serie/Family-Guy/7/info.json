@@ -1,0 +1,24 @@
+{
+        "series":"Family Guy",
+        "seasons":10,
+        "cover":"Family-Guy_1ef52f1420d3e2b6e6e4159f2a83c30a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Schwarze Liebe","english":"Love Blacktually","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Alle lieben Jesus","english":"I Dream of Jesus","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Reise ins Reich","english":"Road to Germany","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Baby nicht an Bord","english":"Baby Not On Board","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Der neue Brian","english":"The Man With Two Brians","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Ein Mensch dritter Klasse","english":"Tales of a Third Grade Nothing","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Oceans Dreieinhalb","english":"Ocean&#039;s Three and a Half","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Family Gay","english":"Family Gay","hoster":["PutLocker","Sockshare","UploadC"]},
+                {"german":"Mördermäßig","english":"The Juice is Loose!","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Ein Job für Lois","english":"FOX-y Lady","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Nicht alle Hunde kommen in den Himmel","english":"Not All Dogs Go To Heaven","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Kifferwahn","english":"420","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Stew-Roide","english":"Stew-Roids","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Hundeelend","english":"We Love You Conrad","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Dreimal King","english":"Three Kings","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Die Siedler von Quahog","english":"Peter&#039;s Progress","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]}
+         ]
+}

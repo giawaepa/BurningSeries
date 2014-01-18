@@ -1,0 +1,30 @@
+{
+        "series":"Alle hassen Chris",
+        "seasons":4,
+        "cover":"Alle-hassen-Chris_51cdef0d24b78b5050a9c0bddde6db58.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Chris hasst die kalte Schulter","english":"Everybody hates Rejection","hoster":["PutLocker"]},
+                {"german":"Chris hasst Wahlkampf","english":"Everybody hates the Class President","hoster":["PutLocker"]},
+                {"german":"Chris hasst die Wahl","english":"Everybody hates Elections","hoster":["PutLocker"]},
+                {"german":"Chris hasst die Gerüchteküche","english":"Everybody hates a Liar","hoster":["PutLocker"]},
+                {"german":"Chris hasst Malvo","english":"Everybody hates Malvo","hoster":["PutLocker"]},
+                {"german":"Chris hasst Caruso","english":"Everybody hates the Buddy System","hoster":[]},
+                {"german":"Chris hasst Wahlversprechen","english":"Everybody hates Promises","hoster":["PutLocker"]},
+                {"german":"Chris hasst Thanksgiving","english":"Everybody hates Thanksgiving","hoster":["PutLocker"]},
+                {"german":"Chris hasst Aberglauben","english":"Everybody hates Superstition","hoster":["PutLocker"]},
+                {"german":"Chris hasst die Grippe","english":"Everybody hates Kris","hoster":["PutLocker"]},
+                {"german":"Chris hasst sein Baby-Ei","english":"Everybody hates Eggs","hoster":["PutLocker"]},
+                {"german":"Chris hasst Respektlosigkeit","english":"Everybody hates Hall Monitors","hoster":["PutLocker"]},
+                {"german":"Chris hasst Schnee","english":"Everybody hates Snow Day","hoster":["PutLocker"]},
+                {"german":"Chris hasst Mister Newton","english":"Everybody hates the Substitute","hoster":["PutLocker"]},
+                {"german":"Chris hasst Blaumachen","english":"Everybody hates Cutting School","hoster":["PutLocker"]},
+                {"german":"Chris hasst Goldketten","english":"Everybody hates Chain Snatching","hoster":["PutLocker"]},
+                {"german":"Chris hasst DJ&#039;s","english":"Everybody hates DJ&#039;s","hoster":["PutLocker"]},
+                {"german":"Chris hasst Baseball","english":"Everybody hates Baseball","hoster":["PutLocker"]},
+                {"german":"Chris hasst Sportwetten","english":"Everybody hates Gambling","hoster":[]},
+                {"german":"Chris hasst die sieben Wörter","english":"Everybody hates Dirty Jokes","hoster":[]},
+                {"german":"Chris hasst Mathe","english":"Everybody hates Math","hoster":[]},
+                {"german":"Chris hasst den letzten Schultag","english":"Everybody hates the Last Day","hoster":[]}
+         ]
+}

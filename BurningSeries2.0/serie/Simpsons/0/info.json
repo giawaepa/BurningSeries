@@ -1,0 +1,9 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Die Simpsons - Der Film","english":"The Simpsons Movie","hoster":["PutLocker","Sockshare"]}
+         ]
+}

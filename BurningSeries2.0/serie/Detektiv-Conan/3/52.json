@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Megures Geheimnis (2)",
+         "titleen":"Episode 234",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=jKtU395HCgM"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5848348/Detektiv_Conan_Folge_234_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5848691/Detektiv_Conan_Folge_234_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5849038/Detektiv_Conan_Folge_234_3_3"
+                }
+       ]
+}

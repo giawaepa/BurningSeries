@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Mord in New York (2)",
+         "titleen":"Episode 309",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=86-0MzXg5MM"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=0cqgEDHJVqo"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6186278/Detektiv_Conan_Folge_309_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6186463/Detektiv_Conan_Folge_309_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6186655/Detektiv_Conan_Folge_309_3_3"
+                }
+       ]
+}

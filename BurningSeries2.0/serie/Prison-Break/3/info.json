@@ -1,0 +1,21 @@
+{
+        "series":"Prison Break",
+        "seasons":4,
+        "cover":"Prison-Break_1f2df02c26805c40ef09a6df7b5115b6.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Nichts geschieht ohne Absicht","english":"Orientación","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Unerträgliche Glut","english":"Fire/Water","hoster":["PutLocker","RapidVideo"]},
+                {"german":"In weiter Ferne","english":"Call Waiting","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ungewollte Motivationen","english":"Good Fences","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Störeinflüsse","english":"Interference","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Beweise müssen her","english":"Photo Finish","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vertrauen vorbei","english":"Vamonos","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Freier Wille gegen Wahrheit","english":"Bang &amp; Burn","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Allein unter Feinden","english":"Boxed In","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Dreck begräbt die Moral","english":"Dirt Nap","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Unten durch","english":"Under &amp; Out","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Schlinge zieht sich zu","english":"Hell or High Water","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Auf die Rettung folgt die Rache","english":"The Art of the Deal","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

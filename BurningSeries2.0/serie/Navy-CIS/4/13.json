@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Giftgas",
+         "titleen":"Sharif returns",
+         "description":"Ein Marine wird vergiftet in einem Keller unter einer Straße gefunden. War dies ein Anschlag oder nur ein Test für etwas viel Größeres? Als das Team erfährt das 10 Kilogramm Giftgas in den Händen eines Terroristen sind, spitzt sich die Lage zu.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"3814120/Part1_Giftgas"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"3817912/Part2_Giftgas"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"3822336/Part3_Giftgas"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"3822780/Part4_Giftgas"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"714900753AB8A2E8"
+                }
+       ]
+}

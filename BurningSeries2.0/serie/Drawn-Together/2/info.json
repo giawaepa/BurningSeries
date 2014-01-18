@@ -1,0 +1,23 @@
+{
+        "series":"Drawn Together",
+        "seasons":3,
+        "cover":"Drawn-Together_f8683566dd2ea396298c627af0b43cf5.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"The One Wherein There Is A Big Twist (2)","english":"The One Wherein There Is A Big Twist (2)","hoster":["PutLocker"]},
+                {"german":"Foxxy vs. the Board of Education","english":"Foxxy vs. the Board of Education","hoster":["PutLocker"]},
+                {"german":"Little Orphan Hero","english":"Little Orphan Hero","hoster":["PutLocker"]},
+                {"german":"Captain Hero&#039;s Marriage Pact","english":"Captain Hero&#039;s Marriage Pact","hoster":["PutLocker"]},
+                {"german":"Clum Babies","english":"Clum Babies","hoster":["PutLocker"]},
+                {"german":"Ghostesses in the Slot Machine","english":"Ghostesses in the Slot Machine","hoster":["PutLocker"]},
+                {"german":"Super Nanny","english":"Super Nanny","hoster":["PutLocker"]},
+                {"german":"Terms of Endearment","english":"Terms of Endearment","hoster":["PutLocker"]},
+                {"german":"Captain Girl","english":"Captain Girl","hoster":["PutLocker"]},
+                {"german":"A Tale of Two Cows","english":"A Tale of Two Cows","hoster":["PutLocker"]},
+                {"german":"Xandir and Tim, Sitting In a Tree","english":"Xandir and Tim, Sitting In a Tree","hoster":["PutLocker"]},
+                {"german":"The Lemon-AIDS Walk","english":"The Lemon-AIDS Walk","hoster":["PutLocker"]},
+                {"german":"A Very Special DT Afterschool Special","english":"A Very Special DT Afterschool Special","hoster":["PutLocker"]},
+                {"german":"Alzheimer&#039;s That Ends Well","english":"Alzheimer&#039;s That Ends Well","hoster":["PutLocker"]},
+                {"german":"The Drawn Together Clip Show","english":"The Drawn Together Clip Show","hoster":[]}
+         ]
+}

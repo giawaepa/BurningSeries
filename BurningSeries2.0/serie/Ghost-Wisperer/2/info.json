@@ -1,0 +1,30 @@
+{
+        "series":"Ghost Whisperer",
+        "seasons":5,
+        "cover":"Ghost-Whisperer_f4bdf6134524bd348400224dd9816f55.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Macht des Bösen","english":"Love Never Dies","hoster":["YouTube","MyVideo"]},
+                {"german":"Unvergessene Liebe","english":"Love Still Won&#039;t Die","hoster":["YouTube"]},
+                {"german":"Haus der Schuld","english":"Drowned Lives","hoster":["YouTube"]},
+                {"german":"Verschlossene Welt","english":"The Ghost Within","hoster":["YouTube"]},
+                {"german":"Der falsche Tod","english":"A Grave Matter","hoster":["YouTube"]},
+                {"german":"Die Traumfrau","english":"The Woman of His Dreams","hoster":["YouTube","MyVideo"]},
+                {"german":"Teufelskreis","english":"A Vicious Cycle","hoster":["YouTube"]},
+                {"german":"Flammende Erinnerung","english":"The Night We Met","hoster":["YouTube","MyVideo"]},
+                {"german":"Fluch der Neunten","english":"The Curse of the Ninth","hoster":["YouTube"]},
+                {"german":"Der Superstar","english":"Giving Up The Ghost","hoster":["YouTube"]},
+                {"german":"Die Katzenkralle","english":"Cat&#039;s Claw","hoster":["YouTube"]},
+                {"german":"Zeit zu sterben","english":"Dead to Rights","hoster":["YouTube"]},
+                {"german":"Seelenwanderung","english":"Deja Boo","hoster":["YouTube"]},
+                {"german":"Späte Rache","english":"Speed Demon","hoster":["YouTube"]},
+                {"german":"Hexenkult","english":"Mean Ghost","hoster":["YouTube"]},
+                {"german":"Die Hand an der Wiege","english":"The Cradle Will Rock","hoster":["YouTube"]},
+                {"german":"Ein Körper für zwei Seelen","english":"The Walk-In","hoster":["YouTube"]},
+                {"german":"Der Poltergeist","english":"Children of Ghosts","hoster":["YouTube"]},
+                {"german":"Liebe und Wahrheit","english":"Delia&#039;s First Ghost","hoster":["YouTube"]},
+                {"german":"Der Sammler","english":"The Collector","hoster":["YouTube"]},
+                {"german":"Die Prophetin","english":"The Prophet","hoster":["YouTube"]},
+                {"german":"Das fünfte Zeichen","english":"The Gathering","hoster":["YouTube"]}
+         ]
+}

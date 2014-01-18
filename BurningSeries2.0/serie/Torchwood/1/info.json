@@ -1,0 +1,21 @@
+{
+        "series":"Torchwood",
+        "seasons":4,
+        "cover":"Torchwood_8698d3d57d5131cbf2c8f45fc8c5c62b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Wie alles begann","english":"Everything Changes","hoster":["PutLocker"]},
+                {"german":"Tag eins","english":"Day One","hoster":[]},
+                {"german":"Die Geistermaschine","english":"Ghost Machine","hoster":["PutLocker"]},
+                {"german":"Cyber Woman","english":"Cyberwoman","hoster":["PutLocker"]},
+                {"german":"Aus dunkler Vorzeit","english":"Small Worlds","hoster":["PutLocker"]},
+                {"german":"Erntezeit","english":"Countrycide","hoster":["PutLocker"]},
+                {"german":"Timeo Danaos","english":"Greeks Bearing Gifts","hoster":["PutLocker"]},
+                {"german":"Sie haben Suzie schon wieder getötet!","english":"They Keep Killing Suzie","hoster":["PutLocker"]},
+                {"german":"Das sechste Auge","english":"Random Shoes","hoster":["PutLocker"]},
+                {"german":"Die Gestrandeten","english":"Out of Time","hoster":["PutLocker"]},
+                {"german":"Faustrecht","english":"Combat","hoster":["PutLocker"]},
+                {"german":"Captain Jack Harkness","english":"Captain Jack Harkness","hoster":["PutLocker"]},
+                {"german":"Das Ende aller Tage","english":"End of Days","hoster":["PutLocker"]}
+         ]
+}

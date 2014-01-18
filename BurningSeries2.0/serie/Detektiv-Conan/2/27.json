@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Das versiegelte Badezimmer (2)",
+         "titleen":"Episode 129",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=V7f72fPrJoA"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5445120/Detektiv_Conan_Folge_129_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5445510/Detektiv_Conan_Folge_129_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5445947/Detektiv_Conan_Folge_129_3_3"
+                }
+       ]
+}

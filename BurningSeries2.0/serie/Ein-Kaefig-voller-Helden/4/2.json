@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Zu Händen von ...",
+         "titleen":"Klink Vs. the Gonculator",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7676207/Ein_Kaefig_voller_Helden_Folge_94_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7676201/Ein_Kaefig_voller_Helden_Folge_94_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7676179/Ein_Kaefig_voller_Helden_Folge_94_3_3"
+                }
+       ]
+}

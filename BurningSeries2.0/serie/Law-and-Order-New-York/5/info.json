@@ -1,0 +1,33 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Tragische Wahrheit","english":"Tragedy","hoster":[]},
+                {"german":"Zoltars Rache","english":"Manic","hoster":[]},
+                {"german":"Mütter","english":"Mother","hoster":[]},
+                {"german":"Abschied","english":"Loss","hoster":[]},
+                {"german":"Falsches Blut","english":"Serendipity","hoster":[]},
+                {"german":"Schizophren","english":"Coerced","hoster":[]},
+                {"german":"Entscheidung einer Mutter","english":"Choice","hoster":[]},
+                {"german":"Mörderische Intoleranz","english":"Abomination","hoster":[]},
+                {"german":"Kontrollverlust","english":"Control","hoster":[]},
+                {"german":"Misshandelt","english":"Shaken","hoster":[]},
+                {"german":"Geraubte Jahre","english":"Escape","hoster":[]},
+                {"german":"Die Studentenverbindung","english":"Brotherhood","hoster":[]},
+                {"german":"Grenzenloser Hass","english":"Hate","hoster":[]},
+                {"german":"Ritualmord","english":"Ritual","hoster":[]},
+                {"german":"Familien","english":"Families","hoster":[]},
+                {"german":"Verfolgungswahn","english":"Home","hoster":[]},
+                {"german":"Freundinnen","english":"Mean","hoster":[]},
+                {"german":"Vernachlässigt","english":"Careless","hoster":[]},
+                {"german":"Perversion","english":"Sick","hoster":[]},
+                {"german":"Lebenslügen","english":"Lowdown","hoster":[]},
+                {"german":"In die Schuhe geschoben","english":"Criminal","hoster":[]},
+                {"german":"Todessehnsucht","english":"Painless","hoster":[]},
+                {"german":"Der Tod der alten Damen","english":"Bound","hoster":[]},
+                {"german":"Vergiftet","english":"Poison","hoster":[]},
+                {"german":"Krankhaftes Verlangen","english":"Head","hoster":[]}
+         ]
+}

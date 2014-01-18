@@ -1,0 +1,21 @@
+{
+        "series":"Die Sopranos",
+        "seasons":6,
+        "cover":"Die-Sopranos_3a285a15376f94a24caf2cba6d7ebc27.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Zwei Tonys","english":"Two Tonys","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Rat Pack","english":"Rat Pack","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wo ist Johnny?","english":"Where&#039;s Johnny?","hoster":["PutLocker"]},
+                {"german":"Lauter glückliche Familien","english":"All Happy Families...","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gefährliche Spiele","english":"Irregular Around the Margins","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bittere Lehren","english":"Sentimental Education","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Frau aus der Vergangenheit","english":"In Camelot","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Marco Polo","english":"Marco Polo","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Altes Leid, junges Glück","english":"Unidentified Black Male","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kalter Aufschnitt","english":"Cold Cuts","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein endloser Traum","english":"The Test Dream","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Nur für Langzeitparker","english":"Long Term Parking","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bei allem Respekt","english":"All Due Respect","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

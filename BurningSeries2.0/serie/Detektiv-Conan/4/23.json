@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Eine seltsame Strafe",
+         "titleen":"Episode 276",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=6bsXT89qMI0"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=jMb3r-V2jFc"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6075094/Detektiv_Conan_Folge_276_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6075647/Detektiv_Conan_Folge_276_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6075891/Detektiv_Conan_Folge_276_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"E3F21C4D563DC722"
+                }
+       ]
+}

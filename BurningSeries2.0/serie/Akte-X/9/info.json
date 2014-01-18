@@ -1,0 +1,28 @@
+{
+        "series":"Akte X",
+        "seasons":9,
+        "cover":"Akte-X_81ab1803846af5b33207b81b56a64620html.html",
+        "movies":true,
+        "episodes":[
+                {"german":"Unter Wasser","english":"Nothing Important Happened Today","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Adam und Eva","english":"Nothing Important Happened Today II","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Daemonicus","english":"Daemonicus","hoster":["PutLocker","RapidVideo"]},
+                {"german":"4-D","english":"4-D","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Herr der Fliegen","english":"Lord Of The Flies","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schattenmann","english":"Trust No 1","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Desaparecido","english":"John Doe","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Häutungen","english":"Hellbound","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Drohungen","english":"Provenance","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Prophezeiung","english":"Providence","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Audrey","english":"Audrey Pauley","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Mörder in mir","english":"Undernealth","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sechs und Neun","english":"Improbable","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Unter dem Bett","english":"Scary Monsters","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Helden","english":"Jump the Shark","hoster":["RapidVideo"]},
+                {"german":"Zum Wohle des Kindes","english":"William","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Erlösung","english":"Release","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die perfekte Familie","english":"Sunshine Days","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Warheit (1)","english":"The Truth (1)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Warheit (2)","english":"The Truth (2)","hoster":["PutLocker"]}
+         ]
+}

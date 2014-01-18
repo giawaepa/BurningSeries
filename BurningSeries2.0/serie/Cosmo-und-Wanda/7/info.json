@@ -1,0 +1,28 @@
+{
+        "series":"Cosmo und Wanda ? Wenn Elfen helfen",
+        "seasons":8,
+        "cover":"Cosmo-und-Wanda-Wenn-Elfen-helfen_efab7858e8f9b95490bb33ca474e61ca.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Anti-Poof","english":"Anti-Poof","hoster":[]},
+                {"german":"Die Dad-Plage / Eine Wette gegen die Natur","english":"Add A Dad / Squirrely Puffs","hoster":[]},
+                {"german":"Maus Kapaden / Desaster-Limonade","english":"Mice-Capades / Formula for Disaster","hoster":[]},
+                {"german":"Ein Tisch für Zwei / Feiern auf griechisch","english":"Bad Heir Day / Freaks and Greeks","hoster":[]},
+                {"german":"Ich war eine Fliege / Pilli-Palli-Paten","english":"Fly Boy / Temporary Fairy","hoster":[]},
+                {"german":"Crocker-Schocker / Cosmo Superheld","english":"Crocker Shocker / Super Zero","hoster":[]},
+                {"german":"Der Zauber-Dad / Hüben, Drüben, Rüben","english":"Dadracadabra / Timmy Turnip","hoster":[]},
+                {"german":"Popstar Timmy Triangel / Der beste Feind","english":"One Man Banned / Frenemy Mine","hoster":[]},
+                {"german":"Hühner-Pokus / Timmy Amor","english":"Chicken Poofs / Stupid Cupid","hoster":[]},
+                {"german":"Null-Null-Schnosmo / Planet Poof","english":"Double Oh Schnozmo / Planet Poof","hoster":[]},
+                {"german":"Ein Bleistift fürs Leben / Erst Poof, dann Bumm!","english":"The Boss Of Me / He Poofs, He Scores!","hoster":[]},
+                {"german":"Lehrers Lieblings / Ein ungebetener Spielkamerad","english":"Teacher&#039;s Pet / Play Date of Doom","hoster":[]},
+                {"german":"Mutter für einen Tag / Ein Pott voll Gold","english":"Manic Mom Day / Crocker of Gold","hoster":[]},
+                {"german":"Aloha Hawaii / Polterdreist","english":"Beach Blanket Bozos / Poltergeeks","hoster":[]},
+                {"german":"Seegürkchen! / Ein Schicksalsrezept","english":"The Old Man and the C / Balance of Flour","hoster":[]},
+                {"german":"Die Küchenschlacht / Bitte nicht füttern","english":"Food Fight / Please Don&#039;t Feed The Turners","hoster":[]},
+                {"german":"Verkleidung nonstop / Gefährlicher Schluckauf","english":"Take and Fake / Cosmo Rules","hoster":[]},
+                {"german":"Finster! Finster! Finster! / Dad über Bord","english":"Lights Out / Dad Overboard","hoster":[]},
+                {"german":"Landeier / Crockers Monster-Show","english":"Farm Pit / Crock Talk","hoster":[]},
+                {"german":"Hokuspokus-Schule / Operation Dinkleberg","english":"Spellementary School / Operation: Dinkleberg","hoster":[]}
+         ]
+}

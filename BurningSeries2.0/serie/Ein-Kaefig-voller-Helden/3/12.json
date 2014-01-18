@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der Russe kommt",
+         "titleen":"A Russian is Coming",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6189987/der_russe_kommt_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6190080/der_russe_kommt_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6190213/der_russe_kommt_3_3"
+                }
+       ]
+}

@@ -1,0 +1,32 @@
+{
+        "series":"O.C., California",
+        "seasons":4,
+        "cover":"O-C-California_8b3c53dedf27a72c47dbf7746c9ffd1d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Kein Weg zurück","english":"The Distance","hoster":["PutLocker"]},
+                {"german":"Das Wiedersehen","english":"The Way We Were","hoster":["MyVideo","PutLocker"]},
+                {"german":"Alles wird anders","english":"The New Kids on the Block","hoster":["PutLocker"]},
+                {"german":"Die neue Ära","english":"The New Era","hoster":[]},
+                {"german":"Wer mit wem?","english":"The SnO.C.","hoster":["PutLocker"]},
+                {"german":"Das Weihnukkah-Debakel","english":"The Chrismukkah That Almost Wasn&#039;t","hoster":["PutLocker"]},
+                {"german":"Familienbande","english":"The Family Ties","hoster":["PutLocker"]},
+                {"german":"Die Kunst des Lügens","english":"The Power of Love","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Ex-Faktor","english":"The Ex-Factor","hoster":["MyVideo","PutLocker"]},
+                {"german":"Komplizen","english":"The Accomplice","hoster":["MyVideo","PutLocker"]},
+                {"german":"Die zweite Chance","english":"The Second Chance","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Club der einsamen Herzen","english":"The Lonely Hearts Club","hoster":["MyVideo","PutLocker"]},
+                {"german":"Enthüllungen","english":"The Test","hoster":["MyVideo","PutLocker"]},
+                {"german":"Regen","english":"The Rainy Day Women","hoster":["MyVideo","PutLocker"]},
+                {"german":"Eingesperrt","english":"The Mallpisode","hoster":["PutLocker"]},
+                {"german":"Feuer","english":"The Blaze of Glory","hoster":["MyVideo","PutLocker"]},
+                {"german":"Bruderliebe","english":"The Brothers Grim","hoster":["MyVideo","PutLocker"]},
+                {"german":"Lockere Geschäfte","english":"The Risky Business","hoster":["MyVideo","PutLocker"]},
+                {"german":"Die Überraschungsparty","english":"The Rager","hoster":["PutLocker"]},
+                {"german":"Der Deal","english":"The O.C. Confidential","hoster":["MyVideo","PutLocker"]},
+                {"german":"Kleine und grosse Sünden","english":"The Return of the Nana","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Showdown","english":"The Showdown","hoster":["MyVideo","PutLocker"]},
+                {"german":"Die Qual der Wahl","english":"The O.Sea","hoster":["MyVideo","PutLocker"]},
+                {"german":"Ausser Kontrolle","english":"The Dearly Beloved","hoster":["MyVideo","PutLocker"]}
+         ]
+}

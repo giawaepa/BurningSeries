@@ -1,0 +1,30 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Homer und die Sangesbrüder","english":"Homer?s Barbershop Quartet","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Am Kap der Angst","english":"Cape Feare","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Homer an der Uni","english":"Homer Goes to College","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Kampf um Bobo","english":"Rosebud","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Die Fahrt zur Hölle","english":"Treehouse of Horror IV","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Die rebellischen Weiber","english":"Marge on the Lam","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Bart, das innere Ich","english":"Bart?s Inner Child","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Auf Wildwasserfahrt","english":"Boy-Scoutz N the Hood","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Homer liebt Mindy","english":"The Last Temptation of Homer","hoster":["PutLocker","DivxStage"]},
+                {"german":"Vom Teufel besessen","english":"Springfield","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die Springfield Bürgerwehr","english":"Homer the Vigilante","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Bart wird berühmt","english":"Bart Gets Famous","hoster":["PutLocker","DivxStage"]},
+                {"german":"Apu, der Inder","english":"Homer and Apu","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Lisa kontra Malibu Stacy","english":"Lisa vs. Malibu Stacy","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Homer, der Weltraumheld","english":"Deep Space Homer","hoster":["PutLocker","DivxStage"]},
+                {"german":"Homie und Neddie","english":"Homer Loves Flanders","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Bart gewinnt Elefant!","english":"Bart Gets an Elephant","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Burns Erbe","english":"Burns? Heir","hoster":["PutLocker","DivxStage"]},
+                {"german":"Freund oder Feind!","english":"Sweet Seymour Skinner?s Baadasssss Song","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Bart packt aus","english":"The Boy Who Knew Too Much","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Liebhaber der Lady B.","english":"Lady Bouvier?s Lover","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Ehegeheimnisse","english":"Secrets of a Successful Marriage","hoster":["PutLocker","DivxStage","BitShare"]}
+         ]
+}

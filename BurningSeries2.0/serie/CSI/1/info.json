@@ -1,0 +1,31 @@
+{
+        "series":"CSI: Den Tätern auf der Spur",
+        "seasons":12,
+        "cover":"CSI-Den-Taetern-auf-der-Spur_a5a70731c9e7b0fd031284dab691f885.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein starkes Team","english":"Pilot","hoster":[]},
+                {"german":"Hoher Einsatz","english":"Cool Change","hoster":[]},
+                {"german":"Lebendig begraben","english":"Crate &#039;n Burial","hoster":[]},
+                {"german":"Stille Wasser","english":"Pledging Mr. Johnson","hoster":[]},
+                {"german":"Todesrausch","english":"Friends &amp; Lovers","hoster":[]},
+                {"german":"Die Tote im Beton","english":"Who Are You?","hoster":[]},
+                {"german":"Im Blut vereint","english":"Blood Drops","hoster":[]},
+                {"german":"Der Schattenmann","english":"Anonymous","hoster":[]},
+                {"german":"Über den Wolken","english":"Unfriendly Skies","hoster":[]},
+                {"german":"Sex, Lügen und Larven","english":"Sex, Lies and Larvae","hoster":[]},
+                {"german":"Ein eisiger Fund","english":"I-15 Murders","hoster":[]},
+                {"german":"In der Hitze des Gefechts","english":"Fahrenheit 932","hoster":[]},
+                {"german":"Die Bombe tickt","english":"Boom","hoster":[]},
+                {"german":"Knochenarbeit","english":"To Halve and to Hold","hoster":[]},
+                {"german":"Nasser Tod","english":"Table Stakes","hoster":[]},
+                {"german":"An der Schwelle des Todes","english":"Too Tough to Die","hoster":[]},
+                {"german":"Das zweite Gesicht","english":"Face Lift","hoster":[]},
+                {"german":"Spuren im Netz","english":"$35K O.B.O.","hoster":[]},
+                {"german":"Mutterliebe","english":"Gentle, Gentle","hoster":[]},
+                {"german":"Stumme Schreie","english":"Sounds of Silence","hoster":[]},
+                {"german":"Niedere Instinkte","english":"Justice is Served","hoster":[]},
+                {"german":"Kopflos","english":"Evaluation Day","hoster":[]},
+                {"german":"Mit dem Rücken zur Wand","english":"The Strip Strangler","hoster":[]}
+         ]
+}

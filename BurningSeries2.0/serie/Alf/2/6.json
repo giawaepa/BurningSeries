@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Das Kostümfest",
+         "titleen":"Some Enchanted Evening",
+         "description":"Die Tanners haben beschlossen, zu Halloween eine große Party zu geben. Damit er auch teilnehmen kann, verwandelt Alf die Party in ein Kostümfest. Er bringt die ganze Gesellschaft in Stimmung.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6724215/ALF_Das_Kostuemfest_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6724337/ALF_Das_Kostuemfest_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6724409/ALF_Das_Kostuemfest_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"425F8CF080B64D6F"
+                }
+       ]
+}

@@ -1,0 +1,22 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"","english":"The Falcon and the D&#039;ohman","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Bart Stops to Smell the Roosevelts","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Treehouse of Horror XXII","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Replaceable You","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Food Wife","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Book Job","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Man in the Blue Flannel Pants","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Ten-Per-Cent Solution","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Holidays Of Future Passed","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Politically Inept, With Homer Simpson","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The D&#039;oh-cial Network","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Moe Goes From Rags To Riches","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"At Long Last Leave","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"How I Wet Your Mother","hoster":[]}
+         ]
+}

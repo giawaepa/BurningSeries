@@ -1,0 +1,25 @@
+{
+        "series":"South Park",
+        "seasons":15,
+        "cover":"South-Park_5a9e7a27200896c407a230a91f9bc93c.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Regenwald, Regenwald ... du lässt mich völlig kalt","english":"Rainforest Schmainforest","hoster":["MyVideo","PutLocker"]},
+                {"german":"Spontane Selbstentzündung","english":"Spontaneous Combustion","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Chefkoch liebt &#039;nen Sukkubus!","english":"The Succubus","hoster":["MyVideo","PutLocker","Sockshare","BitShare"]},
+                {"german":"South Park Saurier","english":"Jackovasaurus","hoster":["MyVideo","PutLocker","Sockshare","BitShare"]},
+                {"german":"Tweek gegen Craig","english":"Tweek vs. Craig","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Ich fühl mich voll belästigt","english":"Sexual Harassment Panda","hoster":["PutLocker","Sockshare"]},
+                {"german":"Katzenorgie (1)","english":"Cat Orgy (1)","hoster":["MyVideo","PutLocker"]},
+                {"german":"Wenn der Vater mit dem Vater (2)","english":"Two Guys Naked in a Hot Tub (2)","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Beschnittene Pfadfinder (3)","english":"Jewbilee (3)","hoster":["MyVideo","PutLocker","Sockshare","BitShare"]},
+                {"german":"Korns echt abgefahrene Geisterstory","english":"Korn&#039;s Groovy Pirate Ghost Mystery","hoster":["MyVideo","PutLocker","BitShare"]},
+                {"german":"Chinpokomon","english":"Chinpokomon","hoster":["PutLocker","Sockshare"]},
+                {"german":"Vorsicht vor dem wahren Leben","english":"Hooked on Monkey Fonics","hoster":["Sockshare","BitShare"]},
+                {"german":"Hungriger Hugos Mission im All","english":"Starvin&#039; Marvin in Space!","hoster":["PutLocker","Sockshare"]},
+                {"german":"Fackeln im Sturm für Arme","english":"The Red Badge of Gayness","hoster":["MyVideo","PutLocker","Sockshare","BitShare"]},
+                {"german":"Halleluja! Mr. Hankeys klassische Weihnachten","english":"Mr. Hankey&#039;s Christmas Classics","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Hallo Gott, hier ist Jesus","english":"Are You There God, It&#039;s Me Jesus","hoster":["MyVideo","PutLocker","Sockshare","BitShare"]},
+                {"german":"Jetzt gibt&#039;s was auf die Ohren","english":"Worldwide Recorder Concert","hoster":["MyVideo","PutLocker","Sockshare"]}
+         ]
+}

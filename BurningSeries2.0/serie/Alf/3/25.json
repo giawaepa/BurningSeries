@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Die Erde bebt",
+         "titleen":"Shake, Rattle and Roll",
+         "description":"Ein leichtes Beben der Erde um Los Angeles hat Alf in Angst und Schrecken versetzt. Er ist überzeugt, dass das Ende nahe bevorsteht. Mit seiner Angstpsychose steckt der Außerirdische auch Brian an.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6851746/ALF_Die_Erde_bebt_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6851895/ALF_Die_Erde_bebt_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6851980/ALF_Die_Erde_bebt_3_3"
+                }
+       ]
+}

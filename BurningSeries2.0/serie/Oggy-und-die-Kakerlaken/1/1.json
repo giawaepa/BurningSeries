@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Der Pralinenkrieg / Die Frittenschlacht / Mission Oggy",
+         "titleen":"",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=ZCwMPLC-yRs"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=QKc-lw14tS0"
+                },{
+                        "hoster":"YouTube",
+                        "part":3,
+                        "link":"=BAZuYUKHrTk"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"2610030/Oggy_und_die_Kakerlaken_1_Der_Pralinenkrieg"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"2843065/Oggy_Und_Die_Kakerlaken_EP002"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"2843400/Oggy_Und_Die_Kakerlaken_EP003"
+                }
+       ]
+}

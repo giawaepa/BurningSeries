@@ -1,0 +1,32 @@
+{
+        "series":"Brothers &amp; Sisters",
+        "seasons":5,
+        "cover":"Brothers-Sisters_eeae3f2c3ef37d5de2d6d00c0d4e1a07.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Glashaus","english":"Glass Houses","hoster":["PutLocker"]},
+                {"german":"Kittys Buch","english":"Book Burning","hoster":["PutLocker"]},
+                {"german":"Tauziehen","english":"Tug of War","hoster":["PutLocker"]},
+                {"german":"Alles muss raus","english":"Everything Must Go","hoster":["PutLocker"]},
+                {"german":"Heuchelei","english":"You Get What You Need","hoster":["PutLocker"]},
+                {"german":"Bakersfield","english":"Bakersfield","hoster":["PutLocker"]},
+                {"german":"Der Hochzeitstag","english":"Do You Believe in Magic?","hoster":["PutLocker"]},
+                {"german":"Zum Ersten, zum Zweiten, zum Dritten","english":"Going Once... Going Twice","hoster":["PutLocker"]},
+                {"german":"Abrissarbeiten","english":"Unfinished Business","hoster":["PutLocker"]},
+                {"german":"Sorge um Elizabeth","english":"Just A Sliver","hoster":["PutLocker"]},
+                {"german":"Vatergefühle","english":"A Father Dreams","hoster":["PutLocker"]},
+                {"german":"Falsches Spiel","english":"Sibling Rivalry","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"It&#039;s Not Easy Being Green","hoster":["PutLocker"]},
+                {"german":"","english":"Owning It","hoster":[]},
+                {"german":"","english":"Lost and Found","hoster":[]},
+                {"german":"","english":"Troubled Waters (1)","hoster":["PutLocker"]},
+                {"german":"","english":"Troubled Waters (2)","hoster":[]},
+                {"german":"","english":"Taking Sides","hoster":["PutLocker"]},
+                {"german":"","english":"Spring Broken","hoster":["PutLocker"]},
+                {"german":"","english":"Missing","hoster":[]},
+                {"german":"","english":"S3X","hoster":["PutLocker"]},
+                {"german":"","english":"Julia","hoster":[]},
+                {"german":"","english":"Let&#039;s Call The Whole Thing Off","hoster":[]},
+                {"german":"","english":"Mexico","hoster":[]}
+         ]
+}

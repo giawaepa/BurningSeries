@@ -1,0 +1,31 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Blutspur","english":"Bloodline","hoster":[]},
+                {"german":"Reifeprüfung","english":"Graduation Day","hoster":[]},
+                {"german":"Wer sehnt sich nicht nach Liebe?","english":"Somebody to Love","hoster":[]},
+                {"german":"Kinderspiel","english":"Parenthood","hoster":[]},
+                {"german":"Ames gegen Kovac","english":"Ames v. Kovac","hoster":[]},
+                {"german":"Herzflimmern","english":"Heart of the Matter","hoster":[]},
+                {"german":"Puzzlespiel","english":"Jigsaw","hoster":[]},
+                {"german":"Woran glauben wir?","english":"Reason to Believe","hoster":[]},
+                {"german":"Kritisches Stadium","english":"Scoop and Run","hoster":[]},
+                {"german":"Unbequeme Wahrheiten","english":"Tell Me No Secrets...","hoster":[]},
+                {"german":"Fest der Liebe","english":"City of Mercy","hoster":[]},
+                {"german":"Vertrauensbruch","english":"Breach of Trust","hoster":[]},
+                {"german":"Grabenkämpfe","english":"A House Divided","hoster":[]},
+                {"german":"Heimsuchung","english":"Murmurs of the Heart","hoster":[]},
+                {"german":"Sterben ist leicht","english":"Dying Is Easy...","hoster":[]},
+                {"german":"Gewissenskonflikte","english":"Crisis of Conscience","hoster":[]},
+                {"german":"Familiensache","english":"From Here to Paternity","hoster":[]},
+                {"german":"Momentaufnahmen","english":"Photographs and Memories","hoster":[]},
+                {"german":"Vater und Sohn","english":"Family Business","hoster":[]},
+                {"german":"Licht aus","english":"Lights Out","hoster":[]},
+                {"german":"Ehrenwort","english":"I Don&#039;t","hoster":[]},
+                {"german":"Nichts bleibt wie es ist","english":"Sea Change","hoster":[]},
+                {"german":"Ende der Flitterwochen","english":"The Honeymoon&#039;s Over","hoster":[]}
+         ]
+}

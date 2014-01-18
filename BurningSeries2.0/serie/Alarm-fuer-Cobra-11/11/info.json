@@ -1,0 +1,19 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Auf Leben und Tod","english":"","hoster":[]},
+                {"german":"In bester Absicht","english":"","hoster":[]},
+                {"german":"Nemesis","english":"","hoster":[]},
+                {"german":"Stunde der Wahrheit","english":"","hoster":[]},
+                {"german":"Der Staatsanwalt","english":"","hoster":[]},
+                {"german":"Ausgeliefert","english":"","hoster":[]},
+                {"german":"Die Partner","english":"","hoster":[]},
+                {"german":"Schuld und Sühne","english":"","hoster":[]},
+                {"german":"Familiensache","english":"","hoster":[]},
+                {"german":"Todfeinde","english":"","hoster":[]},
+                {"german":"Gegen jede Regel","english":"","hoster":[]}
+         ]
+}

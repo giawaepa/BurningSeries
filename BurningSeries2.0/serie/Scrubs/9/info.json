@@ -1,0 +1,21 @@
+{
+        "series":"Scrubs ? Die Anfänger",
+        "seasons":9,
+        "cover":"Scrubs-Die-Anfaenger_bb19dab1f0d35358b688f3a4a8bac13e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Unsere erste Vorlesung","english":"Our First Day of School","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Unser Trinkerfreund","english":"Our Drunk Friend","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Unsere Vorbilder","english":"Our Role Models","hoster":["YouTube","PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Unsere letzten Geschichten","english":"Our Histories","hoster":["YouTube","PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Unsere Blutsauger","english":"Our Mysteries","hoster":["YouTube","PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Unsere Besten","english":"Our New Girl-Bro","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Unsere weißen Kittel","english":"Our White Coats","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Unsere schrägen Paare","english":"Our Couples","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Unser Babymoon","english":"Our Stuff Gets Real","hoster":["YouTube","PutLocker"]},
+                {"german":"Unser Spickzettel","english":"Our True Lies","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Unsere Höllenwoche","english":"Our Dear Leaders","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Unsere Fahrkünste","english":"Our Driving Issues","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Unser Dankeschön","english":"Our Thanks","hoster":["YouTube","PutLocker","Ecostream"]}
+         ]
+}

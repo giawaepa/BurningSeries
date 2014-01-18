@@ -1,0 +1,10 @@
+{
+        "series":"Akte X",
+        "seasons":9,
+        "cover":"Akte-X_81ab1803846af5b33207b81b56a64620html.html",
+        "movies":true,
+        "episodes":[
+                {"german":"Akte X - Der Film","english":"The X Files ? Fight the Future","hoster":[]},
+                {"german":"Akte X ? Jenseits der Wahrheit","english":"The X Files ? I Want to Belive","hoster":[]}
+         ]
+}

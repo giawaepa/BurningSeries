@@ -1,0 +1,25 @@
+{
+        "series":"Greys Anatomy",
+        "seasons":8,
+        "cover":"Greys-Anatomy_f235f0fb485b9c44061fc1bf7bd65edchtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Bambi","english":"A Change is Gonna Come","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Abhängig","english":"Love/Addiction","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Wahrheit tut weh","english":"Let the Truth Sting","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare"]},
+                {"german":"High Noon","english":"The Heart of the Matter","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Asche zu Asche","english":"Haunt You Every Day","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Hardcore","english":"Kung Fu Fighting","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Die richtige Chemie","english":"Physical Attraction, Chemical Reaction","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Ewige Jugend","english":"Forever Young","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Ein schwarzer Tag","english":"Crash Into Me (1)","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Lebensretter","english":"Crash Into Me (2)","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Die Heilerin","english":"Lay Your Hands On Me","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wo die wilden Kerle wohnen","english":"Where the Wild Things Are","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","BitShare","VideoWeed"]},
+                {"german":"Ein Teil meines Herzens","english":"Piece of My Heart","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Lernprozesse","english":"The Becoming","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Das neue Kapitel","english":"Losing My Mind","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Freiheit (1)","english":"Freedom (1)","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Freiheit (2)","english":"Freedom (2)","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]}
+         ]
+}

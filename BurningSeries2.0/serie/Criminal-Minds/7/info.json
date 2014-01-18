@@ -1,0 +1,20 @@
+{
+        "series":"Criminal Minds",
+        "seasons":7,
+        "cover":"Criminal-Minds_b57c4c9433b36cce49ad96d3ca0a8cc4html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"It Takes a Village","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Proof","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Dorado Falls","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Painless","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"From Childhood&#039;s Hour","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Epilogue","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"There&#039;s No Place Like Home","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Hope","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Self-Fulfilling Prophecy","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Bittersweet Science","hoster":["PutLocker"]},
+                {"german":"","english":"True Genius","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Unknown Subject","hoster":["PutLocker","DivxStage"]}
+         ]
+}

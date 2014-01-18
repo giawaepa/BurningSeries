@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Zusammen- und Gegenspiel",
+         "titleen":"Episode 38",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6594511/Naruto_Shippuuden_UNCUT_Folge_38_Deutsch_1_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6594886/Naruto_Shippuuden_UNCUT_Folge_38_Deutsch_2_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6595248/Naruto_Shippuuden_UNCUT_Folge_38_Deutsch_3_3_HQ"
+                }
+       ]
+}

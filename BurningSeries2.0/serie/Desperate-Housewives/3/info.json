@@ -1,0 +1,31 @@
+{
+        "series":"Desperate Housewives",
+        "seasons":8,
+        "cover":"Desperate-Housewives_291bdfe287207faf11aaf9df229de65d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der große Regen","english":"Listen to the rain on the roof","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das perfekte Paar","english":"It takes two","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ein Wochenende auf dem Lande","english":"A weekend in the country","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die geheime Geschichte","english":"Like it was","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Sabotage","english":"Nice she ain&#039;t","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Die Beichte","english":"Sweetheart, I have to confess","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Peng","english":"Bang","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Welt der Kinder","english":"Children and Art","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Biester","english":"Beautiful Girls","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Eskalation","english":"The Miracle Song","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Unmoralische Absichten","english":"No fits, no fights, no feuds","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Heimliche Liebschaften","english":"Not while I","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Hinterlistig","english":"Come play wiz me","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Tödliche Vergangenheit","english":"I remember that","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Teuflisch","english":"The little things you do together","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Männer sind Schweine","english":"My husband, the pig","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Kleider machen Leute","english":"Dress big","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Leidenschaftlich","english":"Liasons","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Stromausfall","english":"God, that","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Klatsch","english":"Gossip","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Opfer","english":"Into the Woods","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Die Frage aller Fragen","english":"What would we do without You?","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Hochzeitsfieber","english":"Getting Married today","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Ein schwieriger Patient",
+         "titleen":"Fever",
+         "description":"Alf hat sich schwer erkältet, obwohl das für einen Bewohner von Melmac sehr ungewöhnlich ist. Seine einzige Rettung ist eine seltene Heilpflanze, die Kiffwurz heißt. Willie und Kate machen sich auf die Suche - im Nachbarsgarten.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7003965/ALF_Ein_schwieriger_Patient_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7004011/ALF_Ein_schwieriger_Patient_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7004044/ALF_Ein_schwieriger_Patient_3_3"
+                }
+       ]
+}

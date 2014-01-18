@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die müssen verrückt sein!",
+         "titleen":"Hogan, go Home",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6263203/die_muessen_verrueckt_sein_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6263629/die_muessen_verrueckt_sein_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6268629/die_muessen_verrueckt_sein_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"7594CFD9E98C9CC3"
+                }
+       ]
+}

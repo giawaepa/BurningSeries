@@ -1,0 +1,20 @@
+{
+        "series":"MythBusters ? Die Wissensjäger",
+        "seasons":9,
+        "cover":"MythBusters-Die-Wissensjaeger_cc60346d8cc8ecf4693d55ce07daf622.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"","english":"Mission Impossible Mask","hoster":[]},
+                {"german":"","english":"Blue Ice","hoster":[]},
+                {"german":"","english":"Running on Water","hoster":[]},
+                {"german":"","english":"Bubble Trouble","hoster":[]},
+                {"german":"","english":"Torpedo Tastic","hoster":[]},
+                {"german":"","english":"Blow Your Own Sail","hoster":[]},
+                {"german":"","english":"Spy Car 2","hoster":[]},
+                {"german":"","english":"Dodge a Bullet","hoster":[]},
+                {"german":"","english":"Fixing a Flat","hoster":[]},
+                {"german":"","english":"Planes Trains and Automobiles","hoster":[]},
+                {"german":"","english":"Let There Be Light","hoster":[]},
+                {"german":"","english":"Paper Armor","hoster":[]}
+         ]
+}

@@ -1,0 +1,33 @@
+{
+        "series":"Die wilden Siebziger",
+        "seasons":8,
+        "cover":"Die-wilden-Siebziger_62c095abab6c57409310f06720d63299.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Jahr Gammeln","english":"Time Is On My Side","hoster":["YouTube"]},
+                {"german":"Frauen-Power","english":"Let&#039;s Spend The Night Together","hoster":["YouTube"]},
+                {"german":"Schluss mit brav!","english":"(I Can&#039;t Get No) Satisfaction","hoster":[]},
+                {"german":"Magische Hände","english":"Beast of Burden","hoster":[]},
+                {"german":"Die Bunny-Krise","english":"It&#039;s Only Rock and Roll","hoster":[]},
+                {"german":"Hosen runter!","english":"Rip This Joint","hoster":[]},
+                {"german":"Spaziergänge im Park","english":"Mother&#039;s Little Helper","hoster":[]},
+                {"german":"Gut gemacht, Schwester!","english":"Angie","hoster":[]},
+                {"german":"Küsse für den Milchmann","english":"You Can&#039;t Always Get What You Want","hoster":[]},
+                {"german":"Die Schwester meines Freundes","english":"Surprise, Surprise","hoster":[]},
+                {"german":"Geschenke für die Falschen","english":"Winter","hoster":["MyVideo"]},
+                {"german":"Der letzte Schritt","english":"Don&#039;t Lie To Me","hoster":["MyVideo"]},
+                {"german":"Aufgeraucht","english":"Can&#039;t You Hear Me Knocking","hoster":["MyVideo"]},
+                {"german":"Käse an der Hose","english":"Street Fighting Man","hoster":["MyVideo"]},
+                {"german":"Die sieben schmutzigen Wörter","english":"It&#039;s All Over Now","hoster":["MyVideo"]},
+                {"german":"Brüller!","english":"On With The Show","hoster":["MyVideo"]},
+                {"german":"On the Road","english":"Down The Road Apiece","hoster":["MyVideo"]},
+                {"german":"Baby Betsy","english":"Oh, Baby (We Got A Good Thing Goin&#039;)","hoster":["MyVideo"]},
+                {"german":"Die Paten","english":"Who&#039;s Been Sleeping Here?","hoster":["MyVideo"]},
+                {"german":"Frag&#039; Fenton","english":"Gimme Shelter","hoster":["MyVideo"]},
+                {"german":"Mit Hängen und Würgen","english":"2120 So. Michigan Ave.","hoster":[]},
+                {"german":"Ein Jahr Afrika","english":"2000 Light Years From Home","hoster":["MyVideo"]},
+                {"german":"Mount Budweiser","english":"Take It Or Leave It","hoster":["MyVideo"]},
+                {"german":"Prinzessin Leia","english":"Short And Curlies","hoster":["MyVideo"]},
+                {"german":"So Long, Eric","english":"Til The Next Goodbye","hoster":["MyVideo"]}
+         ]
+}

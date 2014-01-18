@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Episode 7",
+         "titleen":"",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6390138/F7_1_6_SWITCH_RELOADED_Staffel_4_05_05_2009"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6390314/F7_2_6_SWITCH_RELOADED_Staffel_4_05_05_2009"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6390541/F7_3_6_SWITCH_RELOADED_Staffel_4_05_05_2009"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"6390906/F7_4_6_SWITCH_RELOADED_Staffel_4_05_05_2009"
+                }
+       ]
+}

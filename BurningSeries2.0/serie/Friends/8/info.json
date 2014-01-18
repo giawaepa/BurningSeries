@@ -1,0 +1,32 @@
+{
+        "series":"Friends",
+        "seasons":10,
+        "cover":"Friends_ecd9c11d4588bc6ea50e8829954d980f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Gerücht","english":"The One After","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der ominöse rote Pulli","english":"The One With The Red Sweater","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Wo ist das Kind?","english":"The One Where Rachel Tells...","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Ein unmoralisches Video","english":"The One With The Videotape","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Gefeuert und verlassen","english":"The One With Rachel&#039;s Date","hoster":["PutLocker","DivxStage"]},
+                {"german":"Häschen gegen Space-Trottel","english":"The One With The Halloween Party","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein Fleck mit Folgen","english":"The One With The Stain","hoster":["PutLocker","DivxStage"]},
+                {"german":"Zieh dich aus, Baby!","english":"The One With The Stripper","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Hass-Club","english":"The One With The Rumor","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schmerz lass nach!","english":"The One With Monica&#039;s Boots","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein Mann für eine Nacht","english":"The One With The Creepy Holiday Card (a.k.a. The One With Ross&#039;s Step Forward)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Tausendmal berührt ...","english":"The One Where Joey Dates Rachel","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Kapitän der Badewanne","english":"The One Where Chandler Takes A Bath","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Geheimkammer","english":"The One With The Secret Closet","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein Porno zum Valentinstag","english":"The One With The Birthing Video","hoster":["PutLocker","DivxStage"]},
+                {"german":"Nur ein kleiner Gag","english":"The One Where Joey Tells Rachel","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Prophezeiung der Teeblätter","english":"The One With The Tea Leaves","hoster":["PutLocker","DivxStage"]},
+                {"german":"Zu Tränen gerührt","english":"The One In Massapequa","hoster":["PutLocker","DivxStage"]},
+                {"german":"Joeys Interview","english":"The One With Joey&#039;s Interview","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Babyparty","english":"The One With The Baby Shower","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Kochkurs","english":"The One With The Cooking Class","hoster":["PutLocker","DivxStage"]},
+                {"german":"Warten aufs Baby","english":"The One Where Rachel Is Late","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Baby kommt! (1)","english":"The One Where Rachel Has A Baby (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Baby kommt! (2)","english":"The One Where Rachel Has A Baby (2)","hoster":["PutLocker","DivxStage"]}
+         ]
+}

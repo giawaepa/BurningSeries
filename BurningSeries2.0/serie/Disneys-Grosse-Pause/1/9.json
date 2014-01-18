@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Kiste / Der Prozess",
+         "titleen":"The Box / The Trial",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=mrTsyWsF-2g"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=Sm94guhJQ9M"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6119916/Disneys_Grosse_Pause_Episode_17_Die_Kiste"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6120069/Disneys_Grosse_Pause_Episode_18_Der_Prozess"
+                }
+       ]
+}

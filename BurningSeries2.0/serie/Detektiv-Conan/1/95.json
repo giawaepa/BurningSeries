@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Auf der Suche nach Fox (1)",
+         "titleen":"Episode 095",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=R0YRzzw1S6s"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5311148/Detektiv_Conan_Folge_95_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5311765/Detektiv_Conan_Folge_95_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5312329/Detektiv_Conan_Folge_95_3_3"
+                }
+       ]
+}

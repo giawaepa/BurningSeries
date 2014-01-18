@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Episode 3",
+         "titleen":"",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6249198/NEU_Switch_Reloaded_Part_1_3_7_April_2009"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6249261/NEU_Switch_Reloaded_Part_2_3_7_April_2009"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6249321/NEU_Switch_Reloaded_Part_3_3_7_April_2009"
+                }
+       ]
+}

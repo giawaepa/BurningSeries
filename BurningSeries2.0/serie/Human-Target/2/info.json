@@ -1,0 +1,21 @@
+{
+        "series":"Human Target",
+        "seasons":2,
+        "cover":"Human-Target_1bdf4b660014f7a389e46b875d3d8dae.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ilsa Pucci","english":"Ilsa Pucci","hoster":["PutLocker"]},
+                {"german":"Geschichte einer Witwe","english":"The Wife&#039;s Tale","hoster":["PutLocker"]},
+                {"german":"Der Cleaner","english":"Taking Ames","hoster":["PutLocker"]},
+                {"german":"Baptistes Rückkehr","english":"The Return of Baptiste","hoster":["PutLocker"]},
+                {"german":"Amnesie","english":"Dead Head","hoster":["PutLocker"]},
+                {"german":"Weihnachtszirkus","english":"The Other Side of the Mall","hoster":["PutLocker"]},
+                {"german":"Das Maria Problem","english":"A Problem Like Maria (1)","hoster":["DivxStage"]},
+                {"german":"Kommunikationsstörung","english":"Communication Breakdown (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Imbroglio","hoster":["PutLocker"]},
+                {"german":"","english":"Cool Hand Guerrero","hoster":["PutLocker"]},
+                {"german":"","english":"Kill Bob","hoster":["PutLocker"]},
+                {"german":"","english":"The Trouble With Harry","hoster":["PutLocker"]},
+                {"german":"","english":"Marshall Pucci","hoster":["PutLocker","Sockshare"]}
+         ]
+}

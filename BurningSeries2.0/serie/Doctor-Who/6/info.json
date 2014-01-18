@@ -1,0 +1,22 @@
+{
+        "series":"Doctor Who",
+        "seasons":6,
+        "cover":"Doctor-Who_afb3def19dd3034de70546d97c212148.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Astronaut, den es nie gab","english":"The Impossible Astronaut (1)","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Tag des Mondes","english":"Day of the Moon (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Curse of the Black Spot","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Doctor&#039;s Wife","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Rebel Flesh","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Almost People","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"A Good Man Goes To War","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Let&#039;s Kill Hitler","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Night Terrors","hoster":["Sockshare"]},
+                {"german":"","english":"The Girl Who Waited","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The God Complex","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Closing Time","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Wedding of River Song","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Doctor, The Widow and The Wardrobe (Christmas Special)","hoster":["PutLocker","Sockshare","DivxStage"]}
+         ]
+}

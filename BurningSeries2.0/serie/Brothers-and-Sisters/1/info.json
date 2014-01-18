@@ -1,0 +1,31 @@
+{
+        "series":"Brothers &amp; Sisters",
+        "seasons":5,
+        "cover":"Brothers-Sisters_eeae3f2c3ef37d5de2d6d00c0d4e1a07.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Geburtstag","english":"Patriarchy","hoster":[]},
+                {"german":"Der letzte Wille","english":"An Act of Will","hoster":[]},
+                {"german":"Affären","english":"Affairs of State","hoster":[]},
+                {"german":"Das Familienportrait","english":"Family Portrait","hoster":[]},
+                {"german":"Die Praktikantin","english":"Date Night","hoster":[]},
+                {"german":"Ein gelungen verpfuschter Abend","english":"For the Children","hoster":[]},
+                {"german":"Northern Exposure","english":"Northern Exposure","hoster":[]},
+                {"german":"Schmerzliche Erinnerung","english":"Mistakes Were Made, Part 1 (a.k.a. Glass Jumps)","hoster":[]},
+                {"german":"Die Rettung","english":"Mistakes Were Made, Part 2","hoster":[]},
+                {"german":"Hiobsbotschaft","english":"Light the Lights","hoster":[]},
+                {"german":"Familientag","english":"Family Day","hoster":["PutLocker"]},
+                {"german":"Sex und Politik","english":"Sexual Politics","hoster":[]},
+                {"german":"Tag der Wahrheiten","english":"Something Ida This Way Comes","hoster":["PutLocker"]},
+                {"german":"Valentinstag","english":"Valentine&#039;s Day Massacre","hoster":["PutLocker"]},
+                {"german":"Beziehungskrisen","english":"Love Is Difficult","hoster":["PutLocker"]},
+                {"german":"Die andere Schwester","english":"The Other Walker","hoster":[]},
+                {"german":"Emotionales Chaos","english":"All In the Family","hoster":[]},
+                {"german":"Drei Partys","english":"Three Parties","hoster":["PutLocker"]},
+                {"german":"Der Spieleabend","english":"Game Night","hoster":["PutLocker"]},
+                {"german":"Schlechte Nachrichten","english":"Bad News","hoster":["PutLocker"]},
+                {"german":"Früchte des Zorns","english":"Grapes of Wrath","hoster":["PutLocker"]},
+                {"german":"Schwere Entscheidung","english":"Favorite Son","hoster":[]},
+                {"german":"Die Verlobungsparty","english":"Matriarchy","hoster":[]}
+         ]
+}

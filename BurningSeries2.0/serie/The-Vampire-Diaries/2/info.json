@@ -1,0 +1,30 @@
+{
+        "series":"The Vampire Diaries",
+        "seasons":3,
+        "cover":"The-Vampire-Diaries_bb79592b7f234e95fc4c39172d8b595c.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Rückkehr","english":"The Return","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schöne neue Welt","english":"Brave New World","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Böser Mond","english":"Bad Moon Rising","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Reise in die Vergangenheit","english":"Memory Lane","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Fluch","english":"Kill Or Be Killed","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Plan B","english":"Plan B","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Maskenball","english":"Masquerade","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Rose","english":"Rose","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Katerina","english":"Katerina","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Opfer","english":"The Sacrifice","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Verwandlung","english":"By the Light of the Moon","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Abstieg","english":"The Descent","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Rache","english":"Daddy Issues","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Heulende Wölfe","english":"Crying Wolf","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Dinnerparty","english":"The Dinner Party","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Hausgast","english":"The House Guest","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Geliebte Feindin","english":"Know thy Enemy","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der letzte Tanz","english":"The Last Dance","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Klaus","english":"Klaus","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der letzte Tag","english":"The Last Day","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Ritual","english":"The Sun Also Rises","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Auferstanden von den Toten","english":"As I lay dying","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]}
+         ]
+}

@@ -1,0 +1,9 @@
+{
+        "series":"South Park",
+        "seasons":15,
+        "cover":"South-Park_5a9e7a27200896c407a230a91f9bc93c.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"South Park - Der Film: Größer, länger und ungeschnitten","english":"South Park: Bigger Longer &amp; Uncut","hoster":["PutLocker"]}
+         ]
+}

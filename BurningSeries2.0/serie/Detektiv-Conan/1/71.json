@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Baron der Nacht (2)",
+         "titleen":"Episode 071",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=Y-fblmaI-C0"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=mTFBoTi8lGA"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6258666/Detektiv_Conan_Folge_71_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6258840/Detektiv_Conan_Folge_71_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6259399/Detektiv_Conan_Folge_71_3_3"
+                }
+       ]
+}

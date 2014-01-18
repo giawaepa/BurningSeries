@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Konzentrier dich, Naruto!",
+         "titleen":"Episode 88",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6272786/Naruto_Folge_88_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6272827/Naruto_Folge_88_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6272901/Naruto_Folge_88_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"C384477161683BE3"
+                }
+       ]
+}

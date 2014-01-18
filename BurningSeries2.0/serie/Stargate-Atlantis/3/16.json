@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Die Arche",
+         "titleen":"The Ark",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7500345/Stargate_Atlantis_S03E16_Die_Arche_1_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7500459/Stargate_Atlantis_S03E16_Die_Arche_2_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7500508/Stargate_Atlantis_S03E16_Die_Arche_3_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7500689/Stargate_Atlantis_S03E16_Die_Arche_4_5"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"60B350176AD367AB"
+                }
+       ]
+}

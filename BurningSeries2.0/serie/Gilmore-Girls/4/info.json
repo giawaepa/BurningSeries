@@ -1,0 +1,30 @@
+{
+        "series":"Gilmore Girls",
+        "seasons":7,
+        "cover":"Gilmore-Girls_7f16155ca12e6b38d5c40963a00e8818.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Überraschung!","english":"Ballrooms and Biscotti","hoster":[]},
+                {"german":"Der erste Tag","english":"The Lorelais&#039; First Day at Yale","hoster":[]},
+                {"german":"Partyservice","english":"The Hobbit, the Sofa, and Digger Stiles","hoster":[]},
+                {"german":"Alarm, Alarm!","english":"Chicken or Beef?","hoster":[]},
+                {"german":"Das war wohl nichts","english":"The Fundamental Things Apply","hoster":[]},
+                {"german":"Abserviert!","english":"An Affair to Remember","hoster":[]},
+                {"german":"Still gestanden!","english":"The Festival of Living Art","hoster":[]},
+                {"german":"Neue Freunde, neue Feinde","english":"Die, Jerk","hoster":[]},
+                {"german":"Kleine Geheimnisse","english":"Ted Koppel&#039;s Big Night Out","hoster":[]},
+                {"german":"Eine heimliche Affäre","english":"The Nanny and the Professor","hoster":[]},
+                {"german":"Der Glöckner von Stars Hollow","english":"In the Clamor and the Clangor","hoster":[]},
+                {"german":"Abgefahren","english":"A Family Matter","hoster":[]},
+                {"german":"In Sachen Liebe","english":"Nag Hammadi Is Where They Found the Gnostic Gospels","hoster":[]},
+                {"german":"Land unter","english":"The Incredible Shrinking Lorelais","hoster":[]},
+                {"german":"Kaufrausch","english":"Scene in a Mall","hoster":[]},
+                {"german":"Ein Trauerfall","english":"The Reigning Lorelai","hoster":[]},
+                {"german":"Partylaune","english":"Girls in Bikinis, Boys Doin&#039; the Twist","hoster":[]},
+                {"german":"Ach du dickes Ei","english":"Tick, Tick, Tick, Boom!","hoster":[]},
+                {"german":"Ausgetrickst","english":"Afterboom","hoster":[]},
+                {"german":"Alles für die Katz","english":"Luke Can See Her Face","hoster":[]},
+                {"german":"Unter der Haube","english":"Last Week Fights, This Week Tights","hoster":[]},
+                {"german":"Das erste Mal","english":"Raincoats and Recipes","hoster":[]}
+         ]
+}

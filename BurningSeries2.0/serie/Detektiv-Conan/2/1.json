@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Erstens kommt es anders...",
+         "titleen":"Episode 103",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=eCQezzoLcJg"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5341885/Detektiv_Conan_Folge_103_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5342212/Detektiv_Conan_Folge_103_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5342586/Detektiv_Conan_Folge_103_3_3"
+                }
+       ]
+}

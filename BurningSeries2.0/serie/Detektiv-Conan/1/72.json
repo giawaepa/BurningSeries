@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Baron der Nacht (3)",
+         "titleen":"Episode 072",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=m-RXEL4E3Xc"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=WCqyJv0rb7A"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6259866/Detektiv_Conan_Folge_72_1_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6261534/Detektiv_Conan_Folge_72_2_2"
+                }
+       ]
+}

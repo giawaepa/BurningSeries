@@ -1,0 +1,26 @@
+{
+        "series":"Burn Notice",
+        "seasons":5,
+        "cover":"Burn-Notice_2a43426d672b7e1063d29f86d40d4679.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Company Man","hoster":["PutLocker"]},
+                {"german":"","english":"Bloodlines","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Mind Games","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"No Good Deed","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Square One","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Enemy Of My Enemy","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Beseiged","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Hard Out","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Eye For An Eye","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Army of One","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Better Halves","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Dead to Rights","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Damned If You Do","hoster":[]},
+                {"german":"","english":"Breaking Point","hoster":["PutLocker"]},
+                {"german":"","english":"Necessary Evil","hoster":["PutLocker"]},
+                {"german":"","english":"Depth Perception","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Acceptable Loss","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Fail Safe","hoster":["PutLocker","DivxStage"]}
+         ]
+}

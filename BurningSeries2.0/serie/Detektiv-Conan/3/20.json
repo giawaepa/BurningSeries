@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Ein Mord aus Eifersucht",
+         "titleen":"Episode 202",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=kIQQgG5NWxU"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5742458/Detektiv_Conan_Folge_202_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5742641/Detektiv_Conan_Folge_202_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5742864/Detektiv_Conan_Folge_202_3_3"
+                }
+       ]
+}

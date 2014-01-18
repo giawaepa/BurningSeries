@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Endlich wieder Nudelsuppe!",
+         "titleen":"Episode 6",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6365460/Naruto_Shippuuden_UNCUT_Folge_6_Deutsch_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6365681/Naruto_Shippuuden_UNCUT_Folge_6_Deutsch_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6365886/Naruto_Shippuuden_UNCUT_Folge_6_Deutsch_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"276AF1EF2FCFE5DD"
+                }
+       ]
+}

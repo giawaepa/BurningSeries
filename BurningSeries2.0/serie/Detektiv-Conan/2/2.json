@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Keramikkünstlerfall (1)",
+         "titleen":"Episode 104",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=jAf4ilbzRu0"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5343035/Detektiv_Conan_Folge_104_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5343380/Detektiv_Conan_Folge_104_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5343720/Detektiv_Conan_Folge_104_3_3"
+                }
+       ]
+}

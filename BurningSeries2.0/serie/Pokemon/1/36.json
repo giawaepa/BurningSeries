@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Fahrrad-Gang",
+         "titleen":"Episode 036",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"2676500/Pokemon_Folge_36_Die_Fahrrad_Gang_1_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"2676636/Pokemon_Folge_36_Die_Fahrrad_Gang_2_2"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"6E38EAD25B9151E6"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"C04A340ED8DB7D97"
+                }
+       ]
+}

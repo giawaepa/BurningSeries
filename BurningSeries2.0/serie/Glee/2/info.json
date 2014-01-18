@@ -1,0 +1,30 @@
+{
+        "series":"Glee",
+        "seasons":3,
+        "cover":"Glee_aa7bd911901dda80b0a6f0abaab8966e.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Neue Gesichter und Gemeinheiten","english":"Auditions","hoster":["PutLocker","DivxStage"]},
+                {"german":"Britney/Brittany","english":"Britney/Brittany","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das neue Toastament","english":"Grilled Cheesus","hoster":["PutLocker","DivxStage"]},
+                {"german":"Duette","english":"Duets","hoster":["PutLocker","DivxStage"]},
+                {"german":"The Rocky Horror Glee Show","english":"The Rocky Horror Glee Show","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ungeküsst","english":"Never Been Kissed","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ersatzspieler","english":"The Substitute","hoster":["PutLocker","DivxStage"]},
+                {"german":"Amor muss verrückt sein","english":"Furt","hoster":["PutLocker","DivxStage"]},
+                {"german":"Neue Welten","english":"Special Education","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wie Sue Weihnachten gestohlen hat","english":"A Very Glee Christmas","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Sue Sylvester Shuffle","english":"The Sue Sylvester Shuffle","hoster":["PutLocker","DivxStage"]},
+                {"german":"Liebeslied zum Leid","english":"Silly Love Songs","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Comeback der Teufelin","english":"Comeback","hoster":["PutLocker","DivxStage"]},
+                {"german":"Dicht ist Pflicht","english":"Blame It on the Alcohol","hoster":["PutLocker","DivxStage"]},
+                {"german":"Sexy","english":"Sexy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Unsere eigenen Songs","english":"Original Song","hoster":["PutLocker","DivxStage"]},
+                {"german":"Nacht der Vernachlässigten","english":"A Night of Neglect","hoster":["PutLocker","DivxStage"]},
+                {"german":"Born This Way","english":"Born This Way","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das jüngste Gerücht","english":"Rumours","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rivalen der Krone","english":"Prom Queen","hoster":["PutLocker","DivxStage"]},
+                {"german":"Totenfeier","english":"Funeral","hoster":["PutLocker"]},
+                {"german":"New York","english":"New York","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,29 @@
+{
+        "series":"Family Guy",
+        "seasons":10,
+        "cover":"Family-Guy_1ef52f1420d3e2b6e6e4159f2a83c30a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Stinkreich","english":"Peter, Peter, Caviar Eater","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","UploadC"]},
+                {"german":"Heiliger Bimbam","english":"Holy Crap","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Der letzte Knall","english":"Da Boom","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Hundeliebe","english":"Brian in Love","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Kohle ohne Ende","english":"Love Thy Trophy","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Der Sensemann","english":"Death is a Bitch","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream"]},
+                {"german":"Der König ist tot","english":"The King is Dead","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Die Frau in Peter","english":"I Am Peter, Hear Me Roar","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Todgesund","english":"If I&#039;m Dyin&#039; I&#039;m Lyin&#039;","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Die Schlammschlacht","english":"Running Mates","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream"]},
+                {"german":"Knallbunt","english":"A Picture Is Worth 1,000 Bucks","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","UploadC"]},
+                {"german":"Helden auf Sendung","english":"Fifteen Minutes of Shame","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Friede sei mit Dir","english":"Road to Rhode Island","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Peters dritter Frühling","english":"Let&#039;s Go to the Hop","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Stewie macht ernst","english":"Dammit Janet","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Mord ohne Auftrag","english":"There&#039;s Something About Paulie","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Club der Schönen","english":"He&#039;s Too Sexy for His Fat","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Petoria","english":"E. Peterbus Unum","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Schlagzeilen","english":"The Story on Page One","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Im Rausch der Musik","english":"Wasted Talent","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Der Leihvater","english":"Fore, Father","hoster":["PutLocker","Sockshare","RapidVideo"]}
+         ]
+}

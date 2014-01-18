@@ -1,0 +1,27 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Gespalten","english":"Alternate","hoster":["PutLocker"]},
+                {"german":"Avatar","english":"Avatar","hoster":["PutLocker"]},
+                {"german":"Fehlschaltung","english":"Impulsive","hoster":[]},
+                {"german":"Verhandlungsfähig","english":"Savant","hoster":[]},
+                {"german":"Kriegsethik","english":"Harm","hoster":[]},
+                {"german":"Meisterwerk","english":"Svengali","hoster":[]},
+                {"german":"Erblindet","english":"Blinded","hoster":[]},
+                {"german":"Bruderliebe","english":"Fight","hoster":[]},
+                {"german":"Vaterschaft","english":"Paternity","hoster":[]},
+                {"german":"Eingeschüchtert","english":"Snitch","hoster":[]},
+                {"german":"Respekt","english":"Streetwise","hoster":[]},
+                {"german":"Folter","english":"Signature","hoster":[]},
+                {"german":"Verdorben","english":"Unorthodox","hoster":[]},
+                {"german":"Eizelle","english":"Inconceivable","hoster":[]},
+                {"german":"Undercover","english":"Undercover","hoster":[]},
+                {"german":"Doppelleben","english":"Closet","hoster":[]},
+                {"german":"Autorität","english":"Authority","hoster":[]},
+                {"german":"Erpresst","english":"Trade","hoster":[]},
+                {"german":"Vergeltung","english":"Cold","hoster":[]}
+         ]
+}

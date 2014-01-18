@@ -1,0 +1,9 @@
+{
+        "series":"Big Time Rush",
+        "seasons":2,
+        "cover":"Big-Time-Rush_a78b9290d616a918c3fb9a958b037d0c.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"","english":"Big Time Move","hoster":["YouTube"]}
+         ]
+}

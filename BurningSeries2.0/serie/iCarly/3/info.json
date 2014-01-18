@@ -1,0 +1,28 @@
+{
+        "series":"iCarly",
+        "seasons":5,
+        "cover":"iCarly_7203625d55cfd3b4011def326c78e6e2.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Der Kuss","english":"iThink They Kissed","hoster":["PutLocker"]},
+                {"german":"Voll auf die Kochmütze!","english":"iCook","hoster":["PutLocker"]},
+                {"german":"Ein Date für Carly","english":"iSpeed Date","hoster":["PutLocker"]},
+                {"german":"Die iCarly-Awards","english":"iCarly Awards","hoster":["PutLocker"]},
+                {"german":"Der beste Rektor der Welt","english":"iHave My Principles","hoster":["PutLocker"]},
+                {"german":"Alte Liebe, neuer Horror","english":"iFind Lewbert&#039;s Lost Love","hoster":["PutLocker"]},
+                {"german":"Freddie zieht aus","english":"iMove Out","hoster":["PutLocker"]},
+                {"german":"Schluss mit lustig - Teil 1","english":"iQuit iCarly ? Part 1","hoster":["PutLocker"]},
+                {"german":"Schluss mit lustig - Teil 2","english":"iQuit iCarly ? Part 2","hoster":[]},
+                {"german":"Carlys Schinken","english":"iSaved Your Life","hoster":["PutLocker"]},
+                {"german":"Miss Teen Seattle","english":"iWas a Pageant Girl","hoster":["PutLocker"]},
+                {"german":"Gibby flippt aus","english":"iEnrage Gibby","hoster":["PutLocker"]},
+                {"german":"iCarly im All","english":"iSpace Out","hoster":["PutLocker"]},
+                {"german":"Ein Star von gestern","english":"iFix A Popstar","hoster":["PutLocker"]},
+                {"german":"Pleiten, Pech und Patzer","english":"iBloop","hoster":["PutLocker"]},
+                {"german":"iCarly für Daddy","english":"iWon&#039;t Cancel The Show","hoster":["PutLocker"]},
+                {"german":"Bigfoot und Waschbiber","english":"iBelieve in Bigfoot","hoster":["PutLocker"]},
+                {"german":"iPsycho - Teil 1","english":"iPsycho ? Part 1","hoster":["PutLocker"]},
+                {"german":"iPsycho - Teil 2","english":"iPsycho ? Part 2","hoster":[]},
+                {"german":"Zu heiß, zu heiß!","english":"iBeat the Heat","hoster":["PutLocker"]}
+         ]
+}

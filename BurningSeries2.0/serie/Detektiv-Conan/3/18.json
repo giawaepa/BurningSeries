@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der ermordete Detektiv (1)",
+         "titleen":"Episode 200",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=sq2fG6LAK2I"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5737355/Detektiv_Conan_Folge_200_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5737738/Detektiv_Conan_Folge_200_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5738024/Detektiv_Conan_Folge_200_3_3"
+                }
+       ]
+}

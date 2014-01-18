@@ -1,0 +1,18 @@
+{
+        "series":"V - Die Besucher",
+        "seasons":2,
+        "cover":"V-Die-Besucher_13bffc40ab79d1c87178166e602d1fe8.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Roter Regen","english":"Red Rain","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Selbstmordkommandos","english":"Serpent&#039;s Tooth","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Enthüllung","english":"Laid Bare","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Unheilige Allianz","english":"Unholy Alliance","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Concordia","english":"Concordia","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Belagerung","english":"Siege","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Geburtstagswehen","english":"Birth Pangs","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Offensive","english":"Uneasy Lies the Head","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Teufel in Blau","english":"Devil in a Blue Dress","hoster":["PutLocker","DivxStage"]},
+                {"german":"Muttertag","english":"Mother?s Day","hoster":["PutLocker","Sockshare","DivxStage"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Pfeil der Sirene (2)",
+         "titleen":"Episode 242",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=4kiuzzIjk40"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=hg5RwwQTTGY"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5875453/Detektiv_Conan_Folge_242_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5875886/Detektiv_Conan_Folge_242_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5876291/Detektiv_Conan_Folge_242_3_3"
+                }
+       ]
+}

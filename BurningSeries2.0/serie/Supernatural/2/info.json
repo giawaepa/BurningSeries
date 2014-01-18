@@ -1,0 +1,30 @@
+{
+        "series":"Supernatural",
+        "seasons":7,
+        "cover":"Supernatural_a74050852c0b23409201cbcc3b25787e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Während ich starb","english":"In My Time Of Dying","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Alle lieben Clowns","english":"Everybody Loves a Clown","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Blutrausch","english":"Bloodlust","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Spiel nicht mit toten Dingen","english":"Children Shouldn&#039;t Play With Dead Things","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Simon hat gesagt...","english":"Simon Said","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Mörderburg","english":"No Exit","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die üblichen Verdächtigen","english":"The Usual Suspects","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Kreuzung zur Hölle","english":"Crossroad Blues","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Croatan","english":"Croatoan","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Gejagt","english":"Hunted","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Spielsachen","english":"Playthings","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Mandroid","english":"Nightshifter","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Haus der Heiligen","english":"Houses of the Holy","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Unter einem schlechten Stern","english":"Born Under a Bad Sign","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Tricks und Legenden","english":"Tall Tales","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Highway 41","english":"Roadkill","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Herz","english":"Heart","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Hollywood Babylon","english":"Hollywood Babylon","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Hinter Gittern","english":"Folsom Prison Blues","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Wie es ist und wie es niemals sein sollte","english":"What is and What Should Never Be","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Sturm bricht los (1)","english":"All Hell Breaks Loose (1)","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Sturm bricht los (2)","english":"All Hell Breaks Loose (2)","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

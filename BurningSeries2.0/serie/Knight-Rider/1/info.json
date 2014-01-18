@@ -1,0 +1,30 @@
+{
+        "series":"Knight Rider",
+        "seasons":4,
+        "cover":"Knight-Rider_9188b0ea252ebce4c306fb51cc8d4f12.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Michael Knight Teil 1","english":"Knight Of The Phoenix","hoster":["PutLocker"]},
+                {"german":"Michael Knight Teil 2","english":"Knight Of The Phoenix","hoster":["PutLocker"]},
+                {"german":"Tödliche Manöver","english":"Deadly Maneuvers","hoster":["PutLocker"]},
+                {"german":"Der Bandenkrieg","english":"Good Day At White Rock","hoster":["PutLocker"]},
+                {"german":"Sammys Sensationsshow","english":"Slammin&#039; Sammy&#039;s Stunt Show Spectacular","hoster":["YouTube","PutLocker"]},
+                {"german":"Minister auf Abwegen","english":"Just My Bill","hoster":["YouTube","PutLocker"]},
+                {"german":"Die große Dürre","english":"Not A Drop To Drink","hoster":["YouTube","PutLocker"]},
+                {"german":"Ein Richter spielt sein Spiel","english":"No Big Thing","hoster":["PutLocker"]},
+                {"german":"Der Doppelgänger","english":"Trust Doesn&#039;t Rust","hoster":["PutLocker"]},
+                {"german":"Gangster wider Willen","english":"Inside Out","hoster":["YouTube","PutLocker"]},
+                {"german":"Das endgültige Urteil","english":"The Final Verdict","hoster":["PutLocker"]},
+                {"german":"Das Gipfeltreffen","english":"A Plush Ride","hoster":["PutLocker"]},
+                {"german":"Zwischen zwei Frauen","english":"Forget Me Not","hoster":["PutLocker"]},
+                {"german":"Herzen aus Stein","english":"Hearts Of Stone","hoster":["PutLocker"]},
+                {"german":"Ein mysteriöser Saboteur","english":"Give Me Liberty... Or Give Me Death","hoster":["PutLocker"]},
+                {"german":"Geheimcode Topaz","english":"The Topaz Connection","hoster":["PutLocker"]},
+                {"german":"Eine Musterstadt ohne Verbrechen","english":"A Nice, Indecent Little Town","hoster":["PutLocker"]},
+                {"german":"Die Helios-Nadel","english":"Chariot Of Gold","hoster":["PutLocker"]},
+                {"german":"Weißer Vogel","english":"White Bird","hoster":["PutLocker"]},
+                {"german":"Unerwünschte Konkurrenz","english":"Knight Moves","hoster":["PutLocker"]},
+                {"german":"Computerspiele","english":"Nobody Does It Better","hoster":["PutLocker"]},
+                {"german":"Gekidnappt","english":"Short Notice","hoster":["PutLocker"]}
+         ]
+}

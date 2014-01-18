@@ -1,0 +1,25 @@
+{
+        "series":"Dragonball GT",
+        "seasons":4,
+        "cover":"Dragonball-GT_334250f81fdcbc3f3190d351b880da26.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Wer ist dieser Drache?","english":"Episode 48","hoster":["PutLocker"]},
+                {"german":"Aller Anfang ist schwer","english":"Episode 49","hoster":["PutLocker"]},
+                {"german":"Eine Schleimige Angelegenheit","english":"Episode 50","hoster":["PutLocker"]},
+                {"german":"Frauen-Power","english":"Episode 51","hoster":["PutLocker"]},
+                {"german":"Der Drache mit den sieben Sternen","english":"Episode 52","hoster":["PutLocker"]},
+                {"german":"Was ist mit Pan?","english":"Episode 53","hoster":["PutLocker"]},
+                {"german":"6000°C! Der Kämpfer der Sonne","english":"Episode 54","hoster":["PutLocker"]},
+                {"german":"Bulmas Plan! Das Vegeta-Projekt","english":"Episode 55","hoster":[]},
+                {"german":"Nach der Sonne kommt Frost! Die Feuer und Eis-Drachenbrüder","english":"Episode 56","hoster":[]},
+                {"german":"Was für eine Kraft! Der Boss der bösen Drachen","english":"Episode 57","hoster":[]},
+                {"german":"Gemeinsam gegen den siebten Drachen","english":"Episode 58","hoster":["PutLocker"]},
+                {"german":"Freund oder Feind...Der Oozaru Vegeta läuft Amok","english":"Episode 59","hoster":["PutLocker"]},
+                {"german":"Fusion!! Der ultimative Super Gogeta","english":"Episode 60","hoster":["PutLocker"]},
+                {"german":"Ich werde gewinnen! Son Goku verschluckt den Dragonball mit den vier Sternen","english":"Episode 61","hoster":["PutLocker"]},
+                {"german":"Rettet Son Goku!! Suh Shenlong erscheint","english":"Episode 62","hoster":[]},
+                {"german":"Mysteriöser Sieg!! Son Goku fleht das Universum um Hilfe an","english":"Episode 63","hoster":[]},
+                {"german":"Das Große Finale","english":"Episode 64","hoster":[]}
+         ]
+}

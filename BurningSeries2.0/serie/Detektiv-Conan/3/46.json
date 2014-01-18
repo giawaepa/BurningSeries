@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Wald, die Bären, die Jäger (1)",
+         "titleen":"Episode 228",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=MnteVb_QMbc"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5827005/Detektiv_Conan_Folge_228_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5827426/Detektiv_Conan_Folge_228_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5827776/Detektiv_Conan_Folge_228_3_3"
+                }
+       ]
+}

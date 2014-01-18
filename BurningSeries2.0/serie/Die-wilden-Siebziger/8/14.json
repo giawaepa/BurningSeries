@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Frampton oder Clapton?",
+         "titleen":"Son And Daughter",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7167836/Die_wilden_70er_Frampton_oder_Clapton_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7167927/Die_wilden_70er_Frampton_oder_Clapton_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7168022/Die_wilden_70er_Frampton_oder_Clapton_3_3"
+                }
+       ]
+}

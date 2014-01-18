@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Strömung bringt es an den Tag",
+         "titleen":"Episode 119",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=5NEONlMFxtk"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5416131/Detektiv_Conan_Folge_119_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5416403/Detektiv_Conan_Folge_119_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5416662/Detektiv_Conan_Folge_119_3_3"
+                }
+       ]
+}

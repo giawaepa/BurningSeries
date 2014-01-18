@@ -1,0 +1,16 @@
+{ 
+         "titlede":"Entscheidung",
+         "titleen":"Decision",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"2EBDBFA3A1F2E1E4"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"2EBC9D86BB688C64"
+                }
+       ]
+}

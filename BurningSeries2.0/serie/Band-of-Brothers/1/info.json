@@ -1,0 +1,18 @@
+{
+        "series":"Band of Brothers",
+        "seasons":1,
+        "cover":"Band-of-Brothers_f69cdba89f6c91d1ed7af219518ccd5c.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Currahee","english":"Currahee","hoster":["PutLocker"]},
+                {"german":"Der erste Tag","english":"Day of Days","hoster":["PutLocker"]},
+                {"german":"Carentan ? Brennpunkt Normandie","english":"Carentan","hoster":["PutLocker"]},
+                {"german":"Die Neuen","english":"Replacements","hoster":["PutLocker"]},
+                {"german":"Kreuzungen","english":"Crossroads","hoster":["PutLocker"]},
+                {"german":"Bastogne","english":"Bastogne","hoster":["PutLocker"]},
+                {"german":"Durchbruch","english":"The Breaking Point","hoster":["PutLocker"]},
+                {"german":"Der Spezialauftrag","english":"The Last Patrol","hoster":["PutLocker"]},
+                {"german":"Warum wir kämpfen","english":"Why We Fight","hoster":["PutLocker"]},
+                {"german":"Kriegsende","english":"Points","hoster":["PutLocker"]}
+         ]
+}

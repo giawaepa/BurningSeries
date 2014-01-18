@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Ein Seltsames Schachspiel",
+         "titleen":"Episode 122",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6136051/Naruto_folge_122_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6136091/Naruto_folge_122_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6136126/Naruto_folge_122_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"9412FEA70FB44C75"
+                }
+       ]
+}

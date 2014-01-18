@@ -1,0 +1,16 @@
+{
+        "series":"Sex and the City",
+        "seasons":6,
+        "cover":"Sex-and-the-City_fd70f136f1be8ed1389274454005ddf0.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Anker hoch!","english":"anchors away","hoster":[]},
+                {"german":"Das Prinzip Hoffnung","english":"unoriginal sin","hoster":[]},
+                {"german":"Sex and Atlantic City","english":"luck be an old lady","hoster":[]},
+                {"german":"Cover Girl","english":"cover girl","hoster":[]},
+                {"german":"Plus Eins ist die einsamste Zahl","english":"plus one is the loneliest number","hoster":[]},
+                {"german":"Kritischer Zustand","english":"critical condition","hoster":[]},
+                {"german":"Die große Reise","english":"the big journey","hoster":[]},
+                {"german":"Scharade","english":"i love a charade","hoster":[]}
+         ]
+}

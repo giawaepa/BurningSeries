@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Wahrheit kommt ans Licht",
+         "titleen":"Episode 128",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6140701/Naruto_folge_127_128_part_3_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6140723/Naruto_folge_127_128_part_4_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6140736/Naruto_folge_127_128_part_5_5"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"B24B3AFB75916571"
+                }
+       ]
+}

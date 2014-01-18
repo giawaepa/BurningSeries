@@ -1,0 +1,32 @@
+{
+        "series":"M*A*S*H",
+        "seasons":11,
+        "cover":"M-A-S-H_ba9c37303b185e8c205e7b06cbc0acda.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mobiles Armee Schirurgie Hospital","english":"Pilot","hoster":["PutLocker","Sockshare"]},
+                {"german":"Angebot, Nachfrage und Prestige","english":"To market, to market","hoster":["PutLocker","Sockshare"]},
+                {"german":"David und Goliath in Korea","english":"Requiem for a Lightweight","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das total verrückte Feldlazarett","english":"Chief Surgeon Who?","hoster":["PutLocker","Sockshare"]},
+                {"german":"Angebot, Über alles geliebte Sklavin","english":"The Moose","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kennen Sie &quot;Chirurgen in Uniform&quot;?","english":"Yankee Doctors","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hilfe, einen Psychiater bitte","english":"Bananas, Crackers and Nuts","hoster":["PutLocker","Sockshare"]},
+                {"german":"Mein lieber, lieber John","english":"Cowboy","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ach Henry, komm doch wieder","english":"Henry, please come Home","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Dieb will nur das Beste","english":"I hate a Mystery","hoster":["PutLocker","Sockshare"]},
+                {"german":"Eine richtige, schöne Gelbsucht","english":"Germ Warfare","hoster":["PutLocker","Sockshare"]},
+                {"german":"Lieber Papa, mir geht&#039;s gut","english":"Dear Dad","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein Aufstand für Edwina","english":"Edwina","hoster":["PutLocker","Sockshare"]},
+                {"german":"Noch so eine Liebesgeschichte","english":"Love Story","hoster":["PutLocker","Sockshare"]},
+                {"german":"Nun danket alle Tuttle","english":"Tuttle","hoster":["PutLocker","Sockshare"]},
+                {"german":"Nur Leben in die Bude","english":"The Ringbanger","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hörst Du die Kugeln?","english":"Sometimes you heard the bullets","hoster":["PutLocker","Sockshare"]},
+                {"german":"... und alles splitternackt","english":"Dear Dad ... again","hoster":["PutLocker","Sockshare"]},
+                {"german":"Jeder friert für sich alleine ...","english":"The Longjohn Flap","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein Blindgänger hat&#039;s in sich","english":"The Army-Navy Game","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hier, bitte mal absaugen","english":"Sticky Wicket","hoster":["PutLocker","Sockshare"]},
+                {"german":"Gier, Angst und nochmal Gier","english":"Major Fred C. Dobbs","hoster":["PutLocker","Sockshare"]},
+                {"german":"Unter der Hand gesagt","english":"Ceasefire","hoster":["PutLocker","Sockshare"]},
+                {"german":"Für Manches nicht gut genug","english":"Showtime","hoster":["PutLocker","Sockshare"]}
+         ]
+}

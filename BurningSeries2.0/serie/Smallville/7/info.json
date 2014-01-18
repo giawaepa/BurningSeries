@@ -1,0 +1,28 @@
+{
+        "series":"Smallville",
+        "seasons":10,
+        "cover":"Smallville_9b035bf1ed4971800a10af943bd17d18.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Alter Ego","english":"Bizarro","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Familienbesuch","english":"Kara","hoster":["PutLocker"]},
+                {"german":"Eiskalt erwischt","english":"Fierce","hoster":["PutLocker"]},
+                {"german":"Unsterbliche Liebe","english":"Cure","hoster":["PutLocker"]},
+                {"german":"Wahre Helden","english":"Action","hoster":["PutLocker"]},
+                {"german":"Erinnerung an Lara","english":"Lara","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Rachefeldzug","english":"Wrath","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zor-El","english":"Blue","hoster":["PutLocker"]},
+                {"german":"Gemini-Projekt","english":"Gemini","hoster":["PutLocker"]},
+                {"german":"Brainiacs Rückkehr","english":"Persona","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Blonde Sirene","english":"Siren","hoster":["PutLocker"]},
+                {"german":"Im Kopf des Feindes","english":"Fracture","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Alte Freunde","english":"Hero","hoster":["PutLocker"]},
+                {"german":"Der Reisende","english":"Traveler","hoster":["PutLocker"]},
+                {"german":"Das Medaillon","english":"Veritas","hoster":["PutLocker"]},
+                {"german":"Sturz in den Abgrund","english":"Descent","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Spion der mich liebte","english":"Sleeper","hoster":["PutLocker"]},
+                {"german":"Weltuntergang","english":"Apocalypse","hoster":["PutLocker"]},
+                {"german":"Das Veritas-Vermächtnis","english":"Quest","hoster":["PutLocker"]},
+                {"german":"Außer Kontrolle","english":"Arctic","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Kampf der Giganten",
+         "titleen":"Episode 79",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6242549/Naruto_Folge_79_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6242591/Naruto_Folge_79_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6242629/Naruto_Folge_79_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"DCC9771EF2ECF1D2"
+                }
+       ]
+}

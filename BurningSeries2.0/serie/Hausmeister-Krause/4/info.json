@@ -1,0 +1,16 @@
+{
+        "series":"Hausmeister Krause",
+        "seasons":8,
+        "cover":"Hausmeister-Krause_ee4628169cc6aaba3cd245b263b75349.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Traumhochzeit","english":"","hoster":["PutLocker"]},
+                {"german":"Der Zorn der Gerechten","english":"","hoster":["PutLocker"]},
+                {"german":"Ist Tommie schwul?","english":"","hoster":[]},
+                {"german":"Die Sexmaschine","english":"","hoster":[]},
+                {"german":"Valentinstag","english":"","hoster":["MyVideo"]},
+                {"german":"Der andere Dieter","english":"","hoster":[]},
+                {"german":"Das Superweib","english":"","hoster":[]},
+                {"german":"Ein Ende mit Schrecken","english":"","hoster":[]}
+         ]
+}

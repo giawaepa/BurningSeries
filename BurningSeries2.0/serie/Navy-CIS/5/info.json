@@ -1,0 +1,27 @@
+{
+        "series":"Navy CIS",
+        "seasons":9,
+        "cover":"Navy-CIS_141ca3e65244fc72f323f852248d3211.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Meine Freundin, ihr Vater und ich","english":"Bury Your Dead","hoster":["PutLocker"]},
+                {"german":"Familiensache","english":"Family","hoster":["PutLocker"]},
+                {"german":"Dreieck","english":"Ex-File","hoster":["PutLocker"]},
+                {"german":"Eine falsche Identität","english":"Identity Crisis","hoster":["PutLocker"]},
+                {"german":"Der Mann auf dem Dach","english":"Leap of Faith","hoster":["PutLocker"]},
+                {"german":"Das Geisterschiff","english":"Chimera","hoster":["PutLocker"]},
+                {"german":"Alte Wunden","english":"Requiem","hoster":["PutLocker"]},
+                {"german":"Mord im Taxi","english":"Designated Target","hoster":[]},
+                {"german":"Gesucht und gefunden","english":"Lost and Found","hoster":["PutLocker"]},
+                {"german":"Wie ein wilder Stier","english":"Corporal Punishment","hoster":["PutLocker"]},
+                {"german":"Beweise","english":"Tribes","hoster":["MyVideo","PutLocker"]},
+                {"german":"Auf der Lauer","english":"Stakeout","hoster":["PutLocker"]},
+                {"german":"Hundeleben","english":"Dog Tags","hoster":["PutLocker"]},
+                {"german":"Lang lebe die Köngin","english":"Internal Affairs","hoster":[]},
+                {"german":"Grüne Zone","english":"In the Zone","hoster":["PutLocker"]},
+                {"german":"Mann ohne Gesicht","english":"Recoil","hoster":["PutLocker"]},
+                {"german":"Falsche Baustelle","english":"About Face","hoster":["PutLocker"]},
+                {"german":"Der Oshimaida-Code","english":"Judgement Day (1)","hoster":["PutLocker"]},
+                {"german":"Schlimme Tage","english":"Judgement Day (2)","hoster":["MyVideo","PutLocker"]}
+         ]
+}

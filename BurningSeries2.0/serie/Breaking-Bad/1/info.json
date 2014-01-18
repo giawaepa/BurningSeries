@@ -1,0 +1,15 @@
+{
+        "series":"Breaking Bad",
+        "seasons":4,
+        "cover":"Breaking-Bad_d346b0f571ed1b31d81cf304d0f2cb65.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Einstieg","english":"Pilot","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Die Katze ist im Sack?","english":"Cat?s in the Bag?","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"? und der Sack ist im Fluss","english":"? and the Bag?s in the River","hoster":[]},
+                {"german":"Die Diagnose","english":"Cancer Man","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Grauzonen","english":"Gray Matter","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"In der Höhle des Löwen","english":"Crazy Handful of Nothin?","hoster":["PutLocker","Sockshare","RapidVideo","UploadC"]},
+                {"german":"Lehrgeld","english":"A-No-Rough-Stuff-Type-Deal","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]}
+         ]
+}

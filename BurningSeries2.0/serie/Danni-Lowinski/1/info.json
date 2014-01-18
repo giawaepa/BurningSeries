@@ -1,0 +1,21 @@
+{
+        "series":"Danni Lowinski",
+        "seasons":3,
+        "cover":"Danni-Lowinski_fcffaab29229e3ec57adb108901be8c6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"New Life","english":"","hoster":["PutLocker"]},
+                {"german":"No Home","english":"","hoster":[]},
+                {"german":"Klassenkampf","english":"","hoster":[]},
+                {"german":"Eine sichere Bank","english":"","hoster":["PutLocker"]},
+                {"german":"Schön für einen Tag","english":"","hoster":["PutLocker"]},
+                {"german":"Klotz am Bein","english":"","hoster":["PutLocker"]},
+                {"german":"Arm dran","english":"","hoster":["PutLocker"]},
+                {"german":"Alles auf Schwarz","english":"","hoster":["PutLocker"]},
+                {"german":"Selbstbestimmung","english":"","hoster":["PutLocker"]},
+                {"german":"Nebenwirkungen","english":"","hoster":["PutLocker"]},
+                {"german":"Teenagerliebe","english":"","hoster":["PutLocker"]},
+                {"german":"Hundeleben","english":"","hoster":["PutLocker"]},
+                {"german":"Vollgas","english":"","hoster":["PutLocker"]}
+         ]
+}

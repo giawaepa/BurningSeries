@@ -1,0 +1,32 @@
+{
+        "series":"CSI: Den Tätern auf der Spur",
+        "seasons":12,
+        "cover":"CSI-Den-Taetern-auf-der-Spur_a5a70731c9e7b0fd031284dab691f885.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Für Warrick","english":"For Warrick (2)","hoster":["PutLocker"]},
+                {"german":"Den Halt verloren","english":"The Happy Place","hoster":[]},
+                {"german":"Kunst imitiert Leben","english":"Art Imitates Life","hoster":[]},
+                {"german":"Blutfeinde","english":"Let It Bleed","hoster":["PutLocker"]},
+                {"german":"Der kleine und der große Tod","english":"Leave Out All the Rest","hoster":["YouTube","PutLocker"]},
+                {"german":"Mein eigen Fleisch und Blut","english":"Say Uncle","hoster":["PutLocker"]},
+                {"german":"Bestrafung nach Modell","english":"Woulda, Coulda, Shoulda","hoster":["PutLocker"]},
+                {"german":"Der Mann ihrer Träume","english":"Young Man With A Horn","hoster":["PutLocker"]},
+                {"german":"Rückkehr eines Killers? (1)","english":"19 Down (1)","hoster":["PutLocker"]},
+                {"german":"Abschied eines Ermittlers (2)","english":"One To Go (2)","hoster":["PutLocker"]},
+                {"german":"Friedhofsschicht","english":"The Grave Shift","hoster":["PutLocker"]},
+                {"german":"Unbewaffnet und gefährlich","english":"Disarmed and Dangerous","hoster":["PutLocker"]},
+                {"german":"Frittiertes &amp; Minze","english":"Deep Fried and Minty Fresh","hoster":["PutLocker"]},
+                {"german":"Wenn zwei sich freuen, mordet der Dritte","english":"Miscarriage of Justice","hoster":["PutLocker"]},
+                {"german":"Ich + Wir","english":"Kill Me If You Can","hoster":["PutLocker"]},
+                {"german":"Motel zum Mord","english":"Turn, Turn, Turn","hoster":["PutLocker"]},
+                {"german":"Sackgasse","english":"No Way Out","hoster":["PutLocker"]},
+                {"german":"Das Rätsel der ledernen Maske","english":"Mascara","hoster":["PutLocker"]},
+                {"german":"Tragödie der Wahrscheinlichkeit","english":"The Descent of Man","hoster":["PutLocker"]},
+                {"german":"Odyssee im Alptraum","english":"A Space Oddity","hoster":["PutLocker"]},
+                {"german":"Mordermittlung 2.0","english":"If I Had A Hammer","hoster":["PutLocker"]},
+                {"german":"Pathologen-Blues","english":"The Gone Dead Train","hoster":["PutLocker"]},
+                {"german":"Bräute, Blut und Banden","english":"Hog Heaven","hoster":["PutLocker"]},
+                {"german":"Katzengold","english":"All In","hoster":["PutLocker"]}
+         ]
+}

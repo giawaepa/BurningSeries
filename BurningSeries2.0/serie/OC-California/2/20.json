@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Deal",
+         "titleen":"The O.C. Confidential",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7159621/O_C_California_s02e20_Der_Deal_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7159633/O_C_California_s02e20_Der_Deal_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7160895/O_C_California_s02e20_Der_Deal_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7160903/O_C_California_s02e20_Der_Deal_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"BFDBCA9B89D7A81C"
+                }
+       ]
+}

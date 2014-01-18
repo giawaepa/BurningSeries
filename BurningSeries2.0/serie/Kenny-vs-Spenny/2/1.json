@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Wer kann mehr Bier trinken?",
+         "titleen":"Who Can Drink More Beer?",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=CYa4WQ26-lM"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=og6sOsPLb5s"
+                },{
+                        "hoster":"YouTube",
+                        "part":3,
+                        "link":"=ycGkeDSngCM"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7460219/KvS_Staffel_2_Folge_1_Teil_1_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7460300/KvS_Staffel_2_Folge_1_Teil_2_2"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"E8DF41DE7041E97F"
+                }
+       ]
+}

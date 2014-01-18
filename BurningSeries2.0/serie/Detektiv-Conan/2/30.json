@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der mysteriöse Scharfschütze (2)",
+         "titleen":"Episode 132",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=96nOEoUsF88"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5455042/Detektiv_Conan_Folge_132_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5455400/Detektiv_Conan_Folge_132_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5455688/Detektiv_Conan_Folge_132_3_3"
+                }
+       ]
+}

@@ -1,0 +1,29 @@
+{
+        "series":"Stargate SG-1",
+        "seasons":10,
+        "cover":"Stargate-SG-1_6b5b9978ee26b1880a53c96bc53f8c10.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Das Tor zum Universum","english":"Children of the Gods","hoster":["MyVideo","PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Feind in seinem Körper","english":"The Enemy Within","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Verraten und Verkauft","english":"Emancipation","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die Seuche","english":"The Broca Divide","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Das erste Gebot","english":"The First Commandment","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die Auferstehung","english":"Cold Lazarus","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die Macht der Weisen","english":"The Nox","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die Auserwählten","english":"Brief Candle","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Im Reich des Donnergottes","english":"Thor&#039;s Hammer","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die Qualen des Tantalus","english":"The Torment of Tantalus","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Blutsbande","english":"Bloodlines","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Feuer und Wasser","english":"Fire and Water","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Kuss der Göttin","english":"Hathor","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Cassandra","english":"Singularity","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Vergeltung","english":"Cor-Ai","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Enigma","english":"Enigma","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Im ewigen Eis","english":"Solitudes","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Übermenschen","english":"Tin Man","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die Invasion - Teil 1","english":"There But For the Grace of God","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die Invasion - Teil 2","english":"Politics (1)","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die Invasion - Teil 3","english":"Within the Serpent&#039;s Grasp (2)","hoster":["PutLocker","Sockshare","DivxStage"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"In einer mondhellen Nacht",
+         "titleen":"Episode 76",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6237575/Naruto_Folge_76_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6237621/Naruto_Folge_76_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6237672/Naruto_Folge_76_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"2000DC96BEC73CCC"
+                }
+       ]
+}

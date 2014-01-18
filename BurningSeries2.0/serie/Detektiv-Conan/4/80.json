@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der stumm zurückgelassene Beweis (2)",
+         "titleen":"Episode 333",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6237773/Detektiv_Conan_Folge_333_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6238072/Detektiv_Conan_Folge_333_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6238361/Detektiv_Conan_Folge_333_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"75B1DD3346A2CC27"
+                }
+       ]
+}

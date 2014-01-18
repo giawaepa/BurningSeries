@@ -1,0 +1,24 @@
+{
+        "series":"Monk",
+        "seasons":8,
+        "cover":"Monk_bfa22242c5b58dd205872102d92eeed7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Mr. Monk wird versteigert","english":"Mr. Monk and his biggest Fan","hoster":["PutLocker"]},
+                {"german":"Mr. Monk in der Rapszene","english":"Mr. Monk and the Rapper","hoster":["PutLocker"]},
+                {"german":"Mr. Monk gegen den Nudisten","english":"Mr. Monk and the Naked Man","hoster":["PutLocker"]},
+                {"german":"Mr. Monk glaubt kein Wort","english":"Mr. Monk and the Bad Girlfriend","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und die Bienen und die Blumen","english":"Mr. Monk and the Birds and the Bees","hoster":["PutLocker"]},
+                {"german":"Mr. Monk auf Schatzsuche","english":"Mr. Monk and the Buried Treasure","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der Draufgänger","english":"Mr. Monk and the Daredevil","hoster":["PutLocker"]},
+                {"german":"Mr. Monk belastet ein Fehlurteil","english":"Mr. Monk and the wrong Man","hoster":["PutLocker"]},
+                {"german":"Mr.Monk streift durch die Nacht","english":"Mr. Monk stays up all Night","hoster":["PutLocker"]},
+                {"german":"Mr.Monk schießt auf den Weihnachtsmann","english":"Mr. Monk and the man who shot Santa","hoster":["PutLocker"]},
+                {"german":"Mr.Monk tritt einer Sekte bei","english":"Mr. Monk Joins a Cult","hoster":["PutLocker"]},
+                {"german":"Mr.Monk in Uniform","english":"Mr. Monk to the Bank","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und die dreifache Julie","english":"Mr. Monk and the Three Julies","hoster":["PutLocker"]},
+                {"german":"Mr. Monk malt","english":"Mr. Monk paints his Masterpiece","hoster":["PutLocker"]},
+                {"german":"Mr. Monk wird gejagt (Teil 1)","english":"Mr. Monk is on the run (Part 1)","hoster":["PutLocker"]},
+                {"german":"Mr. Monk wird gejagt (Teil 2)","english":"Mr. Monk is on the run (Part 2)","hoster":["PutLocker"]}
+         ]
+}

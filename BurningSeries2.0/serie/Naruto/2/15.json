@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Ganz entschieden ein Unentschieden",
+         "titleen":"Episode 42",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=qosTaB7txko"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=upiV5Z2sXeE"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6356667/Naruto_folge_42_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6356742/Naruto_folge_42_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6356820/Naruto_folge_42_part_3_3"
+                }
+       ]
+}

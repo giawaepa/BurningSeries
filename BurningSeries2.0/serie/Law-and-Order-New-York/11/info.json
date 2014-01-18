@@ -1,0 +1,32 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Irrtum","english":"Unstable","hoster":[]},
+                {"german":"Sugar Daddy","english":"Sugar","hoster":[]},
+                {"german":"Einzelhaft","english":"Solitary","hoster":[]},
+                {"german":"Blackout","english":"Hammered","hoster":[]},
+                {"german":"Ringkampf","english":"Hardwired","hoster":[]},
+                {"german":"Silikon","english":"Spooked","hoster":[]},
+                {"german":"Gestört","english":"Users","hoster":[]},
+                {"german":"Entfremdet","english":"Turmoil","hoster":[]},
+                {"german":"Verstümmelt","english":"Perverted","hoster":[]},
+                {"german":"Ankerkinder","english":"Anchor","hoster":[]},
+                {"german":"1000 Frauen","english":"Quickie","hoster":[]},
+                {"german":"Schatten","english":"Shadow","hoster":[]},
+                {"german":"Frauensache","english":"P.C.","hoster":[]},
+                {"german":"Hurenmord","english":"Savior","hoster":[]},
+                {"german":"Schweigepflicht","english":"Confidential","hoster":[]},
+                {"german":"Stumme Zeugin","english":"Witness","hoster":[]},
+                {"german":"Wehrlos","english":"Disabled","hoster":[]},
+                {"german":"Gezeichnet","english":"Bedtime","hoster":[]},
+                {"german":"Entstellt","english":"Conned","hoster":[]},
+                {"german":"Fleisch","english":"Beef","hoster":[]},
+                {"german":"Brandgefährlich","english":"Torch","hoster":[]},
+                {"german":"Schachmatt","english":"Ace","hoster":[]},
+                {"german":"Möchtegern","english":"Wannabe","hoster":[]},
+                {"german":"Entführt","english":"Shattered","hoster":[]}
+         ]
+}

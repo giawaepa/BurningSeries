@@ -1,0 +1,30 @@
+{
+        "series":"Gossip Girl",
+        "seasons":5,
+        "cover":"Gossip-Girl_f9c8cb175a5621ae8be8f5da39d9a280.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Belles de Jour","english":"Belles de Jour","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Doppelte Identität","english":"Double Identity","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Aller Anfang ist schwer","english":"The Undergraduates","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Verrückt nach Eva","english":"Touch of Eva","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Leb wohl, Columbia","english":"Goodbye, Columbia","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Falsches Spiel","english":"Easy J","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Rosenkrieg","english":"War at the Roses","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Der Racheengel","english":"Juliet Doesn&#039;t Live Here Anymore","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Die Hexen von Bushwick","english":"The Witches of Bushwick","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Serena am Ende","english":"Gaslit","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Geständnis","english":"The Townie","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Familienangelegenheit","english":"The Kids Are Not Alright","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Damien Darko","english":"Damien Darko","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Zweifelhafte Freunde","english":"Panic Roommate","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Es geschah in einer Nacht","english":"It-Girl Happened One Night","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Während du nicht schliefst","english":"While You Weren?t Sleeping","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Reich des Sohnes","english":"Empire of the Son","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Kinder bleiben im Bilde","english":"The Kids Stay in the Picture","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Prinz &amp; B","english":"Petty in Pink","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Plötzlich Prinzessin","english":"The Princesses and the Frog","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Lüge und Wahrheit","english":"Shattered Bass","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Keiner fürs Leben","english":"The Wrong Goodbye","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]}
+         ]
+}

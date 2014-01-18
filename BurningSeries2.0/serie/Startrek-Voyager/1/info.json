@@ -1,0 +1,23 @@
+{
+        "series":"Star Trek: Raumschiff Voyager",
+        "seasons":7,
+        "cover":"Star-Trek-Raumschiff-Voyager_e2c0083714b9644685a22990bdace8d6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Fürsorger","english":"Caretaker","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Parallaxe","english":"Parallax","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Subraumspalten","english":"Time and Again","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Transplantationen","english":"Phage","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Der mysteriöse Nebel","english":"The Cloud","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Das Nadelöhr","english":"Eye of the Needle","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Die Augen des Toten","english":"Ex post facto","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Das Unvorstellbare","english":"Emanations","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Das oberste Gesetz","english":"Prime Factors","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Der Verrat","english":"State of Flux","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Helden und Dämonen","english":"Heroes and Demons","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Bewusstseinsverlust","english":"Carthexis","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Von Angesicht zu Angesicht","english":"Faces","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Dr. Jetrels Experiment","english":"Jetrel","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Erfahrungswerte","english":"Learning Curve","hoster":["PutLocker","Sockshare","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Brieftaube",
+         "titleen":"Pigeon",
+         "description":"Ein schrecklicher Unfall beschäftigt Ned, Emerson und Chuck: Ein Flugzeug stürzt in ein Gebäude und vieles deutet darauf hin, dass der Pilot Selbstmord begangen hat. Es gibt nur einen Überlebenden, zu dem sich - zu Neds Leidwesen - Chuck hingezogen fühlt. Wie sich später herausstellt, wurde das Flugzeug jedoch entführt und ist deshalb abgestürzt. Doch der Fall ist viel komplizierter als gedacht: Denn der Entführer ist eigentlich hinter wertvollen Juwelen her ...",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5452227/Pushing_Daisies_1x04_Part_1_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5452260/Pushing_Daisies_1x04_Part_2_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5452295/Pushing_Daisies_1x04_Part_3_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5452358/Pushing_Daisies_1x04_Part_4_4"
+                },{
+                        "hoster":"RapidVideo",
+                        "part":1,
+                        "link":"s22zoe04"
+                }
+       ]
+}

@@ -1,0 +1,32 @@
+{
+        "series":"Rules of Engagement",
+        "seasons":6,
+        "cover":"Rules-of-Engagement_f7ad76ee4c30c6ef6ea68cc1c33264b1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Leihmutter-Gau","english":"Surro-gate","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bad Bank","english":"The Bank","hoster":["PutLocker","DivxStage"]},
+                {"german":"Auf dem Teppich","english":"Rug-of-War","hoster":["PutLocker","DivxStage"]},
+                {"german":"Angst vorm Fliegen","english":"Handy Man","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wichtig ist aufm Platz","english":"Play Ball","hoster":["PutLocker","DivxStage"]},
+                {"german":"Auf den Keks","english":"Baked","hoster":["PutLocker","DivxStage"]},
+                {"german":"Spiel mit Köpfchen","english":"Mannequin Head Ball","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bunny das Biest","english":"Les-bro","hoster":["PutLocker","DivxStage"]},
+                {"german":"Körperlandschaften","english":"The Big Picture","hoster":["PutLocker","DivxStage"]},
+                {"german":"Voll Verdussellt","english":"Fun Run","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Gar Nichts Anruf","english":"Refusing to Budget","hoster":["PutLocker","DivxStage"]},
+                {"german":"Vom Meister lernen","english":"Little Bummer Boy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein Job für Mädchen","english":"The Home Stretch","hoster":["PutLocker","DivxStage"]},
+                {"german":"Fauler Zauber","english":"Uh-Oh It&#039;s Magic","hoster":["PutLocker","DivxStage"]},
+                {"german":"Geölte Kehlen","english":"Singing and Dancing","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Jeff Tag","english":"Jeff Day","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Zygote","hoster":["PutLocker"]},
+                {"german":"Italienisch für Vollidioten","english":"Anniversary Chicken","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein Kerl für Liz","english":"The Set Up","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rot heißt Baby","english":"Beating The System","hoster":["PutLocker","DivxStage"]},
+                {"german":"Vom Sixpack zum Fässchen","english":"The Jeff Photo","hoster":["PutLocker","DivxStage"]},
+                {"german":"Torte für Russell","english":"Double Down","hoster":["PutLocker","DivxStage"]},
+                {"german":"Champagner aufs Haus","english":"The Power Couple","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kreuzfahrt mit Rotkäppchen","english":"The Last Of The Red Hat Lovers","hoster":["PutLocker","DivxStage"]}
+         ]
+}

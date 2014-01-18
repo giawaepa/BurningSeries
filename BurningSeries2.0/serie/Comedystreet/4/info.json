@@ -1,0 +1,16 @@
+{
+        "series":"Comedystreet",
+        "seasons":7,
+        "cover":"Comedystreet_8e9c135c0bdc97b57afc6558597b9dd5.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1","english":"Episode 1","hoster":[]},
+                {"german":"Episode 2","english":"Episode 2","hoster":[]},
+                {"german":"Episode 3","english":"Episode 3","hoster":[]},
+                {"german":"Episode 4","english":"Episode 4","hoster":[]},
+                {"german":"Episode 5","english":"Episode 5","hoster":[]},
+                {"german":"Episode 6","english":"Episode 6","hoster":[]},
+                {"german":"Episode 7","english":"Episode 7","hoster":[]},
+                {"german":"Episode 8","english":"Episode 8","hoster":[]}
+         ]
+}

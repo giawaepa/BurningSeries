@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der Schlüssel zum Tor",
+         "titleen":"Episode 300",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4128936/One_Piece_Folge_300_1_3_Der_Schluessel_zum_Tor"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4130087/One_Piece_Folge_300_2_3_Der_Schluessel_zum_Tor"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4131605/One_Piece_Folge_300_3_3_Der_Schluessel_zum_Tor"
+                }
+       ]
+}

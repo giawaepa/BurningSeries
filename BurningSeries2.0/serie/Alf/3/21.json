@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der Herr der Ameisen",
+         "titleen":"Funeral for a Friend",
+         "description":"Willie hat Alf eine Ameisenfarm geschenkt. Es dauert nicht lange, und Alf ist fasziniert von den unermüdlichen Tierchen. Leider lässt er sie eines Tages zu lange in der Sonne stehen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6831766/ALF_Der_Herr_der_Ameisen_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6831851/ALF_Der_Herr_der_Ameisen_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6831929/ALF_Der_Herr_der_Ameisen_3_3"
+                }
+       ]
+}

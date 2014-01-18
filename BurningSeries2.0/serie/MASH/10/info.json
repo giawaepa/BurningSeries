@@ -1,0 +1,30 @@
+{
+        "series":"M*A*S*H",
+        "seasons":11,
+        "cover":"M-A-S-H_ba9c37303b185e8c205e7b06cbc0acda.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Show-Biz-Leute, Teil 1","english":"That&#039;s Show Biz","hoster":[]},
+                {"german":"Die Show-Biz-Leute, Teil 2","english":"That?s Show Biz","hoster":[]},
+                {"german":"Lüge und Betrug","english":"Identity Crisis","hoster":[]},
+                {"german":"Gerüchte ufern aus","english":"Rumor at the Top","hoster":[]},
+                {"german":"Lieber Harry Truman","english":"Give &#039;Em Hell, Hawkeye","hoster":[]},
+                {"german":"Es ist Pokerzeit!","english":"Wheelers and Dealers","hoster":[]},
+                {"german":"Der wilde Streik","english":"Communication Breakdown","hoster":[]},
+                {"german":"Eine Welle des Verbrechens - Teil 1","english":"Snap Judgement, Snappier Judgement, Part 1","hoster":[]},
+                {"german":"Eine Welle des Verbrechens - Teil 2","english":"Snap Judgement, Snappier Judgement, Part 2","hoster":[]},
+                {"german":"Diener und Herren","english":"&#039;Twas the Day After Christmas","hoster":[]},
+                {"german":"Niemand weiß wohin ...","english":"Follies of the Living - Concerns...","hoster":[]},
+                {"german":"Die Geburtstagskinder","english":"The Birthday Girls","hoster":[]},
+                {"german":"Der Krieg ruft","english":"Blood and Guts","hoster":[]},
+                {"german":"Sünder sucht Zuflucht","english":"A Holy Mess","hoster":[]},
+                {"german":"Der Zahn muß raus!","english":"The Tooth Shall Set You Free","hoster":[]},
+                {"german":"Die Ruhe in Person","english":"Pressure Points","hoster":[]},
+                {"german":"Hawks letzter Wille","english":"Where There&#039;s a Will, There&#039;s a War","hoster":[]},
+                {"german":"Im Namen der Männlichkeit","english":"Promotion Commotion","hoster":[]},
+                {"german":"Ein jeder ein Held","english":"Heroes","hoster":[]},
+                {"german":"Das blaue Wunder","english":"Sons and Bowlers","hoster":[]},
+                {"german":"Sumpfratten unter sich","english":"Picture This","hoster":[]},
+                {"german":"Die blöde Ziegenstory","english":"That Darn Kid","hoster":[]}
+         ]
+}

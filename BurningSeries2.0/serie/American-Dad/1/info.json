@@ -1,0 +1,31 @@
+{
+        "series":"American Dad",
+        "seasons":7,
+        "cover":"American-Dad_ff475b83acefe494dafbe34c812419d8.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Pilot","english":"Pilot","hoster":["YouTube","PutLocker","Sockshare","Ecostream","UploadC"]},
+                {"german":"Radikale Maßnahmen","english":"Threat Levels","hoster":["PutLocker","Sockshare","Ecostream","BitShare","UploadC"]},
+                {"german":"Vatersorgen","english":"Stan knows Best","hoster":["PutLocker","Ecostream"]},
+                {"german":"Liebe auf den zweiten Blick","english":"Francines Flashback","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Roger auf Tour","english":"Roger Codger","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Heimatschutz","english":"Homeland Insecurity","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Stans Wille geschehe","english":"Deacon Stan, Jesus Man","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Selbst ist der Mann","english":"Bullocks to Stan","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Beförderung mit Hindernissen","english":"A Smith in the Hand","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Alles über Steve","english":"All about Steve","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Zwielichtiges Erbe","english":"Con Heir","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Stan von Arabien (1)","english":"Stan of Arabia (1)","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Stan von Arabien (2)","english":"Stan of Arabia (2)","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Stan im Waffen-Wunderland","english":"Stannie get Your Gun","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Starallüren","english":"Star Trek","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Der Ladybugs-Club","english":"Not partycularly Desperate Housewives","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Wer ist hier der Boss?","english":"Rough Trade","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Der kleine Muffin-Laden","english":"Finances with Wolves","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Stan, der Ballkönig","english":"It&#039;s good to be the Queen","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Freundschaft verbindet","english":"Roger&#039;n me","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Busenfreunde","english":"Helping Hands","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Der neue Sohn","english":"With Friends like Steve&#039;s","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Clooneys Tränen","english":"Tears of a Clooney","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]}
+         ]
+}

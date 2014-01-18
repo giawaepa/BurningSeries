@@ -1,0 +1,32 @@
+{
+        "series":"Two and a Half Men (English)",
+        "seasons":9,
+        "cover":"Two-and-a-Half-Men-English_ebc8320f754ed410607aecbe9f08f8c4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"","english":"Big Flappy Bastards","hoster":["PutLocker"]},
+                {"german":"","english":"Go East on Sunset until you reach the Gates of Hell","hoster":["PutLocker"]},
+                {"german":"","english":"If I can&#039;t write my Chocolate Song I&#039;m going to take a Nap","hoster":["PutLocker"]},
+                {"german":"","english":"The last Thing you want is to wind up with a Hump","hoster":["PutLocker"]},
+                {"german":"","english":"Did you check with the Captain of the Flying Monkeys","hoster":["PutLocker"]},
+                {"german":"","english":"If they do go either Way They&#039;re usually Fake","hoster":["PutLocker"]},
+                {"german":"","english":"Twenty-Five Little Pre-pubers Without a Snoot-ful","hoster":["PutLocker"]},
+                {"german":"","english":"Phase one, complete","hoster":["PutLocker"]},
+                {"german":"","english":"Merry Thanksgiving","hoster":["PutLocker"]},
+                {"german":"","english":"Alan Harper, Frontier Chiropractor","hoster":["PutLocker"]},
+                {"german":"","english":"Camel Filters + Pheromones","hoster":["PutLocker"]},
+                {"german":"","english":"Sara like Puny Alan","hoster":["PutLocker"]},
+                {"german":"","english":"I Can&#039;t Afford Hyenas","hoster":["PutLocker"]},
+                {"german":"","english":"Round One to the hot crazy Chick (1)","hoster":["PutLocker"]},
+                {"german":"","english":"That was Saliva, Alan (2)","hoster":["PutLocker"]},
+                {"german":"","english":"Ate the Hamburgers, wearing the Hats","hoster":["PutLocker"]},
+                {"german":"","english":"An old Flame with a new Wick","hoster":["PutLocker"]},
+                {"german":"","english":"I Remember the Coatroom, I Just Don&#039;t Remember You","hoster":["PutLocker"]},
+                {"german":"","english":"Hey, I Can Pee Outside in the Dark","hoster":["PutLocker"]},
+                {"german":"","english":"No Sniffing, no Wowing","hoster":["PutLocker"]},
+                {"german":"","english":"My Doctor has a Cow Puppet","hoster":["PutLocker"]},
+                {"german":"","english":"Just like Buffalo","hoster":["PutLocker"]},
+                {"german":"","english":"Can you feel my Finger?","hoster":["PutLocker"]}
+         ]
+}

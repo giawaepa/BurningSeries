@@ -1,0 +1,33 @@
+{
+        "series":"M*A*S*H",
+        "seasons":11,
+        "cover":"M-A-S-H_ba9c37303b185e8c205e7b06cbc0acda.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ehe- und Gaumenfreuden","english":"Too Many Cooks","hoster":[]},
+                {"german":"Die rote Gefahr","english":"Are You Now, Margaret","hoster":[]},
+                {"german":"Zu allem bereit","english":"Guerilla My Dreams","hoster":[]},
+                {"german":"Leb&#039; wohl, Radar - Teil 1","english":"Good-Bye Radar - Part 1","hoster":[]},
+                {"german":"Leb&#039; wohl, Radar - Teil 2","english":"Good-Bye Radar - Part 2","hoster":[]},
+                {"german":"Krank vor Heimweh","english":"Period of Adjustment","hoster":[]},
+                {"german":"Es war der Priester","english":"Nurse Doctor","hoster":[]},
+                {"german":"Wundersame Wege","english":"Private Finance","hoster":[]},
+                {"german":"Wer, was, wann, wo?","english":"Mr. and Mrs. Who?","hoster":[]},
+                {"german":"War&#039;s der Truthahn?","english":"The Yalu Brick Road","hoster":[]},
+                {"german":"Um Leben und Tod","english":"Life Time","hoster":[]},
+                {"german":"Machen Sie Witze?","english":"Dear Uncle Abdul","hoster":[]},
+                {"german":"Bescheidenheit ist, wenn ...","english":"Captains Outrageous","hoster":[]},
+                {"german":"Solo oder Team?","english":"Stars and Stripes","hoster":[]},
+                {"german":"Wohin mit dem Baby?","english":"Yessir, That&#039;s Our Baby","hoster":[]},
+                {"german":"Gin, Scotch und Cognac","english":"Bottle Fatigue","hoster":[]},
+                {"german":"Heile dich selbst","english":"Heal Thyself","hoster":[]},
+                {"german":"Alte Kameraden","english":"Old Soldiers","hoster":[]},
+                {"german":"Hebt die Moral!","english":"Morale Victory","hoster":[]},
+                {"german":"Siamesische Chirurgen","english":"Lend a Hand","hoster":[]},
+                {"german":"Alibabas Freudenhaus","english":"Goodbye, Cruel World","hoster":[]},
+                {"german":"Schlafen und Träumen","english":"Dreams","hoster":[]},
+                {"german":"Held und Heldin","english":"War Co-Respondent","hoster":[]},
+                {"german":"Soll und Nichthaben","english":"Back Pay","hoster":[]},
+                {"german":"April macht, was er will","english":"April Fools","hoster":[]}
+         ]
+}

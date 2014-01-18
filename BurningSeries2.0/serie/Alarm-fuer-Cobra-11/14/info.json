@@ -1,0 +1,23 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Ende der Welt","english":"","hoster":[]},
+                {"german":"Der Panther","english":"","hoster":[]},
+                {"german":"Operation: Gemini","english":"","hoster":[]},
+                {"german":"Der verlorene Sohn","english":"","hoster":["PutLocker"]},
+                {"german":"Bruderliebe","english":"","hoster":[]},
+                {"german":"Alte Freunde","english":"","hoster":["PutLocker"]},
+                {"german":"Das Kartell","english":"","hoster":[]},
+                {"german":"Rhein in Flammen","english":"","hoster":[]},
+                {"german":"Geliebter Feind","english":"","hoster":[]},
+                {"german":"Kopfgeld auf Kim Krüger","english":"","hoster":[]},
+                {"german":"Koma","english":"","hoster":["PutLocker"]},
+                {"german":"Cyberstorm","english":"","hoster":["PutLocker"]},
+                {"german":"Tag der Finsternis","english":"","hoster":[]},
+                {"german":"Spurlos","english":"","hoster":[]},
+                {"german":"Codename Tiger","english":"","hoster":["PutLocker"]}
+         ]
+}

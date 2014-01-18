@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Macht des Einzelnen",
+         "titleen":"Movie 002",
+         "description":"In der Pokémonwelt herrscht Panik. Der verrückte Pokémon-Sammler Lawrence will den Wächter der drei Elemente Eis, Feuer und Wasser herausfordern. Dazu muss er die Pokémon-Vögel Lavados, Zapdos und Arktos gefangen nehmen. Pokémon-Trainer Ash und seine Freunde werden unwissentlich zu Spielbällen von Lawrence, als sie versuchen, von den drei Inseln der Elemente je eine Kristallkugel zu bergen. Sie haben an einem Ritual teilgenommen - doch jetzt müssen sie gleich die ganze Pokémon-Welt retten.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7131652/Pokemon_2_Die_Macht_Des_Einzelnen_1_8"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7131686/Pokemon_2_Die_Macht_Des_Einzelnen_2_8"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7131753/Pokemon_2_Die_Macht_Des_Einzelnen_3_8"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7131778/Pokemon_2_Die_Macht_Des_Einzelnen_4_8"
+                }
+       ]
+}

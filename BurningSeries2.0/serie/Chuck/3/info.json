@@ -1,0 +1,27 @@
+{
+        "series":"Chuck",
+        "seasons":5,
+        "cover":"Chuck_e64842e7889ebfe9486715b4c589901b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Chuck gegen den Rauswurf","english":"Chuck Versus the Pink Slip","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die drei Worte","english":"Chuck Versus the Three Words","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Engel des Todes","english":"Chuck Versus the Angel de la Muerte","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die Familie","english":"Chuck Versus Operation Awesome","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die First Class","english":"Chuck Versus First Class","hoster":["PutLocker"]},
+                {"german":"Chuck gegen seine Natur","english":"Chuck Versus the Nacho Sampler","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die Maske","english":"Chuck Versus the Mask","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die falsche Identität","english":"Chuck Versus the Fake Name","hoster":["PutLocker"]},
+                {"german":"Chuck gegen das Pech","english":"Chuck Versus the Beard","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die Pille","english":"Chuck Versus the Tic Tac","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Abschlusstest","english":"Chuck Versus the Final Exam","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Hengst","english":"Chuck Versus the American Hero","hoster":["PutLocker"]},
+                {"german":"Chuck gegen Superman","english":"Chuck Versus the Other Guy","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die Flitterwochen","english":"Chuck Versus the Honeymooners","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Tiger","english":"Chuck Versus the Role Models","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Zahn","english":"Chuck Versus the Tooth","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den lebenden Toten","english":"Chuck Versus the Living Dead","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Ring, Teil 1","english":"Chuck Versus the Subway","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Ring, Teil 2","english":"Chuck Versus the Ring: Part 2","hoster":["PutLocker"]}
+         ]
+}

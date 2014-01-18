@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Weg des Drachen (1)",
+         "titleen":"Episode 203",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=137ZymMHYMc"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5743160/Detektiv_Conan_Folge_203_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5743401/Detektiv_Conan_Folge_203_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5743705/Detektiv_Conan_Folge_203_3_3"
+                }
+       ]
+}

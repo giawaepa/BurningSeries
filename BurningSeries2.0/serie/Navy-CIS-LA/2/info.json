@@ -1,0 +1,32 @@
+{
+        "series":"Navy CIS: L.A.",
+        "seasons":3,
+        "cover":"Navy-CIS-L-A_0d8edda38f185e62323fa5717d0cf385.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Jagd ohne Ende","english":"Human Traffic","hoster":["PutLocker","Ecostream"]},
+                {"german":"Die schwarze Witwe","english":"Black Widow","hoster":["PutLocker","Ecostream"]},
+                {"german":"Wüstenfeuer","english":"Borderline","hoster":["PutLocker","Ecostream"]},
+                {"german":"Der Schmuck der Königin","english":"Special Delivery","hoster":["PutLocker","Ecostream"]},
+                {"german":"Neun Stunden","english":"Little Angels","hoster":["PutLocker","Ecostream"]},
+                {"german":"Wer ist Tracy Keller?","english":"Standoff","hoster":["PutLocker","Ecostream"]},
+                {"german":"Neue Gesichter","english":"Anonymous","hoster":["PutLocker","Ecostream"]},
+                {"german":"Kopfgeld","english":"Bounty","hoster":["PutLocker","Ecostream"]},
+                {"german":"Auch Spione werden alt ? Teil 1","english":"Absolution (1)","hoster":["PutLocker","Ecostream"]},
+                {"german":"Auch Spione werden alt ? Teil 2","english":"Deliverance (2)","hoster":["PutLocker","Ecostream"]},
+                {"german":"Geheimes Wissen","english":"Disorder","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Projekt Overwatch","english":"Overwatch","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Kalte Zahlen","english":"Archangel","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Unter Brüdern","english":"Lockup","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Alleingänge","english":"Tin Soldiers","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Kurssturz","english":"Empty Quiver","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Zwei Kugeln","english":"Personal","hoster":["PutLocker","Ecostream"]},
+                {"german":"Ziel markiert","english":"Harm?s Way","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Freund oder Feind?","english":"Enemy Within","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Der Meisterdieb","english":"The Job","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein letzter Test","english":"Rocket Man","hoster":["DivxStage"]},
+                {"german":"Plan B","english":"Plan B","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Die Kündigung","english":"Imposters (1)","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Ferne Familie","english":"Familia (2)","hoster":["PutLocker","DivxStage","Ecostream"]}
+         ]
+}

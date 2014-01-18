@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der neue König / Chad, der große Bruder",
+         "titleen":"King Gus / Big Brother Chad",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=RqVfqLIVU1M"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=V7Wz8i3ckxU"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6118276/Disneys_Grosse_Pause_Episode_9_Der_neue_Koenig"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6118209/Disneys_Grosse_Pause_Episode_10_Chad_der_grosse_Bruder"
+                }
+       ]
+}

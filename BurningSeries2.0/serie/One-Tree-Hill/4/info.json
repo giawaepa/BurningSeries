@@ -1,0 +1,29 @@
+{
+        "series":"One Tree Hill",
+        "seasons":9,
+        "cover":"One-Tree-Hill_2fa03b219e492507d3b23615a456128d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das große Erwachen","english":"The Same Deep Water as You","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Brookes Geburtstag","english":"Things I Forgot at Birth","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gute und schlechte Neuigkeiten","english":"Good News For People Who Love Bad News","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Gerüchteküche","english":"Can&#039;t Stop This Thing We&#039;ve Started","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Psycho-Derek","english":"I Love You But I?ve Chosen Darkness","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Peyton gegen die Angst","english":"Where Did You Sleep Last Night?","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gefälschte Ergebnisse","english":"All These Things That I?ve Done","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das große Bankett","english":"Nothing Left to Say but Goodbye","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gewinnen oder verlieren","english":"Some You Give Away","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Nachricht von Keith","english":"Songs to Love and Die By","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ehrlich währt am längsten","english":"Everything in Its Right Place","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das wahre Glück","english":"Resolve","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bilder von dir","english":"Pictures of You","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lügen und Leidenschaft","english":"Sad Songs for Dirty Lovers","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Skandal-Video","english":"Prom Night at Hater High","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Rückkehr des falschen Bruders","english":"You Call It Madness, but I Call It Love","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ausflug nach Honey Grove","english":"It Gets the Worst at Night","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Moment der Wahrheit","english":"The Runaway Found","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Widmung","english":"Ashes of Dreams You Let Die","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Freud und Leid","english":"The Birth and Death of the Day","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Wege trennen sich","english":"All of a Sudden I Miss Everyone","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

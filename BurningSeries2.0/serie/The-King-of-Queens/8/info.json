@@ -1,0 +1,31 @@
+{
+        "series":"The King of Queens",
+        "seasons":9,
+        "cover":"The-King-of-Queens_bbc35c6d9ebd3e1bdb5e304bbb42d956.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Dancing Queen","english":"Pole Lox","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Schlimme Wörter","english":"Vocal Discord","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der geborgte Job","english":"Consummate Professional","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Teuflisch nette Kollegen","english":"Like Hell","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Gelb vor Neid","english":"Sandwiched Out","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Lori mit den Scherenhänden","english":"Shear Torture","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Pension des Grauens","english":"Inn Escapable","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Höllische Nachbarn","english":"Move Doubt","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"E-Mail für dich","english":"G&#039;Night, Stalker","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Wilde Bullen","english":"Raygin Bulls","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Backe, backe Kuchen","english":"Baker&#039;s Doesn&#039;t","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Baby an Bord!","english":"Fresh Brood","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Carrie Dolittle","english":"Gambling N&#039;Diction","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Zweites Heim, Glück allein","english":"Apartment Complex","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Auf der Mauer, auf der Lauer ...","english":"Buggie Nights","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Aufs Knie gefallen","english":"Knee Jerk","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Das Gemälde des Grauens","english":"Present Tense","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Rapunzels Perücke","english":"Sold-Y Locks","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Krise auf Bestellung","english":"Emotional Rollercoaster","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Partnertausch","english":"Four Play","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Ladies Night","english":"Hartford Wailer","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Kampf der Giganten","english":"Fight Schlub","hoster":["MyVideo","PutLocker"]},
+                {"german":"Ene mene muh","english":"Acting Out","hoster":["YouTube","MyVideo","PutLocker"]}
+         ]
+}

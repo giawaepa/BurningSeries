@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Johnnys Hamburgerbude",
+         "titleen":"Johnny Be Gone",
+         "description":"In Johnny B. Goodes Hamburgerbude sind sich Al und Peggy zum ersten Mal begegnet. Nun soll sie geschlossen werden. Johnny verteilt Nummern für diejenigen, die den letzten Abend bei ihm feiern wollen. Al will dabei sein. Bud muss die ganze Nacht für eine gute Nummer anstehen. Al und Peggy sind ausgehbereit. Da kommt Kelly mit einem großen Problem. Al muss sich entscheiden: Soll er sich um seine Tochter kümmern - oder bei Johnny B. Goode ein letztes Mal speisen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7436818/Eine_Schrecklich_Nette_Familie_Folge_13_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7436839/Eine_Schrecklich_Nette_Familie_Folge_13_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7436879/Eine_Schrecklich_Nette_Familie_Folge_13_Part_3"
+                }
+       ]
+}

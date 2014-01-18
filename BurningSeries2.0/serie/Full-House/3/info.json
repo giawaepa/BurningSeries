@@ -1,0 +1,32 @@
+{
+        "series":"Full House",
+        "seasons":8,
+        "cover":"Full-House_20bd56938965807a7c4bdb8c45cd6edb.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Traumurlaub mit Hindernissen","english":"Tanner&#039;s Island","hoster":[]},
+                {"german":"Teenager-Probleme ","english":"Back to School Blues","hoster":[]},
+                {"german":"Jesse und Becky haben Krach","english":"Breaking up is Hard to Do (in 22 Minutes)","hoster":[]},
+                {"german":"Walter, der Entenkopf ","english":"Nerd for a Day","hoster":[]},
+                {"german":"Omi ist für alle da ","english":"Granny Tanny","hoster":[]},
+                {"german":"Die Große Chance","english":"Star Search","hoster":[]},
+                {"german":"Ein Hund im Haus","english":"And They Call It Puppy Love","hoster":[]},
+                {"german":"Die Streithennen","english":"Divorce Court","hoster":[]},
+                {"german":"Der Tollkühne Jesse","english":"Dr. Dare Rides Again","hoster":[]},
+                {"german":"Ein Verrückter Geburtstag","english":"The Greatest Birthday on Earth","hoster":[]},
+                {"german":"Stephanie steht unter Schock","english":"Aftershocks","hoster":[]},
+                {"german":"Joey verliebt sich","english":"Joey &amp; Stacy and ... Oh, Yeah, Jesse","hoster":[]},
+                {"german":"Jesse blamiert sich","english":"No More Mr. Dumb Guy","hoster":[]},
+                {"german":"D.J. braucht Hilfe","english":"Misadventures in Baby-Sitting","hoster":[]},
+                {"german":"Dannys neue Liebe","english":"Lust in the Dust","hoster":[]},
+                {"german":"Flieg, Vogel, Flieg","english":"Bye, Bye Birdie","hoster":[]},
+                {"german":"D.J.s erster Kuss","english":"13 Candles","hoster":[]},
+                {"german":"Mr. Eierkopf","english":"Mr. Egghead","hoster":[]},
+                {"german":"Eine Gute Lektion","english":"Those Better Not be the Days","hoster":[]},
+                {"german":"Liebling, ich habe das Haus zerstört","english":"Honey, I Broke the House","hoster":[]},
+                {"german":"Ein Falscher Verdacht","english":"Just Say No Way","hoster":[]},
+                {"german":"Michelle ist eifersüchtig","english":"Three Men and Another Baby","hoster":[]},
+                {"german":"Wenn aus Männern Frauen werden","english":"Fraternity Reunion","hoster":[]},
+                {"german":"Die Millionen-Show","english":"Our Very First Telethon","hoster":[]}
+         ]
+}

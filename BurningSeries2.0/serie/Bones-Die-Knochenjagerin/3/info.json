@@ -1,0 +1,23 @@
+{
+        "series":"Bones - Die Knochenjägerin",
+        "seasons":7,
+        "cover":"Bones-Die-Knochenjägerin_e8e06230be32336d27bb8a6446e46de2.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Kannibale und der Hunger auf mehr","english":"The Widow&#039;s Son in the Windshield","hoster":[]},
+                {"german":"Die Mutter, die in die Luft ging","english":"Soccer Mom in the Mini-Van","hoster":[]},
+                {"german":"Der Fall der gerittenen Leiche","english":"Death in the Saddle","hoster":[]},
+                {"german":"Organische Abfälle und ihre Geheimnisse","english":"The Secret in the Soil","hoster":[]},
+                {"german":"Echte Mumien im künstlichen Spuk","english":"Mummy in the Maze","hoster":[]},
+                {"german":"Eine Praktikantin im Ofen","english":"Intern in the Incinerator","hoster":[]},
+                {"german":"Der Junge in der Zeitkapsel","english":"Boy in the Time Capsule","hoster":[]},
+                {"german":"Von Rittern und Kannibalen","english":"The Knight on the Grid","hoster":[]},
+                {"german":"Morgen kommt kein Weihnachtsmann","english":"The Santa in the Slush","hoster":[]},
+                {"german":"Im Schlamm steckt ein Mann","english":"The Man in the Mud","hoster":[]},
+                {"german":"Spieler unter Druck","english":"Player Under Presseure","hoster":[]},
+                {"german":"Ein Baby hängt am Ast","english":"The Baby In The Bough","hoster":[]},
+                {"german":"Das Urteil in der Geschichte","english":"The Verdict in the Sky","hoster":[]},
+                {"german":"Der Möchtegernsänger im Gras","english":"The Wannabe in the Weeds","hoster":[]},
+                {"german":"Mit einem Schmerzen im Herzen","english":"The Pain in the Heart","hoster":[]}
+         ]
+}

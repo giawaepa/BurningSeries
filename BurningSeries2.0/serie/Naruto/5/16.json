@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Doppelte Sakon",
+         "titleen":"Episode 120",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5080749/Naruto_Folge_120_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5080801/Naruto_Folge_120_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5080855/Naruto_Folge_120_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"4B8DEB9F180313EC"
+                }
+       ]
+}

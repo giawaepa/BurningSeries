@@ -1,0 +1,24 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Kein Weg zurück","english":"","hoster":[]},
+                {"german":"Unter Verdacht","english":"","hoster":[]},
+                {"german":"Flashback","english":"","hoster":[]},
+                {"german":"Vertrauenssache","english":"","hoster":[]},
+                {"german":"Unter Feuer","english":"","hoster":[]},
+                {"german":"Frankie","english":"","hoster":[]},
+                {"german":"Der letzte Coup","english":"","hoster":[]},
+                {"german":"Das Versprechen","english":"","hoster":[]},
+                {"german":"Volles Risiko","english":"","hoster":[]},
+                {"german":"Der Fahrer","english":"","hoster":[]},
+                {"german":"Im Angesicht des Todes","english":"","hoster":[]},
+                {"german":"Hals- und Beinbruch","english":"","hoster":[]},
+                {"german":"Die zweite Chance","english":"","hoster":[]},
+                {"german":"Tödliche Bewährung","english":"","hoster":[]},
+                {"german":"Lauras Entscheidung","english":"","hoster":[]},
+                {"german":"Freundschaft","english":"","hoster":[]}
+         ]
+}

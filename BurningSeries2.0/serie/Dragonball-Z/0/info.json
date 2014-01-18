@@ -1,0 +1,23 @@
+{
+        "series":"Dragonball Z",
+        "seasons":10,
+        "cover":"Dragonball-Z_7d6ce1eb7a20cddb926ffffe5d01bb68.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Die Todeszone des Garlic Jr.","english":"","hoster":["PutLocker"]},
+                {"german":"Der Stärkste auf Erden","english":"","hoster":[]},
+                {"german":"Die Entscheidungsschlacht","english":"","hoster":["PutLocker","Sockshare"]},
+                {"german":"Super-Saiyajin Son-Goku","english":"","hoster":["PutLocker","Sockshare"]},
+                {"german":"Rache für Freezer","english":"","hoster":["PutLocker"]},
+                {"german":"Coolers Rückkehr","english":"","hoster":["PutLocker","Sockshare"]},
+                {"german":"Angriff der Cyborgs","english":"","hoster":["PutLocker"]},
+                {"german":"Der legendäre Super Saiyajin","english":"","hoster":["PutLocker","Sockshare"]},
+                {"german":"Super-Saiyajin Son-Gohan","english":"","hoster":["PutLocker"]},
+                {"german":"Brolys Rückkehr","english":"","hoster":["YouTube"]},
+                {"german":"Angriff der Bio Kämpfer","english":"","hoster":[]},
+                {"german":"Fusion","english":"","hoster":["Sockshare"]},
+                {"german":"Drachenfaust","english":"","hoster":[]},
+                {"german":"Spezial 1 ? Son-Gokus Vater","english":"","hoster":["PutLocker","Sockshare"]},
+                {"german":"Spezial 2 ? Die Geschichte von Trunks","english":"","hoster":[]}
+         ]
+}

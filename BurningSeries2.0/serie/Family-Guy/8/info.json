@@ -1,0 +1,29 @@
+{
+        "series":"Family Guy",
+        "seasons":10,
+        "cover":"Family-Guy_1ef52f1420d3e2b6e6e4159f2a83c30a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Road to the Multiverse","hoster":["PutLocker"]},
+                {"german":"","english":"Family Goy","hoster":["PutLocker"]},
+                {"german":"","english":"Spies Reminiscent of Us","hoster":["PutLocker"]},
+                {"german":"","english":"Brian&#039;s Got a Brand New Bag","hoster":["PutLocker"]},
+                {"german":"","english":"Hannah Banana","hoster":["PutLocker"]},
+                {"german":"","english":"Quagmire&#039;s Baby","hoster":["PutLocker"]},
+                {"german":"","english":"Jerome is the New Black","hoster":["PutLocker"]},
+                {"german":"","english":"Dog Gone","hoster":["PutLocker"]},
+                {"german":"","english":"Business Guy","hoster":["PutLocker"]},
+                {"german":"","english":"Big Man on Hippocampus","hoster":["PutLocker"]},
+                {"german":"","english":"Dial Meg for Murder","hoster":["PutLocker"]},
+                {"german":"","english":"Extra Large Medium","hoster":["PutLocker"]},
+                {"german":"","english":"Go, Stewie, Go!","hoster":["PutLocker"]},
+                {"german":"","english":"Peter-assment","hoster":["PutLocker"]},
+                {"german":"","english":"Brian Griffin&#039;s House of Payne","hoster":["PutLocker"]},
+                {"german":"","english":"April In Quahog","hoster":["PutLocker"]},
+                {"german":"","english":"Brian &amp; Stewie","hoster":["PutLocker"]},
+                {"german":"","english":"Quagmire&#039;s Dad","hoster":["PutLocker"]},
+                {"german":"","english":"The Splendid Source","hoster":["PutLocker"]},
+                {"german":"Irgendwo, Irgendwie, Irgendwann auf der dunklen Seite","english":"Something, Something, Something Dark Side","hoster":["PutLocker"]},
+                {"german":"","english":"Partial Terms of Endearment","hoster":["PutLocker"]}
+         ]
+}

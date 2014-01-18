@@ -1,0 +1,22 @@
+{
+        "series":"Drawn Together",
+        "seasons":3,
+        "cover":"Drawn-Together_f8683566dd2ea396298c627af0b43cf5.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Freaks &amp; Greeks","english":"Freaks &amp; Greeks","hoster":["PutLocker"]},
+                {"german":"Wooldoor Sockbat&#039;s Giggle-Wiggle Funny Tickle Non-Traditional Progressive Multicultural Roundtable!","english":"Wooldoor Sockbat&#039;s Giggle-Wiggle Funny Tickle Non-Traditional Progressive Multicultural Roundtable!","hoster":["PutLocker"]},
+                {"german":"Spelling Applebee&#039;s","english":"Spelling Applebee&#039;s","hoster":["PutLocker"]},
+                {"german":"Unrestrainable Trainable","english":"Unrestrainable Trainable","hoster":[]},
+                {"german":"N.R.A.y RAY","english":"N.R.A.y RAY","hoster":[]},
+                {"german":"Mexican&#039;t Buy Me Love","english":"Mexican&#039;t Buy Me Love","hoster":[]},
+                {"german":"Lost in Parking Space - Teil 1","english":"Lost in Parking Space - Teil 1","hoster":[]},
+                {"german":"Lost in Parking Space - Teil 2","english":"Lost in Parking Space - Teil 2","hoster":[]},
+                {"german":"Charlotte&#039;s Web of Lies","english":"Charlotte&#039;s Web of Lies","hoster":["PutLocker"]},
+                {"german":"Breakfast Food Killer","english":"Breakfast Food Killer","hoster":[]},
+                {"german":"Drawn Together Babies","english":"Drawn Together Babies","hoster":[]},
+                {"german":"Nipple Ring-Ring Goes to Foster Care","english":"Nipple Ring-Ring Goes to Foster Care","hoster":[]},
+                {"german":"Toot Goes Bollywood","english":"Toot Goes Bollywood","hoster":[]},
+                {"german":"The Musical Elimination Special","english":"The Musical Elimination Special","hoster":[]}
+         ]
+}

@@ -1,0 +1,33 @@
+{
+        "series":"Die wilden Siebziger",
+        "seasons":8,
+        "cover":"Die-wilden-Siebziger_62c095abab6c57409310f06720d63299.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Straßenkreuzer","english":"That &#039;70s Pilot","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Die Überraschungsparty","english":"Eric&#039;s Birthday","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Präsident Ford und die Nackten","english":"Streaking","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Die Schlacht der Sexisten","english":"Battle of the Sexists","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Erics erster Job","english":"Eric&#039;s Burger Job","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Red, der Partykiller","english":"The Keg","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Disco-Fieber","english":"That Disco Episode","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Eric geht ran!","english":"Drive-In","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Die Reifeprüfung","english":"Thanksgiving","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Die verflixten Sonntage","english":"Sunday, Bloody Sunday","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Erics neuer Freund","english":"Eric&#039;s Buddy","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Der geklaute Weihnachtsbaum","english":"The Best Christmas Ever","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Ausflug in den Schnee","english":"Ski Trip","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Hinter Gittern","english":"Stolen Car","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Red im Schwitzkasten","english":"That Wrestling Show","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Das erste Date","english":"The First Date","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Die Pille","english":"The Pill","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Fürs Leben lernen","english":"Career Day","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Der Abschlussball","english":"Prom Night","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Krieg der Sterne","english":"A New Hope","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Der Sturm im Wasserturm","english":"Water Tower","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"New York ruft","english":"Punk Chick","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Eric, der Großmuttermörder","english":"Grandma&#039;s Dead","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Kekse mit Ketchup","english":"Hyde Moves In","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Der gute Sohn","english":"The Good Son","hoster":["PutLocker","RapidVideo","Ecostream"]}
+         ]
+}

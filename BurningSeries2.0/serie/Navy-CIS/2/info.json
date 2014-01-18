@@ -1,0 +1,31 @@
+{
+        "series":"Navy CIS",
+        "seasons":9,
+        "cover":"Navy-CIS_141ca3e65244fc72f323f852248d3211.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Unsichtbar","english":"See No Evil","hoster":["PutLocker"]},
+                {"german":"Die perfekte Frau","english":"The Good Wives Club","hoster":["PutLocker"]},
+                {"german":"Auge um Auge","english":"Vanished","hoster":["MyVideo","PutLocker"]},
+                {"german":"Neptuns Zeichen","english":"Lt. Jane Doe","hoster":["PutLocker"]},
+                {"german":"Der Maulwurf","english":"The Bone Yard","hoster":["PutLocker"]},
+                {"german":"Schatten der Angst","english":"Terminal Leave","hoster":["PutLocker"]},
+                {"german":"Der Held von Iwo Jima","english":"Call of Silence","hoster":["PutLocker"]},
+                {"german":"Herzenssachen","english":"Heart Break","hoster":["PutLocker"]},
+                {"german":"Leere Augen","english":"Forced Entry","hoster":["PutLocker"]},
+                {"german":"Flucht in Ketten","english":"Chained","hoster":["PutLocker"]},
+                {"german":"Ein Mann für unlösbare Fälle","english":"Black Water","hoster":["PutLocker"]},
+                {"german":"Doppeltes Spiel","english":"Doppelgänger","hoster":["PutLocker"]},
+                {"german":"Blutiges Puzzle","english":"The Meat Puzzle","hoster":["PutLocker"]},
+                {"german":"Die Zeugin","english":"Witness","hoster":["PutLocker"]},
+                {"german":"Männer und Frauen","english":"Caught on Tape","hoster":["PutLocker"]},
+                {"german":"Wege zum Ruhm","english":"Pop Life","hoster":["PutLocker"]},
+                {"german":"Blau wie Kobalt","english":"An Eye for an Eye","hoster":["PutLocker","Sockshare"]},
+                {"german":"Bikini Girl","english":"Bikini Wax","hoster":["PutLocker","Sockshare"]},
+                {"german":"Stimmen","english":"Conspiracy Theory","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die rote Zelle","english":"Red Cell","hoster":["PutLocker"]},
+                {"german":"Mit allen Ehren","english":"Hometown Hero","hoster":["PutLocker","Sockshare"]},
+                {"german":"Todeskuss","english":"SWAK","hoster":["MyVideo","PutLocker"]},
+                {"german":"Die Rückkehr","english":"Twilight","hoster":["PutLocker"]}
+         ]
+}

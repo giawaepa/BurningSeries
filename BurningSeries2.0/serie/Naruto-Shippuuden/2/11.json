@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Sakuras Tränen",
+         "titleen":"Episode 43",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6630181/Naruto_Shippuuden_UNCUT_Folge_43_Deutsch_1_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6630568/Naruto_Shippuuden_UNCUT_Folge_43_Deutsch_2_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6630978/Naruto_Shippuuden_UNCUT_Folge_43_Deutsch_3_3_HQ"
+                }
+       ]
+}

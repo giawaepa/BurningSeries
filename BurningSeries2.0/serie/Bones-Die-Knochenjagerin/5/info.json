@@ -1,0 +1,30 @@
+{
+        "series":"Bones - Die Knochenjägerin",
+        "seasons":7,
+        "cover":"Bones-Die-Knochenjägerin_e8e06230be32336d27bb8a6446e46de2.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Medium für die Liebe und den Tod","english":"Harbingers in the Fountain","hoster":[]},
+                {"german":"Ein Agent im Kofferraum","english":"The Bond in the Boot","hoster":[]},
+                {"german":"Das Einfache im Wunderkind","english":"The Plain in the Prodigy","hoster":[]},
+                {"german":"Es geschah an einem schönen Tag in der Vorstadt","english":"The Beautiful Day in the Neighborhood","hoster":[]},
+                {"german":"Nachts im Bones-Museum","english":"A Night at the Bones Museum","hoster":[]},
+                {"german":"Hennen, Hahn und Hinterlist","english":"The Tough Man in the Tender Chicken","hoster":[]},
+                {"german":"Ein Zwerg, reich und tot, war einmal in Not","english":"The Dwarf in the Dirt","hoster":[]},
+                {"german":"Leben zu Asche im Einfamilienhaus","english":"The Foot in the Foreclosure","hoster":[]},
+                {"german":"Heute: Leiche in Öl","english":"The Gamer in the Grease","hoster":[]},
+                {"german":"Was vom Mann der Weihnacht übrig blieb","english":"The Goop on the Girl","hoster":[]},
+                {"german":"Das X in der Akte","english":"The X in the File","hoster":[]},
+                {"german":"Im Pudding liegt die Wahrheit","english":"The Proof in the Pudding","hoster":[]},
+                {"german":"Die Geheimnisse und ein Zahnarzt","english":"The Dentist in the Ditch","hoster":[]},
+                {"german":"Der Teufel steckt im Detail","english":"The Devil in the Details","hoster":[]},
+                {"german":"Die Liebe und die Dunkelheit","english":"The Bones on the Blue Line","hoster":[]},
+                {"german":"Weniger als die Summe aller Teile?","english":"The Parts in the Sum of the Whole","hoster":[]},
+                {"german":"Die Klasse von 1994","english":"The Death of the Queen Bee","hoster":[]},
+                {"german":"Das Bein im Biest aus dem Becken","english":"The Predator in the Pool","hoster":[]},
+                {"german":"Ein Rocker im Spülgang","english":"The Rocker in the Rinse Cycle","hoster":[]},
+                {"german":"Zwei Hexen im abgebrannten Haus","english":"The Witch in the Wardrobe","hoster":[]},
+                {"german":"Ungesunder Menschenverstand","english":"The Boy with the Answer","hoster":[]},
+                {"german":"Zum Schluss fängt alles an","english":"The Beginning in the End","hoster":[]}
+         ]
+}

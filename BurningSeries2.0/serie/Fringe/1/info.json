@@ -1,0 +1,28 @@
+{
+        "series":"Fringe ? Grenzfälle des FBI",
+        "seasons":4,
+        "cover":"Fringe-Grenzfaelle-des-FBI_d829d7f50602945bffb5750f223aceb1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Flug 627","english":"Pilot","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Experiment","english":"The Same Old Story","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Roy","english":"The Ghost Network","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Ankunft","english":"The Arrival","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Unter Strom","english":"Power Hungry","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Heilmittel","english":"The Cure","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der geheimnisvolle Mr. Jones","english":"In Which We Meet Mr. Jones","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Gleichung","english":"The Equation","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Schmetterlinge im Kopf","english":"The Dreamscape","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Durch die Wand","english":"Safe","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Schnupfenvirus","english":"Bound","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Hirnfresser","english":"The No-Brainer","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Conrad","english":"The Transformation","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Manifest","english":"Ability","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ohne Worte","english":"Inner Child","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Entfesselt","english":"Unleashed","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Alpträume","english":"Bad Dreams","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Nachtschatten","english":"Midnight","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der andere Weg","english":"The Road Not Taken","hoster":["PutLocker","DivxStage"]},
+                {"german":"Nichts ist einzigartig","english":"There&#039;s More Than One of Everything","hoster":["PutLocker","DivxStage"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Gretchen, das Genie / Der unbekannte Speedy",
+         "titleen":"My Fair Gretchen / Speedy, the hardly known",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=zb-gU4Hie5o"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=oLD99n6YfmM"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6118243/Disneys_Grosse_Pause_Episode_11_Gretchen_das_Genie"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6118294/Disneys_Grosse_Pause_Episode_12_Der_unbekannte_Speedy"
+                }
+       ]
+}

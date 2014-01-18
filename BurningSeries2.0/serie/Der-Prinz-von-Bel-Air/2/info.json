@@ -1,0 +1,32 @@
+{
+        "series":"Der Prinz von Bel Air",
+        "seasons":6,
+        "cover":"Der-Prinz-von-Bel-Air_8852ec7f531d3cc12b2010591068939f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Wer bebt ? die Erde oder du?","english":"Did the Earth Move for You?","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Die Mutter aller Schlachten","english":"The Mother of All Battles","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Will, der Pirat","english":"Will Gets a Job","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Intelligenztest","english":"Psat Story","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Ratet mal, wer heiratet","english":"Guess Who´s Coming To Marry?","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Grandma legt los","english":"Grandma Gets Busy, Granny Gets ...","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Mit 40 fängt das Leben an","english":"The Big Four-Oh","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Schwer in Ordnung","english":"She Ain´t Heavy","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Fahr nie ohne Brille","english":"Cased Up","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Wer ist hier der Dieb?","english":"Hi-Ho Silver","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Der Butler wars!","english":"The Butler Did It","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Wie gewonnen, so zerronnen","english":"Something for Nothing","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Weihnachtsvorstellung","english":"Christmas Show","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Ein Beruf für die Prinzessin","english":"","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Der Ball ist rund","english":"My Brother&#039;s Keeper","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Das 25-Millionen-Dollar-Ding","english":"Geoffrey Cleans Up","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Butler Jazz","english":"Community Action","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Mandeln und Memoiren","english":"I&#039;ll Will","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Der Preis ist heiß","english":"Eyes on the Price","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Das waren Zeiten","english":"Those Were the Days","hoster":["MyVideo","PutLocker","Sockshare","BitShare"]},
+                {"german":"Meine Mama gehört mir","english":"Vying for Attention","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Lester auf der Couch","english":"The Aunt Who Came to Dinner","hoster":["MyVideo","PutLocker","Sockshare","BitShare"]},
+                {"german":"Eine schwere Geburt","english":"Be My Baby Tonight","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Striptease für zwei","english":"Striptease for Two","hoster":["MyVideo","PutLocker","Sockshare","BitShare"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der verliebte Kommissar (2)",
+         "titleen":"Episode 221",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=OrqWSYVsoSg"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5799700/Detektiv_Conan_Folge_221_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5800172/Detektiv_Conan_Folge_221_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5800515/Detektiv_Conan_Folge_221_3_3"
+                }
+       ]
+}

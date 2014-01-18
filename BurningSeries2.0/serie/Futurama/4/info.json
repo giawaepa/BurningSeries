@@ -1,0 +1,21 @@
+{
+        "series":"Futurama",
+        "seasons":6,
+        "cover":"Futurama_979ef846f0c79ee83e7d3bcc3912fa2a.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Smizmarr oder der Tee des Lebens","english":"Kif Gets Knocked Up a Notch","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Waise des Jahres","english":"Leela&#039;s Homeworld","hoster":["PutLocker","DivxStage"]},
+                {"german":"Liebe und Raketen","english":"Love and Rocket","hoster":["PutLocker","DivxStage"]},
+                {"german":"Superhelden","english":"Less Than Hero","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Geschmack der Freiheit","english":"A Taste of Freedom","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wer ist hier cool?","english":"Bender Should Not Be Allowed on TV","hoster":["PutLocker"]},
+                {"german":"Gebell aus der Steinzeit","english":"Jurassic Bark","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die stinkende Medaille der Umweltverschmutzung","english":"Crimes of the Hot","hoster":["PutLocker"]},
+                {"german":"Die Quelle des Alterns","english":"Teenage Mutant Leela&#039;s Hurdles","hoster":["PutLocker","DivxStage"]},
+                {"german":"Philip J. Fry: V.I.P","english":"The Why of Fry","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der letzte Trekki","english":"Where No Fan Has Gone Before","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Stich","english":"The Sting","hoster":["PutLocker","DivxStage"]},
+                {"german":"Coilette &amp; Calculon - Eine Liebesgeschichte","english":"Bend Her","hoster":["PutLocker","DivxStage"]}
+         ]
+}

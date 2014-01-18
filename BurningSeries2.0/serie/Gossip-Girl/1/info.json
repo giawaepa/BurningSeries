@@ -1,0 +1,26 @@
+{
+        "series":"Gossip Girl",
+        "seasons":5,
+        "cover":"Gossip-Girl_f9c8cb175a5621ae8be8f5da39d9a280.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Rückkehr","english":"Pilot","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Rache ist süß","english":"The Wild Brunch","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wie du mir so ich dir","english":"Poison Ivy","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ausgetrickst","english":"Bad News Blair","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wahrheit oder Pflicht","english":"Dare Devil","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Maskenball","english":"The Handmaiden&#039;s Tale","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Wahrheit kommt ans Licht","english":"Victor, Victrola","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"17 Kerzen","english":"Seventeen Candles","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","UploadC"]},
+                {"german":"Was war und was ist","english":"Blair Waldorf Must Pie!","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","UploadC"]},
+                {"german":"Ballsaison","english":"Hi, Society","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Fröhliche Weihnachten","english":"Roman Holiday","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Stolz und Lügen","english":"School Lies","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der schmale Grat","english":"The Thin Line Between Chuck and Nate","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Süße 15","english":"The Blair Bitch Project","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Serena verzweifelt gesucht","english":"Desperately Seeking Serena","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Spiel mit der Wahrheit","english":"All About My Brother","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Spiel geht weiter","english":"Woman on the Verge","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Abschied","english":"Much &#039;I Do&#039; About Nothing","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]}
+         ]
+}

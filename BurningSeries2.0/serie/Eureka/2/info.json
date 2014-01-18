@@ -1,0 +1,21 @@
+{
+        "series":"Eureka ? Die geheime Stadt",
+        "seasons":5,
+        "cover":"Eureka-Die-geheime-Stadt_08a8ad78e757dda13dc6181775c80b11.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die brennenden Wissenschaftler","english":"Phoenix Rising","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Gefangen im Kraftfeld","english":"Try,Try Again","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Stürmische Zeiten","english":"Unpredictable","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das verrückte Licht","english":"The Games People Play","hoster":["PutLocker","DivxStage"]},
+                {"german":"Achtung Meteoriten","english":"Duck Duck Goose","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Ansteckende Träume","english":"Noche de Suenos","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Familientreffen","english":"Family Reunion","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Voll blöd","english":"E=MC...?","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der unsichtbare Erste","english":"Sight Unseen","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Das Tor zur Ewigkeit","english":"God is in the Details","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Unwiderstechlich","english":"Maneater","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Der Fluch des Alchimisten","english":"All That Glitters","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Eine Nacht bei Global Dynamics","english":"A Night at Global Dynamics","hoster":["PutLocker","Ecostream"]}
+         ]
+}

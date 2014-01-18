@@ -1,0 +1,31 @@
+{
+        "series":"The Mentalist",
+        "seasons":4,
+        "cover":"The-Mentalist_b499d969570af95071715644774fe7fc.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Red John","english":"Pilot","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Romeo und Julia","english":"Red Hair and Silver Tape","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Surfin&#039; California","english":"Red Tide","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die schöne Witwe","english":"Ladies in Red","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Beste Freundinnen","english":"Redwood","hoster":["PutLocker"]},
+                {"german":"Tisch 43","english":"Red-Handed","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Stimmen aus dem Jenseits","english":"Seeing Red","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schüsse in Zimmer 22","english":"The Thin Red Line","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Flammen der Rache","english":"Flame Red","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verbrecher oder Heilige","english":"Red Brick and Ivy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Freund eines Freundes","english":"Red John?s Friends","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Böser Zauber","english":"Red Rum","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Original und Fälschung","english":"Paint In Red","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Frauenflüsterer","english":"Crimson Casanova","hoster":["PutLocker"]},
+                {"german":"Lippenstift und Gift","english":"Scarlett Fever","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schwarz wie die Nacht","english":"Bloodshot","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Im freien Fall","english":"Carnelian Inc.","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hypnose","english":"Russet Potatoes","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein Dutzend Rosen","english":"A Dozen Red Roses","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Golf mit dem Paten","english":"Red Sauce","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Millionenspiel","english":"Miss Red","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Axt im Walde","english":"Blood Brothers","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Lauf der Welt","english":"Red John?s Footsteps","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,31 @@
+{
+        "series":"Still Standing",
+        "seasons":4,
+        "cover":"Still-Standing_2ea2bb7ba00d6e18ccc1a17dc5af4edc.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Vertrag mit Lauren","english":"Still Negotiating","hoster":["YouTube"]},
+                {"german":"Fahrstunden","english":"Still Driving","hoster":["YouTube"]},
+                {"german":"Die Notlüge","english":"Still the Bad Parents","hoster":["YouTube"]},
+                {"german":"Dicke Kumpels","english":"Still Our Kids","hoster":["YouTube"]},
+                {"german":"Die Sommer-Affäre","english":"Still Got It","hoster":["YouTube"]},
+                {"german":"Die Ladendiebin","english":"Still Shoplifting","hoster":["YouTube"]},
+                {"german":"Große überraschung","english":"Still Our Little Boy","hoster":["YouTube"]},
+                {"german":"Die Einmischer","english":"Still Interfering","hoster":["YouTube"]},
+                {"german":"Das Vorbild","english":"Still Dreaming","hoster":["YouTube"]},
+                {"german":"Du sollst nicht lügen","english":"Still Believing","hoster":["YouTube"]},
+                {"german":"Frohe Weihnachten","english":"Still Christmas","hoster":[]},
+                {"german":"Lügen haben kurze Beine","english":"Still Responsible","hoster":["YouTube"]},
+                {"german":"Der Coole von der Schule","english":"Still Narcing","hoster":["YouTube"]},
+                {"german":"Vater und Sohn","english":"Still Bill&#039;s Dad","hoster":["YouTube"]},
+                {"german":"Der Flirt","english":"Still Flirting","hoster":["YouTube"]},
+                {"german":"Umarmung mit Folgen","english":"Still Groping","hoster":["YouTube"]},
+                {"german":"Die Parade","english":"Still Parading","hoster":["YouTube"]},
+                {"german":"Mit gutem Beispiel voran","english":"Still Stressing","hoster":["YouTube"]},
+                {"german":"Der Mann im Haus","english":"Still The Man","hoster":["YouTube"]},
+                {"german":"Der Wettstreit","english":"Still Hangin&#039; Out","hoster":["YouTube"]},
+                {"german":"Das Geheimnis","english":"Still In Cahoots","hoster":["YouTube"]},
+                {"german":"Der Herr des Ringes","english":"Still Champions","hoster":["YouTube"]},
+                {"german":"Brian zieht aus","english":"Still Seceding","hoster":["YouTube"]}
+         ]
+}

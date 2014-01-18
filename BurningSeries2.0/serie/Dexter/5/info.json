@@ -1,0 +1,20 @@
+{
+        "series":"Dexter",
+        "seasons":6,
+        "cover":"Dexter_e97f436efe89e3a3de52918566ece733.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Auf Wiedersehen, Rita Bennett!","english":"My Bad","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Auf der Fährte","english":"Hello, Bandit","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Das Gefühl der Leere","english":"Practically Perfect","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Der Mörder und das Biest","english":"Beauty And The Beast","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Gier nach Vergeltung","english":"First Blood","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Alles ist illumeniert","english":"Everything is Illuminated","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Das Licht der Dunkelheit","english":"Circle Us","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Hol?s dir!","english":"Take It!","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Kein guter Tag","english":"Teenage Wasteland","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Nummer 13","english":"In The Beginning","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Verliebte Rächer","english":"Hop A Freighter","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Das Eine und das Andere","english":"The Big One","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]}
+         ]
+}

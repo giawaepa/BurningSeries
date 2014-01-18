@@ -1,0 +1,28 @@
+{
+        "series":"MacGyver",
+        "seasons":7,
+        "cover":"MacGyver_32b13a08c0cdaa31b722c1f6cf3618cd.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Eine tödliche Liebe - Teil 1","english":"Lost Love (1)","hoster":["PutLocker"]},
+                {"german":"Eine tödliche Liebe - Teil 2","english":"Lost Love (2)","hoster":["PutLocker"]},
+                {"german":"Schatten der Vergangenheit","english":"Back From the Dead","hoster":["PutLocker"]},
+                {"german":"Das Geisterschiff","english":"Ghost Ship","hoster":[]},
+                {"german":"Wer zuletzt lacht, lacht am besten","english":"Fire and Ice","hoster":["PutLocker"]},
+                {"german":"GX - 1","english":"GX-1","hoster":["PutLocker"]},
+                {"german":"Wozu sind Freunde da","english":"Jack in the Box","hoster":[]},
+                {"german":"Schwindelnde Höhen","english":"The Widowmaker","hoster":["PutLocker"]},
+                {"german":"Hindernisse","english":"Hell Week","hoster":["PutLocker"]},
+                {"german":"Das Attentat","english":"Blow Out","hoster":["PutLocker"]},
+                {"german":"Gefahr aus dem Weltall","english":"Kill Zone","hoster":["PutLocker"]},
+                {"german":"Der neue Boss","english":"Early Retirement","hoster":[]},
+                {"german":"Riskantes Spiel","english":"Thin Ice","hoster":["PutLocker"]},
+                {"german":"Das Gangstertrio","english":"The Odd Triple","hoster":["PutLocker"]},
+                {"german":"Mord auf Bestellung","english":"The Negotiator","hoster":["PutLocker"]},
+                {"german":"Giftmüllbeseitigung ganz modern","english":"The Spoilers","hoster":["PutLocker"]},
+                {"german":"Die Wolfsmaske","english":"Mask of the Wolf","hoster":["PutLocker"]},
+                {"german":"Ein millionenschweres Baby","english":"Rock the Cradle","hoster":["PutLocker"]},
+                {"german":"Wilderer auf Menschenjagd","english":"The Endangered","hoster":["PutLocker"]},
+                {"german":"Der Letzte der Familie Chung","english":"Murderer&#039;s Sky","hoster":["PutLocker"]}
+         ]
+}

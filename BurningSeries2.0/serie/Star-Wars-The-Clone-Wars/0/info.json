@@ -1,0 +1,9 @@
+{
+        "series":"Star Wars: The Clone Wars",
+        "seasons":4,
+        "cover":"Star-Wars-The-Clone-Wars_164076794aa451946eb1a006e4e3226b.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"The Clone Wars","english":"The Clone Wars","hoster":["PutLocker","DivxStage"]}
+         ]
+}

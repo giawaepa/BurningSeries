@@ -1,0 +1,31 @@
+{
+        "series":"Kyle XY",
+        "seasons":3,
+        "cover":"Kyle-XY_13e45f1241882a3fd62b169aa8d71068.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Prophet","english":"The Prophet","hoster":["PutLocker"]},
+                {"german":"Die Rückkehr","english":"The Homecoming","hoster":["PutLocker"]},
+                {"german":"Die Liste","english":"The List is Life","hoster":["PutLocker"]},
+                {"german":"Balanceakt","english":"Balancing Act","hoster":["PutLocker"]},
+                {"german":"Das Armband","english":"Come to Your Senses","hoster":["PutLocker"]},
+                {"german":"Visionen","english":"Does Kyle Dream of Electric Fish","hoster":["PutLocker"]},
+                {"german":"Ziviler Ungehorsam","english":"Free To Be You and Me","hoster":["YouTube","PutLocker"]},
+                {"german":"Der verlorene Sohn","english":"What&#039;s the Frequency, Kyle?","hoster":["YouTube","PutLocker"]},
+                {"german":"Geister","english":"Ghost in the Machine","hoster":["YouTube","PutLocker"]},
+                {"german":"Der Ring","english":"House of Cards","hoster":["YouTube","PutLocker"]},
+                {"german":"Die Wahrheit kommt ans Licht","english":"Hands on a Hybrid","hoster":["YouTube","PutLocker"]},
+                {"german":"Ausgangssperre","english":"Lockdown","hoster":["YouTube","PutLocker"]},
+                {"german":"Auf der Suche","english":"Leap of Faith","hoster":["YouTube","PutLocker"]},
+                {"german":"Alles oder Nichts","english":"To C.I.R., With Love","hoster":["YouTube","PutLocker"]},
+                {"german":"Zukunftspläne","english":"The Future&#039;s So Bright, I Gotta Wear Shades","hoster":["YouTube","PutLocker"]},
+                {"german":"Ein ausgeklügelter Plan","english":"Great Expectations","hoster":["YouTube","PutLocker"]},
+                {"german":"Tarnung ist alles","english":"Grounded","hoster":["YouTube","PutLocker"]},
+                {"german":"Erster Arbeitstag","english":"Between the Rack and a Hard Place","hoster":["YouTube","PutLocker"]},
+                {"german":"Selbstheilung","english":"First Cut Is the Deepest","hoster":["YouTube","PutLocker"]},
+                {"german":"Kyle unplugged","english":"Primary Colors","hoster":["YouTube","PutLocker"]},
+                {"german":"Grauzonen","english":"Grey Matters","hoster":["YouTube","PutLocker"]},
+                {"german":"Hallo","english":"Hello","hoster":["YouTube","PutLocker"]},
+                {"german":"Der Abschlussball","english":"I&#039;ve Had the Time of My Life","hoster":["YouTube","PutLocker"]}
+         ]
+}

@@ -1,0 +1,31 @@
+{
+        "series":"Das A-Team",
+        "seasons":5,
+        "cover":"Das-A-Team_326982f33c15520fd5d58216d5ecfd79.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Diamantenfieber","english":"Diamonds &#039;n Dust","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der singende Golfball","english":"Recipe For Heavy Bread","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zwei Nonnen zuviel","english":"The Only Church In Town","hoster":["PutLocker"]},
+                {"german":"Marias Mutter","english":"Bad Day On The Border","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wilde Mustangs","english":"When You Coming Back, Range Rider? (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Retter der Prärie","english":"When You Coming Back, Range Rider? (2)","hoster":[]},
+                {"german":"Karambolagen","english":"The Taxicab Wars","hoster":["PutLocker","Sockshare"]},
+                {"german":"Arbeitskampf","english":"Labor Pains","hoster":["PutLocker","Sockshare"]},
+                {"german":"Garbers letzter Kampf","english":"There","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wasserspieler","english":"Water, Water Everywhere","hoster":["PutLocker","Sockshare"]},
+                {"german":"Auf Sand gebaut","english":"Steel","hoster":["PutLocker"]},
+                {"german":"Gut gewählt ist halb gemordet","english":"The White Ballot","hoster":["PutLocker"]},
+                {"german":"Die Malteser Kuh","english":"The Maltese Cow","hoster":["PutLocker"]},
+                {"german":"Grenzschiebereien","english":"In Plane Sight","hoster":["PutLocker"]},
+                {"german":"Die neue Dame","english":"The Battle Of Bel Air","hoster":["PutLocker"]},
+                {"german":"Scheingefechte","english":"Say It With Bullets","hoster":["PutLocker"]},
+                {"german":"Schwarzbrenner","english":"Pure-dee Poison","hoster":["PutLocker"]},
+                {"german":"Skorpione","english":"It&#039;s A Desert Out There","hoster":["PutLocker"]},
+                {"german":"Gebrauchtwagenhandel","english":"Chopping Spree","hoster":["PutLocker"]},
+                {"german":"Ein Kinderspiel","english":"Harder Than It Looks","hoster":["PutLocker"]},
+                {"german":"Überlebenstraining","english":"Deadly Maneuvers","hoster":["PutLocker"]},
+                {"german":"Brennende Gemeinde","english":"Semi-friendly Persuasion","hoster":["PutLocker"]},
+                {"german":"Das Spiel ist aus","english":"Curtain Call","hoster":[]}
+         ]
+}

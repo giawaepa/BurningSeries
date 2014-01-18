@@ -1,0 +1,21 @@
+{
+        "series":"Futurama",
+        "seasons":6,
+        "cover":"Futurama_979ef846f0c79ee83e7d3bcc3912fa2a.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Zeit und Raum 3000","english":"Space Pilot 3000","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Sein erster Flug zum Mond","english":"The Series Has Landed","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Wohnungssuche in Neu-New York","english":"I, Roommate","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Begegnung mit Zapp Brannigan","english":"Love Labour?s Lost in Space","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Planet der Roboter","english":"Fear of a Bot Planet","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Das Geheimnis der Anchovis","english":"A Fishful of Dollars","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Die Galaxis des Terrors","english":"My Three Suns","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Müll macht erfinderisch","english":"A Big Piece of Garbage","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Ein echtes Höllenspektakel","english":"Hell is Other Robots","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Panik auf Raumschiff Titanic","english":"A Flight to Remember","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Das Experiment der Mars-Universität","english":"Mars University","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Wenn Außerirdische angreifen","english":"When Aliens Attack","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Die Party mit Slurm McKenzie","english":"Fry and the Slurm Factory","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]}
+         ]
+}

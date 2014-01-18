@@ -1,0 +1,30 @@
+{
+        "series":"Die Nanny",
+        "seasons":6,
+        "cover":"Die-Nanny_cc93ba8c776dd8f55d732628b0ffc79c.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Overboard - Eine Nanny fällt ins Wasser","english":"The Honeymoon&#039;s Overboard","hoster":["YouTube"]},
+                {"german":"Der kleine, leise Tod","english":"Fran Gets Shushed","hoster":["YouTube"]},
+                {"german":"Einmal Nanny, immer Nanny","english":"Once A Secretary, Always A Secretary","hoster":["YouTube"]},
+                {"german":"Die Eltern der Ex-Braut","english":"Sara?s Parents","hoster":["YouTube"]},
+                {"german":"Ein Sexgott stieg vom Olymp","english":"Maggie&#039;s Boyfriend","hoster":["YouTube"]},
+                {"german":"Schwangerschaft: Positiv!","english":"I&#039;m Pregnant","hoster":["YouTube"]},
+                {"german":"Wie wär?s mit Schlomo Sheffield","english":"Mom?s The Word","hoster":["YouTube"]},
+                {"german":"Wie man schwanger wird, ohne Whoopi Goldberg um ein Autogramm fragen zu müssen","english":"Making Whoopi","hoster":["YouTube"]},
+                {"german":"Skiparty bei Präsident Clinton","english":"Oh, Say, You Can Ski?","hoster":["YouTube"]},
+                {"german":"Verloren im Schneesturm","english":"The Hanukkah Story","hoster":["YouTube"]},
+                {"german":"Sylvia liebt dich","english":"The In-law Who Came Forever","hoster":["YouTube"]},
+                {"german":"Im Spiegel ist die Zukunft nicht immer rosarot","english":"The Fran In The Mirror","hoster":["YouTube"]},
+                {"german":"Wo Herman Munster aufs College ging...","english":"The Yummy Mummy","hoster":["YouTube"]},
+                {"german":"Kalifornien, wir kommen!","english":"California Here We Come","hoster":["YouTube"]},
+                {"german":"Sylvia, ein Ehemann... und ?ne heiße Affäre","english":"Maternal Affairs","hoster":["YouTube"]},
+                {"german":"Liebe nach Drehbuch","english":"The Producers","hoster":["YouTube"]},
+                {"german":"Babys aus Plastik","english":"The Dummy Twins","hoster":["YouTube"]},
+                {"german":"Yettas Briefe","english":"Yetta&#039;s Letters","hoster":["YouTube"]},
+                {"german":"Woman In Love","english":"Maggie&#039;s Wedding","hoster":["YouTube"]},
+                {"german":"Affäre in blond","english":"The Baby Shower","hoster":["YouTube"]},
+                {"german":"Die glücklichste Fran der Welt, Teil 1","english":"The Finale Part I","hoster":["YouTube"]},
+                {"german":"Die glücklichste Fran der Welt, Teil 2","english":"The Finale Part II","hoster":["YouTube"]}
+         ]
+}

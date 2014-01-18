@@ -1,0 +1,26 @@
+{
+        "series":"Burn Notice",
+        "seasons":5,
+        "cover":"Burn-Notice_2a43426d672b7e1063d29f86d40d4679.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Friends and Enemies","hoster":[]},
+                {"german":"","english":"Fast Friends","hoster":[]},
+                {"german":"","english":"Made Man","hoster":[]},
+                {"german":"","english":"Breach of Faith","hoster":[]},
+                {"german":"","english":"Neighborhood Watch","hoster":[]},
+                {"german":"","english":"Entry Point","hoster":[]},
+                {"german":"","english":"Past &amp; Future Tense","hoster":[]},
+                {"german":"","english":"Where There&#039;s Smoke","hoster":[]},
+                {"german":"","english":"Center of the Storm","hoster":[]},
+                {"german":"","english":"Hard Time","hoster":[]},
+                {"german":"","english":"Blind Spot","hoster":[]},
+                {"german":"","english":"Guilty as Charged","hoster":[]},
+                {"german":"","english":"Eyes Open","hoster":[]},
+                {"german":"","english":"Hot Property","hoster":[]},
+                {"german":"","english":"Brotherly Love","hoster":[]},
+                {"german":"","english":"Dead or Alive","hoster":[]},
+                {"german":"","english":"Out of the Fire","hoster":[]},
+                {"german":"","english":"Last Stand","hoster":[]}
+         ]
+}

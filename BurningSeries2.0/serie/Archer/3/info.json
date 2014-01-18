@@ -1,0 +1,11 @@
+{
+        "series":"Archer",
+        "seasons":3,
+        "cover":"Archer_316f77981f4415e0e78c3fc42862687b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Heart of Archness, Part I","hoster":[]},
+                {"german":"","english":"Heart of Archness, Part II","hoster":["PutLocker"]},
+                {"german":"","english":"Heart of Archness, Part III","hoster":["PutLocker"]}
+         ]
+}

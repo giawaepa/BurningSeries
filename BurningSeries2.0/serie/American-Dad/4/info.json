@@ -1,0 +1,28 @@
+{
+        "series":"American Dad",
+        "seasons":7,
+        "cover":"American-Dad_ff475b83acefe494dafbe34c812419d8.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das darf man nur als Teenager","english":"1600 Candles","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Ein Roger sieht rot","english":"The One That Got Away","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Bullock und sein Ja-Sager","english":"One Little Word","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Travis oder Stan?","english":"Choosy Wives Choose Smith","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Steve, die Klapperschlange","english":"Escape from Pearl Bailey","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Haylay liebt Stan Bil","english":"Pulling Double Booty","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Das Phantom des Spendenmarathons","english":"Phantom of the Telethon","hoster":["PutLocker","Sockshare"]},
+                {"german":"Nur die inneren Werte zählen...oder?!","english":"Chimdale","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Stan-Zeit","english":"Stan Time","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Roger im Familienrausch","english":"Family Affair","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Gesetz ist Gesetz","english":"Live and Let Fry","hoster":["PutLocker","Sockshare"]},
+                {"german":"Roy Rogers McFreely","english":"Roy Rogers McFreely","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Jack ist wieder da","english":"Jack?s Back","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Bar-Mizwa - Clou","english":"Bar Mitzvah Shuffle","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Die Ersatzehefrau","english":"Wife Insurance","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Delorean-Roadtrip","english":"Delorean Story-an","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Ein Vater-Sohn-Moment","english":"Every Which Way But Lose","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Entscheider","english":"Weiner of Our Discontent","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Schwul ist cool","english":"Daddy Queerest","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Eine Nacht für Stan","english":"Stan?s Night Out","hoster":["PutLocker","Sockshare"]}
+         ]
+}

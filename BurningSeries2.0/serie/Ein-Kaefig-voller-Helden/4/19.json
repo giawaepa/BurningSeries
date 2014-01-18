@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Ein Schock fürs Leben",
+         "titleen":"Watch the Trains go by",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7681813/Ein_Kaefig_voller_Helden_Folge_111_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7681814/Ein_Kaefig_voller_Helden_Folge_111_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7681809/Ein_Kaefig_voller_Helden_Folge_111_3_3"
+                }
+       ]
+}

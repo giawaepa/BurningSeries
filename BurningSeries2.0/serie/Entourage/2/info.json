@@ -1,0 +1,22 @@
+{
+        "series":"Entourage",
+        "seasons":8,
+        "cover":"Entourage_bf0bdac8ab078439059a825957b1c9b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"The Boys are back in Town","english":"The Boys are back in Town","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Mein Maserati fährt 210","english":"My Maserati Does 185","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hugh Hefner lässt bitten","english":"Aquamansion","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein heißer Tipp","english":"An Offer Refused","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Nachbarin","english":"Neighbors","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Chinatown","english":"Chinatown","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das große Festival","english":"The Sundance Kids","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Oh, Mandy","english":"Oh, Mandy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ich liebe dich auch","english":"I Love You Too","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Bat Mitzvah-Feier","english":"The Bat Mitzvah","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Geburtstagsgeschenk","english":"Blue Balls Lagoon","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Good Morning Saigon","english":"Good Morning Saigon","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Jedem das Seine","english":"Exodus","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Am Abgrund","english":"The Abyss","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

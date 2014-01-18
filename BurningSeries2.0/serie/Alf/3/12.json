@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der Zauberlehrling",
+         "titleen":"Do You Believe in Magic?",
+         "description":"Alf hat einen Zauberkasten geschenkt bekommen. Leider scheint von all den tollen Tricks nur einer zu klappen: Brian verschwindet aus der Kiste und wird in ein Kaninchen verwandelt.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6812908/ALF_Der_Zauberlehrling_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6812998/ALF_Der_Zauberlehrling_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6813082/ALF_Der_Zauberlehrling_3_3"
+                }
+       ]
+}

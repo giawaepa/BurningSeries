@@ -1,0 +1,28 @@
+{
+        "series":"Stargate Atlantis",
+        "seasons":5,
+        "cover":"Stargate-Atlantis_ee999920628865c8e0efe0eced7ee852html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Verloren im All","english":"Adrift (2)","hoster":["MyVideo","PutLocker"]},
+                {"german":"Rettungsleine","english":"Lifeline (3)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Das Wiedersehen","english":"Reunion","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Doppelgänger","english":"Doppelganger","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Reisende","english":"Travelers","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Tabula Rasa","english":"Tabula Rasa","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Verschollen","english":"Missing","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Seher","english":"The Seer","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Fehlentscheidung","english":"Miller&#039;s Crossing","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Mühsal des Sterblichen","english":"This Mortal Coil (1)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Große und kleine Sünden","english":"Be All My Sins Remember&#039;d (2)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Kriegsbeute","english":"Spoils of War (3)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Quarantäne","english":"Quarantine","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Prinzessin Harmony","english":"Harmony","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Ausgestossene","english":"Outcast","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Trio","english":"Trio","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Auf der Mittelstation","english":"Midway","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Verwandte - Teil 1","english":"The Kindred (1)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Verwandte - Teil 2","english":"The Kindred (2)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der letzte Mann","english":"The Last Man (1)","hoster":["MyVideo","PutLocker","DivxStage"]}
+         ]
+}

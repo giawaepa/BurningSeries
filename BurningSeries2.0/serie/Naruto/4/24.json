@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Eine Mission der Klasse: 1A Zoff!",
+         "titleen":"Episode 102",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6288648/Naruto_Folge_102_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6288674/Naruto_Folge_102_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6288744/Naruto_Folge_102_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"B552D695C78EA5CE"
+                }
+       ]
+}

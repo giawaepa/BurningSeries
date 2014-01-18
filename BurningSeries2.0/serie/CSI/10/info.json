@@ -1,0 +1,31 @@
+{
+        "series":"CSI: Den Tätern auf der Spur",
+        "seasons":12,
+        "cover":"CSI-Den-Taetern-auf-der-Spur_a5a70731c9e7b0fd031284dab691f885.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Meine Leiche, deine Leiche","english":"Family Affair","hoster":["PutLocker"]},
+                {"german":"Sehnsüchte in Sodom","english":"Ghost Town","hoster":["PutLocker"]},
+                {"german":"Fast wie du und ich","english":"Working Stiffs","hoster":["PutLocker"]},
+                {"german":"Coup de gráce?","english":"Coup de Grace","hoster":["PutLocker"]},
+                {"german":"Sport &amp; Mord","english":"Bloodsport","hoster":["PutLocker"]},
+                {"german":"Der Tod und das Mädchen","english":"Death and The Maiden","hoster":["PutLocker"]},
+                {"german":"Reise an das Ende der Moral","english":"The Lost Girls","hoster":["PutLocker"]},
+                {"german":"Kopfball","english":"Lover&#039;s Lanes","hoster":["PutLocker"]},
+                {"german":"Mit besten Grüßen, Dr. Jekyll","english":"Appendicitement","hoster":["PutLocker"]},
+                {"german":"Romeo will sterben","english":"Better Off Dead","hoster":["PutLocker"]},
+                {"german":"Schön ist die Sünde nur bis zum Tod","english":"Sin City Blue","hoster":["PutLocker"]},
+                {"german":"Das Ende der Legende","english":"Long Ball","hoster":["PutLocker"]},
+                {"german":"Explosionsmotoren","english":"Internal Combustion","hoster":["PutLocker"]},
+                {"german":"Über den Rubikon","english":"Unshockable","hoster":["PutLocker"]},
+                {"german":"Nimmerland","english":"Neverland","hoster":["PutLocker"]},
+                {"german":"Duftende Höschen","english":"The Panty Sniffer","hoster":["PutLocker"]},
+                {"german":"Der Wahnsinn des Dr. Jekyll","english":"Irradiator","hoster":["PutLocker"]},
+                {"german":"CSI: Die nächste Generation","english":"Field Mice","hoster":["PutLocker"]},
+                {"german":"Weltbilder","english":"World&#039;s End","hoster":["PutLocker"]},
+                {"german":"Schluss mit lustig!","english":"Take My Life, Please!","hoster":["PutLocker"]},
+                {"german":"Schutz- und Racheengel","english":"Lost &amp; Found","hoster":["PutLocker"]},
+                {"german":"Dr. Langston unter Feinden (1)","english":"Doctor Who","hoster":["PutLocker"]},
+                {"german":"Dr. Jekyll unter Freunden (2)","english":"Meat Jekyll","hoster":["PutLocker"]}
+         ]
+}

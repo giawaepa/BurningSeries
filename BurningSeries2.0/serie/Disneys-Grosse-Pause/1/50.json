@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Freizeitpark / Der neue Video-Wart",
+         "titleen":"A Great State Fair / The A.V. Kid",
+         "description":"Der Freizeitpark: Die Schule macht einen Ausflug in einen Freizeitpark, besonders Gus freut sich riesig drauf doch er vergisst die Bescheinigung seines Vaters und muss in der Schule bleiben... Doch seine Freunde bringen ihn noch in den Park.Der neue Video-Wart: Es wird ein neuer Video Wart für die Schule gesucht! D.J. und Vinc liefern sich einen Wettkampf. Wer bekommt den Posten als Video Wart?",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=O3D20IHe5zk"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=WbqGFlp7X60"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6638712/Disneys_Grosse_Pause_Episode_98_Der_Freizeitpark"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6638679/Disneys_Grosse_Pause_Episode_99_Der_neue_Video_Wart"
+                }
+       ]
+}

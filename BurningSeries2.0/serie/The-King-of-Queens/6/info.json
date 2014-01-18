@@ -1,0 +1,32 @@
+{
+        "series":"The King of Queens",
+        "seasons":9,
+        "cover":"The-King-of-Queens_bbc35c6d9ebd3e1bdb5e304bbb42d956.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Weniger ist mehr (1)","english":"Doug Less I","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Weniger ist mehr (2)","english":"Doug Less II","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"King Pong","english":"King Pong","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Affenstress","english":"Dreading Vows","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Harte Landung","english":"Nocturnal Omission","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die Wahrheit, und nichts als die Wahrheit ...","english":"Affidavit Justice","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Drei Frauen und ein Arzt","english":"Secret Garden","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die Abschiedsparty","english":"Eggsit Strategy","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der einäugige Bandit","english":"Thanks Man","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Carrie allein zu Haus","english":"American Idle","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Nur ohne meine Frau","english":"Santa Claustrophobia","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Das Kettensägentheater","english":"Dougie Houser","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"In Saus und Braus","english":"Frigid Heirs","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Verschärfte Regeln","english":"Switch Sitters","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die Nervensäge","english":"Cheap Saks","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Kill Carrie","english":"Damned Yanky","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Das verkaufte Grab","english":"Multiple Plots","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Heffer-Tonne","english":"Trash Talker","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Urlaub in der Hölle","english":"Precedent Nixin&#039;","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Zeitreisende","english":"Foe: Pa","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Bauchfreie Zone","english":"Tank Heaven","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Vier Männer und eine Hochzeit","english":"Alter Ego","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Kampf der Senioren","english":"Icky Shuffle","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Bigamist","english":"Awful Bigamy","hoster":["YouTube","MyVideo","PutLocker"]}
+         ]
+}

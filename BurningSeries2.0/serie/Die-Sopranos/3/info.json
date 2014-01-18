@@ -1,0 +1,21 @@
+{
+        "series":"Die Sopranos",
+        "seasons":6,
+        "cover":"Die-Sopranos_3a285a15376f94a24caf2cba6d7ebc27.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Besuch vom FBI","english":"Mr. Ruggerio&#039;s Neighborhood","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lebe wohl, kleine Livia","english":"Proshai, Livushka","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Immer Ärger mit dem Nachwuchs","english":"Fortunate Son","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Mitarbeiter des Monats","english":"Employee of the Month","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vom Tod gezeichnet","english":"Another Toothpick","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Einer von der übelsten Sorte","english":"University","hoster":["PutLocker"]},
+                {"german":"Der Kennedy-Kult","english":"Second Opinion","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Aufsteiger","english":"He Is Risen","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tony in der Schlangengrube","english":"The Telltale Moozadell","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Weihnachtsmann läßt grüßen","english":"To Save Us All From Satan&#039;s Power","hoster":["PutLocker"]},
+                {"german":"Verschollen im Schnee","english":"Pine Barrens","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zwischen Glück und Gloria","english":"Amour Fou","hoster":["PutLocker"]},
+                {"german":"Kalt wie der Tod","english":"The Army of One","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

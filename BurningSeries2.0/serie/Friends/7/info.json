@@ -1,0 +1,32 @@
+{
+        "series":"Friends",
+        "seasons":10,
+        "cover":"Friends_ecd9c11d4588bc6ea50e8829954d980f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Hochzeitslied","english":"The One With Monica&#039;s Thunder","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rachel liebt es heiß","english":"The One With Rachel&#039;s Book","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Kekskrise","english":"The One With Phoebe&#039;s Cookies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Liebe im Büro","english":"The One With Rachel&#039;s Assistant","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Verlobungsfoto","english":"The One With The Engagement Picture","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Brautjungfern Wettbewerb","english":"The One With The Nap Partners","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Liebesecke","english":"The One With Ross&#039;s Library Book","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Hunde Allergie","english":"The One Where Chandler Doesn&#039;t Like Dogs","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein süsser Hintern","english":"The One With All The Candy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Weihnachtsgürteltier","english":"The One With The Holiday Armadillo","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Leben ist süß","english":"The One With All The Cheesecakes","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schlaflos in New York","english":"The One Where They&#039;re Up All Night","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rosita muss sterben","english":"The One Where Rosita Dies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Dreißigste","english":"The One Where They All Turn Thirty","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Gehirntransplantation","english":"The One With Joey&#039;s New Brain","hoster":["DivxStage"]},
+                {"german":"Der Londoner Stil","english":"The One With The Truth About London","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Kleid aller Kleider","english":"The One With The Cheap Wedding Dress","hoster":["PutLocker","DivxStage"]},
+                {"german":"Gewonnen hat ...","english":"The One With Joey&#039;s Award","hoster":["PutLocker","DivxStage"]},
+                {"german":"Überraschung!","english":"The One With Ross And Monica&#039;s Cousin","hoster":["PutLocker","DivxStage"]},
+                {"german":"Batmans Smoking","english":"The One With Rachel&#039;s Big Kiss","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Eheversprechen","english":"The One With The Vows","hoster":["PutLocker","DivxStage"]},
+                {"german":"Seide auf der Haut","english":"The One With Chandler&#039;s Dad","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hochzeit mit Hindernissen (1)","english":"The One With Chandler And Monica&#039;s Wedding (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hochzeit mit Hindernissen (2)","english":"The One With Chandler And Monica&#039;s Wedding (2)","hoster":["PutLocker","DivxStage"]}
+         ]
+}

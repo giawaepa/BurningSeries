@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Vince, der Meisterkoch / Mikey, der Poet",
+         "titleen":"Chez Vince / Tucked in Mikey",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=ud5E_40Hopc"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=ickKFIHZv6s"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6620678/Disneys_Grosse_Pause_Episode_112_Vince_der_Meisterkoch"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6620673/Disneys_Grosse_Pause_Episode_113_Mikey_der_Poet"
+                }
+       ]
+}

@@ -1,0 +1,22 @@
+{
+        "series":"Hawaii Five-0",
+        "seasons":2,
+        "cover":"Hawaii-Five-0_685388dec5b820177ac6ecc497492275.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Auf der Flucht","english":"Ha?i?ole (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ausgeschlossen","english":"Ua Lawe Wale","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Kame?e","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Mea Makamae","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Ma?ema?e","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Ka Hakaka Maika?I","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Ka Iwi Kapu","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Lapa&#039;au","hoster":["DivxStage"]},
+                {"german":"","english":"Ike Maka","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Ki&#039;ilua","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Pahele","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Alaheo Pau&#039;ole","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Ka Ho&#039;oponopono","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Pu&#039;olo","hoster":["PutLocker","DivxStage"]}
+         ]
+}

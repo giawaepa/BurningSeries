@@ -1,0 +1,27 @@
+{
+        "series":"Switch Reloaded",
+        "seasons":5,
+        "cover":"Switch-Reloaded_3513ca9feffe1286c90147a8f044051a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 2","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 3","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 4","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 5","english":"","hoster":["MyVideo","PutLocker"]},
+                {"german":"Episode 6","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 7","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 8","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 9","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 10","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 11","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 12","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 13","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 14","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 15","english":"","hoster":[]},
+                {"german":"Best-Of 1","english":"","hoster":[]},
+                {"german":"Best-Of 2","english":"","hoster":[]},
+                {"german":"Best-Of 3","english":"","hoster":[]},
+                {"german":"Jahresrückblick 2008","english":"","hoster":[]}
+         ]
+}

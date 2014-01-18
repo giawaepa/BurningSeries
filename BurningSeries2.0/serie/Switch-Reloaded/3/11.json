@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Episode 11",
+         "titleen":"",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5421692/Switch_Reloaded_Staffel_3_Folge_11_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5421807/Switch_Reloaded_Staffel_3_Folge_11_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5421849/Switch_Reloaded_Staffel_3_Folge_11_3_3"
+                }
+       ]
+}

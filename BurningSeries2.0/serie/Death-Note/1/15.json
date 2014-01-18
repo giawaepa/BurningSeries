@@ -1,0 +1,16 @@
+{ 
+         "titlede":"Glücksspiel",
+         "titleen":"Gamble",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"4BF961E020AF0EA3"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"FD01F21EF6A87F9D"
+                }
+       ]
+}

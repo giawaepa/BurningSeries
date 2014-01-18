@@ -1,0 +1,40 @@
+{ 
+         "titlede":"Die Gabe",
+         "titleen":"Pilot",
+         "description":"Melinda und Jim heiraten und ziehen in ihr neues Haus. Dabei wird Melinda von einem Geist heimgesucht und versucht daraufhin alles, um ihm zu helfen. Mit Erfolg, denn am Ende kann er endlich ins Licht gehen.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=o8fCyetM-xw"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=yUlmLx1gwNY"
+                },{
+                        "hoster":"YouTube",
+                        "part":3,
+                        "link":"=Yx7mR0jKIVY"
+                },{
+                        "hoster":"YouTube",
+                        "part":4,
+                        "link":"=Kn4i7xzt9n4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5210791/Ghost_Whisperer_1x1_01_05_Die_Gabe"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5210934/Ghost_Whisperer_1x1_02_05_Die_Gabe"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5211041/Ghost_Whisperer_1x1_03_05_Die_Gabe"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5211122/Ghost_Whisperer_1x1_04_05_Die_Gabe"
+                }
+       ]
+}

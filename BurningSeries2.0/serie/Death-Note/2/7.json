@@ -1,0 +1,16 @@
+{ 
+         "titlede":"Erneuerung",
+         "titleen":"Regeneration",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"02EDB0AAC3E30FC5"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"28F7DE1416D1C692"
+                }
+       ]
+}

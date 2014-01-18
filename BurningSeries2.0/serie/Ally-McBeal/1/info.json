@@ -1,0 +1,31 @@
+{
+        "series":"Ally McBeal",
+        "seasons":5,
+        "cover":"Ally-McBeal_a187e7187d7119128b6a6f4f34c52063.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Am Anfang war das Feuer","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Ganz schön peinlich","english":"Compromising Positions","hoster":["PutLocker"]},
+                {"german":"Abserviert","english":"The Kiss","hoster":["PutLocker"]},
+                {"german":"Kalt erwischt","english":"The Affair","hoster":["PutLocker"]},
+                {"german":"Aufstand der Hormone","english":"One Hundred Tears Away","hoster":["PutLocker"]},
+                {"german":"Frosch bleibt Frosch","english":"The Promise","hoster":["PutLocker"]},
+                {"german":"Wer ist hier zickig?!","english":"The Attitude","hoster":["PutLocker"]},
+                {"german":"Revierkämpfe","english":"Drawing the Lines","hoster":["PutLocker"]},
+                {"german":"Rohrkrepierer","english":"The Dirty Joke","hoster":["PutLocker"]},
+                {"german":"Zu kurz gekommen","english":"Boy to the World","hoster":["PutLocker"]},
+                {"german":"Drei sind keiner zu viel","english":"Silver Bells","hoster":["PutLocker"]},
+                {"german":"Das Tier im Manne","english":"Cro-Magnon","hoster":["PutLocker"]},
+                {"german":"Bruchlandung","english":"The Blame Game","hoster":["PutLocker"]},
+                {"german":"Im Land des Lächelns","english":"Body Language","hoster":["PutLocker"]},
+                {"german":"Feuchte Küsse","english":"Once in a Lifetime","hoster":["PutLocker"]},
+                {"german":"Ein unmoralisches Angebot","english":"Forbidden Fruits","hoster":["PutLocker"]},
+                {"german":"Schwein gehabt","english":"Theme of Life","hoster":["PutLocker"]},
+                {"german":"Nahkampf","english":"The Playing Field","hoster":["PutLocker"]},
+                {"german":"Happy Birthday","english":"Happy Birthday, Baby","hoster":["PutLocker"]},
+                {"german":"Das reinste Irrenhaus","english":"The Inmates","hoster":["PutLocker"]},
+                {"german":"Volle Breitseite","english":"Being There","hoster":["PutLocker"]},
+                {"german":"Kleine Hüpfer und große Sprünge","english":"Alone Again","hoster":["PutLocker"]},
+                {"german":"Herz zu verschenken","english":"These Are the Days","hoster":["PutLocker"]}
+         ]
+}

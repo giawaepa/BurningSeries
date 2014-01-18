@@ -1,0 +1,33 @@
+{
+        "series":"Die wilden Siebziger",
+        "seasons":8,
+        "cover":"Die-wilden-Siebziger_62c095abab6c57409310f06720d63299.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ich muss hier raus!","english":"The Kids Are Alright","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das aller-allerletzte Mal","english":"Join Together","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Achtzehn","english":"Magic Bus","hoster":["PutLocker","RapidVideo"]},
+                {"german":"War da was?","english":"The Acid Queen","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Eheprüfer","english":"I&#039;m Free","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zwei Männer, ein Job","english":"We&#039;re Not Gonna Take It","hoster":["PutLocker","RapidVideo"]},
+                {"german":"So richtig erwachsen","english":"Christmas","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Pokernächte","english":"I&#039;m A Boy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Superbulle","english":"Young Man Blues","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Es lebe Amerika!","english":"A Legal Matter","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der fliegende Bus","english":"I Can See For Miles","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bloß kein Stress!","english":"Sally Simpson","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Was Französinnen machen","english":"Won&#039;t Get Fooled Again","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zweimal Jungfrau","english":"Baby Don&#039;t You Do It","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Meine Mami, die Schlampe","english":"Who Are You","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bob, der Held","english":"Man With Money","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Mädchen machen&#039;s auch","english":"Happy Jack","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lesen bringt nur Ärger","english":"Do You Think It&#039;s Alright?","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Minigolf-Mitch","english":"Substitute","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Runde Sachen","english":"Squeezebox","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Scheinfreundin","english":"0,21875","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Odyssee des Grauens","english":"Sparks","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hot Donna","english":"My Wife","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kalte Füße","english":"Going Mobile","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Alles wieder gut?","english":"The Seeker","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Das Manhatten-Projekt",
+         "titleen":"Two Nazis for the Price of One",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7669186/Ein_Kaefig_voller_Helden_Folge_79_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7669185/Ein_Kaefig_voller_Helden_Folge_79_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7669166/Ein_Kaefig_voller_Helden_Folge_79_3_3"
+                }
+       ]
+}

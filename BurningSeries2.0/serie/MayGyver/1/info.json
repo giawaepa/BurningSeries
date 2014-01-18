@@ -1,0 +1,30 @@
+{
+        "series":"MacGyver",
+        "seasons":7,
+        "cover":"MacGyver_32b13a08c0cdaa31b722c1f6cf3618cd.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Explosion unter Tage","english":"Pilot","hoster":["PutLocker","Sockshare"]},
+                {"german":"Goldbroiler MacGyver","english":"The Golden Triangle","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Diebin von Budapest","english":"Thief of Budapest","hoster":["PutLocker","Sockshare"]},
+                {"german":"Schnappschüsse mit Folgen","english":"The Gauntlet","hoster":["PutLocker"]},
+                {"german":"60 Millionen an der Angel","english":"The Heist","hoster":[]},
+                {"german":"Der Ameisenkrieg","english":"Trumbo&#039;s World","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kleine Fische, große Fische","english":"Last Stand","hoster":["PutLocker","Sockshare"]},
+                {"german":"Fackeln","english":"Hellfire","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der verlorene Sohn","english":"The Prodigal","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zielscheibe MacGyver","english":"Target MacGyver","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sechs Stunden bis zur Ewigkeit","english":"Nightmares","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein unsichtbarer Gegner","english":"Deathlock","hoster":["PutLocker","Sockshare"]},
+                {"german":"Alte Freundschaften","english":"Flame&#039;s End","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wenn Bomben ticken","english":"Countdown","hoster":["PutLocker","Sockshare"]},
+                {"german":"Spitzel aus den eigenen Reihen","english":"The Enemy Within","hoster":["PutLocker","Sockshare"]},
+                {"german":"Liebe kennt keine Grenzen","english":"Every Time She Smiles","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein einfacher Auftrag","english":"To Be a Man","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das häßliche Entlein","english":"Ugly Duckling","hoster":["PutLocker","Sockshare"]},
+                {"german":"Halt auf freier Strecke","english":"Slow Death","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Flucht","english":"The Escape","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hinter der Mauer","english":"A Prisoner of Conscience","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein Killer mit tausend Gesichtern","english":"The Assassin","hoster":["PutLocker","Sockshare"]}
+         ]
+}

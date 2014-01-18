@@ -1,0 +1,30 @@
+{
+        "series":"Legend of the Seeker",
+        "seasons":2,
+        "cover":"Legend-of-the-Seeker_851bd677fc0eac31860885703613832d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die drei Zeichen","english":"Marked","hoster":[]},
+                {"german":"Die magische Rune","english":"Baneling","hoster":[]},
+                {"german":"Falscher Stolz","english":"Broken","hoster":[]},
+                {"german":"Der Wunsch des Herzens","english":"Touched","hoster":[]},
+                {"german":"Der Zauberer des Vergessens","english":"Wizard","hoster":[]},
+                {"german":"Die dunkle Seite","english":"Fury","hoster":[]},
+                {"german":"Der Atem des Lebens","english":"Resurrection","hoster":[]},
+                {"german":"Schwestern des Lichts","english":"Light","hoster":[]},
+                {"german":"Schwestern der Finsternis","english":"Dark","hoster":[]},
+                {"german":"Das Tal der Verdammnis","english":"Perdition","hoster":[]},
+                {"german":"Zwei Frauen","english":"Torn","hoster":[]},
+                {"german":"Schattenwasser","english":"Hunger","hoster":[]},
+                {"german":"Die falsche Prinzessin","english":"Princess","hoster":[]},
+                {"german":"Vater und Tochter","english":"Bound","hoster":[]},
+                {"german":"Der Feind des Lichts","english":"Creator","hoster":[]},
+                {"german":"Fünf Gräber","english":"Desecrated","hoster":[]},
+                {"german":"Das Geheimnis von Valdaire","english":"Vengeance","hoster":[]},
+                {"german":"Die guten alten Tage","english":"Walter","hoster":[]},
+                {"german":"Die Grotte der Irrlichter","english":"Extinction","hoster":[]},
+                {"german":"Der Stein der Tränen","english":"Eternity","hoster":[]},
+                {"german":"Der zerstörte Kompass","english":"Unbroken","hoster":[]},
+                {"german":"Die Säulen der Schöpfung","english":"Tears","hoster":[]}
+         ]
+}

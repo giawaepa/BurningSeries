@@ -1,0 +1,24 @@
+{
+        "series":"Burn Notice",
+        "seasons":5,
+        "cover":"Burn-Notice_2a43426d672b7e1063d29f86d40d4679.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Gegenleistung","english":"Breaking and Entering","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schnee in Miami","english":"Turn and Burn","hoster":["RapidVideo"]},
+                {"german":"Abgezockt","english":"Trust Me","hoster":["RapidVideo"]},
+                {"german":"Knastbrüder","english":"Comrades","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Panzerknacker","english":"Scatter Point","hoster":["RapidVideo"]},
+                {"german":"Böses Blut","english":"Bad Blood","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bittere Pillen","english":"Rough Seas","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Doppelt hält besser","english":"Double Booked","hoster":["RapidVideo"]},
+                {"german":"Lebensmüde","english":"Good Soldier","hoster":["RapidVideo"]},
+                {"german":"Lockvogel","english":"Do No Harm","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Entflammt","english":"Hot Spot","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kunststück","english":"Seek and Destroy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bankenkrise","english":"Bad Breaks","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Haiti-Clan","english":"Truth &amp; Reconciliation","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Rivalin","english":"Sins of Omission","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Freier Fall","english":"Lesser Evil","hoster":["RapidVideo"]}
+         ]
+}

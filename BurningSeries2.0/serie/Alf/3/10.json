@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Ein Hippie namens Willie",
+         "titleen":"My Back Pages",
+         "description":"Beim Entrümpeln des Dachbodens werden für Willie und Kate Tanner Erinnerungen an die 60er Jahre wach. Alf wirft ihnen vor, die Ideale ihrer Hippiezeit verraten zu haben. Damit trifft er Willie tief.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6811246/ALF_Ein_Hippie_namens_Willie_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6811322/ALF_Ein_Hippie_namens_Willie_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6811386/ALF_Ein_Hippie_namens_Willie_3_3"
+                }
+       ]
+}

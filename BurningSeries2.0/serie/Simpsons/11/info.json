@@ -1,0 +1,30 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Mit Mel Gibson in Hollywood","english":"Beyond Blunderdome","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ist alles hin, nimm Focusin!","english":"Brother&#039;s Little Helper","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Homer als Restaurantkritiker","english":"Guess Who&#039;s Coming to Criticize Dinner","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ich weiß, was du getudel-tan hast","english":"Treehouse of Horror X","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Duell bei Sonnenaufgang","english":"E-I-E-I-(Annoyed Grunt)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Kurzzeit-Berühmtheit","english":"Hello Gutter, Hello Fadder","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Schon mal an Kinder gedacht?","english":"Eight Misbehavin&#039;","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Kampf um Marge","english":"Take My Wife, Sleaze","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die böse Puppe Lustikus","english":"Grift of the Magi","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Lisa und ihre Jungs","english":"Little Big Mom","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Bart hat die Kraft","english":"Faith Off","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wenn ich einmal reich wär&#039;","english":"The Mansion Family","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ein Pferd für die Familie","english":"Saddlesore Galactica","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ned Flanders: Wieder allein","english":"Alone Again, Natura-Diddily","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der beste Missionar aller Zeiten","english":"Missionary: Impossible","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Moe mit den zwei Gesichtern","english":"Pygmoelian","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Barts Blick in die Zukunft","english":"Bart to the Future","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Barneys Hubschrauber-Flugstunde","english":"Days of Wine and D&#039;oh&#039;ses","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Kill den Alligator und dann...","english":"Kill the Alligator and Run","hoster":["PutLocker","DivxStage"]},
+                {"german":"Sie wollte schon immer Tänzerin werden","english":"Last Tap Dance in Springfield","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Wird Marge verrückt gemacht?","english":"It&#039;s A Mad, Mad, Mad, Mad Marge","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Hinter den Lachern","english":"Behind the Laughter","hoster":["DivxStage","RapidVideo"]}
+         ]
+}

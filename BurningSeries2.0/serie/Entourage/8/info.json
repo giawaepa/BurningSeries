@@ -1,0 +1,16 @@
+{
+        "series":"Entourage",
+        "seasons":8,
+        "cover":"Entourage_bf0bdac8ab078439059a825957b1c9b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Home Sweet Home","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Out with a Bang","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"One Last Shot","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Whiz Kid","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Motherf*cker","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Big Bang","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Second to Last","hoster":["PutLocker"]},
+                {"german":"","english":"The End","hoster":["PutLocker","DivxStage"]}
+         ]
+}

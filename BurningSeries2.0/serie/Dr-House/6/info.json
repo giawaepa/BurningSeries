@@ -1,0 +1,30 @@
+{
+        "series":"Dr. House",
+        "seasons":8,
+        "cover":"Dr-House_c99673c1059f48ba3467597c75711752.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Einer flog in das Kuckucksnest (1)","english":"Broken (1)","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Einer flog in das Kuckucksnest (2)","english":"Broken (2)","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schritt für Schritt","english":"Epic Fail","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Tyrannen","english":"The Tyrant","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Einmal Karma, bitte!","english":"Instant Karma","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Kopfgeburten","english":"Brave Heart","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Unbekannte Größen","english":"Known Unknowns","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Teamwork?","english":"Teamwork","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Selig sind die geistig Armen","english":"Ignorance is Bliss","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Vom Wert der Freundschaft","english":"Wilson","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Menschenbilder","english":"The Down Low","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Reue","english":"Remorse","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Possenspiel mit Opossum","english":"Moving the Chains","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ein Arbeitstag wie kein anderer","english":"5 to 9","hoster":["PutLocker","Sockshare","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Privatleben der Anderen","english":"Private Lives","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Abby im Sünderland","english":"Black Hole","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Mitgefangen, mitgehangen","english":"Lockdown","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"In Not ist dieser Rittersmann","english":"Knight Fall","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Offene Ehe","english":"Open and Shut","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Im Nein liegt die Wahrheit","english":"The Choice","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Identitäten","english":"Baggage","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Hilf mir!","english":"Help Me","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]}
+         ]
+}

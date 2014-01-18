@@ -1,0 +1,25 @@
+{
+        "series":"Supernatural",
+        "seasons":7,
+        "cover":"Supernatural_a74050852c0b23409201cbcc3b25787e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Meet the New Boss","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Hello, Cruel World","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Girl Next Door","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Defending Your Life","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Shut Up, Dr. Phil","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Slash Fiction","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Mentalists","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Season Seven, Time for a Wedding","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"How to Win Friends and Influence Monsters","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Death&#039;s Door","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Adventures in Babysitting","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Time after Time after Time","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Slice Girls","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Plucky Pennywhistle&#039;s Magic Menagerie","hoster":["PutLocker"]},
+                {"german":"","english":"Repo Man","hoster":[]},
+                {"german":"","english":"Another Man&#039;s Treasure","hoster":[]},
+                {"german":"","english":"The Born-Again Identity","hoster":[]}
+         ]
+}

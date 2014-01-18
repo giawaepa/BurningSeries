@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der junge Meisterdieb (4)",
+         "titleen":"Episode 238",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=aXXgr0_iA7U"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5863492/Detektiv_Conan_Folge_238_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5863634/Detektiv_Conan_Folge_238_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5863770/Detektiv_Conan_Folge_238_3_3"
+                }
+       ]
+}

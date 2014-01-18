@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Stargate",
+         "titleen":"Stargate",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7170311/Stargate_Der_Film_1_12_Deutsch"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7170357/Stargate_Der_Film_2_12_Deutsch"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7170383/Stargate_Der_Film_3_12_Deutsch"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7170418/Stargate_Der_Film_4_12_Deutsch"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"62457768D0D5B12A"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"224D905D7E44FD66"
+                }
+       ]
+}

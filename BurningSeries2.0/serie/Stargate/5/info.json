@@ -1,0 +1,30 @@
+{
+        "series":"Stargate SG-1",
+        "seasons":10,
+        "cover":"Stargate-SG-1_6b5b9978ee26b1880a53c96bc53f8c10.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Todfeinde","english":"Enemies (2)","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Teal&#039;Cs Prüfung","english":"Threshold (3)","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Das Opfer","english":"Ascension","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Der Fünfte Mann","english":"The Fifth Man","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Roter Himmel","english":"Red Sky","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Das Übergangsritual","english":"Rite of Passage","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Chaka","english":"Beast of Burden","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Das Tempelgrab","english":"The Tomb","hoster":["PutLocker"]},
+                {"german":"Der Kampf der Tolaner","english":"Between Two Fires","hoster":["PutLocker"]},
+                {"german":"2001","english":"2001","hoster":["PutLocker"]},
+                {"german":"Verzweiflungstat","english":"Desperate Measures","hoster":["PutLocker"]},
+                {"german":"Wurmloch Extrem","english":"Wormhole X-Treme!","hoster":["PutLocker"]},
+                {"german":"Bewährungsprobe","english":"Proving Ground","hoster":["MyVideo","PutLocker"]},
+                {"german":"48 Stunden","english":"48 Hours","hoster":["PutLocker"]},
+                {"german":"Neue Zeiten","english":"Summit (1)","hoster":["PutLocker"]},
+                {"german":"Elliots große Mission","english":"Last Stand (2)","hoster":["PutLocker"]},
+                {"german":"Das Ende der Welt","english":"Fail Safe","hoster":["PutLocker"]},
+                {"german":"Die Jaffa Rebellion","english":"The Warrior","hoster":["PutLocker"]},
+                {"german":"Reese","english":"Menace","hoster":["PutLocker"]},
+                {"german":"Der Wächter","english":"The Sentinel","hoster":["PutLocker"]},
+                {"german":"Die Entscheidung","english":"Meridian","hoster":["PutLocker"]},
+                {"german":"Das Geheimnis der Asgard","english":"Revelations","hoster":["PutLocker"]}
+         ]
+}

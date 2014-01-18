@@ -1,0 +1,18 @@
+{
+        "series":"The Colony (US)",
+        "seasons":2,
+        "cover":"The-Colony-US_ea23acdab292440abb147635897dcac3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1","english":"Arrival and Survival","hoster":[]},
+                {"german":"Episode 2","english":"Power Struggle","hoster":[]},
+                {"german":"Episode 3","english":"Comfort in Chaos","hoster":[]},
+                {"german":"Episode 4","english":"Safety and Security","hoster":[]},
+                {"german":"Episode 5","english":"A Stranger Among Us","hoster":[]},
+                {"german":"Episode 6","english":"Loss and Communication","hoster":[]},
+                {"german":"Episode 7","english":"A Test of Faith","hoster":[]},
+                {"german":"Episode 8","english":"Recon Mission","hoster":[]},
+                {"german":"Episode 9","english":"Breaking Point","hoster":[]},
+                {"german":"Episode 10","english":"Exodus","hoster":[]}
+         ]
+}

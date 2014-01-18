@@ -1,0 +1,13 @@
+{
+        "series":"Californication",
+        "seasons":5,
+        "cover":"Californication_9f13e2ff11127a00c2c2b56e0c93860f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"JFK to LAX","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Way Of The Fist","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Boys &amp; Girls","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Waiting For The Miracle","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Ride Along","hoster":["PutLocker","Sockshare"]}
+         ]
+}

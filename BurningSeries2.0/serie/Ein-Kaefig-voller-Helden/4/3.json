@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Papa Bär und das Fräulein",
+         "titleen":"How to Catch a Papa Bear",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7676254/Ein_Kaefig_voller_Helden_Folge_95_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7676249/Ein_Kaefig_voller_Helden_Folge_95_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7676231/Ein_Kaefig_voller_Helden_Folge_95_3_3"
+                }
+       ]
+}

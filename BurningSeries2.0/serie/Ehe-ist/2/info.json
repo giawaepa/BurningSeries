@@ -1,0 +1,23 @@
+{
+        "series":"Ehe ist?",
+        "seasons":4,
+        "cover":"Ehe-ist-.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Gesangeskünste","english":"Performance Anxiety","hoster":["PutLocker","Sockshare"]},
+                {"german":"Vier Nachbarn und ein Todesfall","english":"Four Neighbors and a Funeral","hoster":[]},
+                {"german":"Das Basketball-Outing","english":"Come Out and Play","hoster":[]},
+                {"german":"Das Porno-Problem","english":"The Tale of the Tape","hoster":["PutLocker","Sockshare"]},
+                {"german":"Gemischtes Doppel","english":"Mixed Doubles","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Wein der toten Tante","english":"Vintage Eddie","hoster":["PutLocker","Sockshare"]},
+                {"german":"Bettgeschichten","english":"Bedtime Stories","hoster":["PutLocker","Sockshare"]},
+                {"german":"Jeff dreht durch","english":"No More Mr. Vice Guy","hoster":["PutLocker","Sockshare"]},
+                {"german":"Gute Mutter, Böser Vater","english":"Everybody Digs Doug","hoster":[]},
+                {"german":"Ein Bruder für Eddie","english":"Really Big Brother","hoster":[]},
+                {"german":"Schwarz-weiße Vorurteile","english":"Raisinette in the Sun","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kleiner Schnitt und große Panik","english":"Snip/Duck","hoster":[]},
+                {"german":"Echte Männer weinen nicht","english":"Sob Story","hoster":[]},
+                {"german":"Der Zweitehe-Pakt","english":"Second Marriage Guy","hoster":["PutLocker","Sockshare"]},
+                {"german":"Eddie und der schwarze Delphin","english":"Swimming with the Starks","hoster":["PutLocker","Sockshare"]}
+         ]
+}

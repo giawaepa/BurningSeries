@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Probe: Du bist völlig auf dich allein gestellt!",
+         "titleen":"Episode 56",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6514817/Naruto_folge_56_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6514843/Naruto_folge_56_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6514847/Naruto_folge_56_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"53B1E7F531C99FB0"
+                }
+       ]
+}

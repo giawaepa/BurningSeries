@@ -1,0 +1,20 @@
+{
+        "series":"Sex and the City",
+        "seasons":6,
+        "cover":"Sex-and-the-City_fd70f136f1be8ed1389274454005ddf0.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Sex wie ein Mann","english":"sex and the city","hoster":[]},
+                {"german":"Models und Menschen","english":"models and mortals","hoster":[]},
+                {"german":"Ehekriege","english":"bay of married pigs","hoster":[]},
+                {"german":"Im Tal der Mittzwanziger","english":"valley of the twenty-something guys","hoster":[]},
+                {"german":"Sex = Macht = Geld?","english":"the power of female sex","hoster":[]},
+                {"german":"Heimlicher Sex","english":"secret sex","hoster":[]},
+                {"german":"Die Monogamisten","english":"the monogamists","hoster":[]},
+                {"german":"Drei sind einer zuviel","english":"three&#039;s a crowd","hoster":[]},
+                {"german":"Wunder der Technik","english":"the turtle and the hare","hoster":[]},
+                {"german":"Die Baby-Party","english":"the baby shower","hoster":[]},
+                {"german":"Die große Dürre","english":"the drought","hoster":[]},
+                {"german":"Glaubensfragen","english":"oh come, all ye faithful","hoster":[]}
+         ]
+}

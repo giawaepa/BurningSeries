@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Aurora",
+         "titleen":"Aurora",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7687096/Stargate_Atlantis_S02E09_Aurora_1_6"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7687142/Stargate_Atlantis_S02E09_Aurora_2_6"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7687196/Stargate_Atlantis_S02E09_Aurora_3_6"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7687349/Stargate_Atlantis_S02E09_Aurora_4_6"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"F5F8FB6ECE8BFBDC"
+                },{
+                        "hoster":"DivxStage",
+                        "part":1,
+                        "link":"2d654s0e59zo9"
+                }
+       ]
+}

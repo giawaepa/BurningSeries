@@ -1,0 +1,21 @@
+{
+        "series":"Die Sopranos",
+        "seasons":6,
+        "cover":"Die-Sopranos_3a285a15376f94a24caf2cba6d7ebc27.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Tony in der Krise","english":"The Sopranos","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verwandte und andere Feinde","english":"46 Long","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Deal","english":"Denial, Anger, Acceptance","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tonys Schachzug","english":"Meadowlands","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Reise in die Vergangenheit","english":"College","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tonys Alptraum","english":"Pax Soprana","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vater und Sohn","english":"Down Neck","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tony rastet aus","english":"The Legend of Tennessee Moltisanti","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Moralisten","english":"Boca","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein Hit ist ein Hit","english":"A Hit is a Hit","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wer ist die Ratte?","english":"Nobody Knows Anything","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die schöne Isabella","english":"Isabella","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hart und herzlich","english":"I Dream of Jeannie Cusamano","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

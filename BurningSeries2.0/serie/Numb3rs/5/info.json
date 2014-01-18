@@ -1,0 +1,31 @@
+{
+        "series":"Numb3rs ? Die Logik des Verbrechens",
+        "seasons":6,
+        "cover":"Numb3rs-Die-Logik-des-Verbrechens_8e3e17c52a0c53602826e85ab5fe4c15.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Abgestürzt","english":"High Exposure","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Lockvogel-Effekt","english":"Decoy Effect","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der dritte Mann","english":"Blowback","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der netteste Kerl der Welt","english":"Jack of All Trades","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Scan Man","english":"Scan Man","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tödliche Illusion","english":"Magic Show","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Weg der Wellen","english":"Charlie Don&#039;t Surf","hoster":["PutLocker","RapidVideo"]},
+                {"german":"36 Stunden","english":"Thirty-Six Hours","hoster":["PutLocker"]},
+                {"german":"Mann im Schatten","english":"Conspiracy Theory","hoster":["PutLocker"]},
+                {"german":"Hassliebe","english":"Frienemies","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Pfeil der Zeit","english":"Arrow of Time","hoster":["PutLocker"]},
+                {"german":"Der Bus","english":"Jacked","hoster":["PutLocker"]},
+                {"german":"Die Macht der Acht","english":"Trouble In Chinatown","hoster":["PutLocker"]},
+                {"german":"Sneakerhead","english":"Sneakerhead","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Fehler im System","english":"Guilt Trip","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Markt und Marke","english":"Cover Me","hoster":["PutLocker"]},
+                {"german":"Die Erfindung der Zukunft","english":"First Law","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eine Minute nach Mitternacht","english":"12:01 AM","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gequälte Kreatur","english":"Animal Rites","hoster":["PutLocker"]},
+                {"german":"Ein Mann zu viel","english":"The Fifth Man","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Jäger aus dem Dunkel","english":"Disturbed","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wiedergutmachung","english":"Greatest Hits","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Engel und Teufel","english":"Angel and Devils","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

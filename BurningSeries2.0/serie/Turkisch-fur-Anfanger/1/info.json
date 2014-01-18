@@ -1,0 +1,20 @@
+{
+        "series":"Türkisch für Anfänger",
+        "seasons":3,
+        "cover":"Tuerkisch-fuer-Anfaenger_bd95b1551b48861626cb5c664e139a65.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die, in der ich meine Freiheit verliere","english":"","hoster":["YouTube","PutLocker"]},
+                {"german":"Die, in der ich keine Schwester will","english":"","hoster":["PutLocker"]},
+                {"german":"Die, in der ich abstürze","english":"","hoster":["PutLocker"]},
+                {"german":"Die, in der ich keine Freunde finde","english":"","hoster":["YouTube","PutLocker"]},
+                {"german":"Die, in der sich Axel in meine Familie verliebt","english":"","hoster":["YouTube","PutLocker"]},
+                {"german":"Die, mit den Geheimnissen","english":"","hoster":["YouTube","PutLocker"]},
+                {"german":"Die, in der ich leider erwachsen werde","english":"","hoster":["YouTube","PutLocker"]},
+                {"german":"Die, in der ich keine Gefühle habe","english":"","hoster":["PutLocker"]},
+                {"german":"Die, in der Axel ständig grün ist","english":"","hoster":["YouTube","PutLocker"]},
+                {"german":"Die, in der ich echt voll okay bin","english":"","hoster":["YouTube","PutLocker"]},
+                {"german":"Die, in der mich der Wolf kriegt","english":"","hoster":["YouTube","PutLocker"]},
+                {"german":"Die, in der es nur einen geben kann","english":"","hoster":["YouTube","PutLocker"]}
+         ]
+}

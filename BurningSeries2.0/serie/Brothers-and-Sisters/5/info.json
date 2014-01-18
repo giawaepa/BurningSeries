@@ -1,0 +1,30 @@
+{
+        "series":"Brothers &amp; Sisters",
+        "seasons":5,
+        "cover":"Brothers-Sisters_eeae3f2c3ef37d5de2d6d00c0d4e1a07.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Season 5, Episode 1","hoster":["PutLocker"]},
+                {"german":"","english":"Brief Encounter","hoster":[]},
+                {"german":"","english":"Faking It","hoster":[]},
+                {"german":"","english":"A Righteous Kiss","hoster":["PutLocker"]},
+                {"german":"","english":"Call Mom","hoster":[]},
+                {"german":"","english":"An Ideal Husband","hoster":["PutLocker"]},
+                {"german":"","english":"Resolved","hoster":["PutLocker"]},
+                {"german":"","english":"The Rhapsody of the Flesh","hoster":["PutLocker"]},
+                {"german":"","english":"Get a Room","hoster":["PutLocker"]},
+                {"german":"","english":"Cold Turkey","hoster":["PutLocker"]},
+                {"german":"","english":"Scandalized","hoster":[]},
+                {"german":"","english":"	Thanks for the Memories","hoster":[]},
+                {"german":"","english":"Safe at Home","hoster":["PutLocker"]},
+                {"german":"","english":"The One That Got Away","hoster":[]},
+                {"german":"","english":"Brody","hoster":["PutLocker"]},
+                {"german":"","english":"Home is Where the Fort is","hoster":[]},
+                {"german":"","english":"Olivia?s Choice","hoster":[]},
+                {"german":"","english":"Never Say Never","hoster":[]},
+                {"german":"","english":"Wouldn?t It Be Nice","hoster":[]},
+                {"german":"","english":"Father Unknown","hoster":[]},
+                {"german":"","english":"For Better or for Worse","hoster":[]},
+                {"german":"","english":"Walker Down the Aisle","hoster":["PutLocker"]}
+         ]
+}

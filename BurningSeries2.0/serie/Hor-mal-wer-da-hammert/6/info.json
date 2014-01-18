@@ -1,0 +1,33 @@
+{
+        "series":"Hör mal, wer da hämmert",
+        "seasons":8,
+        "cover":"Hoer-mal-wer-da-haemmert_b8fa4de126ccdd7ebe5087ef115e5452.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Stürmische See","english":"At Sea","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Macht der Gewohnheit","english":"Future Shock","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Workshop für zwei","english":"Workshop &#039;til You Drop","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Brennende Herzen","english":"Burnin&#039; Love","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der große Regiesseur","english":"Al&#039;s Video","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das ist mein Auto!","english":"Whose Car Is It Anyway?","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Wer zuletzt lacht...","english":"I Was A Teenage Taylor","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Geliebte Schwestern","english":"Jill And Her Sisters","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Autokönig des Jahres","english":"The Tool Man Delivers","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Ein Herz aus Gold","english":"The Wood, The Bad And The Hungry","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Brad macht Karriere","english":"Workin&#039; Man Blues","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Ein Haus voller Erinnerungen","english":"No Place Like Home","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Flirten macht blind","english":"The Flirting Game","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Karate Kid kehrt zurück","english":"The Karate Kid Returns","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Tool Time total","english":"Totally Tool Time","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Aus heiterem Himmel","english":"A Funny Valentine","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Außenseiter","english":"Wilson&#039;s World","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Hochzeit hin, Hochzeit her","english":"Something Old, Something Blue","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das automatisierte Haus","english":"Communication Breakdown","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der verhängnisvolle Unfall","english":"My Son, The Driver","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Schadenfreude","english":"Insult To Injury","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Aus Kinder werden Leute","english":"Family Un-ties","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Sandwich-Tick","english":"The Feminine Mistake","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Ein Colonel tritt ab","english":"Taps","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Liebe und Eifersucht","english":"The Kiss &amp; The Kiss-off","hoster":["YouTube","PutLocker","DivxStage"]}
+         ]
+}

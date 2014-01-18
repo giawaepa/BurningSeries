@@ -1,0 +1,27 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Panik","english":"The War Comes Home","hoster":[]},
+                {"german":"In einem anderen Licht","english":"In a Different Light","hoster":[]},
+                {"german":"Diensteifer","english":"Officer Down","hoster":[]},
+                {"german":"Ganz unten","english":"Gravity","hoster":[]},
+                {"german":"Abstinenz","english":"Under the Influence","hoster":[]},
+                {"german":"Prüfungen","english":"The Test","hoster":[]},
+                {"german":"Blackout","english":"Blackout","hoster":[]},
+                {"german":"Wieder zurück","english":"Coming Home","hoster":[]},
+                {"german":"Täter und Opfer","english":"Skye&#039;s the Limit","hoster":[]},
+                {"german":"300 Patienten","english":"300 Patients","hoster":[]},
+                {"german":"Status quo","english":"Status Quo","hoster":[]},
+                {"german":"Das Unglaubliche glauben","english":"Believe the Unseen","hoster":[]},
+                {"german":"Sühne","english":"Atonement","hoster":[]},
+                {"german":"Gebrochenes Herz","english":"Owner of a Broken Heart","hoster":[]},
+                {"german":"Rosen für Sam","english":"...As the Day She Was Born","hoster":[]},
+                {"german":"Mein wahres Ich","english":"Truth Will Out","hoster":[]},
+                {"german":"Mit Gewalt","english":"Under Pressure","hoster":[]},
+                {"german":"Gute Zusammenarbeit","english":"Tandem Repeats","hoster":[]},
+                {"german":"Ein neues Leben","english":"The Chicago Way","hoster":[]}
+         ]
+}

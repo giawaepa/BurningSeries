@@ -1,0 +1,32 @@
+{
+        "series":"Meine Wilden Töchter",
+        "seasons":3,
+        "cover":"Meine-Wilden-Toechter_6957c8bc36f931e3e97b8f334379f55b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Morgens um sieben","english":"Premiere","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Sex in Europa","english":"Sex Ed","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Folge deinem Herzen!","english":"Donny Goes Awol","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Abendessen im Himmel","english":"Goodbye (1","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Dads letzter Artikel","english":"Goodbye (2","hoster":["YouTube","PutLocker"]},
+                {"german":"Nichts ist normal","english":"No Right Way","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Mit Herz dabei","english":"What Dad Would Want","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Mann im Haus","english":"The First Thanksgiving","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Hauptrolle","english":"Merry Christmas: The Story Of Anne Frank And Skeevy","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Im Badeanzug auf dem Thron","english":"Ymca","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Küssen üben","english":"Get Real","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der geklaute Hund","english":"Consequences","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Aspirin aus Kanada","english":"Opposites Attract (1","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Ich liebe einen Streber","english":"Opposites Attract (2","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Echte Männer warten nicht","english":"Opposites Attract (3","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Daddy&#039;s Girl","english":"Daddy&#039;s Girl","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Ein Haufen fauler Säcke","english":"Mall In The Family","hoster":["PutLocker","DivxStage"]},
+                {"german":"Fahr einfach weiter!","english":"Let&#039;s Keep Going (1","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das schärfste Ding auf Erden","english":"Let&#039;s Keep Going (2","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Bier und Socken","english":"C.J.&#039;s Party","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Champagner ans Bett","english":"Mother&#039;s Day","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die schärfste Schwester","english":"The Principal","hoster":["YouTube","PutLocker"]},
+                {"german":"Auswärtsspiel für Opa","english":"Finale Part Un (1","hoster":["YouTube"]},
+                {"german":"Date bleibt Date","english":"Finale Part Deux (2","hoster":["YouTube","PutLocker"]}
+         ]
+}

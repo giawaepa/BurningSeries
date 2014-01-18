@@ -1,0 +1,32 @@
+{
+        "series":"Dr. House",
+        "seasons":8,
+        "cover":"Dr-House_c99673c1059f48ba3467597c75711752.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ihr, ich und Hippokrates","english":"Acceptance","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Autopsie","english":"Autopsy","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Irrtum","english":"Humpty Dumpty","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Mehr Sein als Schein","english":"TB or Not TB","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Söhne &amp; Väter","english":"Daddy&#039;s Boy","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Tanz ums Feuer","english":"Spin","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Auf der Jagd","english":"Hunting","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Fehlverhalten","english":"The Mistake","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Lug und Trug","english":"Deception","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ferndiagnose","english":"Failure to Communicate","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Absagen","english":"Need to Know","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Resultate mit Geduld ...","english":"Distractions","hoster":["PutLocker","Sockshare","BitShare","VideoWeed","UploadC"]},
+                {"german":"Kratzer im Lack","english":"Skin Deep","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Sex wird unterschätzt","english":"Sex Kills","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Böses Spiel","english":"Clueless","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Sicher genug?","english":"Safe","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"In Not","english":"All In","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wirtswechsel","english":"Sleeping Dogs Lie","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wunderland","english":"House vs. God","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schlechter Scherz (Teil 1)","english":"Euphoria (1)","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schlechter Scherz (Teil 2)","english":"Euphoria (2)","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ein Problem ist nur das Leben","english":"Forever","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wer wird Vater?","english":"Who&#039;s Your Daddy?","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Widerspiel","english":"No Reason","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]}
+         ]
+}

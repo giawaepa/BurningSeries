@@ -1,0 +1,16 @@
+{ 
+         "titlede":"Blackbox",
+         "titleen":"Pandora´s Box",
+         "description":"Beim Absturz des Firmenjets der Firma Aeronomics kommen sämtliche Insassen ums Leben. Ein Forest Ranger, der den Absturz beobachtet, wird an der Absturzstelle mit einem Kopfschuss erschossen aufgefunden. Charlie stellt anhand der Ausdehnung des Trümmerfeldes fest, dass das Flugzeug schwerer gewesen sein muss, als es in den Ladelisten angegeben war...",
+         "links":[
+                {
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"43732F33B9DAAEF9"
+                },{
+                        "hoster":"RapidVideo",
+                        "part":1,
+                        "link":"rcs2nk20"
+                }
+       ]
+}

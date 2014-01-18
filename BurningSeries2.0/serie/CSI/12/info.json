@@ -1,0 +1,20 @@
+{
+        "series":"CSI: Den Tätern auf der Spur",
+        "seasons":12,
+        "cover":"CSI-Den-Taetern-auf-der-Spur_a5a70731c9e7b0fd031284dab691f885.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"73 Seconds","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Tell-Tale Hearts","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Bittersweet","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Maid Man","hoster":["PutLocker"]},
+                {"german":"","english":"CSI Down","hoster":["PutLocker"]},
+                {"german":"","english":"Freaks &amp; Geeks","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Brain Doe","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Crime after Crime","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Zippered","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Genetic Disorder","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Ms. Willows Regrets","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Willows in the Wind","hoster":["PutLocker","DivxStage"]}
+         ]
+}

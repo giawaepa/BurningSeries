@@ -1,0 +1,32 @@
+{
+        "series":"Cougar Town",
+        "seasons":2,
+        "cover":"Cougar-Town_0b6953cc038e95743776c9b40e7e0df9.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Flirten für Fortgeschrittene","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Die wilden Jahre","english":"Into the Great Wide Open","hoster":["YouTube","PutLocker"]},
+                {"german":"Das zehnte Date","english":"Don&#039;t Do Me Like That","hoster":["PutLocker"]},
+                {"german":"Bin ich schön?","english":"I Won&#039;t Back Down","hoster":["PutLocker"]},
+                {"german":"Erst das Vergnügen, dann die Arbeit","english":"You Wreck Me","hoster":["PutLocker"]},
+                {"german":"Trennung auf Raten","english":"A Woman In Love (It&#039;s Not Me)","hoster":["PutLocker"]},
+                {"german":"Allein unter Leuten","english":"Don&#039;t Come Around Here No More","hoster":["PutLocker"]},
+                {"german":"41 oder jünger","english":"Two Gunslingers","hoster":["PutLocker"]},
+                {"german":"Von Bienen und Blumen","english":"Here Comes My Girl","hoster":["PutLocker"]},
+                {"german":"An der Leine","english":"Mystery Man","hoster":["PutLocker"]},
+                {"german":"Die fieseste Ärztin der Welt","english":"Rhino Skin","hoster":["PutLocker"]},
+                {"german":"Was ernstes, oder?","english":"Scare Easy","hoster":["PutLocker"]},
+                {"german":"Sex mit der Ex","english":"Stop Dragging My Heart Around","hoster":["PutLocker"]},
+                {"german":"Der Ellie-Tag","english":"All the Wrong Reasons","hoster":["PutLocker"]},
+                {"german":"Ausgehregeln","english":"When a Kid Goes Bad","hoster":["PutLocker"]},
+                {"german":"Freundschaftsbeweise","english":"What Are You Doin&#039; In My Life?","hoster":["PutLocker"]},
+                {"german":"Fangfragen und Fischfang","english":"Counting on You","hoster":["PutLocker"]},
+                {"german":"Alkoholkontrolle","english":"Turn This Car Around","hoster":["PutLocker"]},
+                {"german":"Das Allerheiligste","english":"Everything Man","hoster":["PutLocker"]},
+                {"german":"Vater und Söhne","english":"Wake Up Time","hoster":["PutLocker"]},
+                {"german":"Mama-Bär","english":"Letting You Go","hoster":["PutLocker"]},
+                {"german":"Liebe liegt in der Luft","english":"Feel a Whole Lot Better","hoster":["PutLocker"]},
+                {"german":"Die Abschlussfeier","english":"Breakdown","hoster":["PutLocker"]},
+                {"german":"Wer sagt es Bobby?","english":"Finding Out","hoster":["PutLocker"]}
+         ]
+}

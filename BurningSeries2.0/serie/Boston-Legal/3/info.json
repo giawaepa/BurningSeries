@@ -1,0 +1,32 @@
+{
+        "series":"Boston Legal",
+        "seasons":5,
+        "cover":"Boston-Legal_b9c234cb27a3f4de023d2a52a7df4c73.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Puppenspieler","english":"Can&#039;t We All Get a Lung?","hoster":["PutLocker"]},
+                {"german":"Größenwahn","english":"New Kids on the Block","hoster":["PutLocker"]},
+                {"german":"Rosenkrieg","english":"Desperately Seeking Shirley","hoster":["PutLocker"]},
+                {"german":"Knockout","english":"Fine Young Cannibal","hoster":["PutLocker"]},
+                {"german":"Schlammschlacht","english":"Whose God is it anyway?","hoster":["PutLocker"]},
+                {"german":"Das Urteil","english":"The Verdict","hoster":["PutLocker"]},
+                {"german":"Vom Winde verweht","english":"Trick or Treat","hoster":["PutLocker"]},
+                {"german":"Schlagende Argumente","english":"Lincoln","hoster":[]},
+                {"german":"Auf der Kippe","english":"On the Ledge","hoster":["PutLocker"]},
+                {"german":"Partykracher","english":"The Nutcrackers","hoster":[]},
+                {"german":"Todesengel","english":"Angel of Death","hoster":["PutLocker"]},
+                {"german":"Denny macht Terror","english":"Nuts","hoster":["PutLocker"]},
+                {"german":"Bella Blue","english":"Dumping Bella","hoster":["PutLocker"]},
+                {"german":"Sex liegt in der Luft","english":"Selling Sickness","hoster":["PutLocker"]},
+                {"german":"Fettverbrennung","english":"Fat Burner","hoster":["PutLocker"]},
+                {"german":"Nicht von dieser Welt","english":"The Good Lawyer","hoster":["PutLocker"]},
+                {"german":"Ganz in Rot","english":"The Bride Wore Blood","hoster":["PutLocker"]},
+                {"german":"Geisel der Vergangenheit","english":"Son of the Defender","hoster":["PutLocker"]},
+                {"german":"Geheime Kräfte","english":"Brotherly Love","hoster":[]},
+                {"german":"Puppen vor Gericht","english":"Guise&#039;n&#039;Dolls","hoster":["PutLocker"]},
+                {"german":"Die Wunderheilung","english":"Tea and Sympathy","hoster":["PutLocker"]},
+                {"german":"Hose runter","english":"Guantanamo by the Bay","hoster":["PutLocker"]},
+                {"german":"Ente gut, alles gut","english":"Duck and Cover","hoster":["PutLocker"]},
+                {"german":"Nichts geht mehr","english":"Trial of the Century","hoster":["PutLocker"]}
+         ]
+}

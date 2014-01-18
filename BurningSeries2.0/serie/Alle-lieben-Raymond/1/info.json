@@ -1,0 +1,30 @@
+{
+        "series":"Alle lieben Raymond",
+        "seasons":9,
+        "cover":"Alle-lieben-Raymond_fc686af2b853c140fb5eda67e16ef9c7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Die lieben Verwandten","english":"Pilot","hoster":["YouTube","PutLocker"]},
+                {"german":"Liebe und andere Peinlichkeiten","english":"I Love You","hoster":["PutLocker"]},
+                {"german":"Tante Alda","english":"Frank, the Writer","hoster":["PutLocker"]},
+                {"german":"Der Klügere gibt an","english":"I Wish I Were Gus","hoster":["YouTube","PutLocker"]},
+                {"german":"Gegessen wird zu Hause","english":"Standard Deviation","hoster":["PutLocker"]},
+                {"german":"Der Traum vom Schreiben","english":"Look Don&#039;t Touch","hoster":["PutLocker"]},
+                {"german":"Ehekrisen","english":"Your Place or Mine?","hoster":["PutLocker"]},
+                {"german":"Schwiegereltern","english":"In-Laws","hoster":["PutLocker"]},
+                {"german":"Hoch gepokert","english":"Win, Lose or Draw","hoster":["PutLocker"]},
+                {"german":"Fisch oder Fleisch","english":"Captain Nemo","hoster":["PutLocker"]},
+                {"german":"Ballfieber","english":"Turkey or Fish","hoster":["PutLocker"]},
+                {"german":"Der doppelte Weihnachtsmann","english":"Debra&#039;s Sick","hoster":["PutLocker"]},
+                {"german":"Vaterpflichten","english":"The Ball","hoster":["PutLocker"]},
+                {"german":"Hallo, Hübscher","english":"Who&#039;s Handsome?","hoster":["PutLocker"]},
+                {"german":"Rostige Erinnerungen","english":"The Car","hoster":["PutLocker"]},
+                {"german":"Diamantenfieber","english":"The Game","hoster":["YouTube","PutLocker"]},
+                {"german":"Heikle Fragen","english":"Diamonds","hoster":["YouTube","PutLocker"]},
+                {"german":"Karriere wider Willen","english":"Recovering Pessimist","hoster":["PutLocker"]},
+                {"german":"Auf den Hund gekommen","english":"The Dog","hoster":["PutLocker"]},
+                {"german":"Terror in der Nachbarschaft","english":"Neighbors","hoster":["PutLocker"]},
+                {"german":"Wer ist schon normal?","english":"Fascinatin&#039; Debra","hoster":["PutLocker"]},
+                {"german":"Himmel und Hölle","english":"Why Are We Here?","hoster":["PutLocker"]}
+         ]
+}

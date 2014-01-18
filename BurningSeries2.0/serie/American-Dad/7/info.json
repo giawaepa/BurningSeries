@@ -1,0 +1,17 @@
+{
+        "series":"American Dad",
+        "seasons":7,
+        "cover":"American-Dad_ff475b83acefe494dafbe34c812419d8.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Hot Water","hoster":["PutLocker"]},
+                {"german":"","english":"Hurricane!","hoster":["PutLocker"]},
+                {"german":"","english":"A Ward Show","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Worst Stan","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Virtual In-Stanity","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Scarlett Getter","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Season?s Beatings","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Unbrave One","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Stanny Tendergrass","hoster":["PutLocker","DivxStage"]}
+         ]
+}

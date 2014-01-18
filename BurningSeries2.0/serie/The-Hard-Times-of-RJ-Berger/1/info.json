@@ -1,0 +1,20 @@
+{
+        "series":"The Hard Times of RJ Berger",
+        "seasons":2,
+        "cover":"The-Hard-Times-of-RJ-Berger_aca759b16c758c369ee24b3ec3f6cc9e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Pilot","english":"Pilot","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Yes we can&#039;t","english":"Yes we can&#039;t","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"The Berger Cometh","english":"The Berger Cometh","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Here&#039;s to you, Mrs. Robbins","english":"Here&#039;s to you, Mrs. Robbins","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"The Rebound","english":"The Rebound","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Over the Rainblow","english":"Over the Rainblow","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Tell and Kiss","english":"Tell and Kiss","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Nerds Gone Wild","english":"Nerds Gone Wild","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"It&#039;s all about the Hamiltons","english":"It&#039;s all about the Hamiltons","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Behind Enemy Lines","english":"Behind Enemy Lines","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Lilly Pad","english":"Lilly Pad","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"The Right Thing","english":"The Right Thing","hoster":["YouTube","PutLocker","RapidVideo"]}
+         ]
+}

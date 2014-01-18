@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Das Seniorenheim / Das Versprechen",
+         "titleen":"Old Folks Home / Some Friend",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=BqhlbQOgFyE"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=1bXtE1mX80I"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6622915/Disneys_Grosse_Pause_Episode_110_Das_Seniorenheim"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6621595/Disneys_Grosse_Pause_Episode_111_Das_Versprechen"
+                }
+       ]
+}

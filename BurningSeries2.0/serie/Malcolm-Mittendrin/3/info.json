@@ -1,0 +1,30 @@
+{
+        "series":"Malcolm Mittendrin",
+        "seasons":7,
+        "cover":"Malcolm-Mittendrin_1bb1532f3e072d63b21fae3c0fc10a51.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Urlaub mit Mädchen und Fischen","english":"Houseboat","hoster":["PutLocker"]},
+                {"german":"Rebellion gegen das System","english":"Emancipation","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Flucht aus dem Alltag","english":"Book Club","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die erste große Liebe","english":"Malcolm&#039;s Girlfriend","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tauschgeschäfte","english":"Charity","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Nervenspiele","english":"Health Scare","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Weihnachts-Dilemma","english":"Christmas","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Poker","english":"Poker","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Katalog-Braut","english":"Reese&#039;s Job","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Basketball-Krieg","english":"Lois&#039;s Makeover","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Firmenpicknick, Teil 1","english":"Company Picnic, Part 1","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Firmenpicknick, Teil 2","english":"Company Picnic, Part 2","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Fahrerflucht","english":"Reese drives","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Busenfreunde","english":"Cynthia&#039;s Back","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das neue Familienmitglied","english":"Hal&#039;s Birthday","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Trainer Hal","english":"Hal coaches","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Deweys Hund","english":"Dewey&#039;s Dog","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wer ist der Beste?","english":"Poker #2","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Beim Psychiater","english":"Clip Show","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verschworene Geschworene","english":"Jury Duty","hoster":["RapidVideo"]},
+                {"german":"Cliquenkampf","english":"Cliques","hoster":["PutLocker"]},
+                {"german":"Der Affe","english":"Monkey","hoster":["PutLocker"]}
+         ]
+}

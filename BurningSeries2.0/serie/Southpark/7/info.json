@@ -1,0 +1,23 @@
+{
+        "series":"South Park",
+        "seasons":15,
+        "cover":"South-Park_5a9e7a27200896c407a230a91f9bc93c.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"South Park 100: Fehlgeburt einer Nation","english":"I&#039;m A Little Bit Country","hoster":["PutLocker","BitShare"]},
+                {"german":"Guter Krüppel, schlechter Krüppel","english":"Krazy Kripples","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Das Schweigen des Klopapiers","english":"Toilet Paper","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Wird die Erde eingestellt?","english":"Cancelled","hoster":["PutLocker"]},
+                {"german":"J-Lo: Das doppelte Flittchen","english":"Fat Butt and Pancake Head","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Kleine Kriminale","english":"Lil&#039; Crime Stoppers","hoster":["PutLocker","Sockshare"]},
+                {"german":"Unglaublich geldgeile Ureinwohner","english":"Red Man&#039;s Greed","hoster":["PutLocker"]},
+                {"german":"Schwule Verschwörung","english":"South Park is Gay!","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Christen rocken fett!","english":"Christian Rock Hard","hoster":["PutLocker","Sockshare"]},
+                {"german":"Revolution der alten Säcke","english":"Grey Dawn","hoster":["PutLocker","BitShare"]},
+                {"german":"Casa Bonita","english":"Casa Bonita","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Mormonen machen sich was vor","english":"All About the Mormons?","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Kippe weg!","english":"Butt Out","hoster":["PutLocker","BitShare"]},
+                {"german":"Wir sind Grufties","english":"Raisins","hoster":["PutLocker"]},
+                {"german":"Blöder die Kanadier nie klingen!","english":"It&#039;s Christmas in Canada","hoster":["PutLocker","Sockshare"]}
+         ]
+}

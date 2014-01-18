@@ -1,0 +1,30 @@
+{
+        "series":"90210",
+        "seasons":4,
+        "cover":"90210_2a5a4ebb1395e5a42463de0594f6801e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Auf zu neuen Anfängen","english":"To New Beginnings!","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Naomis Rache","english":"To Sext or Not to Sext","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Teddys Party","english":"Sit Down, You&#039;re Rocking the Boat","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Porno-König","english":"The Porn King","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Naomis Schlachtplan","english":"Environmental Hazards","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wildlachs aus Alaska","english":"Wild Alaskan Salmon","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Neue im Team","english":"Unmasked","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Weibliche Intuition","english":"Women&#039;s Intuition","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Reise zum Mond","english":"A Trip to the Moon","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bleib Dir treu","english":"To Thine Own Self Be True","hoster":["PutLocker"]},
+                {"german":"Die Falle","english":"And Away They Go!","hoster":["PutLocker"]},
+                {"german":"Die Weihnachtsparty","english":"Winter Wonderland","hoster":["PutLocker"]},
+                {"german":"Ratten und Helden","english":"Rats and Heroes","hoster":["PutLocker"]},
+                {"german":"Kämpfe","english":"Girl Fight","hoster":["PutLocker"]},
+                {"german":"Besuch aus der Vergangenheit","english":"What&#039;s Past is Prologue","hoster":["PutLocker"]},
+                {"german":"Naomi gegen Cannon","english":"Clark Raving Mad","hoster":["PutLocker"]},
+                {"german":"Feuchte Hände und weiche Knie","english":"Sweaty Palms And Weak Knees","hoster":["PutLocker"]},
+                {"german":"Noch eine zweite Chance","english":"Another Another Chance","hoster":["PutLocker"]},
+                {"german":"Der Eignungstest","english":"Multiple Choices","hoster":["PutLocker"]},
+                {"german":"Triff meinen Vater","english":"Meet The Parents","hoster":["PutLocker"]},
+                {"german":"Javianna","english":"Javianna","hoster":["PutLocker"]},
+                {"german":"Geständnisse","english":"Confessions","hoster":["PutLocker"]}
+         ]
+}

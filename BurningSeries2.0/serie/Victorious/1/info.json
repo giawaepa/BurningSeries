@@ -1,0 +1,28 @@
+{
+        "series":"Victorious",
+        "seasons":3,
+        "cover":"Victorious_9ba78937ee288a97b90c447986b5520b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Neue","english":"Pilot","hoster":["Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Die Szene mit dem Vogel","english":"The Bird Scene","hoster":["RapidVideo"]},
+                {"german":"Das blaue Auge","english":"Stage Fighting","hoster":["RapidVideo"]},
+                {"german":"Ein Song für Trina","english":"The Birthweek Song","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Abserviert","english":"Jade Dumps Beck","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Der Grizzly-Kleber","english":"Tori the Zombie","hoster":["Sockshare"]},
+                {"german":"Robarazzi","english":"Robarazzi","hoster":["RapidVideo"]},
+                {"german":"Heiß, heiß, heiß!","english":"Stuck in an RV Survival of the Hottest","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Über den Wolken","english":"Wi-Fi in the Sky","hoster":["PutLocker"]},
+                {"german":"Hoch lebe Crystal Waters!","english":"Beck&#039;s Big Break&#039;","hoster":["PutLocker"]},
+                {"german":"Der große Ping-Pong-Schwindel","english":"The Great Ping Pong Scam","hoster":["Sockshare"]},
+                {"german":"Cats neuer Freund","english":"Cat&#039;s New Boyfriend","hoster":["MyVideo","PutLocker"]},
+                {"german":"Das hässliche Entlein ? Teil 1","english":"Freak the Freak Out ? Part 1","hoster":["Sockshare"]},
+                {"german":"Das hässliche Entlein ? Teil 1","english":"Freak the Freak Out ? Part 2","hoster":["RapidVideo"]},
+                {"german":"Drama um Rex","english":"Rex Dies","hoster":["MyVideo"]},
+                {"german":"Diddly-Bops","english":"The Diddly-Bops","hoster":["PutLocker"]},
+                {"german":"Wok?Star","english":"Wok Star","hoster":["Sockshare"]},
+                {"german":"The Wood","english":"The Wood","hoster":["MyVideo"]},
+                {"german":"Ein Film von Dale Squires","english":"A Film by Dale Squires","hoster":[]},
+                {"german":"Eine Nacht bei Sikowitz","english":"Sleepover at Sikowitz?s","hoster":["MyVideo"]}
+         ]
+}

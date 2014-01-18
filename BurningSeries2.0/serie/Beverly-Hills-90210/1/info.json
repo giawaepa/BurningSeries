@@ -1,0 +1,30 @@
+{
+        "series":"Beverly Hills, 90210",
+        "seasons":10,
+        "cover":"Beverly-Hills-90210_4cd489b882e1310836479b8f35351ca1html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Hollywood Highschool","english":"Class of Beverly Hills","hoster":[]},
+                {"german":"Sehnsucht hinter Masken","english":"The Green Room","hoster":[]},
+                {"german":"Jeder Traum hat seinen Preis","english":"Every Dream Has Its Price","hoster":[]},
+                {"german":"Herzensbrecher","english":"The First Time","hoster":[]},
+                {"german":"Der Gegenspieler","english":"One on One","hoster":[]},
+                {"german":"Man lernt nie aus","english":"Higher Education","hoster":[]},
+                {"german":"Die perfekte Mutter","english":"Perfect Mom","hoster":[]},
+                {"german":"Alte Liebe","english":"The 17-Year Itch","hoster":[]},
+                {"german":"Das Sorgentelefon","english":"The Gentle Art of Listening","hoster":[]},
+                {"german":"Nichts mit Romantik?","english":"Isn&#039;t It Romantic?","hoster":[]},
+                {"german":"Erst nippen, dann kippen","english":"B.Y.O.B.","hoster":[]},
+                {"german":"Mutter werden ist nicht schwer","english":"One Man and a Baby","hoster":[]},
+                {"german":"Leichen im Keller","english":"Slumber Party","hoster":[]},
+                {"german":"Die andere Seite der Welt","english":"East Side Story","hoster":[]},
+                {"german":"Auf nach Palm Springs","english":"A Fling in Palm Springs","hoster":[]},
+                {"german":"Lockender Ruhm","english":"Fame Is Where You Find It","hoster":[]},
+                {"german":"Alles nicht so einfach","english":"Stand (Up) and Deliver","hoster":[]},
+                {"german":"Wird schon nicht so schlimm sein","english":"It&#039;s Only a Test","hoster":[]},
+                {"german":"Scheußlich, dieser April","english":"April Is the Cruelest Month","hoster":[]},
+                {"german":"Von Kindern und Hunden","english":"Spring Training","hoster":[]},
+                {"german":"Frühlingserwachen","english":"Spring Dance","hoster":[]},
+                {"german":"Eine schwere Entscheidung","english":"Home Again","hoster":[]}
+         ]
+}

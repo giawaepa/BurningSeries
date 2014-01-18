@@ -1,0 +1,30 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Der Koch, der Mafioso, die Frau und ihr Homer","english":"The Mook, the Chef, the Wife, and Her Homer","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Jazzy and the Pussycats","english":"Jazzy and the Pussycats","hoster":["PutLocker","DivxStage"]},
+                {"german":"Homer, hol den Hammer raus","english":"Please Homer, Don&#039;t Hammer &#039;Em","hoster":["PutLocker","DivxStage"]},
+                {"german":"Krieg der Welten","english":"Treehouse of Horror XVII","hoster":["PutLocker","DivxStage"]},
+                {"german":"G.I. Homer","english":"G.I. D&#039;oh","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Literarische Duett","english":"Moe&#039;N&#039;a Lisa","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kunst am Stiel","english":"Ice Cream of Margie: With the Light Blue Hair","hoster":["PutLocker","DivxStage"]},
+                {"german":"Beste Freunde","english":"The Haw-Hawed Couple","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kill Gil, Volumes I &amp; II","english":"Kill Gil, Volumes I &amp; II","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der perfekte Sturm","english":"The Wife Aquatic","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rache ist dreimal süß","english":"Revenge Is a Dish Best Served Three Times","hoster":["PutLocker","DivxStage"]},
+                {"german":"Mit gespaltener Zunge","english":"Little Big Girl","hoster":["PutLocker","DivxStage"]},
+                {"german":"Springfield wird erwachsen","english":"Springfield Up","hoster":["PutLocker","DivxStage"]},
+                {"german":"Selig sind die Dummen","english":"Yokel Chords","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein unmögliches Paar","english":"Rome-old and Juli-eh","hoster":["PutLocker","DivxStage"]},
+                {"german":"Homerazzi","english":"Homerazzi","hoster":["PutLocker","DivxStage"]},
+                {"german":"Marge online","english":"Marge Gamer","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ballverlust","english":"The Boys of Bummer","hoster":["PutLocker","DivxStage"]},
+                {"german":"Brand und Beute","english":"Crook and Ladder","hoster":["PutLocker","DivxStage"]},
+                {"german":"Stop! Oder mein Hund schießt","english":"Stop or My Dog Will Shoot","hoster":["PutLocker","DivxStage"]},
+                {"german":"24 Minuten","english":"24 Minutes","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das böse Wort","english":"You Kent Always Say What You Want","hoster":["PutLocker","DivxStage"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Fremde vor der Tür",
+         "titleen":"Episode 84",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6263986/Naruto_Folge_84_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6264019/Naruto_Folge_84_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6264088/Naruto_Folge_84_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"760FCDDC88D17F3D"
+                }
+       ]
+}

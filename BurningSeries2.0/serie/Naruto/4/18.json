@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der neue Hokage",
+         "titleen":"Episode 96",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6279100/Naruto_Folge_95_96_part_3_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6279166/Naruto_Folge_95_96_part_4_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6279193/Naruto_Folge_95_96_part_5_5"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"FEAAA2F6C43AA14F"
+                }
+       ]
+}

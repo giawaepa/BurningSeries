@@ -1,0 +1,25 @@
+{
+        "series":"Crossing Jordan ? Pathologin mit Profil",
+        "seasons":6,
+        "cover":"Crossing-Jordan-Pathologin-mit-Profil_6dac90ade86fd217c84a73877cbf765b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Vogelfrei","english":"Retribution","hoster":[]},
+                {"german":"Der Abschiedsbrief","english":"Shattered","hoster":[]},
+                {"german":"33 Kugeln","english":"33 Bullets","hoster":["PutLocker"]},
+                {"german":"Knockout","english":"Crazy Little Thing Called Love","hoster":[]},
+                {"german":"Große Liebe","english":"Mr. Little And Mr. Big","hoster":[]},
+                {"german":"Scheintot","english":"Night of the Living Dead","hoster":[]},
+                {"german":"Der Henker","english":"Hubris","hoster":[]},
+                {"german":"Quarantäne","english":"Isolation","hoster":[]},
+                {"german":"Die Mumie","english":"Seven Feet Under","hoster":[]},
+                {"german":"Gnadenlos","english":"Fall From Grace","hoster":[]},
+                {"german":"Lebensgefahr","english":"Faith","hoster":[]},
+                {"german":"Auf Messers Schneide","english":"Sleeping Beauty","hoster":[]},
+                {"german":"Hoch gepokert","english":"Post Hoc, Ergo Propter Hoc","hoster":[]},
+                {"german":"Bluthochzeit","english":"In Sickness &amp; In Health","hoster":[]},
+                {"german":"Der zweite Tod","english":"Dead Again","hoster":[]},
+                {"german":"24 Stunden","english":"D.O.A.","hoster":[]},
+                {"german":"Absturz","english":"Crash","hoster":["PutLocker"]}
+         ]
+}

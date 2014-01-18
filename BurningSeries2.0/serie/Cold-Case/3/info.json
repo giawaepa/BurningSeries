@@ -1,0 +1,31 @@
+{
+        "series":"Cold Case ? Kein Opfer ist je vergessen",
+        "seasons":7,
+        "cover":"Cold-Case-Kein-Opfer-ist-je-vergessen_d952da7f4cf1e5ddc35621c07baa7a54.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die verlorene Tochter","english":"Family","hoster":["PutLocker"]},
+                {"german":"Das Versprechen","english":"The Promise","hoster":["PutLocker"]},
+                {"german":"Halloween","english":"Bad Night","hoster":["PutLocker"]},
+                {"german":"Die verbotene Liga","english":"Colors","hoster":["PutLocker"]},
+                {"german":"Die Anstalt","english":"Committed","hoster":["PutLocker"]},
+                {"german":"Blutrache","english":"Saving Patrick Bubley","hoster":["PutLocker"]},
+                {"german":"Schnelles Geld","english":"Start-Up","hoster":["PutLocker"]},
+                {"german":"Schuld und Sühne","english":"Honor","hoster":["PutLocker"]},
+                {"german":"Ein perfekter Tag","english":"A Perfect Day (a.k.a. The Choice)","hoster":["PutLocker"]},
+                {"german":"Der Schützling","english":"Frank&#039;s Best","hoster":["PutLocker"]},
+                {"german":"Acht Jahre später","english":"8 Years","hoster":["PutLocker"]},
+                {"german":"Nirvana","english":"Detention (a.k.a. All Apologies)","hoster":["PutLocker"]},
+                {"german":"Debütantinnen","english":"Debut","hoster":["PutLocker"]},
+                {"german":"Hundstage","english":"Dog Day Afternoons","hoster":["PutLocker"]},
+                {"german":"Alvaro","english":"Sanctuary","hoster":["PutLocker"]},
+                {"german":"Unsterblich","english":"One Night","hoster":["PutLocker"]},
+                {"german":"Superstar","english":"Superstar","hoster":["PutLocker"]},
+                {"german":"Tödliches Cabaret","english":"Willkommen","hoster":["PutLocker"]},
+                {"german":"Die goldenen 20er","english":"Beautiful Little Fool","hoster":["PutLocker"]},
+                {"german":"Die letzte Berufung","english":"Death Penalty: Final Appeal","hoster":[]},
+                {"german":"Das Leben danach","english":"The Hen House","hoster":["PutLocker"]},
+                {"german":"Spielsüchtig","english":"The River","hoster":["PutLocker"]},
+                {"german":"Der Fall Joseph","english":"Joseph","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,29 @@
+{
+        "series":"30 Rock",
+        "seasons":6,
+        "cover":"30-Rock_b940447e54c3e6b55d29c9ff4abd16a4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Neue Boss","english":"Pilot","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Die Wiedergutmachungs-Party","english":"The Aftermath","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Blind Date","english":"Blind Date","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Jack, der Autor","english":"Jack the Writer","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Jack, der Schauspieler","english":"Jack-Tor","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Rendezvous mit dem Rattenkönig","english":"Jack Meets Dennis","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Tracy vs. Conan","english":"Tracy Does Conan","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Die Trennung","english":"The Break-Up","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Muttergefühle","english":"The Baby Show","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Zickenkrieg","english":"The Rural Juror","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Verwandte Seelen","english":"The Head and the Hair","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Der Geburtstag des Prinzen","english":"Black Tie","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Valentinsnacht","english":"Up All Night","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Das F-Wort","english":"The C Word","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Verhandlungssache","english":"Hardball","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Rassistin wider Willen","english":"The Source Awards","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Der Kampf der Iren","english":"The Fighting Irish","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Feuerwerk","english":"Fireworks","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Männerfreundschaft","english":"Corporate Crush","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Oh, wie schön ist Cleveland","english":"Cleveland","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Herzflattern","english":"Hiatus","hoster":["PutLocker","Sockshare","DivxStage"]}
+         ]
+}

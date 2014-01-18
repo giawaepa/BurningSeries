@@ -1,0 +1,24 @@
+{
+        "series":"Numb3rs ? Die Logik des Verbrechens",
+        "seasons":6,
+        "cover":"Numb3rs-Die-Logik-des-Verbrechens_8e3e17c52a0c53602826e85ab5fe4c15.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Heckenschütze","english":"Hangman","hoster":["PutLocker"]},
+                {"german":"Friendly Fire","english":"Friendly Fire","hoster":["PutLocker"]},
+                {"german":"Blutroulette","english":"7 Men Out","hoster":["PutLocker"]},
+                {"german":"Wie im Film","english":"Where Credit&#039;s Due","hoster":["PutLocker"]},
+                {"german":"Der Klon","english":"Hydra","hoster":["PutLocker"]},
+                {"german":"Dreamland","english":"Dreamland","hoster":["PutLocker"]},
+                {"german":"Der Hacker","english":"Shawdow Markets","hoster":["PutLocker"]},
+                {"german":"Ultimatum","english":"Ultimatum","hoster":["PutLocker"]},
+                {"german":"Buckleys Spiel","english":"Con Job","hoster":["PutLocker"]},
+                {"german":"Alte Krieger","english":"Old Soldiers","hoster":["PutLocker"]},
+                {"german":"Hauptgewinn","english":"Scratch","hoster":["PutLocker"]},
+                {"german":"Der Händler des Todes","english":"Arm in Arms","hoster":["PutLocker"]},
+                {"german":"Huren und Helden","english":"Devil Girl","hoster":["PutLocker"]},
+                {"german":"Stars und Sterne","english":"And The Winner Is...","hoster":["PutLocker"]},
+                {"german":"Story ohne Helden","english":"Growin&#039; Up","hoster":["PutLocker"]},
+                {"german":"Es gibt keinen Zufall","english":"Cause and Effect","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Babylon 5",
+        "seasons":5,
+        "cover":"Babylon-5_dfb79108b56479fb5db5a8bc6ce39fff.jpeg",
+        "movies":true,
+        "episodes":[
+                {"german":"Die Feuerprobe","english":"Points Of Depature","hoster":["PutLocker"]},
+                {"german":"Rückkehr der Finsternis","english":"Revelations","hoster":["PutLocker"]},
+                {"german":"Eine Frage der Farbe","english":"The Geometry Of Shadows","hoster":["PutLocker"]},
+                {"german":"Rettet die Cortez!","english":"A Distant Star","hoster":["PutLocker"]},
+                {"german":"Der unsichtbare Feind","english":"The Long Dark","hoster":["PutLocker"]},
+                {"german":"Freiheit für den Mars!","english":"Spider In The Web","hoster":["PutLocker"]},
+                {"german":"Drei Frauen für Mollari","english":"Soul Mates","hoster":["PutLocker"]},
+                {"german":"Der Gedankenpolizist","english":"A Race Through Dark Places","hoster":["PutLocker"]},
+                {"german":"Schatten am Horizont","english":"The Coming Of Shadows","hoster":["PutLocker"]},
+                {"german":"Die Schlacht um Matok","english":"GROPOS","hoster":["PutLocker"]},
+                {"german":"Alarm in Sektor 92","english":"All Alone In The Night","hoster":["PutLocker"]},
+                {"german":"Auf dem Pulverfass","english":"Acts Of Sacrifice","hoster":["PutLocker"]},
+                {"german":"Der Arzt des Präsidenten","english":"Hunter, Prey","hoster":["PutLocker"]},
+                {"german":"Minbari lügen nicht","english":"There All The Honor Lies","hoster":["PutLocker"]},
+                {"german":"36 Stunden auf Babylon 5","english":"And Now For A Word","hoster":["PutLocker"]},
+                {"german":"Das Geheimnis von Z&#039;ha&#039;dum","english":"In The Shadow Of Z&#039;ha&#039;dum","hoster":["PutLocker"]},
+                {"german":"Duell unter Freunden","english":"Knives","hoster":["PutLocker"]},
+                {"german":"Das Ende der Markab","english":"Confessions And Lamentations","hoster":["PutLocker"]},
+                {"german":"Verräter ohne Schuld","english":"Divided Loyalties","hoster":["PutLocker"]},
+                {"german":"Die Armee des Lichts","english":"The Long, Twilight Struggle","hoster":["PutLocker"]},
+                {"german":"Das Verhör des Inquisitors","english":"Comes The Inquisitor","hoster":["PutLocker"]},
+                {"german":"Ein Pakt mit dem Teufel","english":"The Fall Of Night","hoster":["PutLocker"]}
+         ]
+}

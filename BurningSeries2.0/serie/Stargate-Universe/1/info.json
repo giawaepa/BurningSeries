@@ -1,0 +1,28 @@
+{
+        "series":"Stargate Universe",
+        "seasons":2,
+        "cover":"Stargate-Universe_a04a2c36a05b5b4d0fcd1eb5184f1219.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Destiny","english":"Air (1)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Führungskampf auf der Destiny","english":"Air (2)","hoster":["MyVideo","PutLocker"]},
+                {"german":"Rettung für die Destiny","english":"Air (3)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Finsternis","english":"Darkness (1)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Flug ins Licht","english":"Light (2)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Außerirdische Invasion","english":"Water","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Rückkehr","english":"Earth","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Zeitreise","english":"Time","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Gefahr für die Destiny","english":"Life","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Mordverdacht","english":"Justice","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Space","english":"Space (1)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Divided","english":"Divided (2)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Glaube","english":"Faith","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Genetische Code","english":"Human","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Verloren","english":"Lost","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Sabotage","english":"Sabotage","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Halluzinationen","english":"Pain","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Luzianer-Allianz","english":"Subversion","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Feindlicher Übergriff, Teil 1","english":"Incursion (1)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Feindlicher Übergriff, Teil 2","english":"Incursion (2)","hoster":["MyVideo","PutLocker","DivxStage"]}
+         ]
+}

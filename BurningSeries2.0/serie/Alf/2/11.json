@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Traumkandidat",
+         "titleen":"Hail to the Chief",
+         "description":"Alf versteht nicht, warum Politiker um alles herumreden und sich niemals klar ausdrücken. Er träumt von einem besseren Amerika mit sich an der Spitze, der für alle Fragen eine verständliche Antwort hat.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6731605/ALF_Der_Traumkandidat_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6731664/ALF_Der_Traumkandidat_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6731720/ALF_Der_Traumkandidat_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"E9BE76DC6C452F3F"
+                }
+       ]
+}

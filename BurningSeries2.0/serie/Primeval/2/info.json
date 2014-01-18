@@ -1,0 +1,15 @@
+{
+        "series":"Primeval ? Rückkehr der Urzeitmonster",
+        "seasons":5,
+        "cover":"Primeval-Rueckkehr-der-Urzeitmonster_47ee7ae09f21f49ecbfcafc9c0d9edcc.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Eine neue Welt","english":"Episode 7","hoster":["YouTube","MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Der Nebel","english":"Episode 8","hoster":["YouTube","MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Panik im Park","english":"Episode 9","hoster":["YouTube","MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Der Kanal","english":"Episode 10","hoster":["YouTube","MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Nur ein paar Käfer","english":"Episode 11","hoster":["YouTube","MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Die Falle (1)","english":"Episode 12","hoster":["YouTube","MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Das Opfer (2)","english":"Episode 13","hoster":["YouTube","MyVideo","PutLocker","RapidVideo"]}
+         ]
+}

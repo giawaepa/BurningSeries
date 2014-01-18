@@ -1,0 +1,21 @@
+{
+        "series":"Life Unexpected",
+        "seasons":2,
+        "cover":"Life-Unexpected_1f1a1ce56a985f699074a68d31499da8.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Plötzlich Familie","english":"Pilot","hoster":["YouTube"]},
+                {"german":"Hausbesuch","english":"Home Inspected","hoster":["YouTube"]},
+                {"german":"Familienessen","english":"Rent Uncollected","hoster":["YouTube"]},
+                {"german":"Der Wunschzettel","english":"Bong Intercepted","hoster":["YouTube"]},
+                {"german":"Schildkrötenrennen","english":"Turtle Undefeated","hoster":["YouTube"]},
+                {"german":"Halbe Wahrheiten","english":"Truth Unrevealed","hoster":["YouTube"]},
+                {"german":"Die Krise ist unabwendbar","english":"Crisis Unaverted","hoster":["YouTube"]},
+                {"german":"Die Brautschau","english":"Bride Unbridled","hoster":["YouTube"]},
+                {"german":"Alte Feinde, neue Freunde","english":"Formal Reformed","hoster":["YouTube"]},
+                {"german":"Familientherapie","english":"Family Therapized","hoster":["YouTube"]},
+                {"german":"Stürmische Nacht","english":"Storm Weathered","hoster":["YouTube"]},
+                {"german":"Vaterfigur","english":"Father Unfigured","hoster":["YouTube"]},
+                {"german":"Plötzliche Liebe","english":"Love Unexpected","hoster":["YouTube"]}
+         ]
+}

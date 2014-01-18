@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Mr. Monk und Mrs. Monk",
+         "titleen":"Mr. Monk and Mrs. Monk",
+         "description":"Langsam kommt Monk wieder auf die Beine. Unterdessen trifft Natalie auf eine Frau, deren Name Trudy ist und die obendrein aussieht wie Adrians verstorbene Frau. Während Stottlemeyer Natalie beschwört, die Angelegenheit von Adrian fernzuhalten, wird die mysteriöse Trudy zu einer Hauptverdächtigen in einem Mordfall.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6359555/Mr_Monk_and_Mrs_Monk_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6359729/Mr_Monk_and_Mrs_Monk_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6359869/Mr_Monk_and_Mrs_Monk_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"6359981/Mr_Monk_and_Mrs_Monk_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"FA5BCBBAE0FC764C"
+                }
+       ]
+}

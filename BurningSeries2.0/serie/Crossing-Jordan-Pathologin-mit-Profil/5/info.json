@@ -1,0 +1,29 @@
+{
+        "series":"Crossing Jordan ? Pathologin mit Profil",
+        "seasons":6,
+        "cover":"Crossing-Jordan-Pathologin-mit-Profil_6dac90ade86fd217c84a73877cbf765b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Herzlos","english":"There&#039;s No Place Like Home, II","hoster":[]},
+                {"german":"Gefühls-Roulette","english":"Luck Be A Lady","hoster":[]},
+                {"german":"Im Schacht","english":"Under The Weather","hoster":[]},
+                {"german":"Amok","english":"Judgment Day","hoster":[]},
+                {"german":"Die Sekte","english":"Enlightenment","hoster":[]},
+                {"german":"Ohne Erinnerung","english":"Total Recall","hoster":[]},
+                {"german":"Pakt mit dem Bösen","english":"Road Kill","hoster":[]},
+                {"german":"Tod in Uniform","english":"A Man In Blue","hoster":[]},
+                {"german":"Totgesagt","english":"Death Goes On","hoster":[]},
+                {"german":"Pension des Grauens","english":"Loves Me Not","hoster":[]},
+                {"german":"Außer Kontrolle","english":"The Elephant In The Room","hoster":[]},
+                {"german":"Schutzlos","english":"Code Of Ethics","hoster":[]},
+                {"german":"Böses Erwachen","english":"Dreamland","hoster":[]},
+                {"german":"Trauma","english":"Death Toll","hoster":[]},
+                {"german":"Superman","english":"Blame Game","hoster":[]},
+                {"german":"Das Waisenkind","english":"Someone To Watch Over Me","hoster":[]},
+                {"german":"Unter Verdacht","english":"Save Me","hoster":[]},
+                {"german":"Dünnes Eis","english":"Thin Ice","hoster":[]},
+                {"german":"Getarnte Wunder","english":"Mysterious Ways","hoster":[]},
+                {"german":"In Ketten","english":"Mace Vs. Scalpel","hoster":[]},
+                {"german":"Blackout","english":"Don&#039;t Leave Me This Way","hoster":[]}
+         ]
+}

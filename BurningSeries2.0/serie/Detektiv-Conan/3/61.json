@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Pfeil der Sirene (3)",
+         "titleen":"Episode 243",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=BQtwHIhxdW8"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=7-f9MTb8XC8"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5880094/Detektiv_Conan_Folge_243_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5880415/Detektiv_Conan_Folge_243_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5880736/Detektiv_Conan_Folge_243_3_3"
+                }
+       ]
+}

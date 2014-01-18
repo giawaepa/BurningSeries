@@ -1,0 +1,32 @@
+{
+        "series":"CSI: Den Tätern auf der Spur",
+        "seasons":12,
+        "cover":"CSI-Den-Taetern-auf-der-Spur_a5a70731c9e7b0fd031284dab691f885.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mord nach Modell","english":"Built To Kill, Part 1","hoster":[]},
+                {"german":"Mord nach Modell, Teil 2","english":"Built To Kill, Part 2","hoster":[]},
+                {"german":"Wachet auf","english":"Toe Tags","hoster":[]},
+                {"german":"Happy Slapping","english":"Fannysmackin&#039;","hoster":[]},
+                {"german":"Kreuzigung","english":"Double Cross","hoster":["YouTube"]},
+                {"german":"Verhalten ohne Vernunft","english":"Burn Out","hoster":[]},
+                {"german":"Nächster Akt","english":"Post Mortem","hoster":[]},
+                {"german":"Ein Ende wie der Anfang","english":"Happenstance","hoster":[]},
+                {"german":"Lebende Legende","english":"Living Legend","hoster":[]},
+                {"german":"Dumm gelaufen","english":"Loco Motives","hoster":[]},
+                {"german":"Leaving Las Vegas","english":"Leaving Las Vegas","hoster":[]},
+                {"german":"Jung, schön und tot","english":"Sweet Jane","hoster":[]},
+                {"german":"Drom","english":"Redrum","hoster":[]},
+                {"german":"Fleischmarkt","english":"Meet Market","hoster":[]},
+                {"german":"Korrekturen","english":"Law of Gravity","hoster":[]},
+                {"german":"Rückkehr mit Vorwarnung","english":"Monster in the Box","hoster":[]},
+                {"german":"Läuse zur Wahrheit","english":"Fallen Idols","hoster":[]},
+                {"german":"Ihr letzter Tanz","english":"Empty Eyes","hoster":["YouTube"]},
+                {"german":"Schweres Kaliber","english":"Big Shots","hoster":[]},
+                {"german":"Laborratten","english":"Lab Rats","hoster":[]},
+                {"german":"Happys Ende","english":"Ending Happy","hoster":[]},
+                {"german":"Verschwörung der Reptilien","english":"Leapin&#039; Lizards","hoster":[]},
+                {"german":"Die Guten, die Bösen und die Domina","english":"The Good, The Bad and the Dominatrix","hoster":[]},
+                {"german":"Lebende Puppen (1)","english":"Living Doll (1)","hoster":[]}
+         ]
+}

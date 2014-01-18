@@ -1,0 +1,32 @@
+{
+        "series":"90210",
+        "seasons":4,
+        "cover":"90210_2a5a4ebb1395e5a42463de0594f6801e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Willkommen in Beverly Hills","english":"We&#039;re Not in Kansas Anymore","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Jetset","english":"The Jet Set","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Glückstreffer","english":"Lucky Strike","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die neue Regisseurin","english":"The Bubble","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Die Nacht der Träume","english":"Wide Awake and Dreaming","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Die Fashion-Show","english":"Model Behavior","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Friedhofparty","english":"Hollywood Forever","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Freundinnen","english":"There&#039;s No Place Like Homecoming","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Geheimnisse und Lügen","english":"Secrets and Lies","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Spielchen","english":"Games People Play","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zickenterror","english":"That Which We Destroy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der falsche Sohn","english":"Hello, Goodbye, Amen","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ich liebe dich","english":"Love Me or Leave Me","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Antonius &amp; Kleopatra","english":"By Accident","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hilf mir, Rhonda","english":"Help Me, Rhonda","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Valentinstag","english":"Of Heartbreaks and Hotels","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Silvers Film","english":"Life&#039;s a Drag","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wo ist Silver?","english":"Off the Rails","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Welcome Home, Donna","english":"Okaeri, Donna!","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Zeichen","english":"Between a Sign and a Hard Place","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Himmel oder Hölle","english":"The Dionysian Debacle","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Party ist vorbei","english":"The Party&#039;s Over","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Null Toleranz","english":"Zero Tolerance","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ades Baby","english":"One Party Can Ruin Your Whole Summer","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

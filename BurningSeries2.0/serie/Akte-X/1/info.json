@@ -1,0 +1,32 @@
+{
+        "series":"Akte X",
+        "seasons":9,
+        "cover":"Akte-X_81ab1803846af5b33207b81b56a64620html.html",
+        "movies":true,
+        "episodes":[
+                {"german":"Gezeichnet","english":"Pilot","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream"]},
+                {"german":"Die Warnung","english":"Deep Throat","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Das Nest","english":"Squeeze","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream"]},
+                {"german":"Signale","english":"Conduit","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Teufel von Jersey","english":"","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schatten","english":"Shadows","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Maschine","english":"Ghost in the Machine","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eis","english":"Ice","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Besessen","english":"Space","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gefallener Engel","english":"Fallen Angel","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eve","english":"Eve","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Feuer","english":"Fire","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Botschaft","english":"Beyond the Sea","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verlockungen","english":"GenderBender","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lazarus","english":"Lazarus","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ewige Jugen","english":"Young at Heart","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Täuschungsmanöver","english":"E.B.E.","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Wunderheiler","english":"Miracle Man","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verwandlungen","english":"Shapes","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Kokon","english":"Darkness Falls","hoster":["RapidVideo"]},
+                {"german":"Ein neues Nest","english":"Tooms","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wiedergeboren","english":"Born Again","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Roland","english":"Roland","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Labor","english":"The Erlenmeyer Flask","hoster":["PutLocker"]}
+         ]
+}

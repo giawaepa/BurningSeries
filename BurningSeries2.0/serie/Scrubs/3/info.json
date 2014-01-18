@@ -1,0 +1,30 @@
+{
+        "series":"Scrubs ? Die Anfänger",
+        "seasons":9,
+        "cover":"Scrubs-Die-Anfaenger_bb19dab1f0d35358b688f3a4a8bac13e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mein drittes Jahr","english":"My Own American Girl","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine neue Ära","english":"My Journey","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Berater","english":"My White Whale","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Mein Stolz","english":"My Lucky Night","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein großer Fehler","english":"My Brother, Where Art Thou?","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Handtaschentrick","english":"My Advice to You","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine fünfzehn Sekunden","english":"My Fifteen Seconds","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Kollegin","english":"My Friend the Doctor","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Verzicht","english":"My Dirty Secret","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Regeln","english":"My Rule of Thumb","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein sauberer Abgang","english":"My Clean Break","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Katalysator","english":"My Catalyst","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine Offenbarung","english":"My Porcelain God","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Schuld","english":"My Screw Up","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine sexistische Kollegen","english":"My Tormented Mentor","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Schmetterling","english":"My Butterfly","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Freundin Carla","english":"My Moment of Un-Truth","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Freund Turk","english":"His Story II","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine schwierigste Wahl","english":"My Choosiest Choice of All","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Fehler","english":"My Fault","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Selbstprüfung","english":"My Self-Examination","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein bester Freund heiratet","english":"My Best Friend&#039;s Wedding","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]}
+         ]
+}

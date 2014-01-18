@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Katzenjammer",
+         "titleen":"Looking For Lucky",
+         "description":"Große Aufregung bei Familie Tanner: Kater Lucky ist verschwunden. Alf gerät in den Verdacht, ihn verspeist zu haben. Keiner glaubt seinen Unschuldsbeteuerungen. Da macht Alf sich auf, den Kater zu suchen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6574784/ALF_Katzenjammer_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6575181/ALF_Katzenjammer_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6575802/ALF_Katzenjammer_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"5F045C94DA4305F0"
+                }
+       ]
+}

@@ -1,0 +1,21 @@
+{
+        "series":"Ausgesetzt in der Wildnis",
+        "seasons":7,
+        "cover":"Ausgesetzt-in-der-Wildnis_df6212bf0ba49f03423dae4acfbfae23.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"In der Wüste Mexikos","english":"Baja Desert","hoster":["PutLocker"]},
+                {"german":"In den Sümpfen Louisianas","english":"The Deep South","hoster":["PutLocker"]},
+                {"german":"An der Steilküste Irlands","english":"Ireland","hoster":["PutLocker"]},
+                {"german":"In der Prärie Süd-Dakotas","english":"South Dakota","hoster":["PutLocker"]},
+                {"german":"Best Of","english":"Bears Essentials","hoster":["PutLocker"]},
+                {"german":"Im Dschungel von Belize","english":"Belize","hoster":["PutLocker"]},
+                {"german":"Im Yukon-Territorium","english":"Yukon","hoster":["PutLocker"]},
+                {"german":"In den Canyons von Oregon","english":"Oregon","hoster":["PutLocker"]},
+                {"german":"Im Karibikdschungel","english":"Dominican Republic","hoster":["PutLocker"]},
+                {"german":"Im anatolischen Gebirge","english":"Turkey","hoster":["PutLocker"]},
+                {"german":"In den Karpaten","english":"Romania","hoster":["PutLocker"]},
+                {"german":"Tipps zum Überleben 1","english":"Bear&#039;s Ultimate Survival Guide","hoster":[]},
+                {"german":"","english":"Will Ferrell Special","hoster":[]}
+         ]
+}

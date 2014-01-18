@@ -1,0 +1,30 @@
+{
+        "series":"Sabrina - total verhext",
+        "seasons":7,
+        "cover":"Sabrina-total-verhext_9bc45f9f48032b5509b0215502c2ce17.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Paris ruft","english":"No Place Like Home","hoster":["Sockshare"]},
+                {"german":"Der Zauberlehrling","english":"Dream a Little Dreama Me","hoster":["Sockshare"]},
+                {"german":"Eifersucht","english":"Jealousy","hoster":["Sockshare"]},
+                {"german":"Völlig aufgelöst","english":"Little Orphan Hilda","hoster":["Sockshare"]},
+                {"german":"Haben, haben, haben","english":"Spoiled Rotten","hoster":["Sockshare"]},
+                {"german":"Katzenhorror","english":"Episode LXXXI: The Phantom Menace","hoster":["Sockshare"]},
+                {"german":"Wer küsst wen?","english":"Prelude to a Kiss","hoster":["Sockshare"]},
+                {"german":"Eine Frage des Alters","english":"Aging, Not So Gracefully","hoster":["Sockshare"]},
+                {"german":"Altes neues Glück","english":"Love Means Never Having to Say You&#039;re Sorry","hoster":["Sockshare"]},
+                {"german":"Eiskalt erwischt","english":"Ice Station Sabrina","hoster":["Sockshare"]},
+                {"german":"Salem und Juliette","english":"Salem and Juliette","hoster":["Sockshare"]},
+                {"german":"Zum Schmelzen schön","english":"Sabrina, Nipping at Your Nose","hoster":["Sockshare"]},
+                {"german":"Dünn, dünner, am dümmsten","english":"Now You See Her, Now You Don&#039;t","hoster":["Sockshare"]},
+                {"german":"Lauter Helden","english":"Super Hero","hoster":["Sockshare"]},
+                {"german":"Blüten der Liebe","english":"Love in Bloom","hoster":["Sockshare"]},
+                {"german":"Fauler Zauber","english":"Welcome Back, Duke","hoster":["Sockshare"]},
+                {"german":"Salems Tochter","english":"Salem&#039;s Daughter","hoster":["Sockshare"]},
+                {"german":"Eine Maus namens Dreama","english":"Dreama the Mouse","hoster":["Sockshare"]},
+                {"german":"Es lebe das Chaos","english":"The Wild, Wild Witch","hoster":["Sockshare"]},
+                {"german":"Eine Cousine zuviel","english":"She&#039;s Baaaack!","hoster":["Sockshare"]},
+                {"german":"Sabrina mal vier","english":"The Four Faces of Sabrina","hoster":["Sockshare"]},
+                {"german":"Schluss mit lustig","english":"The End of an Era","hoster":["Sockshare"]}
+         ]
+}

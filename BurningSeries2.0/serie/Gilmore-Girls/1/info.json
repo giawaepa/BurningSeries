@@ -1,0 +1,29 @@
+{
+        "series":"Gilmore Girls",
+        "seasons":7,
+        "cover":"Gilmore-Girls_7f16155ca12e6b38d5c40963a00e8818.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Alles auf Anfang","english":"Pilot","hoster":[]},
+                {"german":"Ein klassischer Fehlstart","english":"The Lorelais&#039; First Day at Chilton","hoster":[]},
+                {"german":"Familie mit Handicap","english":"Kill Me Now","hoster":[]},
+                {"german":"Mit Pauken und Trompeten","english":"The Deer Hunters","hoster":[]},
+                {"german":"Katzenjammer","english":"Cinnamon&#039;s Wake","hoster":[]},
+                {"german":"Alptraum Geburtstag","english":"Rory&#039;s Birthday Parties","hoster":[]},
+                {"german":"Ein Kuss mit Folgen","english":"Kiss and Tell","hoster":[]},
+                {"german":"Schneechaos","english":"Love and War and Snow","hoster":[]},
+                {"german":"Kopfüber in die Nacht","english":"Rory&#039;s Dance","hoster":[]},
+                {"german":"Vergeben und vergessen","english":"Forgiveness and Stuff","hoster":[]},
+                {"german":"Kuss und Schluss","english":"Paris is Burning","hoster":[]},
+                {"german":"Doppelt hält besser","english":"Double Date","hoster":[]},
+                {"german":"Concertus Interruptus","english":"Concert Interruptus","hoster":[]},
+                {"german":"Küken-Alarm","english":"That Damn Donna Reed","hoster":[]},
+                {"german":"Sex mit dem Ex","english":"Christopher Returns","hoster":[]},
+                {"german":"Chaos der Gefühle","english":"Star-Crossed Lovers and Other Strangers","hoster":[]},
+                {"german":"Tal der Tränen","english":"The Breakup (Part 2)","hoster":[]},
+                {"german":"Die vierte Generation","english":"The Third Lorelai","hoster":[]},
+                {"german":"Zimmerservice","english":"Emily In Wonderland","hoster":[]},
+                {"german":"Drei magische Worte","english":"P.S. I Lo...","hoster":[]},
+                {"german":"Alte Liebe, neues Glück","english":"Love, Daisies and Troubadours","hoster":[]}
+         ]
+}

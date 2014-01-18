@@ -1,0 +1,24 @@
+{
+        "series":"Greys Anatomy",
+        "seasons":8,
+        "cover":"Greys-Anatomy_f235f0fb485b9c44061fc1bf7bd65edchtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Free Falling","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"She?s Gone","hoster":[]},
+                {"german":"","english":"Take the Lead","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"What Is It About Men","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Love, Loss and Legacy","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Poker Face","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Put Me In, Coach","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Heart-Shaped Box","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Dark Was the Night","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Suddenly","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"This Magic Moment","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Hope For The Hopeless","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"If/Then","hoster":["PutLocker"]},
+                {"german":"","english":"All You Need is Love","hoster":[]},
+                {"german":"","english":"Have You Seen Me Lately?","hoster":[]},
+                {"german":"","english":"If Only You Were Lonely","hoster":[]}
+         ]
+}

@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Pfeil der Sirene (1)",
+         "titleen":"Episode 241",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=K3YGj_TCvdg"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=0Uzd7ZnkPmM"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5874433/Detektiv_Conan_Folge_241_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5874677/Detektiv_Conan_Folge_241_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5874971/Detektiv_Conan_Folge_241_3_3"
+                }
+       ]
+}

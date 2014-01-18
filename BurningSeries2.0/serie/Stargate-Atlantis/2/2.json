@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Der Eindringling",
+         "titleen":"Intruder",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7099491/Stargate_Atlantis_S02E02_Der_Eindringling_1_7"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7099578/Stargate_Atlantis_S02E02_Der_Eindringling_2_7"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7099628/Stargate_Atlantis_S02E02_Der_Eindringling_3_7"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7099803/Stargate_Atlantis_S02E02_Der_Eindringling_4_7"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"2CF617E487DCF3C7"
+                },{
+                        "hoster":"DivxStage",
+                        "part":1,
+                        "link":"tb4r6hwj6xiab"
+                }
+       ]
+}

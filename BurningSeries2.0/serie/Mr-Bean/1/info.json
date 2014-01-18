@@ -1,0 +1,23 @@
+{
+        "series":"Mr. Bean",
+        "seasons":1,
+        "cover":"Mr-Bean_6e6efdfef6b62e73d17839b481c86228.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Mr. Bean","english":"Mr. Bean","hoster":["PutLocker"]},
+                {"german":"Die Rückkehr von Mr. Bean/Mr. Beans Ausflug in die feine Welt","english":"The Return of Mr. Bean","hoster":["YouTube","PutLocker"]},
+                {"german":"Der Fluch des Mr. Bean/Freizeitspaß mit Hindernissen","english":"The Curse of Mr. Bean","hoster":["YouTube","PutLocker"]},
+                {"german":"Mr. Bean geht in die Stadt","english":"Mr. Bean Goes to Town","hoster":["YouTube","PutLocker"]},
+                {"german":"Ärger mit Mr. Bean/Ärger ohne Ende","english":"The Trouble with Mr. Bean","hoster":["YouTube","PutLocker"]},
+                {"german":"Mr. Bean reist wieder","english":"Mr. Bean Rides Again","hoster":["YouTube","PutLocker"]},
+                {"german":"Fröhliche Weihnachten, Mr Bean","english":"Merry Christmas Mr. Bean","hoster":["YouTube","PutLocker"]},
+                {"german":"Mr. Bean in Zimmer 426","english":"Mr. Bean in Room 426","hoster":["YouTube","PutLocker"]},
+                {"german":"Babysitter wider Willen/Mr. Bean, Achtung Baby!","english":"Mind the Baby Mr. Bean","hoster":["YouTube","PutLocker"]},
+                {"german":"Mach?s selbst, Mr. Bean/Der Heimwerker","english":"Do It Yourself Mr. Bean","hoster":["YouTube","PutLocker"]},
+                {"german":"Tag der offenen Tür","english":"Back to School Mr. Bean","hoster":["YouTube","PutLocker"]},
+                {"german":"Mr. Bean schlägt wieder zu","english":"Tee Off Mr. Bean","hoster":["YouTube","PutLocker"]},
+                {"german":"Gute Nacht, Mr. Bean/Ein Tag mit Tücken","english":"Good Night Mr. Bean","hoster":["PutLocker"]},
+                {"german":"Mr. Bean beim Friseur","english":"Hair by Mr. Bean of London","hoster":["YouTube","PutLocker"]},
+                {"german":"Johnny English","english":"Johnny English","hoster":[]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Pretender",
+        "seasons":4,
+        "cover":"Pretender_be5de66db36a1ccb7476b575a235da53html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"In der Zwangsjacke ","english":"Crazy ","hoster":[]},
+                {"german":"Der Traumfänger ","english":"Hope &amp; Prey ","hoster":[]},
+                {"german":"Mörderischer Vollmond ","english":"Once in a Blue Moon ","hoster":[]},
+                {"german":"Brandgefährlich ","english":"Someone to Trust ","hoster":[]},
+                {"german":"Der Maulwurf ","english":"Betrayal ","hoster":[]},
+                {"german":"Bewährungsprobe ","english":"Parole ","hoster":[]},
+                {"german":"Ein explosiver Plan ","english":"Homefront ","hoster":[]},
+                {"german":"Der Spürhund ","english":"Flesh And Blood ","hoster":[]},
+                {"german":"Der perfekte Mord ","english":"Murder 101 ","hoster":[]},
+                {"german":"Der geheimnisvolle Mr. Lee ","english":"Mr. Lee ","hoster":[]},
+                {"german":"Wahre Lügen ","english":"The Assasin ","hoster":[]},
+                {"german":"Haie unter sich ","english":"Unsinkable ","hoster":[]},
+                {"german":"Karambolage ","english":"Pool ","hoster":[]},
+                {"german":"An der Schwelle des Todes ","english":"At the Hour of Our Death ","hoster":[]},
+                {"german":"Countdown ","english":"Countdown ","hoster":[]},
+                {"german":"Hart auf Sendung ","english":"PTB - The Powers That Be ","hoster":[]},
+                {"german":"Nestflucht ","english":"Ties That Bind ","hoster":[]},
+                {"german":"Böses Erwachen ","english":"Wake-Up ","hoster":[]},
+                {"german":"Im Namen des Vaters ","english":"End Game ","hoster":[]},
+                {"german":"Unter Null ","english":"Quallupilluit ","hoster":[]},
+                {"german":"Projekt Gemini, Teil 1 ","english":"Donoterase (1) ","hoster":[]},
+                {"german":"Projekt Gemini, Teil 2 ","english":"Donoterase (2) ","hoster":[]}
+         ]
+}

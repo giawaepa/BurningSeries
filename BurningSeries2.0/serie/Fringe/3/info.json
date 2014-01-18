@@ -1,0 +1,30 @@
+{
+        "series":"Fringe ? Grenzfälle des FBI",
+        "seasons":4,
+        "cover":"Fringe-Grenzfaelle-des-FBI_d829d7f50602945bffb5750f223aceb1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Olivia","english":"Olivia","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Kasten","english":"The Box","hoster":["PutLocker","DivxStage"]},
+                {"german":"Milo","english":"The Plateau","hoster":["PutLocker","DivxStage"]},
+                {"german":"Träumen Gestaltwandler von elektrischen Schafen?","english":"Do Shapeshifters Dream of Electric Sheep?","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bernstein 31422","english":"Amber 31422","hoster":["PutLocker","DivxStage"]},
+                {"german":"6955 kHz","english":"6955 kHz","hoster":["PutLocker","DivxStage"]},
+                {"german":"Entführt","english":"The Abducted","hoster":["PutLocker","DivxStage"]},
+                {"german":"Übergangspunkt","english":"Entrada","hoster":["PutLocker","DivxStage"]},
+                {"german":"Marionette","english":"Marionette","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Glühwürmchen","english":"The Firefly","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wechselspiel","english":"Reciprocity","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Gedankenleser","english":"Concentrate and Ask Again","hoster":["PutLocker","DivxStage"]},
+                {"german":"Unsterblich","english":"Immortality","hoster":["PutLocker","DivxStage"]},
+                {"german":"6B","english":"6B","hoster":["PutLocker","DivxStage"]},
+                {"german":"Versuchsperson 13","english":"Subject 13","hoster":["PutLocker","DivxStage"]},
+                {"german":"Os","english":"Os","hoster":["PutLocker","DivxStage"]},
+                {"german":"Per Anhalter","english":"Stowaway","hoster":["PutLocker","DivxStage"]},
+                {"german":"Blutlinie","english":"Bloodline","hoster":["PutLocker","DivxStage"]},
+                {"german":"LSD","english":"Lysergic Acid Diethylamide","hoster":["PutLocker","DivxStage"]},
+                {"german":"6:02 Uhr","english":"6:02 AM EST","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der letzte Sam Weiss","english":"The Last Sam Weiss","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Tag, an dem wir starben","english":"The Day We Died","hoster":["PutLocker","DivxStage"]}
+         ]
+}

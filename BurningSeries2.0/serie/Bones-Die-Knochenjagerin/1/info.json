@@ -1,0 +1,30 @@
+{
+        "series":"Bones - Die Knochenjägerin",
+        "seasons":7,
+        "cover":"Bones-Die-Knochenjägerin_e8e06230be32336d27bb8a6446e46de2.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Frau im Teich","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Der Mann im Jeep","english":"The Man in the S.U.V","hoster":["PutLocker"]},
+                {"german":"Der Junge am Baum","english":"A Boy in the Tree","hoster":["PutLocker"]},
+                {"german":"Der Tote im Bär","english":"The Man in the Bear","hoster":["PutLocker"]},
+                {"german":"Der Junge im Busch","english":"A Boy In a Bush","hoster":[]},
+                {"german":"Der Mann in der Wand","english":"The Man in the Wall","hoster":[]},
+                {"german":"Der Mann in der Todeszelle","english":"A Man on Death Row","hoster":[]},
+                {"german":"Das Mädchen im Kühlschrank","english":"The Girl in the Fridge","hoster":[]},
+                {"german":"Der Mann im Bunker","english":"The Man in the Fallout Shelter","hoster":[]},
+                {"german":"Die Frau am Flughafen","english":"The Woman at the Airport","hoster":[]},
+                {"german":"Die Frau im Auto","english":"The Woman in the Car","hoster":[]},
+                {"german":"Das Skelett in der Gasse","english":"The Superhero in the Alley","hoster":[]},
+                {"german":"Die Frau im Garten","english":"The Woman in the Garden","hoster":[]},
+                {"german":"Der Mann im Gras","english":"The Man on the Fairway","hoster":[]},
+                {"german":"Leichen im Labor","english":"Two Bodies in the Lab","hoster":[]},
+                {"german":"Die Frau im Tunnel","english":"The Woman in the Tunnel","hoster":[]},
+                {"german":"Der Schädel in der Wüste","english":"The Skull in the Desert","hoster":[]},
+                {"german":"Der Mann mit dem Knochen","english":"The Man with the Bone","hoster":[]},
+                {"german":"Kein Mann in der Leichenhalle","english":"The Man in the Morgue","hoster":[]},
+                {"german":"Der Krebs im Knochen","english":"The Graft in the Girl","hoster":[]},
+                {"german":"Der Soldat auf dem Grab","english":"The Soldier on the Grave","hoster":[]},
+                {"german":"Die Frau aus der Vergangenheit","english":"The Woman in Limbo","hoster":[]}
+         ]
+}

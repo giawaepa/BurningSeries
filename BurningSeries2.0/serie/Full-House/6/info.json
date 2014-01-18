@@ -1,0 +1,32 @@
+{
+        "series":"Full House",
+        "seasons":8,
+        "cover":"Full-House_20bd56938965807a7c4bdb8c45cd6edb.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Come Fly with Me","hoster":[]},
+                {"german":"","english":"The Long Goodbye","hoster":[]},
+                {"german":"","english":"Road to Tokyo","hoster":[]},
+                {"german":"","english":"Radio Days","hoster":[]},
+                {"german":"","english":"Lovers and Other Tanners","hoster":[]},
+                {"german":"","english":"Educating Jesse","hoster":[]},
+                {"german":"","english":"Trouble in Twin Town","hoster":[]},
+                {"german":"","english":"The Play&#039;s the Thing","hoster":[]},
+                {"german":"","english":"Nice Guys Finish First","hoster":[]},
+                {"german":"","english":"I&#039;m Not D.J.","hoster":[]},
+                {"german":"","english":"Desiging Mothers","hoster":[]},
+                {"german":"","english":"A Very Tanner Christmas","hoster":["YouTube"]},
+                {"german":"","english":"The Dating Game","hoster":[]},
+                {"german":"","english":"Birthday Blues","hoster":[]},
+                {"german":"","english":"Be True to Your Pre-School","hoster":[]},
+                {"german":"","english":"The Heartbreak Kid","hoster":[]},
+                {"german":"","english":"Silence is Not Golden","hoster":[]},
+                {"german":"","english":"Please Don&#039;t Touch the Dinosaur","hoster":[]},
+                {"german":"","english":"Subterranean Graduation Blues","hoster":[]},
+                {"german":"","english":"Grand Gift Auto","hoster":[]},
+                {"german":"","english":"Room for One More","hoster":[]},
+                {"german":"","english":"Prom Night","hoster":[]},
+                {"german":"","english":"The House Meets the Mouse (1)","hoster":[]},
+                {"german":"","english":"The House Meets the Mouse (2)","hoster":[]}
+         ]
+}

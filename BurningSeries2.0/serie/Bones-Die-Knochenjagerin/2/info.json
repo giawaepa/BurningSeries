@@ -1,0 +1,29 @@
+{
+        "series":"Bones - Die Knochenjägerin",
+        "seasons":7,
+        "cover":"Bones-Die-Knochenjägerin_e8e06230be32336d27bb8a6446e46de2.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Toter auf den Gleisen","english":"The Titan on the Tracks","hoster":[]},
+                {"german":"Die Schwangere in der Bucht","english":"Mother and Child in the Bay","hoster":[]},
+                {"german":"Der Junge im Müll","english":"The Boy in the Shroud","hoster":[]},
+                {"german":"Die Opfer eines bösen Spiels","english":"The Blonde in the Game","hoster":[]},
+                {"german":"Der Lügner in der Lauge","english":"The Truth in the Lye","hoster":[]},
+                {"german":"Die junge Frau im Kronleuchter","english":"The Girl In Suite 2103","hoster":[]},
+                {"german":"Das Mädchen und die Schönheit","english":"The Girl with the Curl","hoster":[]},
+                {"german":"Zwei Schicksale im Sand","english":"The Woman in the Sand","hoster":[]},
+                {"german":"Ein Totengräber und die noch Lebenden","english":"Aliens in a Spaceship","hoster":[]},
+                {"german":"Die kopflose Hexe im Wald","english":"The Headless Witch in the Woods","hoster":[]},
+                {"german":"Ein Verräter im Feuer","english":"Judas on a Pole","hoster":[]},
+                {"german":"Der Mann aus dem Gefängnis","english":"The Man in the Cell","hoster":[]},
+                {"german":"Die junge Frau im Alligator","english":"The Girl in the Gator","hoster":[]},
+                {"german":"Das Recht und die Befangenheit","english":"The Man in the Mansion","hoster":[]},
+                {"german":"Drei Morde, wie sie im Buche stehen","english":"Bodies in the Book","hoster":[]},
+                {"german":"Eine knochenlose Braut im Fluss","english":"The Boneless Bride in the River","hoster":[]},
+                {"german":"Ein junger Priester auf dem alten Friedhof","english":"The Priest in the Churchyard","hoster":[]},
+                {"german":"Besuche aus dem Untergrund","english":"The Killer in the Concrete","hoster":[]},
+                {"german":"Ein Astronaut als Sternschnuppe?","english":"Spaceman in a Crater","hoster":[]},
+                {"german":"Eine leuchtende Leiche im alten Steinhaus","english":"The Glowing Bones In The Old Stone House","hoster":[]},
+                {"german":"Die junge, alte Frau in der Pfütze","english":"Stargazer In A Puddle","hoster":[]}
+         ]
+}

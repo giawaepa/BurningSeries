@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Bei Anruf Mord (2)",
+         "titleen":"Episode 157",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=qvZHmRE0xIQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5532173/Detektiv_Conan_Folge_157_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5532492/Detektiv_Conan_Folge_157_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5532785/Detektiv_Conan_Folge_157_3_3"
+                }
+       ]
+}

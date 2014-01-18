@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Die zweite Chance",
+         "titleen":"The Second Chance",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7135528/O_C_California_s02e11_Die_zweite_Chance_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7135541/O_C_California_s02e11_Die_zweite_Chance_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7135569/O_C_California_s02e11_Die_zweite_Chance_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7135594/O_C_California_s02e11_Die_zweite_Chance_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"46EC71797AF7A6A6"
+                }
+       ]
+}

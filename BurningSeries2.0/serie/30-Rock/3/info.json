@@ -1,0 +1,30 @@
+{
+        "series":"30 Rock",
+        "seasons":6,
+        "cover":"30-Rock_b940447e54c3e6b55d29c9ff4abd16a4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Pfad der Tugend","english":"Do-Over","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Lebenshilfe über den Wolken","english":"Believe in the Stars","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die verrückte Freundin","english":"The One with the Cast of Night Court","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ein charmanter Hochstapler","english":"Gavin Volure","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Klassentreffen","english":"Reunion","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Weihnachtstrauma","english":"Christmas Special","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Senor Macho Solo","english":"Señor Macho Solo","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Grippe-Epidemie","english":"Flu Shot","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Freundschaftsdienst","english":"Retreat to Move Forward","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"El Generalissimo","english":"Generalissimo","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Verabrede dich nie am Valentinstag!","english":"St. Valentine?s Day","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Cash oder Liebe","english":"Larry King","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Lebewohl, mein Freund","english":"Goodbye, My Friend","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hier kommt der ?Funcooker?!","english":"The Funcooker","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der schöne Schein","english":"The Bubble","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Apollo, Apollo","english":"Apollo, Apollo","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Sparmaßnahmen","english":"Cutbacks","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Club der schlagenden Hausfrauen","english":"Jackie Jormp-Jomp","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die eine und sonst keine","english":"The Ones","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die natürliche Ordnung","english":"The Natural Order","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Mamma mia","english":"Mamma Mia","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Konzert für eine Niere","english":"Kidney Now!","hoster":["PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

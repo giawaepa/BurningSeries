@@ -1,0 +1,21 @@
+{
+        "series":"Rules of Engagement",
+        "seasons":6,
+        "cover":"Rules-of-Engagement_f7ad76ee4c30c6ef6ea68cc1c33264b1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Theatertunte","english":"Russell&#039;s Secret","hoster":["RapidVideo"]},
+                {"german":"Die Vorleserin","english":"Voluntary Commitment","hoster":["RapidVideo"]},
+                {"german":"Mein schwuler Freund","english":"Jeff&#039;s New Friend","hoster":["RapidVideo"]},
+                {"german":"Frauen sind Männer mit Möpsen","english":"Dad&#039;s Visit","hoster":["RapidVideo"]},
+                {"german":"Lügen macht Spaß","english":"Lyin&#039; King","hoster":["RapidVideo"]},
+                {"german":"Timmy und das große Glück","english":"Poaching Timmy","hoster":["RapidVideo"]},
+                {"german":"Pfui, alter Mann!","english":"Old Timer&#039;s Day","hoster":["RapidVideo"]},
+                {"german":"Wenn der Mann zweimal kann","english":"Twice","hoster":["RapidVideo"]},
+                {"german":"Erregung im Park","english":"The Challenge","hoster":["RapidVideo"]},
+                {"german":"Finger weg!","english":"Family Style","hoster":["RapidVideo"]},
+                {"german":"Die Pizza-Connection","english":"May Divorce Be With You","hoster":["RapidVideo"]},
+                {"german":"Allein unter Frauen","english":"House Money","hoster":["RapidVideo"]},
+                {"german":"Ausgepowert","english":"Sex Toy Story","hoster":["RapidVideo"]}
+         ]
+}

@@ -1,0 +1,23 @@
+{
+        "series":"Doctor Who",
+        "seasons":6,
+        "cover":"Doctor-Who_afb3def19dd3034de70546d97c212148.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Rose","english":"Rose","hoster":["PutLocker"]},
+                {"german":"Das Ende der Welt","english":"The End of the World","hoster":["PutLocker"]},
+                {"german":"Die rastlosen Toten","english":"The Unquiet Dead","hoster":["PutLocker"]},
+                {"german":"Aliens in London - Teil 1","english":"Aliens of London (1)","hoster":["PutLocker"]},
+                {"german":"Der dritte Weltkrieg - Teil 2","english":"World War Three (2)","hoster":["PutLocker"]},
+                {"german":"Dalek","english":"Dalek","hoster":["PutLocker"]},
+                {"german":"Langzeitstrategie","english":"The Long Game","hoster":["PutLocker"]},
+                {"german":"Vatertag","english":"Father&#039;s Day","hoster":["PutLocker"]},
+                {"german":"Das leere Kind - Teil 1","english":"The Empty Child (1)","hoster":["PutLocker"]},
+                {"german":"Der Doktor tanzt - Teil 2","english":"The Doctor Dances (2)","hoster":["PutLocker"]},
+                {"german":"Der Spalt","english":"Boom Town","hoster":["PutLocker"]},
+                {"german":"Böser Wolf - Teil 1","english":"Bad Wolf (1)","hoster":["PutLocker"]},
+                {"german":"Getrennte Wege - Teil 2","english":"The Parting of the Ways (2)","hoster":["PutLocker"]},
+                {"german":"","english":"Doctor Who: Children in Need","hoster":["MyVideo"]},
+                {"german":"Die Weihnachtsinvasion","english":"The Christmas Invasion","hoster":["PutLocker"]}
+         ]
+}

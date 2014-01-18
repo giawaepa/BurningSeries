@@ -1,0 +1,21 @@
+{
+        "series":"Life Unexpected",
+        "seasons":2,
+        "cover":"Life-Unexpected_1f1a1ce56a985f699074a68d31499da8.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Ocean Uncharted","hoster":[]},
+                {"german":"","english":"Parents Unemployed","hoster":[]},
+                {"german":"","english":"Criminal Incriminated","hoster":[]},
+                {"german":"","english":"Team Rebounded","hoster":[]},
+                {"german":"","english":"Music Faced","hoster":[]},
+                {"german":"","english":"Honeymoon Interrupted","hoster":[]},
+                {"german":"","english":"Camp Grounded","hoster":[]},
+                {"german":"","english":"Plumber Cracked","hoster":[]},
+                {"german":"","english":"Homecoming Crashed","hoster":[]},
+                {"german":"","english":"Thanks Ungiven","hoster":[]},
+                {"german":"","english":"Stand Taken","hoster":[]},
+                {"german":"","english":"Teacher Schooled","hoster":[]},
+                {"german":"","english":"Affair Remembered","hoster":[]}
+         ]
+}

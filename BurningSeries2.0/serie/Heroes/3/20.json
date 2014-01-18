@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Hauch des Todes",
+         "titleen":"Cold Snap",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7237998/Heroes_Staffel_3_Folge_20_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7238029/Heroes_Staffel_3_Folge_20_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7238057/Heroes_Staffel_3_Folge_20_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7238083/Heroes_Staffel_3_Folge_20_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"FEC22BF0EBE68AFE"
+                }
+       ]
+}

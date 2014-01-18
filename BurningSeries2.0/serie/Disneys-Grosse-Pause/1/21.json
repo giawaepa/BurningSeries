@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Kater, der eine Katze war / Die Pyramide",
+         "titleen":"Operation Stuart / Pharao Bob",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=5odtbBDXHjI"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=HkEHXUvVPeU"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6478146/Disneys_Grosse_Pause_Episode_41_Der_Kater_der_eine_Katze_war"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6478591/Disneys_Grosse_Pause_Episode_42_Die_Pyramide"
+                }
+       ]
+}

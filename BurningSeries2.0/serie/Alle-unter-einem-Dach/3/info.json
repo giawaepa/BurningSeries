@@ -1,0 +1,33 @@
+{
+        "series":"Alle unter einem Dach",
+        "seasons":9,
+        "cover":"Alle-unter-einem-Dach_2db8eb16cd5d05a61805adfcf8c1d513.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Auf den Affen gekommen","english":"Boom!","hoster":[]},
+                {"german":"Hirn und Muskeln","english":"Brain over Brawn","hoster":[]},
+                {"german":"Vergiss es, Romeo!","english":"The Show Must Go On","hoster":[]},
+                {"german":"Wenn Worte wehtun","english":"Words Hurt","hoster":[]},
+                {"german":"Der Nachwuchsvamp","english":"Daddy&#039;s Little Girl","hoster":[]},
+                {"german":"Nur ein blödes Insekt","english":"Citizen&#039;s Court","hoster":[]},
+                {"german":"Maschine mit Gefühl","english":"Robo-Nerd","hoster":[]},
+                {"german":"Steve ins Team!","english":"Making the Team","hoster":[]},
+                {"german":"Urkman greift ein","english":"Born to be Mild","hoster":[]},
+                {"german":"Vom Dödel zum Draufgänger","english":"The Love God","hoster":[]},
+                {"german":"Alt und allein","english":"Old and Alone","hoster":[]},
+                {"german":"Steve und der Pokerbulle","english":"A Pair of Ladies","hoster":[]},
+                {"german":"Ärger im Chor","english":"Choir Trouble","hoster":[]},
+                {"german":"Schlaf gut, Carl","english":"A Test of Friendship","hoster":[]},
+                {"german":"Der coole Clarence","english":"Jailhouse Blues","hoster":[]},
+                {"german":"Elmerita aus dem Knast","english":"Brown Bombshell","hoster":[]},
+                {"german":"Das Hefe-Desaster","english":"Food, Lies and Videotape","hoster":[]},
+                {"german":"Tränen am Valentinstag","english":"My Broken-Hearted Valentine","hoster":[]},
+                {"german":"Wer ist hier der Polizist?","english":"Woman of the People","hoster":[]},
+                {"german":"Zimmer mit Aussicht","english":"Love and Kisses","hoster":[]},
+                {"german":"Ein Korb für Laura","english":"Stop, in the Name of Love","hoster":[]},
+                {"german":"Die Fisch-Tragödie","english":"The Urkel Who Came to Dinner","hoster":[]},
+                {"german":"Urkelcop","english":"Robo-Nerd II","hoster":[]},
+                {"german":"Traummänner","english":"Dudes","hoster":[]},
+                {"german":"Johnny Danger","english":"Farewell, My Laura","hoster":[]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Die Tarnung fliegt auf!",
+         "titleen":"Episode 39",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6595757/Naruto_Shippuuden_UNCUT_Folge_39_Deutsch_1_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6596251/Naruto_Shippuuden_UNCUT_Folge_39_Deutsch_2_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6597058/Naruto_Shippuuden_UNCUT_Folge_39_Deutsch_3_3_HQ"
+                }
+       ]
+}

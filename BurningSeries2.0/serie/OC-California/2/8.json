@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Die Kunst des Lügens",
+         "titleen":"The Power of Love",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7133835/O_C_California_s02e08_Die_Kunst_des_Luegens_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7133858/O_C_California_s02e08_Die_Kunst_des_Luegens_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7133876/O_C_California_s02e08_Die_Kunst_des_Luegens_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7133897/O_C_California_s02e08_Die_Kunst_des_Luegens_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"BF8D87B424246C48"
+                }
+       ]
+}

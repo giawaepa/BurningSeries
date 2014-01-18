@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Eine ungewöhnliche Nachricht (1)",
+         "titleen":"Episode 293",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=VUywyVZwHuU"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=YfImj6y2pxM"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6132973/Detektiv_Conan_Folge_293_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6133318/Detektiv_Conan_Folge_293_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6133708/Detektiv_Conan_Folge_293_3_3"
+                }
+       ]
+}

@@ -1,0 +1,9 @@
+{
+        "series":"DuckTales ? Neues aus Entenhausen",
+        "seasons":2,
+        "cover":"DuckTales-Neues-aus-Entenhausen_c33d264773ee88110c12f647fd5fed5c.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Ducktales: Der Film - Jäger der verlorenen Lampe","english":"The Movie - Treasure of the Lost Lamp","hoster":["YouTube"]}
+         ]
+}

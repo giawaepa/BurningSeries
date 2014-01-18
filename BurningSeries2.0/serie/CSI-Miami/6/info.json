@@ -1,0 +1,29 @@
+{
+        "series":"CSI: Miami",
+        "seasons":10,
+        "cover":"CSI-Miami_b05c65690e21963e0626d83346766b0ahtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Blutlinie","english":"Dangerous Son","hoster":["PutLocker"]},
+                {"german":"Berühmt, bedroht, beschossen","english":"Cyber-lebrity","hoster":["PutLocker"]},
+                {"german":"Vor der Mauer auf der Lauer","english":"Inside Out","hoster":["PutLocker"]},
+                {"german":"Im Schatten von Tim Speedle","english":"Bang, Bang, Your Debt","hoster":["PutLocker"]},
+                {"german":"Multiple Motive","english":"Deep Freeze","hoster":["PutLocker"]},
+                {"german":"Wölfe zur Sonnenfinsternis","english":"Sunblock","hoster":["PutLocker"]},
+                {"german":"Keiner mehr an deiner Seite","english":"Chain Reaction","hoster":["PutLocker"]},
+                {"german":"Ferien ohne Ende","english":"Permanent Vacation","hoster":["PutLocker"]},
+                {"german":"Der Unterricht fällt aus","english":"Stand Your Ground","hoster":["PutLocker"]},
+                {"german":"CSI: Meine Nanny","english":"CSI: My Nanny","hoster":["PutLocker"]},
+                {"german":"Guerillas im Nebel","english":"Guerillas In The Mist","hoster":[]},
+                {"german":"Grenzen des Vertrauens","english":"Miami Confidential","hoster":[]},
+                {"german":"Mein Vater Caine","english":"Raising Caine","hoster":["PutLocker"]},
+                {"german":"Sie dürfen die Braut nun töten","english":"You May Now Kill the Bride","hoster":["PutLocker"]},
+                {"german":"Spurenleser","english":"Ambush (1)","hoster":["PutLocker"]},
+                {"german":"Spurenleger","english":"All In (2)","hoster":["PutLocker"]},
+                {"german":"Raubtiere in Menschengestalt","english":"To Kill A Predator","hoster":[]},
+                {"german":"Tunnelblick","english":"Tunnel Vision","hoster":["PutLocker"]},
+                {"german":"Ihre letzte Leiche","english":"Rock and a Hard Place","hoster":[]},
+                {"german":"Heiße Drähte","english":"Down to the Wire","hoster":["PutLocker"]},
+                {"german":"Horatio, wo ist dein Sieg?","english":"Going Ballistic","hoster":["PutLocker"]}
+         ]
+}

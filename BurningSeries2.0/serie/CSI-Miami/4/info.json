@@ -1,0 +1,33 @@
+{
+        "series":"CSI: Miami",
+        "seasons":10,
+        "cover":"CSI-Miami_b05c65690e21963e0626d83346766b0ahtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Teufel in Miami","english":"From the Grave","hoster":["PutLocker"]},
+                {"german":"Alles anders","english":"Blood In The Water","hoster":["PutLocker"]},
+                {"german":"Jagd durch die Nacht","english":"Prey","hoster":["PutLocker"]},
+                {"german":"Leidensgeschichte","english":"48 Hours To Life","hoster":["PutLocker"]},
+                {"german":"Drei Frauen","english":"Three-Way","hoster":["PutLocker"]},
+                {"german":"Rache an Horatio","english":"Under Suspicion","hoster":["PutLocker"]},
+                {"german":"Blutspur","english":"Felony Flight","hoster":["PutLocker"]},
+                {"german":"Wunschmörder","english":"Nailed","hoster":["PutLocker"]},
+                {"german":"Spiel mit uns","english":"Urban Hellraisers","hoster":["PutLocker"]},
+                {"german":"Kopfgeldjäger","english":"Shattered","hoster":["PutLocker"]},
+                {"german":"Sünde bringt Buße","english":"Payback","hoster":["PutLocker"]},
+                {"german":"Letzte Anmache","english":"The Score","hoster":["PutLocker"]},
+                {"german":"Dämpfer","english":"Silencer","hoster":["PutLocker"]},
+                {"german":"Letzte Klappe","english":"Fade Out","hoster":["PutLocker"]},
+                {"german":"Leichen im Keller","english":"Skeletons","hoster":[]},
+                {"german":"Abweichungen","english":"Deviant","hoster":["PutLocker"]},
+                {"german":"Zusammenstöße","english":"Collision","hoster":["PutLocker"]},
+                {"german":"Übung macht den Mörder?","english":"Double Jeopardy","hoster":["PutLocker"]},
+                {"german":"Angestachelt","english":"Driven","hoster":["PutLocker"]},
+                {"german":"Leo &amp; Sienna","english":"Free Fall","hoster":["PutLocker"]},
+                {"german":"Vertippt","english":"Dead Air","hoster":[]},
+                {"german":"Mörder auf Kreuzfahrt","english":"Open Water","hoster":["PutLocker"]},
+                {"german":"Sterne verglühen","english":"Shock","hoster":["MyVideo","PutLocker"]},
+                {"german":"Ende mit Schrecken","english":"Rampage","hoster":["PutLocker"]},
+                {"german":"Keine Ruhe vor dem Sturm","english":"One of Our Own","hoster":["PutLocker"]}
+         ]
+}

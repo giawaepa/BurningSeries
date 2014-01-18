@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Auf welcher Seite?",
+         "titleen":"Episode 50",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6659918/Naruto_Shippuuden_UNCUT_Folge_50_Deutsch_1_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6660359/Naruto_Shippuuden_UNCUT_Folge_50_Deutsch_2_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6660746/Naruto_Shippuuden_UNCUT_Folge_50_Deutsch_3_3_HQ"
+                }
+       ]
+}

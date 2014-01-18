@@ -1,0 +1,24 @@
+{
+        "series":"Supernatural",
+        "seasons":7,
+        "cover":"Supernatural_a74050852c0b23409201cbcc3b25787e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die glorreichen Sieben","english":"The Magnificent Seven","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Den Kindern geht es gut","english":"The Kids Are Alright","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Ein Unglück kommt selten allein","english":"Bad Day At Black Rock","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Sin City","english":"Sin City","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Gute-Nacht-Geschichten","english":"Bedtime Stories","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Morgenröte","english":"Red Sky At Morning","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Frisches Blut","english":"Fresh Blood","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Übernatürliche Weihnachten","english":"A Very Supernatural Christmas","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Hexenzauber","english":"Malleus Maleficarum","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Träum von mir","english":"Dream a Little Dream of Me","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Und täglich grüßt...","english":"Mystery Spot","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","UploadC"]},
+                {"german":"Kriegsrecht","english":"Jus in Bello","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ghostfacers","english":"Ghostfacers","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ferngespräch","english":"Long Distance Call","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Ewiges Leben","english":"Time is on My Side","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Zeit läuft ab","english":"No Rest for the Wicked","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]}
+         ]
+}

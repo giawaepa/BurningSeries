@@ -1,0 +1,30 @@
+{
+        "series":"Prison Break",
+        "seasons":4,
+        "cover":"Prison-Break_1f2df02c26805c40ef09a6df7b5115b6.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Der große Plan","english":"Pilot","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lügt Lincoln?","english":"Allen","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vertrauenstest","english":"Cell Test","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Veronica steigt ein","english":"Cute Poison","hoster":["PutLocker","RapidVideo"]},
+                {"german":"English, Fitz oder Percy?","english":"English, Fitz or Percy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lebensgefahr (1)","english":"Riots, Drills and the Devil (1)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lebensgefahr (2)","english":"Riots, Drills and the Devil (2)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Nur noch 17 Tage","english":"The Old Head","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Plan in Gefahr","english":"Tweener","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zuwachs","english":"Sleight of Hand","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Und dann waren es 7","english":"And Then There Were 7","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Einer muss gehen","english":"Odd Man Out","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Jetzt oder nie!","english":"End of the Tunnel","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Im Schatten die Ratten ...","english":"The Rat","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Totgeglaubte","english":"By the Skin and the Teeth","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lebenswege","english":"Brother&#039;s Keeper","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Puzzleteile","english":"J-Cat","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hoch gepokert","english":"Bluff","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Opfer der Wahrheit","english":"The Key","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Keine Zeit mehr","english":"Tonight","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Countdown","english":"Go","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Todgeweihte","english":"Flight","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

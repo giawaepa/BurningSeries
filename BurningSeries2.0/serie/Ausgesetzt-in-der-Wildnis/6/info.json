@@ -1,0 +1,23 @@
+{
+        "series":"Ausgesetzt in der Wildnis",
+        "seasons":7,
+        "cover":"Ausgesetzt-in-der-Wildnis_df6212bf0ba49f03423dae4acfbfae23.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Am Polarkreis","english":"Arctic Circle","hoster":["PutLocker"]},
+                {"german":"Der Canyon","english":"Alabama","hoster":["PutLocker"]},
+                {"german":"Im Dschungel Vietnams","english":"Vietnam","hoster":["PutLocker"]},
+                {"german":"Überlebenskampf in der Wüste","english":"Texas","hoster":["PutLocker"]},
+                {"german":"Eisiges Alaska","english":"Alaska","hoster":["PutLocker"]},
+                {"german":"Tipps zum Überleben II","english":"Bear&#039;s Ultimate Survival Guide Part Two","hoster":["PutLocker"]},
+                {"german":"Hinter den Kulissen","english":"The Inside Story","hoster":["PutLocker"]},
+                {"german":"Auf den Pazifischen Inseln","english":"Pacific Island","hoster":["PutLocker"]},
+                {"german":"In China","english":"China","hoster":["PutLocker"]},
+                {"german":"Gnadenlose Rocky Mountains","english":"Big Sky Country","hoster":["YouTube","PutLocker"]},
+                {"german":"Gefährliches Guatemala","english":"Guatemala","hoster":["PutLocker"]},
+                {"german":"Im Großstadt-Dschungel","english":"Urban Survivor","hoster":["YouTube","PutLocker"]},
+                {"german":"Making-Of","english":"Shooting Survival","hoster":["PutLocker"]},
+                {"german":"Verloren in Nord-Afrika 1","english":"North Africa","hoster":["YouTube","PutLocker"]},
+                {"german":"Bear´s 25","english":"Bear&#039;s Top 25 Man Moments","hoster":["PutLocker"]}
+         ]
+}

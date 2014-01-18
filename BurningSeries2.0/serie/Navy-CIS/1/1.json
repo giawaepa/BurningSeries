@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Air Force One",
+         "titleen":"Yankee White",
+         "description":"An Bord der Air Force One wird ein Navysoldat vergiftet. Der NCIS, der Secret Service und das FBI streiten sich um die Zuständigkeit. Je länger der NCIS den Fall verfolgt, desto wahrscheinlicher wird ein Attentatsversuch auf den Präsidenten ?",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4121341/Part1_Air_Force_One"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4122933/Part2_Air_Force_One"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4124867/Part3_Air_Force_One"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"4125159/Part4_Air_Force_One"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"06E5699142888C37"
+                }
+       ]
+}

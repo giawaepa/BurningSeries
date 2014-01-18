@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Stille auf der Ringlinie",
+         "titleen":"Episode 168",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=WYi8DQ4TxEw"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5581428/Detektiv_Conan_Folge_168_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5581755/Detektiv_Conan_Folge_168_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5582098/Detektiv_Conan_Folge_168_3_3"
+                }
+       ]
+}

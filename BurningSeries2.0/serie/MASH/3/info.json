@@ -1,0 +1,32 @@
+{
+        "series":"M*A*S*H",
+        "seasons":11,
+        "cover":"M-A-S-H_ba9c37303b185e8c205e7b06cbc0acda.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Bauch rein - Brust raus","english":"The General Flipped at Down","hoster":[]},
+                {"german":"Meuterei im Billigfilm","english":"Rainbow Bridge","hoster":["PutLocker","Sockshare"]},
+                {"german":"Muttertag in Seoul","english":"Officer of the Day","hoster":["PutLocker"]},
+                {"german":"Im Einsatz an der Front","english":"Iron Guts Kelly","hoster":["PutLocker"]},
+                {"german":"Ernst, aber nicht hoffnungslos","english":"O.R.","hoster":[]},
+                {"german":"Frühling allerorten","english":"Springtime","hoster":["PutLocker"]},
+                {"german":"Die Routine-Untersuchung","english":"Check-Up","hoster":["PutLocker"]},
+                {"german":"Das ist unerlaubte Chirurgie","english":"Life With Father","hoster":[]},
+                {"german":"Alkoholiker, nicht anonym","english":"Alcoholics Unanimous","hoster":[]},
+                {"german":"Nichts geht über Schwestern","english":"There is Nothing Like a Nurse","hoster":["PutLocker"]},
+                {"german":"Rippchen aus Chicago","english":"Adam&#039;s Ribs","hoster":["PutLocker"]},
+                {"german":"Der Soldat und seine Hymne","english":"A Full Rich Day","hoster":[]},
+                {"german":"Die richtige Behandlung","english":"Mad Dogs and Servicemen","hoster":["PutLocker"]},
+                {"german":"Freiheit für das Osterlämmchen","english":"Private Charles Lamb","hoster":["PutLocker"]},
+                {"german":"Bombardiert und ausgeflippt","english":"Bombed","hoster":["PutLocker"]},
+                {"german":"Ab und zu ausflippen","english":"Bulletin Board","hoster":[]},
+                {"german":"Seine erste Transplantation","english":"The Consultant","hoster":["PutLocker"]},
+                {"german":"Kriegsgericht und Hausarrest","english":"House Arrest","hoster":[]},
+                {"german":"Mein Lieblingsoffizier","english":"Aid Station","hoster":[]},
+                {"german":"Eine ganz natürliche Sache","english":"Love and Marriage","hoster":[]},
+                {"german":"Die ganz besondere Ehre","english":"Big Mac","hoster":[]},
+                {"german":"Und wieder Zahltag","english":"Payday","hoster":[]},
+                {"german":"Penicillin und Folter","english":"White Gold","hoster":[]},
+                {"german":"Die letzte Party, Henry","english":"Abyssinia, Henry","hoster":[]}
+         ]
+}

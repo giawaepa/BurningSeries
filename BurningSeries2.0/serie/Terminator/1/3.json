@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Türke",
+         "titleen":"The Turk",
+         "description":"Sarah führt die Suche nach den Skynet-Gründern zur Witwe von Miles Dyson, einem der einstigen Erfinder von Cyberdyne. Sie macht Andy Goode ausfindig, einen Handyverkäufer und ehemaligen Praktikanten von Cyberdyne, hinter dem sich der Erfinder eines Schachcomputers verbirgt. Er behauptet, seine Erfindung sei unbesiegbar. Sarah mutmaßt, dass er etwas mit der Entstehung von Skynet zu tun hat und eine Gefahr darstellt. John und Cameron sind währenddessen damit beschäftigt, sich an ihrer neuen Schule einzuleben. Agent Ellison kommt durch seine Recherchen der Wahrheit ein Stück näher und Terminator Cromartie taucht in desolatem Zustand wieder auf.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5564118/Terminator_The_Sarah_Connor_Chronicles_S01E03_part_1_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5564331/Terminator_The_Sarah_Connor_Chronicles_S01E03_part_2_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5564530/Terminator_The_Sarah_Connor_Chronicles_S01E03_part_3_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5564825/Terminator_The_Sarah_Connor_Chronicles_S01E03_part_4_5"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"EA89445E67A33135"
+                }
+       ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Die Auftragskiller greifen an",
+         "titleen":"Episode 329",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4006385/One_Piece_Folge_329_Die_Kopfgeldjaeger_greifen_an_Teil_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4006820/One_Piece_Folge_329_Die_Kopfgeldjaeger_greifen_an_Teil_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4007093/One_Piece_Folge_329_Die_Kopfgeldjaeger_greifen_an_Teil_3"
+                }
+       ]
+}

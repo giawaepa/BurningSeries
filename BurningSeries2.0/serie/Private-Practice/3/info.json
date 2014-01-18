@@ -1,0 +1,31 @@
+{
+        "series":"Private Practice",
+        "seasons":5,
+        "cover":"Private-Practice_555c7752a33670b8601c85d49ac9e79a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Todesfall in der Familie","english":"A Death in the Family","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hausbesuche","english":"The Way we were","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hier und Jetzt","english":"Right Here, Right Now","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Am Limit","english":"Pushing the Limits","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Im Zeugenstand","english":"Strange Bedfellows","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eine rutschige Angelegenheit","english":"Slip Slidin&#039; Away","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die längste Nacht","english":"The Hard Part","hoster":["RapidVideo"]},
+                {"german":"Die Sünden der Väter","english":"The Sins of the Father","hoster":[]},
+                {"german":"Die Elternfalle","english":"The Parent Trap","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Explosionen","english":"Blowups","hoster":["RapidVideo"]},
+                {"german":"Noch eine zweite Chance","english":"Another Second Chance","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Anders als geplant","english":"Best Laid Plans","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Pistole auf der Brust","english":"Shotgun","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Liebesbisse","english":"Love Bites","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bis dass der Tod uns scheidet","english":"Til Death Do Us Part","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Angst vorm Fliegen","english":"Fear of Flying","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der imaginäre Freund","english":"Triangles","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Abschalten","english":"Pulling the Plug","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Erwachen","english":"Eyes Wide Open","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zweite Wahl","english":"Second Choices","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Krieg","english":"War","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Im Namen der Liebe","english":"In the Name of Love","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Ende einer wundervollen Freundschaft","english":"The End of A Beautiful Friendship","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

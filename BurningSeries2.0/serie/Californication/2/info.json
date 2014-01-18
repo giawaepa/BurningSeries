@@ -1,0 +1,20 @@
+{
+        "series":"Californication",
+        "seasons":5,
+        "cover":"Californication_9f13e2ff11127a00c2c2b56e0c93860f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein oraler Ausrutscher","english":"Slip Of The Tongue","hoster":["YouTube"]},
+                {"german":"Der große Ashby","english":"The Great Ashby","hoster":["YouTube"]},
+                {"german":"Wiedersehen mit Trixie","english":"No Way to Treat a Lady","hoster":["YouTube"]},
+                {"german":"Der Heiratsantrag","english":"The Raw &amp; the Cooked","hoster":["YouTube"]},
+                {"german":"Vaginatown","english":"Vaginatown","hoster":[]},
+                {"german":"Charlies großer Auftritt","english":"Coke Dick &amp; The First Kick","hoster":[]},
+                {"german":"Die Mutter allen Übels","english":"In a Lonely Place","hoster":[]},
+                {"german":"Beverly Hills Affären","english":"Going Down and Out in Beverly Hills","hoster":[]},
+                {"german":"Der Reigen","english":"La Ronde","hoster":[]},
+                {"german":"Sprung ins Ungewisse","english":"In Utero","hoster":[]},
+                {"german":"Ein letzter Freundschaftsdienst","english":"Blues from Laurel Canyon","hoster":[]},
+                {"german":"Abschied","english":"La Petite Mort","hoster":[]}
+         ]
+}

@@ -1,0 +1,31 @@
+{
+        "series":"Cold Case ? Kein Opfer ist je vergessen",
+        "seasons":7,
+        "cover":"Cold-Case-Kein-Opfer-ist-je-vergessen_d952da7f4cf1e5ddc35621c07baa7a54.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Glorreiche Zeiten","english":"Glory Days","hoster":["PutLocker"]},
+                {"german":"Wahre Berufung","english":"True Calling","hoster":["PutLocker"]},
+                {"german":"Tupperware","english":"Wednesday&#039;s Women","hoster":["PutLocker"]},
+                {"german":"Rollergirl","english":"Roller Girl","hoster":["PutLocker"]},
+                {"german":"Landgang","english":"Shore Leave","hoster":["PutLocker"]},
+                {"german":"Haifischbecken","english":"The Dealer","hoster":["PutLocker"]},
+                {"german":"Die Mondlandung","english":"One Small Step","hoster":["PutLocker"]},
+                {"german":"Zolotoi","english":"Triple Threat","hoster":["PutLocker"]},
+                {"german":"Pin Up Girl","english":"Pin Up Girl","hoster":["PutLocker"]},
+                {"german":"Schmutziger Wahlkampf","english":"Street Money","hoster":["PutLocker"]},
+                {"german":"Über den Wolken","english":"Wings","hoster":["PutLocker"]},
+                {"german":"Lottofieber","english":"Lotto Fever","hoster":["PutLocker"]},
+                {"german":"Letzte Meldung","english":"Breaking News","hoster":["PutLocker"]},
+                {"german":"Heile Welt","english":"The Brush Man","hoster":["PutLocker"]},
+                {"german":"Zeugenschutz","english":"Witness Protection","hoster":["PutLocker"]},
+                {"german":"Schakale","english":"Jackals","hoster":["PutLocker"]},
+                {"german":"Getroffen","english":"Officer Down","hoster":["PutLocker"]},
+                {"german":"Psycho-Spiele","english":"Mind Games","hoster":["PutLocker"]},
+                {"german":"Libertyville","english":"Libertyville","hoster":["PutLocker"]},
+                {"german":"Kubaner","english":"Stealing Home","hoster":["PutLocker"]},
+                {"german":"22. November","english":"November 22","hoster":["PutLocker"]},
+                {"german":"Die Kadettin","english":"The Long Blue Line (1)","hoster":["PutLocker"]},
+                {"german":"Die Kadettin (2)","english":"Into the Blue (2)","hoster":["PutLocker"]}
+         ]
+}

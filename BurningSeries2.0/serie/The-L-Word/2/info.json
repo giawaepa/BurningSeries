@@ -1,0 +1,21 @@
+{
+        "series":"The L Word",
+        "seasons":6,
+        "cover":"The-L-Word_2989b24ba4baa8267a2baadbeff05c51.jpeg",
+        "movies":false,
+        "episodes":[
+                {"german":"Liebe kommt, Liebe geht","english":"Life, Loss, Leaving","hoster":["PutLocker"]},
+                {"german":"Folge deinem Herzen","english":"Lap Dance","hoster":["PutLocker"]},
+                {"german":"Eröffnungen","english":"Loneliest Number","hoster":["PutLocker"]},
+                {"german":"Veränderungen","english":"Lynch Pin","hoster":[]},
+                {"german":"Nichts bleibt verborgen","english":"Labyrinth","hoster":["PutLocker"]},
+                {"german":"Ungeduldiges Verlangen","english":"Lagrimas de Oro","hoster":[]},
+                {"german":"Triebfeder","english":"Luminous","hoster":[]},
+                {"german":"Ex-Probleme","english":"Loyal","hoster":[]},
+                {"german":"Es ist nie zu spät","english":"Late, Later, Latent","hoster":["PutLocker"]},
+                {"german":"Ahoi","english":"Land Ahoy","hoster":["PutLocker"]},
+                {"german":"Die Parade","english":"Loud &amp; Proud","hoster":[]},
+                {"german":"Abschied","english":"L&#039;Chaim","hoster":["PutLocker"]},
+                {"german":"Ein Engel auf Erden","english":"Lacuna","hoster":[]}
+         ]
+}

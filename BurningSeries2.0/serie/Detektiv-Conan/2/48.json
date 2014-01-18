@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Ayumi in Gefahr",
+         "titleen":"Episode 150",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=OXXzc5-HNW0"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5518550/Detektiv_Conan_Folge_150_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5518977/Detektiv_Conan_Folge_150_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5519235/Detektiv_Conan_Folge_150_3_3"
+                }
+       ]
+}

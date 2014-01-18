@@ -1,0 +1,11 @@
+{
+        "series":"Stargate SG-1",
+        "seasons":10,
+        "cover":"Stargate-SG-1_6b5b9978ee26b1880a53c96bc53f8c10.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Stargate","english":"Stargate","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Stargate ? The Ark of Truth: Die Quelle der Wahrheit","english":"Stargate ? The Ark of Truth","hoster":["PutLocker"]},
+                {"german":"Stargate ? Continuum","english":"Stargate ? Continuum","hoster":["PutLocker"]}
+         ]
+}

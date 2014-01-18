@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Husch, husch, ins Körbchen!",
+         "titleen":"What Time does the Balloon go up?",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6381804/husch_husch_ins_koerbchen_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6383749/husch_husch_ins_koerbchen_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6383832/husch_husch_ins_koerbchen_3_3"
+                }
+       ]
+}

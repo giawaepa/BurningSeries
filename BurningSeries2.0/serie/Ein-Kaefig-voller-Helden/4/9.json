@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Dinner mit Agentin",
+         "titleen":"Guess who Came to Dinner",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7678170/Ein_Kaefig_voller_Helden_Folge_101_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7678174/Ein_Kaefig_voller_Helden_Folge_101_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7678133/Ein_Kaefig_voller_Helden_Folge_101_3_3"
+                }
+       ]
+}

@@ -1,0 +1,32 @@
+{
+        "series":"Knight Rider",
+        "seasons":4,
+        "cover":"Knight-Rider_9188b0ea252ebce4c306fb51cc8d4f12.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Goliaths Geburt","english":"Goliath (1)","hoster":["PutLocker"]},
+                {"german":"Der Kampf mit Goliath","english":"Goliath (2)","hoster":[]},
+                {"german":"Der Erpresser","english":"Brother&#039;s Keeper","hoster":["PutLocker"]},
+                {"german":"Händler des Todes","english":"Merchants Of Death","hoster":["PutLocker"]},
+                {"german":"Einer spielt falsch","english":"Big Iron","hoster":["PutLocker"]},
+                {"german":"Blindes Vertrauen","english":"Blind Spot","hoster":["PutLocker"]},
+                {"german":"Geheimversteck Cadiz","english":"Return To Cadiz","hoster":["PutLocker"]},
+                {"german":"Der Fassadenkletterer","english":"K.I.T.T. The Cat","hoster":["PutLocker"]},
+                {"german":"Devon Miles in Nöten","english":"Custom K.I.T.T.","hoster":["PutLocker"]},
+                {"german":"K.I.T.T. sitzt in der Falle","english":"Soul Survivor","hoster":["PutLocker"]},
+                {"german":"Ein Ring aus Feuer","english":"Ring Of Fire","hoster":["PutLocker"]},
+                {"german":"Gedächtnisschwund","english":"Knightmares","hoster":["PutLocker"]},
+                {"german":"Eine schöne Bescherung","english":"Silent Knight","hoster":["PutLocker"]},
+                {"german":"Die Schatzsuche","english":"A Knight In Shining Armor","hoster":["PutLocker"]},
+                {"german":"Diamantenschmuggel","english":"Diamonds Aren&#039;t A Girl&#039;s Best Friend","hoster":["PutLocker"]},
+                {"german":"Eine Kleinstadt lebt gefährlich","english":"White-Line Warriors","hoster":["PutLocker"]},
+                {"german":"Wettlauf mit dem Tod","english":"Race For Life","hoster":["PutLocker"]},
+                {"german":"Goliath kommt zurück","english":"Goliath Returns (1)","hoster":["PutLocker"]},
+                {"german":"Goliath wird vernichtet","english":"Goliath Returns (2)","hoster":[]},
+                {"german":"Schnelle Teufel","english":"Speed Demons","hoster":["PutLocker"]},
+                {"german":"Gefährliches Spielzeug","english":"A Good Knight&#039;s Work","hoster":["PutLocker"]},
+                {"german":"Goldschmuggel","english":"Mouth Of The Snake (1)","hoster":["PutLocker"]},
+                {"german":"Das Schlangenmaul","english":"Mouth Of The Snake (2)","hoster":[]},
+                {"german":"Ich werd ewig dein Freund bleiben","english":"Let It Be Me","hoster":["PutLocker"]}
+         ]
+}

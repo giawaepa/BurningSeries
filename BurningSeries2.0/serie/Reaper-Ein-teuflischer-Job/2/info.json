@@ -1,0 +1,21 @@
+{
+        "series":"Reaper ? Ein teuflischer Job",
+        "seasons":2,
+        "cover":"Reaper-Ein-teuflischer-Job_a66556aac6936f79109a774e72ef3890.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Höllenjagd","english":"A New Hope","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Liebe unter Feinden","english":"Dirty Sexy Mongol","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"The Sweet Science","english":"The Sweet Science","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"The Favorite","english":"The Favorite","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"I Want My Baby Back","english":"I Want My Baby Back","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Underbelly","english":"Underbelly","hoster":["YouTube","DivxStage","RapidVideo"]},
+                {"german":"The Good Soil","english":"The Good Soil","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"The Home Stretch","english":"The Home Stretch","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"No Reaper Left Behind","english":"No Reaper Left Behind","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"My Brother?s Reaper","english":"My Brother?s Reaper","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"To Sprong, with Love","english":"To Sprong, with Love","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Business Casualty","english":"Business Casualty","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"The Devil and Sam Oliver","english":"The Devil and Sam Oliver","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

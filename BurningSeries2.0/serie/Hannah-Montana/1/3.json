@@ -1,0 +1,20 @@
+{ 
+         "titlede":"In geheimer Mission",
+         "titleen":"She&#039;s A Supersneak",
+         "description":"Miley und Jackson schleichen sich abends aus dem Haus, um Ashton Kutcher bei einer Preview live zu erleben. Im Kino entdecken sie ihren Dad mit einer Frau. Wer ist sie? Miley benutzt ihr Alter Ego, Hannah Montana, um die Frau auszuspionieren.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"3736123/Hannah_Montana_Folge_3_Staffel_1_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"3736225/Hannah_Montana_Folge_3_Staffel_1_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"3736314/Hannah_Montana_Folge_3_Staffel_1_3_3"
+                }
+       ]
+}

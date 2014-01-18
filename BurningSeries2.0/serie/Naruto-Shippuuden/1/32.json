@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Ein Junge namens Sai",
+         "titleen":"Episode 32",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6566599/Naruto_Shippuuden_UNCUT_Folge_32_Deutsch_1_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6570221/Naruto_Shippuuden_UNCUT_Folge_32_Deutsch_2_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6572507/Naruto_Shippuuden_UNCUT_Folge_32_Deutsch_3_3_HQ"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"302C03F87B1C1773"
+                }
+       ]
+}

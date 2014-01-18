@@ -1,0 +1,25 @@
+{
+        "series":"Boston Legal",
+        "seasons":5,
+        "cover":"Boston-Legal_b9c234cb27a3f4de023d2a52a7df4c73.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Revierkämpfe","english":"Head Cases","hoster":["PutLocker"]},
+                {"german":"Durchgedreht","english":"Still Crazy After All These Years","hoster":["PutLocker"]},
+                {"german":"Vertrauter Feind","english":"Catch and Release","hoster":["PutLocker"]},
+                {"german":"Anwalt entlaufen!","english":"Change of Course","hoster":["PutLocker"]},
+                {"german":"Schlag auf Schlag","english":"An Eye for an Eye","hoster":["PutLocker"]},
+                {"german":"Bis aufs Blut","english":"Truth Be Told","hoster":["PutLocker"]},
+                {"german":"Tief getroffen","english":"Questionable Characters","hoster":["PutLocker"]},
+                {"german":"Schweigen ist Gold","english":"Loose Lips","hoster":["PutLocker"]},
+                {"german":"Bittere Pillen","english":"A Greater Good","hoster":[]},
+                {"german":"In flagranti","english":"Hired Guns","hoster":["PutLocker"]},
+                {"german":"Schmidt Happens","english":"Schmidt happens","hoster":[]},
+                {"german":"Alte Schule","english":"From Whence We Came","hoster":["PutLocker"]},
+                {"german":"Dicke Luft","english":"It Girls and Beyond","hoster":["PutLocker"]},
+                {"german":"Ein Mann sieht rot","english":"Til We Meat Again","hoster":["PutLocker"]},
+                {"german":"Im Eifer des Gefechts","english":"Tortured Souls","hoster":[]},
+                {"german":"Auf Eis gelegt","english":"Let Sales Ring","hoster":["PutLocker"]},
+                {"german":"Auf Leben und Tod","english":"Death Be Not Proud","hoster":["PutLocker"]}
+         ]
+}

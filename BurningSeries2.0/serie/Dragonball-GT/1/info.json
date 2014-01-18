@@ -1,0 +1,30 @@
+{
+        "series":"Dragonball GT",
+        "seasons":4,
+        "cover":"Dragonball-GT_334250f81fdcbc3f3190d351b880da26.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Fataler Wunsch","english":"Episode 1","hoster":["PutLocker"]},
+                {"german":"Ein Blinder Passagier","english":"Episode 2","hoster":["PutLocker"]},
+                {"german":"Supergierig - Der Handelsplanet Imegga","english":"Episode 3","hoster":["PutLocker"]},
+                {"german":"Die Suche beginnt!","english":"Episode 4","hoster":["PutLocker"]},
+                {"german":"Eine unerwartete Entdeckung","english":"Episode 5","hoster":["PutLocker"]},
+                {"german":"Tat es weh? Son-Goku als Zahnarzt","english":"Episode 6","hoster":["PutLocker"]},
+                {"german":"Geliebter Ehemann! Die Verlobte ist Trunks?","english":"Episode 7","hoster":["PutLocker"]},
+                {"german":"Wenn die Schnurrbarthaare schwingen","english":"Episode 8","hoster":["PutLocker"]},
+                {"german":"Gefangen im Labyrinth","english":"Episode 9","hoster":["PutLocker"]},
+                {"german":"Weltraumtanz - Pa-pa-ra-pa-pa-pa-pa","english":"Episode 10","hoster":["PutLocker"]},
+                {"german":"Pans Verwandlung","english":"Episode 11","hoster":["PutLocker"]},
+                {"german":"Rudo erwacht zum Leben","english":"Episode 12","hoster":["PutLocker"]},
+                {"german":"Pan in Gefahr!","english":"Episode 13","hoster":["PutLocker"]},
+                {"german":"Son Gokus Formel","english":"Episode 14","hoster":["PutLocker"]},
+                {"german":"Ändere nie ein Siegerteam!","english":"Episode 15","hoster":["PutLocker"]},
+                {"german":"Die Wahrheit über DD 4649 T 22006 RS","english":"Episode 16","hoster":["PutLocker"]},
+                {"german":"Pan übernimmt!","english":"Episode 17","hoster":["PutLocker"]},
+                {"german":"Neji, Rivet und Vis","english":"Episode 18","hoster":["PutLocker"]},
+                {"german":"Der Metallene Trunks","english":"Episode 19","hoster":["PutLocker"]},
+                {"german":"Bewegliche Mauern","english":"Episode 20","hoster":["PutLocker"]},
+                {"german":"Reingelegt!","english":"Episode 21","hoster":["PutLocker"]},
+                {"german":"Baby erwacht","english":"Episode 22","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,21 @@
+{
+        "series":"Alles Atze",
+        "seasons":6,
+        "cover":"Alles-Atze_a365bdc14aba8ab98c5db36e9b3a641b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein heißer Hund","english":"","hoster":["PutLocker"]},
+                {"german":"Sex, Lügen &amp; Videotapes","english":"","hoster":["PutLocker"]},
+                {"german":"Der Zeitungsmarder","english":"","hoster":[]},
+                {"german":"Schlamm drüber","english":"","hoster":["PutLocker"]},
+                {"german":"Die anatolische Fliege","english":"","hoster":["PutLocker"]},
+                {"german":"Der Döner-Krieg","english":"","hoster":["PutLocker"]},
+                {"german":"Die Party","english":"","hoster":["PutLocker"]},
+                {"german":"Die Schiffbrüchigen","english":"","hoster":["PutLocker"]},
+                {"german":"Das große Los","english":"","hoster":["PutLocker"]},
+                {"german":"Miss Wet T-Shirt","english":"","hoster":["PutLocker"]},
+                {"german":"Peep-Show mit Handicap","english":"","hoster":["PutLocker"]},
+                {"german":"Der getürkte Murat","english":"","hoster":["PutLocker"]},
+                {"german":"Der Pleitegeier","english":"","hoster":["PutLocker"]}
+         ]
+}

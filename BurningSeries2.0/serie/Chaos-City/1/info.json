@@ -1,0 +1,32 @@
+{
+        "series":"Chaos City",
+        "seasons":6,
+        "cover":"Chaos-City_1ad3cd7b69a489f93e37c45bd58a219d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"New York, New York","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Der heißeste Mann von New York","english":"The Great Pretender","hoster":["PutLocker"]},
+                {"german":"Jede Menge Müll","english":"The Apartment","hoster":["PutLocker"]},
+                {"german":"Interview mit Folgen","english":"Pride And Prejudice","hoster":["PutLocker"]},
+                {"german":"Rivalen","english":"The Rivals","hoster":["PutLocker"]},
+                {"german":"Faszination Fernsehen","english":"A Star Is Born","hoster":[]},
+                {"german":"Mehr Schein als Sein","english":"Grand Illusions","hoster":[]},
+                {"german":"Eine Hand wäscht die andere","english":"The High And The Mighty","hoster":[]},
+                {"german":"Bürgermeister für einen Tag","english":"Meet Tommy Dugan","hoster":[]},
+                {"german":"Der Wettkampf","english":"The Competitors","hoster":[]},
+                {"german":"Hundstage","english":"Dog Day Afternoon","hoster":[]},
+                {"german":"Der große Schnupfen","english":"Criss Cross","hoster":[]},
+                {"german":"Die Trennungs-Kiste","english":"Bye Bye Love","hoster":[]},
+                {"german":"Eine peinliche Nacht","english":"Starting Over","hoster":[]},
+                {"german":"Die Neue","english":"Gabby&#039;s Song","hoster":[]},
+                {"german":"Auf Freiersfüßen","english":"Kiss Me, Stupid","hoster":[]},
+                {"german":"(K)eine große Affäre","english":"An Affair To Remember","hoster":[]},
+                {"german":"Kleine Ausrutscher","english":"Snowbound","hoster":[]},
+                {"german":"Lügen haben hübsche Beine","english":"Striptease","hoster":[]},
+                {"german":"Missverständnisse","english":"Deaf Becomes Her","hoster":[]},
+                {"german":"Kaltgestellt","english":"Hot In The City","hoster":[]},
+                {"german":"Stehvermögen","english":"Bone Free","hoster":[]},
+                {"german":"Krach im Hause Winston","english":"The Mayor Who Came To Dinner","hoster":[]},
+                {"german":"Ein Bürgermeister verschwindet","english":"Mayor Over Miami!","hoster":[]}
+         ]
+}

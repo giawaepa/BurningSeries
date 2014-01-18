@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Nachbarschaftshilfe",
+         "titleen":"Breaking Up is Hard to Do",
+         "description":"Die Nachbarn Ochmonek sind so hoffnungslos zerstritten, dass Trevor sich bei den Tanners einquartiert. Das passt Alf ganz und gar nicht. Er setzt alles daran, Trevor mit Raquel zu versöhnen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6799200/ALF_Nachbarschaftshilfe_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6799292/ALF_Nachbarschaftshilfe_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6799389/ALF_Nachbarschaftshilfe_3_3"
+                }
+       ]
+}

@@ -1,0 +1,26 @@
+{
+        "series":"Sex and the City",
+        "seasons":6,
+        "cover":"Sex-and-the-City_fd70f136f1be8ed1389274454005ddf0.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Neues Spiel neues Glück","english":"take me out to the ballgame","hoster":[]},
+                {"german":"Die schreckliche Wahrheit","english":"the awful truth","hoster":[]},
+                {"german":"The Freak Show","english":"the freak show","hoster":[]},
+                {"german":"Nur Singles gibt man den Gnadenschuss","english":"they shoot single people, don&#039;t they?","hoster":[]},
+                {"german":"Vier Frauen und ein Todesfall","english":"four women and a funeral","hoster":[]},
+                {"german":"Alles Betrug","english":"the cheating curve","hoster":[]},
+                {"german":"Hochzeitsfieber","english":"the chicken dance","hoster":[]},
+                {"german":"Wunder gibt es immer wieder","english":"the man, the myth, the viagra","hoster":[]},
+                {"german":"Ein kleines Opfer","english":"old dogs, new dicks","hoster":[]},
+                {"german":"Das Kasten-System","english":"the caste system","hoster":[]},
+                {"german":"Evolution","english":"evolution","hoster":[]},
+                {"german":"Ein erlesener Schmerz","english":"la douleur exquise!","hoster":[]},
+                {"german":"Böse Spielchen","english":"games people play","hoster":[]},
+                {"german":"Einer fürs Bett","english":"the fuck buddy","hoster":[]},
+                {"german":"Familienbande","english":"shortcomings","hoster":[]},
+                {"german":"War es schön für Dich?","english":"was it good for you?","hoster":[]},
+                {"german":"Mädchen gegen Frauen","english":"twenty-something girls vs. thirty-something women","hoster":[]},
+                {"german":"Ex and the City","english":"ex and the city","hoster":[]}
+         ]
+}

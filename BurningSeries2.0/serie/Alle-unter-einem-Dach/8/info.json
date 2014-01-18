@@ -1,0 +1,32 @@
+{
+        "series":"Alle unter einem Dach",
+        "seasons":9,
+        "cover":"Alle-unter-einem-Dach_2db8eb16cd5d05a61805adfcf8c1d513.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Freiflug nach Paris","english":"Paris Vacation (1)","hoster":[]},
+                {"german":"Freiflug nach Paris - Teil 2","english":"Paris Vacation (2)","hoster":[]},
+                {"german":"Freiflug nach Paris - Teil 3","english":"Paris Vacation (3)","hoster":[]},
+                {"german":"Heimweh nach Chicago","english":"Movin&#039; On","hoster":[]},
+                {"german":"Ein Mann auf der Flucht","english":"3J in the House","hoster":[]},
+                {"german":"Ein nobler Mann","english":"Getting Buff","hoster":[]},
+                {"german":"Die Teufelspuppe","english":"Stevil","hoster":[]},
+                {"german":"Karate Kids","english":"Karate Kids","hoster":[]},
+                {"german":"Der König der Romantik","english":"Home Again","hoster":[]},
+                {"german":"Die Albtraumhochzeit","english":"Nightmare at Urkel Oaks","hoster":[]},
+                {"german":"Geflügel mit Pep","english":"Chick-a-Boom","hoster":[]},
+                {"german":"Der zwölfte Geschworene","english":"The Jury","hoster":[]},
+                {"german":"Das Fest der Liebe","english":"It Came upon a Midnight Clear","hoster":[]},
+                {"german":"Die Idiotenparty","english":"Revenge of the Nerd","hoster":[]},
+                {"german":"Wenn Torten fliegen ?","english":"Love Triangles","hoster":[]},
+                {"german":"Der reichste Mann der Welt","english":"Father Time","hoster":[]},
+                {"german":"Schönheitsköniginnen","english":"Beauty and the Beast","hoster":[]},
+                {"german":"Dreimal große Liebe","english":"Le Jour d&#039;amour","hoster":[]},
+                {"german":"Was wissen Sie?","english":"What Do You Know?","hoster":[]},
+                {"german":"Full House mit Dame","english":"Odd Man In","hoster":[]},
+                {"german":"Der jodelnde Risikofaktor","english":"Flirting with Disaster","hoster":[]},
+                {"german":"Pfundig, pfundig ?","english":"Pound Foolish","hoster":[]},
+                {"german":"Die Herausforderung","english":"The Brother Who Came to Dinner","hoster":[]},
+                {"german":"Captain Carl, der Dicke","english":"A Pirate&#039;s Life for Me","hoster":[]}
+         ]
+}

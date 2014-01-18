@@ -1,0 +1,26 @@
+{
+        "series":"Royal Pains",
+        "seasons":3,
+        "cover":"Royal-Pains_d7a42bf21454fc4d9aeb0ac4fb1717a4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Vater unser!","english":"Spasticity","hoster":["PutLocker","Sockshare"]},
+                {"german":"Krank vor Liebe","english":"Lovesick","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hank und Goliath","english":"Keeping the Faith","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zwei in einer Kuba-Krise (1)","english":"Medusa","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zwei in einer Kuba-Krise (2)","english":"Mano a Mano","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zwischen Wein und Wahrheit","english":"In Vino Veritas","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Paige und Evan","english":"Comfort&#039;s Overrated","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Hankover","english":"The Hankover","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die wundersame Welt der Liebe","english":"Frenemies","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"Whole Lotto Love","hoster":["PutLocker"]},
+                {"german":"","english":"Big Whoop","hoster":["PutLocker"]},
+                {"german":"","english":"Open Up Your Yenta Mouth and Say Ah","hoster":["PutLocker"]},
+                {"german":"","english":"Mulligan","hoster":["PutLocker"]},
+                {"german":"","english":"Pit Stop","hoster":["PutLocker"]},
+                {"german":"","english":"A History of Violins","hoster":["PutLocker"]},
+                {"german":"","english":"Astraphobia","hoster":["PutLocker"]},
+                {"german":"","english":"Fight or Flight","hoster":["PutLocker"]},
+                {"german":"","english":"Listen to the Music","hoster":["PutLocker"]}
+         ]
+}

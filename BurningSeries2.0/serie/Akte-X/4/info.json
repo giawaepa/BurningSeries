@@ -1,0 +1,32 @@
+{
+        "series":"Akte X",
+        "seasons":9,
+        "cover":"Akte-X_81ab1803846af5b33207b81b56a64620html.html",
+        "movies":true,
+        "episodes":[
+                {"german":"Herrenvolk","english":"Herrenvolk","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Blutschande","english":"Home","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Teliko","english":"Teliko","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Unruhe","english":"Unruhe","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Rückkehr der Seelen","english":"The Field Where I Died","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hexensabbat","english":"Sanguinarium","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gedanken des geheimnisvollen Rauchers","english":"Musings of a Cigarette Smoking Man","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tunguska (1)","english":"Tunguska","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tunguska (2)","english":"Terma","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Sammlung","english":"Paper Hearts","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Chupacabra","english":"El Mundo Giro","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Leonard Betts","english":"Leonard Betts","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Mutterkorn","english":"Never Again","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Memento Mori","english":"Memento Mori","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Golem","english":"Kaddish","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Unsichtbar","english":"Unrequited","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tempus Fugit (1)","english":"Tempus Fugit","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tempus Fugit (2)","english":"Max","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Rückkehr aus der Zukunft","english":"Synchrony","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein unbedeutender Niemand","english":"Small Potatoes","hoster":["RapidVideo"]},
+                {"german":"Der Pakt mit dem Teufel","english":"Zero Sum","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Todes-Omen","english":"Elegy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Dämonen","english":"Demons","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gethsemane","english":"Gethsemane","hoster":["PutLocker"]}
+         ]
+}

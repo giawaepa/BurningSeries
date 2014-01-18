@@ -1,0 +1,26 @@
+{
+        "series":"Cold Case ? Kein Opfer ist je vergessen",
+        "seasons":7,
+        "cover":"Cold-Case-Kein-Opfer-ist-je-vergessen_d952da7f4cf1e5ddc35621c07baa7a54.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Böse triumphiert","english":"Thrill Kill","hoster":["PutLocker"]},
+                {"german":"Doppelmoral","english":"That Woman","hoster":["PutLocker"]},
+                {"german":"Die Ängste der Amish","english":"Running Around","hoster":["PutLocker"]},
+                {"german":"Teufelsmusik","english":"Devil Music","hoster":["PutLocker"]},
+                {"german":"Ein gefährliches Paar","english":"Thick as Thieves","hoster":["PutLocker"]},
+                {"german":"Wunderkind","english":"Wunderkind","hoster":["PutLocker"]},
+                {"german":"Krieg der Welten","english":"World&#039;s End","hoster":["PutLocker"]},
+                {"german":"17","english":"It Takes a Village","hoster":["PutLocker"]},
+                {"german":"Außenseiter","english":"Boy Crazy","hoster":["PutLocker"]},
+                {"german":"Gerechtigkeit","english":"Justice","hoster":["PutLocker"]},
+                {"german":"Familie 8108","english":"Family 8108","hoster":["PutLocker"]},
+                {"german":"Sabotage","english":"Sabotage","hoster":["PutLocker"]},
+                {"german":"Spider","english":"Spiders","hoster":["PutLocker"]},
+                {"german":"Eine fremde Welt","english":"Andy in C Minor","hoster":["PutLocker"]},
+                {"german":"Sinn des Lebens","english":"The Road","hoster":["PutLocker"]},
+                {"german":"Schlechter Ruf","english":"Bad Reputation","hoster":["PutLocker"]},
+                {"german":"Verfolgt","english":"Slipping","hoster":["PutLocker"]},
+                {"german":"Der Geist meines Kindes","english":"Ghost of My Child","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,26 @@
+{
+        "series":"Knight Rider (2008)",
+        "seasons":1,
+        "cover":"Knight-Rider-2008_5aaecf8c6ac88c994cc2801782b09524.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Pilot - K.I.T.T. in Gefahr!","english":"Knight Rider","hoster":["PutLocker"]},
+                {"german":"Ein neuer Knight","english":"A Knight In Shining Armor","hoster":["YouTube","PutLocker"]},
+                {"german":"Zum Sterben bereit, Michael Knight?","english":"Journey to the End of Knight","hoster":["YouTube","PutLocker"]},
+                {"german":"Mexiko Rider","english":"Knight of the Iguana","hoster":["PutLocker"]},
+                {"german":"A Hard Day&#039;s Knight","english":"A Hard Day&#039;s Knight","hoster":["YouTube","PutLocker"]},
+                {"german":"Michael Knight - oder wie ich lernte, die Bombe zu jagen","english":"Knight of the Hunter","hoster":["YouTube","PutLocker"]},
+                {"german":"Wer macht K.I.T.T. zum Killer?","english":"Knight of the Living Dead","hoster":["YouTube","PutLocker"]},
+                {"german":"Michael Knight gegen Max und Nikki","english":"I Wanna Rock &amp; Roll All Knight","hoster":["YouTube","PutLocker"]},
+                {"german":"Casino Rider","english":"Knight of the Zodiac","hoster":["YouTube","PutLocker"]},
+                {"german":"Knight Fever","english":"Knight Fever","hoster":["YouTube","PutLocker"]},
+                {"german":"K.I.T.T.s tödlicher Kurs","english":"Don&#039;t Stop the Knight","hoster":["YouTube","PutLocker"]},
+                {"german":"K.I.T.T. geht in die Luft","english":"Day Turns Into Knight","hoster":["YouTube","PutLocker"]},
+                {"german":"K.I.T.T. gegen K.A.R.R.","english":"Knight to King&#039;s Pawn","hoster":["YouTube","PutLocker"]},
+                {"german":"Keine Auszeit für Michael Knight!","english":"Exit Light, Enter Knight","hoster":["YouTube","PutLocker"]},
+                {"german":"Fight Knight","english":"Fight Knight","hoster":["YouTube","PutLocker"]},
+                {"german":"Michael Knight geht zu weit","english":"Fly By Knight","hoster":["YouTube","PutLocker"]},
+                {"german":"Knight and the City","english":"Knight and the City","hoster":["YouTube","PutLocker"]},
+                {"german":"Happy Knight?","english":"I love the Knightlife","hoster":["YouTube","PutLocker"]}
+         ]
+}

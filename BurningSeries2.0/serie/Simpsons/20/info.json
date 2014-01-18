@@ -1,0 +1,29 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Kuchen, Kopfgeld und Kautionen","english":"Sex, Pies And Idiot Scrapes","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Jäger des verlorenen Handys","english":"Lost Verizon","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Gemischtes Doppel","english":"Double, Double, Boy in Trouble","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Tod kommt dreimal","english":"Treehouse of Horror XIX.","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Gefährliche Kurven","english":"Dangerous Curves","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Kreuz mit den Worträtseln","english":"Homer and Lisa Exchange Cross Words","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Bin runterladen","english":"Mypods and Boomsticks","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ja, diese Biene, die ich meine, die heißt Monty","english":"The Burns and the Bees","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Chroniken von Equalia","english":"Lisa the Drama Queen","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Quatsch mit Soße","english":"Take My Life, Please","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Beim Testen nichts Neues","english":"How the Test Was Won","hoster":["YouTube","MyVideo","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Liebe deinen Nachbarn","english":"No Loan Again, Naturally","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Auf der Jagd nach dem Juwel von Springfield","english":"Gone Maggie Gone","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Im Namen des Großvaters","english":"In the Name of the Grandfather","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Hochzeit kommt vor dem Fall","english":"Wedding for Disaster","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Große, kleine Liebe","english":"Eeny Teeny Maya, Moe","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Verliebt und zugedröhnt","english":"The Good, the Sad and the Drugly","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Papa wird&#039;s nicht richten","english":"Father Knows Worst","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Auf nach Waverly Hills","english":"Waverly Hills 9-0-2-1-D&#039;oh","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Vier Powerfrauen und eine Maniküre","english":"Four Great Women and a Manicure","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Es war einmal in Homerika","english":"Coming Homerica","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

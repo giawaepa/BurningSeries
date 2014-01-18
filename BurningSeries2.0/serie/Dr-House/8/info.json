@@ -1,0 +1,22 @@
+{
+        "series":"Dr. House",
+        "seasons":8,
+        "cover":"Dr-House_c99673c1059f48ba3467597c75711752.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Twenty Vicodin","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Transplant","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Charity Case","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Risky Business","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Confession","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Parents","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Dead &amp; Buried","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Perils of Paranoia","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Better Half","hoster":["PutLocker","BitShare"]},
+                {"german":"","english":"Runaways","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Nobody&#039;s Fault","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Chase","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Man of the House","hoster":[]},
+                {"german":"","english":"Love is Blind","hoster":[]}
+         ]
+}

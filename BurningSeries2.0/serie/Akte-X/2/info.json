@@ -1,0 +1,33 @@
+{
+        "series":"Akte X",
+        "seasons":9,
+        "cover":"Akte-X_81ab1803846af5b33207b81b56a64620html.html",
+        "movies":true,
+        "episodes":[
+                {"german":"Kontakt","english":"Little Green Men","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Parasit","english":"The Host","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Blut","english":"Blood","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schlaflos","english":"Sleepless","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Unter Kontrolle","english":"Suane Barry","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Seilbahn zu den Sternen","english":"Ascension","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Drei","english":"3","hoster":["PutLocker","RapidVideo"]},
+                {"german":"An der Grenze","english":"One Breaht","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Vulkan","english":"Firewalker","hoster":["RapidVideo"]},
+                {"german":"Rotes Museum","english":"Red Museum","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Excelsis Dei","english":"Excelsis Dei","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Böse geboren","english":"Aubrey","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Todestrieb","english":"Irresistible","hoster":["PutLocker"]},
+                {"german":"Satan","english":"Die Hand Die Verletzt","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Frische Knochen","english":"Fresh Bones","hoster":["PutLocker"]},
+                {"german":"Die Kolonie (1)","english":"Colony","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Kolonie (2)","english":"End Game","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sophie","english":"Fearful Symmetry","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Totenstille","english":"Dod Kalm","hoster":["PutLocker"]},
+                {"german":"Der Zirkus","english":"Humbug","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Heilige Asche","english":"The Calusari","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verseucht","english":"F. Emasculata","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Experiment","english":"Soft Lighr","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Unsere kleine Stadt","english":"Our Town","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Anasazi","english":"Anasazi","hoster":[]}
+         ]
+}

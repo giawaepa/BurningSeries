@@ -1,0 +1,30 @@
+{
+        "series":"Smallville",
+        "seasons":10,
+        "cover":"Smallville_9b035bf1ed4971800a10af943bd17d18.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Verbannt in die Phantomzone","english":"Zod","hoster":["PutLocker"]},
+                {"german":"Luft-Waffe","english":"Sneeze","hoster":["PutLocker"]},
+                {"german":"Mörderpflanzen","english":"Wither","hoster":["PutLocker"]},
+                {"german":"Green Arrow","english":"Arrow","hoster":["PutLocker"]},
+                {"german":"Klassensterben","english":"Reunion","hoster":["PutLocker"]},
+                {"german":"Raya vom Krypton","english":"Fallout","hoster":["PutLocker"]},
+                {"german":"Mit Pfeil und Kugel","english":"Rage","hoster":["PutLocker"]},
+                {"german":"Frequenzwechsel","english":"Static","hoster":["PutLocker"]},
+                {"german":"Unterdrückungsmechanismen","english":"Subterranean","hoster":["PutLocker"]},
+                {"german":"Mit allen Wassern gewaschen ...","english":"Hydro","hoster":["PutLocker"]},
+                {"german":"Justice League","english":"Justice","hoster":["PutLocker"]},
+                {"german":"Vergiss dein nicht","english":"Labyrinth","hoster":["PutLocker"]},
+                {"german":"Alle lieben Clark","english":"Crimson","hoster":["PutLocker"]},
+                {"german":"Beschützerinstinkt","english":"Trespass","hoster":["PutLocker"]},
+                {"german":"Freakville","english":"Freak","hoster":["PutLocker"]},
+                {"german":"Teufelshochzeit","english":"Promise","hoster":["PutLocker"]},
+                {"german":"Fightclub","english":"Combat","hoster":["PutLocker"]},
+                {"german":"Mütterseelenallein","english":"Progeny","hoster":["PutLocker"]},
+                {"german":"Mein Feind, der Freund","english":"Nemesis","hoster":["PutLocker"]},
+                {"german":"Episode Noir","english":"Noir","hoster":["PutLocker"]},
+                {"german":"Prototyp","english":"Prototype","hoster":["PutLocker"]},
+                {"german":"Phantom der Opfer","english":"Phantom","hoster":["PutLocker"]}
+         ]
+}

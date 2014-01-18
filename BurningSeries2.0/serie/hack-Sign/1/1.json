@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Rollenspiele",
+         "titleen":"",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5996575/hack_SIGN_German_Folge_01_Part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5996747/hack_SIGN_German_Folge_01_Part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5996855/hack_SIGN_German_Folge_01_Part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"E63A24FDC36B492F"
+                }
+       ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Das Blatt wendet sich",
+         "titleen":"Episode 85",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6264128/Naruto_Folge_85_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6264208/Naruto_Folge_85_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6264320/Naruto_Folge_85_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"45782E443EB76B18"
+                }
+       ]
+}

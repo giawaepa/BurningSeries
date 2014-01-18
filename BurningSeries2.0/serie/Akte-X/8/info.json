@@ -1,0 +1,29 @@
+{
+        "series":"Akte X",
+        "seasons":9,
+        "cover":"Akte-X_81ab1803846af5b33207b81b56a64620html.html",
+        "movies":true,
+        "episodes":[
+                {"german":"Verschwunden","english":"Within","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gibson Praise","english":"Without","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Klauen und Zähne","english":"Patience","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gesteinigt","english":"Roadrunners","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Billy","english":"Invocation","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Rückwärts","english":"Redrum","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Via Negativa","english":"Vie Negativa","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Fenster der Seele","english":"Surekill","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schlaues Metall","english":"Salvage","hoster":["PutLocker"]},
+                {"german":"Hier und nicht hier","english":"Badlaa","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Seelenesser","english":"The Gift","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Underground","english":"Medusa","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Frucht des Leibes","english":"Per Manum","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Es ist zu Spät","english":"This is not happening","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lebendig tot","english":"Deadalive","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Drei Worte","english":"Three Words","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Feuer und Asche","english":"Empedocles","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sie kommen","english":"Vienen","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Augenlicht","english":"Alone","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Einer von Vielen","english":"Essesce","hoster":["PutLocker","RapidVideo"]},
+                {"german":"William","english":"Existence","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

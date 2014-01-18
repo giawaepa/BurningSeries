@@ -1,0 +1,33 @@
+{
+        "series":"The King of Queens",
+        "seasons":9,
+        "cover":"The-King-of-Queens_bbc35c6d9ebd3e1bdb5e304bbb42d956.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Trautes Heim","english":"Pilot","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Das Fett muss weg","english":"Fat City","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Revierkämpfe","english":"Cello, Goodbye","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Männergespräche","english":"Richie&#039;s Song","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Ernste Absichten","english":"Paternal Affairs","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die Klette","english":"Head First","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Verlobungsring","english":"The Rock","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Späte Schule für Doug","english":"Educating Doug","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Verkehrsprobleme","english":"Road Rayge","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Truthahn à la Mama","english":"Supermarket Story","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Klein, aber fein","english":"Noel Cowards","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Liebe ist ...","english":"Fixer Upper","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Alte Geschichten","english":"Best Man","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Auf den Hund gekommen","english":"Dog Days","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Alt, dick und hässlich","english":"Crappy Birthday","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Valentinstag","english":"S&#039;Ain&#039;t Valentine&#039;s","hoster":["MyVideo","PutLocker"]},
+                {"german":"Die verkaufte Frau","english":"Court Date","hoster":["YouTube","PutLocker"]},
+                {"german":"Der Ruf der Straße","english":"White Collar","hoster":["YouTube","PutLocker"]},
+                {"german":"Freundschaftsdienste","english":"Rayny Day","hoster":["YouTube","PutLocker"]},
+                {"german":"Die neue Kollegin","english":"Train Wreck","hoster":["YouTube","PutLocker"]},
+                {"german":"Bärenhunger","english":"Hungry Man","hoster":["YouTube","PutLocker"]},
+                {"german":"Ich will dich, ich will dich nicht","english":"Time Share","hoster":["YouTube","PutLocker"]},
+                {"german":"Endlich allein","english":"Where&#039;s Poppa?","hoster":["YouTube","PutLocker"]},
+                {"german":"Auf Wiedersehen, Arthur","english":"Art House","hoster":["YouTube","PutLocker"]},
+                {"german":"Auf Eis gelegt","english":"Maybe Baby","hoster":["YouTube","PutLocker"]}
+         ]
+}

@@ -1,0 +1,21 @@
+{
+        "series":"Medium ? Nichts bleibt verborgen",
+        "seasons":7,
+        "cover":"Medium-Nichts-bleibt-verborgen_0b0e86f0a8fda0fc1c335a2ccfa7a5d6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Bring Your Daughter To Work Day","english":"Bring Your Daughter To Work Day","hoster":["PutLocker","Sockshare"]},
+                {"german":"The Match Game","english":"The Match Game","hoster":["PutLocker","Sockshare"]},
+                {"german":"Foulspiel im Jenseits","english":"Means and Ends","hoster":["PutLocker","Sockshare"]},
+                {"german":"Tote schlafen nie","english":"How to Kill a Good Guy","hoster":["PutLocker","Sockshare"]},
+                {"german":"Talk To The Hand","english":"Talk to the Hand","hoster":["PutLocker","Sockshare"]},
+                {"german":"Punkt 9.18 Uhr","english":"Where Were You When...?","hoster":["PutLocker","Sockshare"]},
+                {"german":"Tödlicher Sprachfehler","english":"Native Tongue","hoster":["PutLocker","Sockshare"]},
+                {"german":"Mord im Feuer","english":"Smoke Damage","hoster":["PutLocker","Sockshare"]},
+                {"german":"Mord in der Nachbarschaft","english":"The People in Your Neighborhood","hoster":["PutLocker","Sockshare"]},
+                {"german":"Blut auf den Gleisen","english":"Blood on the Tracks","hoster":["PutLocker","Sockshare"]},
+                {"german":"Herzhandel","english":"Only Half Lucky","hoster":["PutLocker","Sockshare"]},
+                {"german":"Müttermorde","english":"Labor Pains","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ohne Dich","english":"Me Without You","hoster":["PutLocker","Sockshare"]}
+         ]
+}

@@ -1,0 +1,16 @@
+{
+        "series":"Skins",
+        "seasons":5,
+        "cover":"Skins_bb9c269a192f18edaf505b3c54e0e175.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Thomas","hoster":["PutLocker"]},
+                {"german":"","english":"Emily","hoster":[]},
+                {"german":"","english":"Cook","hoster":[]},
+                {"german":"","english":"Katie &amp; Emily","hoster":["PutLocker"]},
+                {"german":"","english":"Freddie","hoster":["PutLocker"]},
+                {"german":"","english":"JJ","hoster":["PutLocker"]},
+                {"german":"","english":"Effy","hoster":["PutLocker"]},
+                {"german":"","english":"Naomi","hoster":["PutLocker"]}
+         ]
+}

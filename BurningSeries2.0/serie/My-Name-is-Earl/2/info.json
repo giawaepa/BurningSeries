@@ -1,0 +1,31 @@
+{
+        "series":"My Name is Earl",
+        "seasons":4,
+        "cover":"My-Name-is-Earl_453b444f097435e95810623c0175f3ab.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ich lass das mit dem Laster","english":"Very Bad Things (1)","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"...Und zieh dich bitte wieder aus!","english":"Jump For Joy (2)","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Haare stören, wo sie nicht hingehören","english":"Sticks &amp; Stones","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Randy oder Tier - die Liebe ist hier!","english":"Larceny of a Kitty Cat","hoster":["PutLocker","Sockshare"]},
+                {"german":"Schöntrinken scheitert","english":"Van Hickey","hoster":["PutLocker","Sockshare"]},
+                {"german":"Earl Allmächtig","english":"Made a Lady Think I Was God","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sie hatten Post","english":"Mailbox","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Vom Drogentrip zum Ökotrip","english":"Robbed a Stoner Blind","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Keiner hat sich hier im Griff","english":"Born a Gamblin&#039; Man","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Südamerika ist schön (1)","english":"South of the Border, Part Uno","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"... wenn man nicht hinfährt (2)","english":"South of the Border, Part Dos","hoster":["PutLocker","Sockshare"]},
+                {"german":"Es war auch fein, kriminell zu sein","english":"Our &#039;Cops&#039; is On","hoster":["PutLocker","Sockshare"]},
+                {"german":"Schon erledigt?","english":"Buried Treasure","hoster":["PutLocker","Sockshare"]},
+                {"german":"Keiner trauert zur Trauerfeier","english":"Kept a Guy Locked In a Truck","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein frecher Franzose","english":"Foreign Exchange Student","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Gift und Galle und Gemeinsamkeiten","english":"Blow","hoster":["PutLocker","Sockshare"]},
+                {"german":"Alles Schlechte zum Geburtstag!","english":"The Birthday Party","hoster":["PutLocker","Sockshare"]},
+                {"german":"Früher war alles ... auch nicht besser","english":"Guess Who&#039;s Coming Out Of Joy","hoster":["PutLocker","Sockshare"]},
+                {"german":"Medienschlacht ums Karma","english":"Harassed A Reporter","hoster":["PutLocker","Sockshare"]},
+                {"german":"Entscheidung im Schritt","english":"Two Balls, Two Strikes","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zu blöd für meinen Abschluss?","english":"G.E.D.","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Zu gut für einen ehrlichen Job?","english":"Get a Real Job","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Zu schnell im Knast!","english":"The Trial","hoster":["PutLocker","Sockshare"]}
+         ]
+}

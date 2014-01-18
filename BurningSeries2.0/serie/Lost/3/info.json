@@ -1,0 +1,31 @@
+{
+        "series":"Lost",
+        "seasons":6,
+        "cover":"Lost_49ec17f91f9058c5bd0884ad26d418d5.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die zwei Städte","english":"A Tale of Two Cities","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die gläserne Ballerina","english":"The Glass Ballerina","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Auftrag","english":"Further Instructions","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Jeder für sich","english":"Every Man for Himself","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Preis des Lebens","english":"The Cost of Living","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ja, ich will","english":"I Do","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Nicht in Portland","english":"Not in Portland","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Erinnerungsfetzen","english":"Flashes Before Your Eyes","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Fremd in fremden Land","english":"Stranger in a Strange Land","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Tricia Tanaka ist tot","english":"Tricia Tanaka is Dead","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Flamme","english":"Enter 77","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Luftpost","english":"Par Avion","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Mann aus Tallahassee","english":"The Man from Tallahassee","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Exposé","english":"Exposé","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Allein","english":"Left Behind","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Eine von uns","english":"One of Us","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Catch-22","english":"Catch-22","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Tag der Empfängnis","english":"D.O.C.","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Im Loch","english":"The Brig","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Mann hinter dem Vorhang","english":"The Man Behind the Curtain","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Greatest Hits","english":"Greatest Hits","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Hinter dem Spiegel - Teil 1","english":"Through the Looking Glass (1)","hoster":["MyVideo","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Hinter dem Spiegel - Teil 2","english":"Through the Looking Glass (2)","hoster":["PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

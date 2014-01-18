@@ -1,0 +1,24 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Höllenfahrt auf der A4","english":"","hoster":["PutLocker"]},
+                {"german":"Hase und Igel","english":"","hoster":["PutLocker"]},
+                {"german":"Auf der Flucht","english":"","hoster":["PutLocker"]},
+                {"german":"Eine böse Überraschung","english":"","hoster":["PutLocker"]},
+                {"german":"Blinde Liebe","english":"","hoster":["PutLocker"]},
+                {"german":"Tulpen aus Amsterdam","english":"","hoster":["PutLocker"]},
+                {"german":"Highway Maniac","english":"","hoster":["PutLocker"]},
+                {"german":"Janina","english":"","hoster":["PutLocker"]},
+                {"german":"Geheimnisvolle Macht","english":"","hoster":["PutLocker"]},
+                {"german":"Die Hütte am See","english":"","hoster":["PutLocker"]},
+                {"german":"Gefährliches Spielzeug","english":"","hoster":["PutLocker"]},
+                {"german":"Verlorene Erinnerungen","english":"","hoster":["PutLocker"]},
+                {"german":"Die schwarze Rose","english":"","hoster":["PutLocker"]},
+                {"german":"Schachmatt","english":"","hoster":["PutLocker"]},
+                {"german":"Schumanns große Chance","english":"","hoster":["PutLocker"]},
+                {"german":"Der Maulwurf","english":"","hoster":["PutLocker"]}
+         ]
+}

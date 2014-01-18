@@ -1,0 +1,30 @@
+{
+        "series":"Ally McBeal",
+        "seasons":5,
+        "cover":"Ally-McBeal_a187e7187d7119128b6a6f4f34c52063.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Eine Ally zu viel","english":"Friends and Lovers","hoster":["PutLocker"]},
+                {"german":"Kurzer Prozess","english":"Judge Ling","hoster":["PutLocker"]},
+                {"german":"Die drei Muskeltiere","english":"Neutral Corners","hoster":["PutLocker"]},
+                {"german":"Auf Tauchstation","english":"Fear of Flirting","hoster":["PutLocker"]},
+                {"german":"Junges Gemüse","english":"I Want Love","hoster":["PutLocker"]},
+                {"german":"Ab auf die Couch","english":"Lost and Found","hoster":["PutLocker"]},
+                {"german":"Oh Gott, Herr Pfarrer","english":"Nine One One","hoster":["PutLocker"]},
+                {"german":"Kuppelversuche","english":"Playing with Matches","hoster":["PutLocker"]},
+                {"german":"Hausaufgaben","english":"Blowin&#039; in the Wind","hoster":["PutLocker"]},
+                {"german":"Sturzflug","english":"One Hundred Tears","hoster":["PutLocker"]},
+                {"german":"Kinderüberraschung","english":"A Kick in the Head","hoster":["PutLocker"]},
+                {"german":"Chef-Sache","english":"The New Day","hoster":["PutLocker"]},
+                {"german":"Wenn Köpfe rollen...","english":"Woman","hoster":["PutLocker"]},
+                {"german":"Gute Gene, schlechte Gene","english":"Homecoming","hoster":["PutLocker"]},
+                {"german":"Herzschmerz","english":"Heart and Soul","hoster":["PutLocker"]},
+                {"german":"Luft und Liebe, Teil 1","english":"Love Is All Around (1)","hoster":["PutLocker"]},
+                {"german":"Luft und Liebe, Teil 2","english":"Love Is All Around (2)","hoster":["PutLocker"]},
+                {"german":"Viva La Diva","english":"Tom Dooley","hoster":["PutLocker"]},
+                {"german":"Der letzte Akt","english":"Another One Bites The Dust","hoster":["PutLocker"]},
+                {"german":"Auf Schürzenjagd","english":"What I&#039;ll Never Do for Love Again","hoster":["PutLocker"]},
+                {"german":"Durchgeknallt","english":"All of Me","hoster":["PutLocker"]},
+                {"german":"Goodbye Ally","english":"Bygones","hoster":["PutLocker"]}
+         ]
+}

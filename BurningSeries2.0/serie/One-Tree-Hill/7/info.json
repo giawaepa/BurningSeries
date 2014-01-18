@@ -1,0 +1,30 @@
+{
+        "series":"One Tree Hill",
+        "seasons":9,
+        "cover":"One-Tree-Hill_2fa03b219e492507d3b23615a456128d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Familienbesuch","english":"4:30 AM (Apparently They Were Traveling Abroad)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eine Nacht mit Folgen","english":"What Are You Willing to Lose","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Erpressung","english":"Hold My Hand as I?m Lowered","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der große Auftritt","english":"Believe Me, I?m Lying","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Trügerisches Herz","english":"Your Cheatin? Heart","hoster":["PutLocker"]},
+                {"german":"Angst vor der Tiefe","english":"Deep Ocean Vast Sea","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Liebe stirbt nie","english":"I and Love and You","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Geister","english":"I Just Died in Your Arms Tonight","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Frühlingsgefühle","english":"Now You Lift Your Eyes to the Sun","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Jeder hat seine Sucht","english":"You Are a Runner and I Am My Father?s Son","hoster":["PutLocker"]},
+                {"german":"Du weißt, dass ich dich liebe","english":"You Know I Love You, Don?t You","hoster":["PutLocker"]},
+                {"german":"Manche Straßen führen nirgendwo hin","english":"Some Roads Lead Nowhere","hoster":["PutLocker"]},
+                {"german":"Ich will nur helfen","english":"Weeks Go by like Days","hoster":["PutLocker"]},
+                {"german":"Es bleibt in der Familie","english":"Family Affair","hoster":["PutLocker"]},
+                {"german":"Das große Revival","english":"Don?t You Forget about Me","hoster":["PutLocker"]},
+                {"german":"Gute Absichten","english":"My Attendance Is Bad but My Intentions Are Good","hoster":["PutLocker"]},
+                {"german":"Lydias letzte Chance","english":"At the Bottom of Everything","hoster":["PutLocker"]},
+                {"german":"Ich lass Dich nicht los","english":"The Last Day of Our Acquaintance","hoster":["PutLocker"]},
+                {"german":"Jedes Bild erzählt eine Geschichte","english":"Every Picture Tells a Story","hoster":["PutLocker"]},
+                {"german":"Verdrehte Verhältnisse","english":"Learning to Fail","hoster":["PutLocker"]},
+                {"german":"Schatzsuche","english":"What?s in the Ground Belongs to You","hoster":["PutLocker"]},
+                {"german":"Die Filmpremiere","english":"Almost Everything I Wish I?d Said the Last Time I Saw You","hoster":["PutLocker"]}
+         ]
+}

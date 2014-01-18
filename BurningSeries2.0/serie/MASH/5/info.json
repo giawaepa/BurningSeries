@@ -1,0 +1,32 @@
+{
+        "series":"M*A*S*H",
+        "seasons":11,
+        "cover":"M-A-S-H_ba9c37303b185e8c205e7b06cbc0acda.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Feind im Anmarsch / Freund im Rü...","english":"Bug Out","hoster":[]},
+                {"german":"Hot Lips verlobt sich","english":"Margaret&#039;s Engagement","hoster":[]},
+                {"german":"Vorsicht, meine Augen","english":"Out of Sight, Out of Mind","hoster":[]},
+                {"german":"Mein Gott, Lieutenant","english":"Lt. Radar O&#039;Reilly","hoster":[]},
+                {"german":"Unsere guten Schwestern","english":"The Nurses","hoster":[]},
+                {"german":"Sie bekommt ein Kind","english":"The Abduction of Margaret Houlihan","hoster":[]},
+                {"german":"Lieber Sigmund","english":"Dear Sigmund","hoster":[]},
+                {"german":"Die Bewährungsprobe","english":"Mulcahy&#039;s War","hoster":[]},
+                {"german":"Dr. Paik, tut mir leid","english":"The Korean Surgeon","hoster":[]},
+                {"german":"Stirb, oder ich schieße","english":"Hawkeye Get Your Gun","hoster":[]},
+                {"german":"Das Pferd des Colonels","english":"The Colonel&#039;s Horse","hoster":[]},
+                {"german":"Alles über Aberglauben","english":"Exorcism","hoster":[]},
+                {"german":"Der Schlafwandler","english":"Hawk&#039;s Nightmare","hoster":[]},
+                {"german":"Amüsante Anekdoten","english":"The Most Unforgettable Characters","hoster":[]},
+                {"german":"In Teufels Küche","english":"38 Across","hoster":[]},
+                {"german":"Kriminelle Dummheit","english":"Ping Pong","hoster":[]},
+                {"german":"Viel Glück, Billy","english":"End Run","hoster":[]},
+                {"german":"Allzu Menschliches","english":"Hanky Panky","hoster":[]},
+                {"german":"Es sieht böse aus","english":"Hepatitis","hoster":[]},
+                {"german":"Leibarzt gesucht","english":"The General&#039;s Practitioner","hoster":[]},
+                {"german":"Wenn der Film reißt","english":"Movie Tonight","hoster":[]},
+                {"german":"Verdammte Souveniers","english":"Souvenirs","hoster":[]},
+                {"german":"Allgemeiner Notstand","english":"Post Op","hoster":[]},
+                {"german":"Margaret&#039;s Hochzeit","english":"Margaret&#039;s Marriage","hoster":[]}
+         ]
+}

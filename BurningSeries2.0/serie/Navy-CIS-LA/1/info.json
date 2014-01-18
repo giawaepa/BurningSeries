@@ -1,0 +1,32 @@
+{
+        "series":"Navy CIS: L.A.",
+        "seasons":3,
+        "cover":"Navy-CIS-L-A_0d8edda38f185e62323fa5717d0cf385.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Operation Dakota","english":"Identity","hoster":["PutLocker","Ecostream"]},
+                {"german":"Der einzige leichte Tag","english":"The Only Easy Day","hoster":["PutLocker","Ecostream"]},
+                {"german":"Die Drohne","english":"Predator","hoster":["PutLocker","Ecostream"]},
+                {"german":"Beste Beziehungen","english":"Search and Destroy","hoster":["PutLocker","Ecostream"]},
+                {"german":"Die Koreanerin","english":"Killshot","hoster":["PutLocker","Ecostream"]},
+                {"german":"Tinte in den Adern","english":"Keepin&#039; It Real","hoster":["PutLocker","Ecostream"]},
+                {"german":"Alina","english":"Pushback","hoster":["PutLocker","Ecostream"]},
+                {"german":"Paranoid","english":"Ambush","hoster":["PutLocker","Ecostream"]},
+                {"german":"Das Phantom","english":"Random on Purpose","hoster":["PutLocker"]},
+                {"german":"Die Last der Schuld","english":"Brimstone","hoster":["PutLocker","Ecostream"]},
+                {"german":"Durch die Wand","english":"Breach","hoster":["PutLocker","Ecostream"]},
+                {"german":"Aus einem anderen Leben","english":"Past Lives","hoster":["PutLocker","Ecostream"]},
+                {"german":"Vermisst","english":"Missing","hoster":["PutLocker","Ecostream"]},
+                {"german":"Der Holländer","english":"LD50","hoster":["PutLocker","Ecostream"]},
+                {"german":"Banküberfall","english":"The Bank Job","hoster":["PutLocker","Ecostream"]},
+                {"german":"Die perfekte Tarnung","english":"Chinatown","hoster":["PutLocker","Ecostream"]},
+                {"german":"Der rasende Blitz","english":"Full Throttle","hoster":["PutLocker","Ecostream"]},
+                {"german":"Der kleine Bruder","english":"Blood Brothers","hoster":["PutLocker","Ecostream"]},
+                {"german":"Die letzte Runde","english":"Hand-to-Hand","hoster":["PutLocker"]},
+                {"german":"Die Reichen und die Schönen","english":"Fame","hoster":["PutLocker","Ecostream"]},
+                {"german":"Im Herzen der Stadt","english":"Found","hoster":["PutLocker","Ecostream"]},
+                {"german":"Hettys Entscheidung","english":"Hunted","hoster":["PutLocker","Ecostream"]},
+                {"german":"Aufgeflogen","english":"Burned","hoster":["PutLocker","Ecostream"]},
+                {"german":"Unter Beobachtung","english":"Callen, G","hoster":["PutLocker","Ecostream"]}
+         ]
+}

@@ -1,0 +1,20 @@
+{
+        "series":"Dexter",
+        "seasons":6,
+        "cover":"Dexter_e97f436efe89e3a3de52918566ece733.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Verflucht","english":"It&#039;s Alive!","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Einfach loslassen","english":"Waiting to Exhale","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Der düstere Begleiter","english":"An Inconvenient Lie","hoster":["YouTube","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Hitzewelle","english":"See-Through","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Superhelden","english":"The Dark Defender","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Dex, Lügen und Video","english":"Dex, Lies, and Videotape","hoster":["YouTube","PutLocker","Sockshare","RapidVideo","Ecostream"]},
+                {"german":"Das Manifest des Metzgers","english":"That Night, A Forest Grew","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Falsches Spiel","english":"Morning Comes","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Widerstand ist zwecklos","english":"Resistance Is Futile","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Die Wahrheit über Harry","english":"There&#039;s Something About Harry","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Entscheidungen","english":"Left Turn Ahead","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Amour fou","english":"The British Invasion","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]}
+         ]
+}

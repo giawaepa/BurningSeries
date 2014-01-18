@@ -1,0 +1,20 @@
+{
+        "series":"Entourage",
+        "seasons":8,
+        "cover":"Entourage_bf0bdac8ab078439059a825957b1c9b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Willkommen im Dschungel","english":"Welcome to the Jungle","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Director&#039;s Cut","english":"The First Cut Is the Deepest","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Von Hinten durch die Brust","english":"Malibooty","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zehn Meter bis Beverly Hills","english":"Sorry, Harvey","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Dream Team","english":"The Dream Team","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Nie ohne meinen Regisseur","english":"The WeHo Ho","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Nochmal ohne Gefühle","english":"The Day Fuckers","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Garys Schreibtisch","english":"Gary&#039;s Desk","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Jung und bekifft","english":"The Young and the Stoned","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schnee von gestern","english":"Snow Job","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Catch as Catch Cannes","english":"No Cannes Do","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Cannes-Clique","english":"The Cannes Kids","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

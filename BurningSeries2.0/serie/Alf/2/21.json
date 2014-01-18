@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Auge um Auge",
+         "titleen":"Hit Me With Your Best Shot",
+         "description":"Brian wird immer wieder von dem Nachbarjungen Bob Duncan angerempelt. Als es Alf zu bunt wird, beschimpft er telefonisch Bobs Vater. Damit löst er nicht vorherzusehende Ereignisse aus.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6738973/ALF_Auge_um_Auge_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6739067/ALF_Auge_um_Auge_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6739171/ALF_Auge_um_Auge_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"1C65C662E8D458E9"
+                }
+       ]
+}

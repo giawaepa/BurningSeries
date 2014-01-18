@@ -1,0 +1,31 @@
+{
+        "series":"CSI: NY",
+        "seasons":8,
+        "cover":"CSI-NY_01987587a2ebb5130440caece7c6127b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Zersplittert","english":"Epilogue","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schwarze Liste","english":"Blacklist","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Kompass-Mörder","english":"LAT 40° 47&#039; N/Long 73° 58&#039;W","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das DNS-Phantom","english":"Dead Reckoning","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der tote Tänzer","english":"Battle Scars","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Nudel-Orgie","english":"It Happened to Me","hoster":["PutLocker","DivxStage"]},
+                {"german":"Reise in den Abgrund","english":"Hammer Down","hoster":["PutLocker","DivxStage"]},
+                {"german":"Irre","english":"Cuckoo&#039;s Nest","hoster":["PutLocker","DivxStage"]},
+                {"german":"Morgengrauen","english":"Manhattenhenge","hoster":[]},
+                {"german":"Gruselkabinett","english":"Death House","hoster":[]},
+                {"german":"Überrollt","english":"Second Chances","hoster":[]},
+                {"german":"Rache des Gesetzes","english":"Criminal Justice","hoster":[]},
+                {"german":"Schön tot","english":"Flag on the Play","hoster":[]},
+                {"german":"Blutsauger","english":"Sanguine Love","hoster":[]},
+                {"german":"Boxenstopp","english":"The Formula","hoster":[]},
+                {"german":"Die Axt","english":"Uncertainty Rules","hoster":[]},
+                {"german":"Goldener Schlag	","english":"Pot of Gold","hoster":[]},
+                {"german":"Ruhe sanft","english":"Rest In Peace, Marina Garito","hoster":[]},
+                {"german":"Höllentag","english":"Redemption","hoster":[]},
+                {"german":"Gladiator","english":"Unusual Suspects","hoster":[]},
+                {"german":"Bauchschuss","english":"Tales from the Undercard","hoster":[]},
+                {"german":"Das Fenster zum Hof","english":"Point of View","hoster":[]},
+                {"german":"Schnitzeljagd","english":"Vacation Getaway","hoster":[]}
+         ]
+}

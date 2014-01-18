@@ -1,0 +1,30 @@
+{
+        "series":"Angel ? Jäger der Finsternis",
+        "seasons":5,
+        "cover":"Angel-Jäger-der-Finsternis_f5fbc189c7b71cd5c39acd5af755d0f0.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Adieu, Kalifornien","english":"Conviction (1)","hoster":["PutLocker","BitShare"]},
+                {"german":"Der tiefe Abgrund","english":"Just Rewards (2)","hoster":["PutLocker","BitShare"]},
+                {"german":"Werwolf Nina","english":"Unleashed","hoster":["PutLocker","BitShare"]},
+                {"german":"Nachschub für die Hölle","english":"Hell Bound","hoster":["PutLocker","BitShare"]},
+                {"german":"Der Lorne-Effekt","english":"Life of the Party","hoster":["PutLocker","BitShare"]},
+                {"german":"Der Tag der Toten","english":"The Cautionary Tale of Numero Cinco","hoster":["PutLocker","BitShare"]},
+                {"german":"Mein Vater und ich","english":"Lineage","hoster":["PutLocker","BitShare"]},
+                {"german":"Der Kelch der Qual","english":"Destiny","hoster":["PutLocker","BitShare"]},
+                {"german":"Jeder ist wichtig!","english":"Harm&#039;s Way","hoster":["Sockshare","BitShare"]},
+                {"german":"Der Parasit","english":"Soul Purpose","hoster":["PutLocker","BitShare"]},
+                {"german":"Die Auserwählte","english":"Damage","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Menschen wie wir","english":"You&#039;re Welcome","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Unter Wasser","english":"Why We Fight","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Angriff der Mörderpuppen","english":"Smile Time","hoster":["Sockshare","BitShare"]},
+                {"german":"Illyria","english":"A Hole in the World","hoster":["Sockshare","BitShare"]},
+                {"german":"Menschenwelt","english":"Shells","hoster":["Sockshare","BitShare"]},
+                {"german":"Lindsey","english":"Underneath","hoster":["Sockshare","BitShare"]},
+                {"german":"Mein Sohn und ich","english":"Origin","hoster":["Sockshare","BitShare"]},
+                {"german":"Reise durch die Zeit","english":"Time Bomb","hoster":[]},
+                {"german":"Bella Roma","english":"The Girl in Question","hoster":[]},
+                {"german":"Machthunger","english":"Power Play","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Die letzte Schlacht","english":"Not Fade Away","hoster":["PutLocker","Sockshare","BitShare"]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Gilmore Girls",
+        "seasons":7,
+        "cover":"Gilmore-Girls_7f16155ca12e6b38d5c40963a00e8818.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Funkstille","english":"New and Improved Lorelai","hoster":[]},
+                {"german":"Frisch gestrichen!","english":"Fight Face","hoster":[]},
+                {"german":"Der Schoko-Hund","english":"The UnGraduate","hoster":[]},
+                {"german":"Eiszeit","english":"Always a Godmother, Never a God","hoster":[]},
+                {"german":"Nachbeben","english":"We&#039;ve Got Magic to Do","hoster":[]},
+                {"german":"Wahnsinn mit Methode","english":"Welcome to the Doll House","hoster":[]},
+                {"german":"Einundzwanzig","english":"Twenty-One is the Loneliest Number","hoster":[]},
+                {"german":"Freischwimmer","english":"Let Me Hear Your Balalaikas Ringing Out","hoster":[]},
+                {"german":"Die verlorene Tochter","english":"The Prodigal Daughter Returns","hoster":[]},
+                {"german":"Geldsegen","english":"He&#039;s Slippin","hoster":[]},
+                {"german":"Das perfekte Brautkleid","english":"The Perfect Dress","hoster":[]},
+                {"german":"Hochzeitsstress","english":"Just Like Gwen and Gavin","hoster":[]},
+                {"german":"Ein fast perfektes Dinner","english":"Friday Night&#039;s Alright For Fighting","hoster":[]},
+                {"german":"Hausverbot","english":"You&#039;ve Been Gilmored","hoster":[]},
+                {"german":"Reif für die Insel","english":"A Vineyard Valentine","hoster":[]},
+                {"german":"Versumpft","english":"Bridesmaids Revisited","hoster":[]},
+                {"german":"Mit Sack und Pack","english":"I&#039;m OK, You&#039;re OK","hoster":[]},
+                {"german":"Rache ist süß","english":"The Real Paul Anka","hoster":[]},
+                {"german":"Trinkfest","english":"I Get A Sidekick Out of You","hoster":[]},
+                {"german":"Letzte Rettung","english":"Super Cool Party People","hoster":[]},
+                {"german":"Verpflegt noch mal","english":"Driving Miss Gilmore","hoster":[]},
+                {"german":"Ganz oder gar nicht","english":"Partings","hoster":[]}
+         ]
+}

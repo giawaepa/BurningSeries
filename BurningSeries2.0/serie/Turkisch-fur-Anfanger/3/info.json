@@ -1,0 +1,24 @@
+{
+        "series":"Türkisch für Anfänger",
+        "seasons":3,
+        "cover":"Tuerkisch-fuer-Anfaenger_bd95b1551b48861626cb5c664e139a65.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die, in der es total beschissen weitergeht","english":"","hoster":["YouTube","PutLocker"]},
+                {"german":"Die, in der ich die Motorhaube nicht aufkriege","english":"","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die, in der ich nicht Anne will, sondern Jette","english":"","hoster":["YouTube","MyVideo"]},
+                {"german":"Die, in der Schläge auch nichts bringen","english":"","hoster":["YouTube","MyVideo"]},
+                {"german":"Die, in der ich Boris Becker bin","english":"","hoster":["MyVideo"]},
+                {"german":"Die, in der ich wieder 17 bin","english":"","hoster":["MyVideo"]},
+                {"german":"Die, in der Oma ohnmächtig wird","english":"","hoster":["YouTube","MyVideo"]},
+                {"german":"Die, in der ich kein Bonobo sein will","english":"","hoster":["YouTube","MyVideo"]},
+                {"german":"Die, in der Oma Big Business macht","english":"","hoster":["YouTube","MyVideo"]},
+                {"german":"Die, in der Opa sich verknallt","english":"","hoster":["YouTube","MyVideo"]},
+                {"german":"Die mit dem Ghetto-Spezial","english":"","hoster":["PutLocker"]},
+                {"german":"Die, in der die Toten auferstehen","english":"","hoster":["MyVideo"]},
+                {"german":"Die, in der der Papagei kommt","english":"","hoster":["MyVideo"]},
+                {"german":"Die mit der guten alten D-Mark","english":"","hoster":["YouTube","MyVideo"]},
+                {"german":"Die, in der Cem Hausmann werden will","english":"","hoster":["YouTube","MyVideo"]},
+                {"german":"Die, nach der Menopause ist","english":"","hoster":["YouTube","MyVideo"]}
+         ]
+}

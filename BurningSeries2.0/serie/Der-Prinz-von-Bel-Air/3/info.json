@@ -1,0 +1,32 @@
+{
+        "series":"Der Prinz von Bel Air",
+        "seasons":6,
+        "cover":"Der-Prinz-von-Bel-Air_8852ec7f531d3cc12b2010591068939f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Pustekuchen","english":"How I Spent My Summer Vacation","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Armer reicher Will","english":"Will Gets Committed","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Stetes Baggern höhlt den Stein","english":"That&#039;s o Lady, That&#039;s My Cousin","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Voll im Sender","english":"Hilary Gets a Job","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Ein süßes Baby","english":"Mama&#039;s Baby, Carlton&#039;s Maybe","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Armer Gigolo","english":"P.S. I Love You","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Freundschaft in Gefahr","english":"Here Comes the Judge","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Die Wildnis ruft","english":"Boyz In The Woods","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Das Ereignis des Jahres","english":"A Night at the Oprah","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Asche zu Asche","english":"Asses to Ashes","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Männer, das schwache Geschlecht","english":"A Funny Thing Happenend on the W...","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Der kalte Krieg","english":"The Cold War","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Mama ist die Beste","english":"Mommy Nearest","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Die Zocker von Bel-Air","english":"Winner Takes off","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Banks-Überfall","english":"Robbing the Banks","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Will, der Nachwuchsreporter","english":"Bundle of Joy","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Wills Hochzeitsnacht","english":"The Best Laid Plans","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Carlton pokert zu hoch","english":"The Alma Mater","hoster":["PutLocker","Sockshare"]},
+                {"german":"Drogen sind out","english":"Just Say No","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Baby kommt","english":"The Baby Comes out","hoster":["PutLocker","Sockshare"]},
+                {"german":"Glücksspiel","english":"You Bet Your Life","hoster":["PutLocker","Sockshare"]},
+                {"german":"Will und das Showbusiness","english":"Ain&#039;t No Business like Show Busi...","hoster":["PutLocker","Sockshare"]},
+                {"german":"25 Ehejahre","english":"The Way We Were","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Ballettprinz","english":"Six Degress of Graduation","hoster":["PutLocker","Sockshare"]}
+         ]
+}

@@ -1,0 +1,29 @@
+{
+        "series":"MacGyver",
+        "seasons":7,
+        "cover":"MacGyver_32b13a08c0cdaa31b722c1f6cf3618cd.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Legende von der heiligen Rose - Teil 1","english":"The Legend of the Holy Rose (1)","hoster":[]},
+                {"german":"Die Legende von der heiligen Rose - Teil 2","english":"The Legend of the Holy Rose (2)","hoster":[]},
+                {"german":"Die schwarze Perle","english":"The Black Corsage","hoster":[]},
+                {"german":"Waffenstillstand","english":"Cease Fire","hoster":[]},
+                {"german":"Der ungewollte Vater","english":"Second Chance","hoster":[]},
+                {"german":"Das Tal des Todes","english":"Halloween Knights","hoster":[]},
+                {"german":"Die Kinder vom Tienanmen-Platz","english":"Children of Light","hoster":[]},
+                {"german":"Erbarmungslos","english":"Black Rhino","hoster":[]},
+                {"german":"","english":"The Ten Percent Solution","hoster":[]},
+                {"german":"Rock gegen Drogen","english":"Two Times Trouble","hoster":[]},
+                {"german":"Die Madonna","english":"The Madonna","hoster":[]},
+                {"german":"Im Wilden Westen","english":"Serenity","hoster":[]},
+                {"german":"Die Schule des Lebens","english":"Live and Learn","hoster":[]},
+                {"german":"Kampf um den Wald","english":"Log Jam","hoster":[]},
+                {"german":"Mancos Schatz","english":"The Treasure of Manco","hoster":[]},
+                {"german":"Die Geldwäscher","english":"Jenny&#039;s Chance","hoster":[]},
+                {"german":"Vertrauen ist gut ...","english":"Deep Cover","hoster":[]},
+                {"german":"Von Geigen und Ganoven","english":"The Lost Amadeus","hoster":[]},
+                {"german":"Herzen aus Stahl","english":"Hearts of Steel","hoster":[]},
+                {"german":"Die Vogellady","english":"Rush to Judgement","hoster":[]},
+                {"german":"Fähre ins Jenseits","english":"Passages","hoster":[]}
+         ]
+}

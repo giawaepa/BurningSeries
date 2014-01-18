@@ -1,0 +1,18 @@
+{
+        "series":"Kyle XY",
+        "seasons":3,
+        "cover":"Kyle-XY_13e45f1241882a3fd62b169aa8d71068.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Entführt","english":"It Happened One Night","hoster":["YouTube","PutLocker"]},
+                {"german":"Die Wahrsagerin","english":"Psychic Friend","hoster":["PutLocker"]},
+                {"german":"Ein Kuss zuviel","english":"Electric Kiss","hoster":["PutLocker"]},
+                {"german":"Männerabend","english":"In the Company of Men","hoster":["YouTube","PutLocker"]},
+                {"german":"Lebensretter","english":"Life Support","hoster":["YouTube","PutLocker"]},
+                {"german":"Willkommen bei Latnok","english":"Welcome to Latnok","hoster":["YouTube","PutLocker"]},
+                {"german":"Körperchemie","english":"Chemistry 101","hoster":["YouTube","PutLocker"]},
+                {"german":"Das Herz lügt nicht","english":"Tell-Tale Heart","hoster":["PutLocker"]},
+                {"german":"Rat, wer zum Essen kommt","english":"Guess Who&#039;s Coming to Dinner","hoster":["YouTube","PutLocker"]},
+                {"german":"Der unbekannte Bruder","english":"Bringing Down the House","hoster":["YouTube","PutLocker"]}
+         ]
+}

@@ -1,0 +1,17 @@
+{
+        "series":"Body of Proof",
+        "seasons":2,
+        "cover":"Body-of-Proof_61028affc1e72184cff390ac8a1f1630.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Rechtsmedizinerin","english":"Pilot","hoster":["PutLocker","Ecostream"]},
+                {"german":"Ein Meer aus Tränen","english":"Letting Go","hoster":["PutLocker","Ecostream"]},
+                {"german":"Die helfende Hand","english":"Helping Hand","hoster":["PutLocker","Ecostream"]},
+                {"german":"Das menschliche Puzzle","english":"Talking Heads","hoster":["PutLocker","Ecostream"]},
+                {"german":"Mord im OP","english":"Dead Man Walking","hoster":["PutLocker"]},
+                {"german":"Maden lügen nicht","english":"Society Hill","hoster":["PutLocker"]},
+                {"german":"Blut ist dicker als Wasser","english":"All in the Family","hoster":["PutLocker","Ecostream"]},
+                {"german":"Die Hand des Mörders","english":"Buried Secrets","hoster":["PutLocker","Ecostream"]},
+                {"german":"Armes reiches Mädchen","english":"Broken Home","hoster":["PutLocker","Ecostream"]}
+         ]
+}

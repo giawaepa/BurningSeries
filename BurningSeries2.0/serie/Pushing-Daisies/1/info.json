@@ -1,0 +1,17 @@
+{
+        "series":"Pushing Daisies",
+        "seasons":2,
+        "cover":"Pushing-Daisies_a091ba90589d68af5192add925d031cd.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Gabe","english":"Pie-lette","hoster":["MyVideo"]},
+                {"german":"Dummy","english":"Dummy","hoster":["MyVideo","RapidVideo"]},
+                {"german":"Grabräuber","english":"The Fun in Funeral","hoster":["MyVideo","RapidVideo"]},
+                {"german":"Brieftaube","english":"Pigeon","hoster":["MyVideo","RapidVideo"]},
+                {"german":"Geister","english":"Girth","hoster":["MyVideo","RapidVideo"]},
+                {"german":"Biester","english":"Bitches","hoster":["MyVideo","RapidVideo"]},
+                {"german":"Der Geruch des Erfolgs","english":"Smell of Success","hoster":["MyVideo"]},
+                {"german":"Bittere Süßigkeiten","english":"Bitter Sweets","hoster":["MyVideo","RapidVideo"]},
+                {"german":"Schneemänner","english":"Corpsicle","hoster":["MyVideo","RapidVideo"]}
+         ]
+}

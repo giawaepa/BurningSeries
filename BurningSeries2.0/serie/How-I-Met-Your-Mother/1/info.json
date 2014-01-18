@@ -1,0 +1,30 @@
+{
+        "series":"How I Met Your Mother",
+        "seasons":7,
+        "cover":"How-I-Met-Your-Mother_470f96f81545d60a203d278bb3b9b0a1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Verliebt, verlobt, versagt","english":"Pilot","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die lila Giraffe","english":"Purple Giraffe","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Frauen, Flieger, Freiheit","english":"Sweet Taste of Liberty","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Gutes altes Hemd","english":"Return of the Shirt","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Von Tänzern und Tauben","english":"Okay Awesome","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Kürbis-Schlampe","english":"Slutty Pumpkin","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Kakerlake liebt Maus","english":"Matchmaker","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Duell","english":"The Duel","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wohltaten und Untaten","english":"Belly Full of Turkey","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Ananas-Vorfall","english":"The Pineapple Incident","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Silvesterlaune","english":"The Limo","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Hochzeitsgast plus eins","english":"The Wedding","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Traum und Wirklichkeit","english":"Drumroll, Please","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Nur nichts überstürzen","english":"Zip, Zip, Zip","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Spieleabend","english":"Game Night","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Maßgeschneidert","english":"Cupcake","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Leben unter Gorillas","english":"Life Among the Gorillas","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Anständige","english":"Nothing Good Happens After 2 A.M.","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Eine nette Nutte","english":"Mary the Paralegal","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Nur zwei Monate","english":"Best Prom Ever","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Super-Date","english":"Milk","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Letzter Versuch","english":"Come On","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]}
+         ]
+}

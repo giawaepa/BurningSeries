@@ -1,0 +1,21 @@
+{
+        "series":"Zoey 101",
+        "seasons":4,
+        "cover":"Zoey-101_86ecef89107519802dab849cb081b6e4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Zurück an der PCA","english":"Back to PCA","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Die Zeitkapsel","english":"Time Capsule","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Der Wahlkampf","english":"Election","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Trisha, die Rebellin","english":"Bad Girl","hoster":["RapidVideo"]},
+                {"german":"Krieg der Roboter","english":"Robot Wars","hoster":["RapidVideo"]},
+                {"german":"Das Geisterhaus","english":"Haunted House","hoster":["RapidVideo"]},
+                {"german":"Die Chase und Michael Show","english":"Broadcast Views","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Lola und Chase","english":"Lola Likes Chase","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Menschenauktion","english":"People Auction","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Quinns Alpaka","english":"Quinn&#039;s Alpaca","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Aus Mädchen werden Jungs","english":"Girl&#039;s Will Be Boys","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Frühlingsschmerz, Teil 1","english":"Spring Break-Up, Part 1","hoster":["Sockshare"]},
+                {"german":"Frühlingsschmerz, Teil 2","english":"Spring Break-Up, Part 2","hoster":["Sockshare","RapidVideo"]}
+         ]
+}

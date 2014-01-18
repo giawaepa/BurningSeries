@@ -1,0 +1,22 @@
+{
+        "series":"South Park",
+        "seasons":15,
+        "cover":"South-Park_5a9e7a27200896c407a230a91f9bc93c.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Bitte ein &#039;N&#039;","english":"With Apologies to Jesse Jackson","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Cartman Sucks","english":"Cartman Sucks","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Laustrophobie","english":"Lice Capades","hoster":["PutLocker","BitShare","MySpass"]},
+                {"german":"Hillary 2.4","english":"The Snuke","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Der Osterhasen-Code","english":"Fantastic Easter Special","hoster":["PutLocker","BitShare","MySpass"]},
+                {"german":"LesBos","english":"D-Yikes!","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Die Nacht der lebenden Obdachlosen","english":"Night of the Living Homeless","hoster":["PutLocker","MySpass"]},
+                {"german":"Ein bisschen Tourette","english":"Le Petit Tourette","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Das große Geschäft","english":"More Crap","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Fantasieland","english":"Imaginationland","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Fantasieland - Episode II","english":"Imaginationland: Episode II","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Fantasieland - Episode III","english":"Imaginationland: Episode III","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Guitar Queer-O","english":"Guitar Queer-o","hoster":["PutLocker","MySpass"]},
+                {"german":"Die Liste","english":"The List","hoster":["PutLocker","Sockshare","BitShare"]}
+         ]
+}

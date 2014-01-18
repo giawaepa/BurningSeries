@@ -1,0 +1,21 @@
+{
+        "series":"Blue Mountain State",
+        "seasons":3,
+        "cover":"Blue-Mountain-State_9223c93aa944279e06567927c7c7a49d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Anfangswoche","english":"It&#039;s Called Hazing, Look It Up","hoster":["PutLocker","Sockshare"]},
+                {"german":"Verlobungsring","english":"Promise Ring","hoster":["PutLocker","Sockshare"]},
+                {"german":"Taschenmuschi","english":"Pocket Pussy","hoster":["PutLocker","Sockshare"]},
+                {"german":"Derby","english":"Rivalry Weekend","hoster":["PutLocker","Sockshare"]},
+                {"german":"Reserve der Reserve","english":"There&#039;s Only One Second Best","hoster":["PutLocker","Sockshare"]},
+                {"german":"Teamaufbauolympiade","english":"The Drug Olympics","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der &quot;Goldene Arm&quot;","english":"The Legend of the Golden Arm","hoster":["PutLocker","Sockshare"]},
+                {"german":"Campuskrieg","english":"The Truce","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zwischenprüfungen","english":"Midterms","hoster":["PutLocker","Sockshare"]},
+                {"german":"Marathon Monday","english":"Marathon Monday","hoster":["PutLocker","Sockshare"]},
+                {"german":"Schwiegersohn Alex","english":"Ransom","hoster":["PutLocker","Sockshare"]},
+                {"german":"Drogentests","english":"Piss Test","hoster":["PutLocker","Sockshare"]},
+                {"german":"Endspiel","english":"Bowl Game","hoster":["PutLocker","Sockshare"]}
+         ]
+}

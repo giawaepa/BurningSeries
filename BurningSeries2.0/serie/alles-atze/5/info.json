@@ -1,0 +1,21 @@
+{
+        "series":"Alles Atze",
+        "seasons":6,
+        "cover":"Alles-Atze_a365bdc14aba8ab98c5db36e9b3a641b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Winnetou-Gen","english":"","hoster":["PutLocker"]},
+                {"german":"Die virtuelle Affäre","english":"","hoster":[]},
+                {"german":"Die spinnen, die Römer","english":"","hoster":[]},
+                {"german":"Mäusejagd","english":"","hoster":[]},
+                {"german":"Der Teufelskerl","english":"","hoster":[]},
+                {"german":"Harry &amp; Jackie","english":"","hoster":["PutLocker"]},
+                {"german":"Kinder, Kinder","english":"","hoster":["PutLocker"]},
+                {"german":"Biene macht Karriere","english":"","hoster":["PutLocker"]},
+                {"german":"Lattenknaller","english":"","hoster":["PutLocker"]},
+                {"german":"Lockere Geschäfte","english":"","hoster":["PutLocker"]},
+                {"german":"Durchgeknallt","english":"","hoster":["PutLocker"]},
+                {"german":"Der Schatzvogel","english":"","hoster":["PutLocker"]},
+                {"german":"Gangs of Essen-Kray","english":"","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Das Fenster zum Garten",
+         "titleen":"Lookin´Through The Window",
+         "description":"Alf behauptet, daß Nachbar Trevor Ochmonek seine Frau Raquel erschlagen und im Garten verscharrt hat. Da die Tanners ihm nicht glauben, macht er sich daran, Beweise zu beschaffen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6709875/ALF_Das_Fenster_zum_Garten_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6709966/ALF_Das_Fenster_zum_Garten_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6710106/ALF_Das_Fenster_zum_Garten_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"B5C99BADE8CA5ED8"
+                }
+       ]
+}

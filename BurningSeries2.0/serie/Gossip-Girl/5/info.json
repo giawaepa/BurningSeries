@@ -1,0 +1,21 @@
+{
+        "series":"Gossip Girl",
+        "seasons":5,
+        "cover":"Gossip-Girl_f9c8cb175a5621ae8be8f5da39d9a280.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Yes, Then Zero","hoster":["PutLocker"]},
+                {"german":"","english":"Beauty And The Feast","hoster":["PutLocker"]},
+                {"german":"","english":"The Jewel of Denial","hoster":["PutLocker"]},
+                {"german":"","english":"Memoirs of an Invisible Dan","hoster":["PutLocker"]},
+                {"german":"","english":"The Fasting and the Furious","hoster":["PutLocker"]},
+                {"german":"","english":"I Am Number Nine","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Big Sleep No More","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"All the Pretty Sources","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Rhodes to Perdition","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Riding In Town Cars With Boys","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The End of The Affair?","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Father and the Bride","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"G.G.","hoster":["PutLocker","DivxStage"]}
+         ]
+}

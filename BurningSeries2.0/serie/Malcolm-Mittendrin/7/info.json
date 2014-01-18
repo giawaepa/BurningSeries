@@ -1,0 +1,30 @@
+{
+        "series":"Malcolm Mittendrin",
+        "seasons":7,
+        "cover":"Malcolm-Mittendrin_1bb1532f3e072d63b21fae3c0fc10a51.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Burning Man","english":"Burning Man","hoster":["PutLocker"]},
+                {"german":"Der Verräter","english":"Health Insurance","hoster":["PutLocker"]},
+                {"german":"Reese gegen Stevie","english":"Reese vs. Stevie","hoster":["PutLocker"]},
+                {"german":"Das Geisterhaus","english":"Halloween","hoster":["PutLocker"]},
+                {"german":"Der Bienenkampf","english":"Jessica Stays Over","hoster":["PutLocker"]},
+                {"german":"Der geheime Freund","english":"Secret Boyfriend","hoster":["PutLocker"]},
+                {"german":"Stromausfall","english":"Blackout","hoster":["PutLocker"]},
+                {"german":"Überraschungsbesuch","english":"Army Buddy","hoster":["PutLocker"]},
+                {"german":"Malcolm verteidigt Reese","english":"Malcolm Defends Reese","hoster":["PutLocker"]},
+                {"german":"Malcolms Geld","english":"Malcolm&#039;s Money","hoster":["PutLocker"]},
+                {"german":"Reeses Braut (1)","english":"Bride of Ida (1)","hoster":["PutLocker"]},
+                {"german":"Reeses Braut (2)","english":"College Recruiters (2)","hoster":["PutLocker"]},
+                {"german":"Pfeiffersches Drüsenfieber","english":"Mono","hoster":["YouTube","PutLocker"]},
+                {"german":"Der perfekte Dad","english":"Hal Grieves","hoster":["YouTube","PutLocker"]},
+                {"german":"Anonyme Alkoholiker","english":"A.A.","hoster":["PutLocker"]},
+                {"german":"Lois schlägt zurück","english":"Lois Strikes Back","hoster":["PutLocker"]},
+                {"german":"Zahnschmerzen","english":"Hal&#039;s Dentist","hoster":["PutLocker"]},
+                {"german":"Der Luftschutzbunker","english":"Bomb Shelter","hoster":["YouTube","PutLocker"]},
+                {"german":"Stevie im Krankenhaus","english":"Stevie in the Hospital","hoster":["PutLocker"]},
+                {"german":"Das tierische Gericht","english":"Cattle Court","hoster":["PutLocker"]},
+                {"german":"Der Anti-Ball","english":"Morp","hoster":["PutLocker"]},
+                {"german":"Abschluss","english":"Graduation","hoster":["PutLocker"]}
+         ]
+}

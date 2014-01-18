@@ -1,0 +1,29 @@
+{
+        "series":"Eureka ? Die geheime Stadt",
+        "seasons":5,
+        "cover":"Eureka-Die-geheime-Stadt_08a8ad78e757dda13dc6181775c80b11.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Gründertag","english":"Founder&#039;s Day","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der große, rote Elf","english":"A New World","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Lyncht Fargo","english":"All the Rage","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Die Knallgasreaktion","english":"The Story of 02","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Der menschliche Magnet","english":"Crossing Over","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Glamour-Camping","english":"Momstrosity","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Hausbau mit Hindernissen","english":"Stoned","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Akte Ex","english":"The Ex-Files","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Wir sehen uns wieder","english":"I&#039;ll Be Seeing You","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Stille Stadt, Heilige Stadt","english":"O Little Town","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Abgehoben","english":"Liftoff","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Reprise","english":"Reprise","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Ein Blick in die Zukunft","english":"Glimpse","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Guten Flug!","english":"Up in the Air","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Omega Girls","english":"Omega Girls","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Milben und Kraniche","english":"Of Mites and Men","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Todesnebel","english":"Clash of the Titans","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Damals im Space Camp","english":"This One Time at Space Camp?","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Ein kleiner Schritt","english":"One Small Step","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Ein Riesenschritt","english":"One Giant Leap","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"Do You See What I See?","hoster":["PutLocker","DivxStage"]}
+         ]
+}

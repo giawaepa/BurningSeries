@@ -1,0 +1,28 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Die unglaubliche Reise in einem verrückten Privatflugzeug","english":"He Loves To Fly and he D&#039;ohs","hoster":["PutLocker","DivxStage"]},
+                {"german":"Homerotti","english":"The Homer of Seville","hoster":["PutLocker","DivxStage"]},
+                {"german":"Abgeschleppt!","english":"Midnight Towboy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ich will nicht wissen, warum der gefangene Vogel singt","english":"I Don&#039;t Wanna Know Why the Caged Bird Sings","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Nach Hause Telefonieren","english":"Treehouse of Horror XVIII","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kleiner Waise Milhouse","english":"Little Orphan Millie","hoster":["PutLocker","DivxStage"]},
+                {"german":"Szenen einer Ehe","english":"Husbands and Knives","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Begräbnis für einen Feind","english":"Funeral for a Fiend","hoster":["PutLocker","DivxStage"]},
+                {"german":"Vergiss-Marge-Nicht","english":"Eternal Moonshine of the Simpson Mind","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hello, Mr. President","english":"E. Pluribus Wiggum","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die wilden 90er","english":"That 90&#039;s Show","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Liebe in Springfield","english":"Love, Springfieldian Style","hoster":["PutLocker","DivxStage"]},
+                {"german":"Debarted unter Ratten","english":"The Debarted","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bei Absturz Mord","english":"Dial N for Nerder","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schall und Rauch","english":"Smoke on the Daughter","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Sünden der Väter","english":"Papa Don&#039;t Leech","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rinderwahn","english":"Apocalypse Cow","hoster":["PutLocker","DivxStage"]},
+                {"german":"Down by Lisa","english":"Any Given Sundance","hoster":["PutLocker","DivxStage"]},
+                {"german":"Lebewohl Mona","english":"Mona Leaves-a","hoster":["PutLocker","DivxStage"]},
+                {"german":"Alles über Lisa","english":"All About Lisa","hoster":["PutLocker","DivxStage"]}
+         ]
+}

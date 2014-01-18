@@ -1,0 +1,30 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Vorsicht, Kamera!","english":"Ambush","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ganz was Neues","english":"Something New","hoster":["PutLocker","DivxStage"]},
+                {"german":"Feuerzauber","english":"Friendly Fire","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Übervater","english":"When the Bough Breaks","hoster":["PutLocker","DivxStage"]},
+                {"german":"Aller Anfang ist schwer","english":"Good Touch, Bad Touch","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wahre Freunde in der Not","english":"Ground Zero","hoster":["PutLocker","Sockshare"]},
+                {"german":"Väter und Söhne","english":"Fathers and Sons","hoster":["PutLocker","Sockshare"]},
+                {"german":"Eine Laune der Natur","english":"Freak Show","hoster":["PutLocker","Sockshare"]},
+                {"german":"Eine Hand wäscht die andere","english":"Obstruction of Justice","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Wunderheiler","english":"Do You See What I See?","hoster":["PutLocker","Sockshare"]},
+                {"german":"Warme Gedanken","english":"Think Warm Thoughts","hoster":["PutLocker","Sockshare"]},
+                {"german":"Teuflische Sucht","english":"Sharp Relief","hoster":["PutLocker","Sockshare"]},
+                {"german":"Carters Entscheidund","english":"Carter&#039;s Choice","hoster":["PutLocker","Sockshare"]},
+                {"german":"Bittere Wahrheit","english":"Family Practice","hoster":["PutLocker","Sockshare"]},
+                {"german":"Gefährliche Explosion","english":"Exodus","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Überdosis","english":"My Brother&#039;s Keeper","hoster":["PutLocker","Sockshare"]},
+                {"german":"Aus der Übung","english":"A Bloody Mess","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kompetenzgerangel","english":"Gut Reaction","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sinnloser Terror","english":"Shades of Gray","hoster":["PutLocker","Sockshare"]},
+                {"german":"Fehler der Vergangenheit","english":"Of Past Regret and Future Fear","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Störenfried","english":"Suffer the Little Children","hoster":["PutLocker","Sockshare"]},
+                {"german":"Liebesdienst mit Todesfolge","english":"A Hole in the Heart","hoster":["PutLocker","Sockshare"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Nummer 1 im Abhauen",
+         "titleen":"Episode 70",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6207494/Naruto_Folge_70_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6207562/Naruto_Folge_70_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6207608/Naruto_Folge_70_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"F20EA2214A3E01FB"
+                }
+       ]
+}

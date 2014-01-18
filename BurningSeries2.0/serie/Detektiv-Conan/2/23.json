@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Serienmörder von Osaka (2)",
+         "titleen":"Episode 125",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=6cGHTn222M0"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6392216/Detektiv_Conan_Folge_125_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6392338/Detektiv_Conan_Folge_125_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6393971/Detektiv_Conan_Folge_125_3_3"
+                }
+       ]
+}

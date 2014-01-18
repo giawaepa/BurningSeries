@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Zirkus Zirkus",
+         "titleen":"Circus Circus",
+         "description":"Emersons Detektei boomt - natürlich dank Neds Fähigkeiten. Und so erfordert ein neuer Fall erneut seine Hilfe: Das kleine Mädchen Nikki ist verschwunden. Da es keine Leiche zum Erwecken gibt, müssen Ned und Emerson auf die herkömmliche Detektivarbeit zurückgreifen. Nikkis beste Freundin verrät den beiden, dass diese ausgerissen sei, um ein Star am Zirkus zu werden. Und so machen sich Ned und Emerson auf den Weg zum Zirkus - wo sie ein Wagen voll toter Clowns erwartet ...",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5835193/Pushing_Daisies_2x02_Part_1_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5835310/Pushing_Daisies_2x02_Part_2_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5835370/Pushing_Daisies_2x02_Part_3_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5835461/Pushing_Daisies_2x02_Part_4_4"
+                }
+       ]
+}

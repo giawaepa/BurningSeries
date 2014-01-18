@@ -1,0 +1,30 @@
+{
+        "series":"Babylon 5",
+        "seasons":5,
+        "cover":"Babylon-5_dfb79108b56479fb5db5a8bc6ce39fff.jpeg",
+        "movies":true,
+        "episodes":[
+                {"german":"Der Attentäter","english":"No Compromises","hoster":["PutLocker"]},
+                {"german":"An der Schwelle des Todes","english":"The Very Long Night Of Londo Mollari","hoster":["PutLocker"]},
+                {"german":"Die Stimme des Universums","english":"The Paragon Of Animals","hoster":["PutLocker"]},
+                {"german":"Einfache Leute","english":"A View From The Gallery","hoster":["PutLocker"]},
+                {"german":"Lektion des Schreckens","english":"Learning Curve","hoster":["PutLocker"]},
+                {"german":"Der Herr der Bluthunde","english":"Strange Relations","hoster":["PutLocker"]},
+                {"german":"Ein sterbendes Volk","english":"Secrets Of The Soul","hoster":["PutLocker"]},
+                {"german":"Der Tag der Toten","english":"Day of the Dead","hoster":[]},
+                {"german":"Die Telepathenkolonie","english":"In the Kingdom of the Blind","hoster":["PutLocker"]},
+                {"german":"Die letzte Gefangene","english":"A Tragedy of Telepaths","hoster":["PutLocker"]},
+                {"german":"Vergesst Byron nicht!","english":"Phoenix Rising","hoster":[]},
+                {"german":"Das Buch G&#039;Kar","english":"The Ragged Edge","hoster":["PutLocker"]},
+                {"german":"Das Corps der Gnadenlosen","english":"The Corps Is Mother, The Corps Is Father","hoster":[]},
+                {"german":"Die Wahrheit ist ein Fluss","english":"Meditations On The Abyss","hoster":["PutLocker"]},
+                {"german":"Am Rande des Abgrunds","english":"Darkness Ascending","hoster":["PutLocker"]},
+                {"german":"Die Blockade","english":"And All My Dreams, Torn Asunder","hoster":["PutLocker"]},
+                {"german":"Der letzte Befehl","english":"Movements Of Fire And Shadow (1)","hoster":["PutLocker"]},
+                {"german":"Die Bürde des Imperators","english":"The Fall Of Centauri Prime (2)","hoster":["PutLocker"]},
+                {"german":"Augen aus Feuer","english":"The Wheel Of Fire","hoster":["PutLocker"]},
+                {"german":"Wann, wenn nicht jetzt","english":"Objects In Motion","hoster":["PutLocker"]},
+                {"german":"Der letzte Blick zurück","english":"Objects At Rest","hoster":["PutLocker"]},
+                {"german":"Der Weg ins Licht","english":"Sleeping In Light","hoster":["PutLocker"]}
+         ]
+}

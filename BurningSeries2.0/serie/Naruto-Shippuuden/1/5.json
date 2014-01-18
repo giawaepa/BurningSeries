@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Kazekage Gaara",
+         "titleen":"Episode 5",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6364694/Naruto_Shippuuden_UNCUT_Folge_5_Deutsch_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6364979/Naruto_Shippuuden_UNCUT_Folge_5_Deutsch_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6365159/Naruto_Shippuuden_UNCUT_Folge_5_Deutsch_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"030D2ED0AE711EE6"
+                }
+       ]
+}

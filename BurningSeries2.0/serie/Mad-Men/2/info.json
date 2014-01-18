@@ -1,0 +1,21 @@
+{
+        "series":"Mad Men",
+        "seasons":4,
+        "cover":"Mad-Men_281facf042e84d97cba1d07f887cbd79.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Jung und immer jünger","english":"For Those Who Think Young","hoster":[]},
+                {"german":"Flug 1","english":"Flight 1","hoster":[]},
+                {"german":"Wohltäter","english":"The Benefactor","hoster":[]},
+                {"german":"Drei Sonntage","english":"Three Sundays","hoster":[]},
+                {"german":"Das neue Mädchen","english":"The New Girl","hoster":[]},
+                {"german":"Mädchenform","english":"Maidenform","hoster":[]},
+                {"german":"Die goldene Violine","english":"The Gold Violin","hoster":[]},
+                {"german":"Eine unvergessliche Nacht","english":"A Night to Remember","hoster":[]},
+                {"german":"Voll in die Hose","english":"Six Month Leave","hoster":[]},
+                {"german":"Die Erbschaft","english":"The Inheritance","hoster":[]},
+                {"german":"Jet Set","english":"The Jet Set","hoster":[]},
+                {"german":"In der Halle des Bergkönigs","english":"The Mountain King","hoster":[]},
+                {"german":"Meditationen im Notfall","english":"Meditations in an Emergency","hoster":[]}
+         ]
+}

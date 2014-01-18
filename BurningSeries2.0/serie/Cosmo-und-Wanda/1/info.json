@@ -1,0 +1,14 @@
+{
+        "series":"Cosmo und Wanda ? Wenn Elfen helfen",
+        "seasons":8,
+        "cover":"Cosmo-und-Wanda-Wenn-Elfen-helfen_efab7858e8f9b95490bb33ca474e61ca.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Wer will schon erwachsen sein? / Energie-Alarm","english":"The Big Problem! / Power Mad!","hoster":["YouTube","MyVideo"]},
+                {"german":"Besuch aus dem All / Eltern für einen Tag","english":"Space Out / TransParents!","hoster":["YouTube","MyVideo"]},
+                {"german":"Kinn hoch / Auf den Hund gekommen","english":"Chin Up! / Dogs Day Afternoon","hoster":["YouTube","MyVideo"]},
+                {"german":"Ein Wunsch zuviel / Timmy ganz klein","english":"A Wish too Far! / Tiny Timmy!","hoster":["YouTube","MyVideo"]},
+                {"german":"Der Pokal / Hochzeitstags-Überraschungen","english":"Father Time / Arpartnership","hoster":["YouTube","MyVideo"]},
+                {"german":"Timmy, der Held / Ein Wunsch mit Folgen","english":"Dream Goat! / The Same Game","hoster":["YouTube","MyVideo"]}
+         ]
+}

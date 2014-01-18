@@ -1,0 +1,21 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Feuertaufe","english":"","hoster":["PutLocker"]},
+                {"german":"Falsche Signale","english":"","hoster":["PutLocker"]},
+                {"german":"Countdown","english":"","hoster":["PutLocker"]},
+                {"german":"Heinrich und Paul","english":"","hoster":[]},
+                {"german":"Undercover","english":"","hoster":[]},
+                {"german":"Tödliche Fracht","english":"","hoster":["PutLocker"]},
+                {"german":"Der Aufprall","english":"","hoster":["PutLocker"]},
+                {"german":"Familienbande","english":"","hoster":["PutLocker"]},
+                {"german":"Leichte Beute","english":"","hoster":[]},
+                {"german":"Sabotage","english":"","hoster":[]},
+                {"german":"Rock &#039;n&#039; Roll","english":"","hoster":["PutLocker"]},
+                {"german":"Gegen die Zeit","english":"","hoster":["PutLocker"]},
+                {"german":"Der Detektiv","english":"","hoster":["PutLocker"]}
+         ]
+}

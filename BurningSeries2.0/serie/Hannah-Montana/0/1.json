@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Hannah Montana - Der Film",
+         "titleen":"The Hannah Montana Movie",
+         "description":"Miley Stewart lebt ein ganz normales Teenager-Leben mit Schule, Freunden und den typischen Problemen. In ihrer geheimen Identität als Hannah Montana allerdings gibt sie Konzerte und ist ein absoluter Star. Als jedoch die Grenzen immer mehr verschwimmen und ihr Ruhm droht das Leben abseits der Bühne zu stark zu beeinflussen, wird sie von ihrem Vater dazu gedrängt, eine Reise in ihre Heimatstadt Crowley Corners zu machen. Hier soll sie sich vor Augen führen, was im Leben wirklich zählt. Auf der Suche nach der Realität, stößt Miley auf Abenteuer, die Hannah Montana niemals erleben könnte.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=pqLt0O-pWKU"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=-cCN6rtJD_w"
+                },{
+                        "hoster":"YouTube",
+                        "part":3,
+                        "link":"=z0DjjaDpqaA"
+                },{
+                        "hoster":"YouTube",
+                        "part":4,
+                        "link":"=TemeRzf2Kls"
+                }
+       ]
+}

@@ -1,0 +1,32 @@
+{
+        "series":"Dr. House",
+        "seasons":8,
+        "cover":"Dr-House_c99673c1059f48ba3467597c75711752.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Sterben verändert alles","english":"Dying Changes Everything","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Krebs oder nicht?","english":"Not Cancer","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Anders als erhofft","english":"Adverse Events","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Unerwünschte Herkunft","english":"Birthmarks","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Glückszahl 13?","english":"Lucky Thirteen","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Endlich Mutter?","english":"Joy","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wünsche und Ängste","english":"The Itch","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Vorsicht vor Geschwistern","english":"Emancipation","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ultima ratio","english":"Last Resort","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Sollen sie doch Kuchen essen!","english":"Let Them Eat Cake","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ihr Kinderlein kommet","english":"Joy to the World","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Eine Welt voll Schmerz","english":"Painless","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Umwege","english":"Big Baby","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Spielregeln des Gemeinwohls","english":"The Greater Good","hoster":["PutLocker","Sockshare","RapidVideo","VideoWeed","UploadC"]},
+                {"german":"Der Glaube geht fremd","english":"Unfaithful","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Sanfte Seite","english":"The Softer Side","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Hemmungslos","english":"The Social Contract","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wenn die Katze kommt","english":"Here Kitty","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Eingeschlossen","english":"Locked In","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der größte Schritt","english":"Simple Explanation","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Kettenglieder","english":"Saviors","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Grenzen verschwimmen","english":"House Divided","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Bis unter die Haut","english":"Under My Skin","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Nichts geht mehr","english":"Both Sides Now","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]}
+         ]
+}

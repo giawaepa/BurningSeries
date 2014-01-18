@@ -1,0 +1,26 @@
+{
+        "series":"Family Guy",
+        "seasons":10,
+        "cover":"Family-Guy_1ef52f1420d3e2b6e6e4159f2a83c30a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Stewie liebt Lois","english":"Stewie Loves Lois","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Stiefsohn Peter","english":"Mother Tucker","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Die Hölle kommt nach Quahog","english":"Hell Comes to Quahog","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Der Soldat Brian Griffin","english":"Saving Private Brian","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Peter lässt arbeiten","english":"Whistle While Your Wife Works","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Was Sie noch nie über Sex wissen wollten","english":"Prick Up Your Ears","hoster":["PutLocker","Sockshare","UploadC"]},
+                {"german":"Weiberkrebs","english":"Chick Cancer","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Der Gesetzeshüter","english":"Barely Legal","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Jäger des verlorenen Rupert","english":"Road to Rupert","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Peters zwei Väter","english":"Peter&#039;s Two Dads","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Der Schwächere gibt nach","english":"The Tan Aquatic with Steve Zissou","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Airport &#039;07 (oder) Lizenz zum Fliegen","english":"Airport &#039;07","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Peter und Bill Clinton auf großer Fahrt","english":"Bill and Peter&#039;s Bogus Journey","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kein Essen auf Rädern","english":"No Meals on Wheels","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Texorzismus","english":"Boys Do Cry","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Zweiter Bildungsweg für Chris","english":"No Chris Left Behind","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Im Rausch der Macht","english":"It Takes a Village Idiot, and I Married One","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Gestatten, Lois Quagmire","english":"Meet the Quagmires","hoster":["PutLocker","Sockshare"]}
+         ]
+}

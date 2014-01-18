@@ -1,0 +1,20 @@
+{
+        "series":"Dexter",
+        "seasons":6,
+        "cover":"Dexter_e97f436efe89e3a3de52918566ece733.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein neuer Kodex","english":"Our Father","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Auf der Suche nach Freebo","english":"Finding Freebo","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Jagdinstinkt","english":"The Lion Sleeps Tonight","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Rollenspiele","english":"All in the Family","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Abstecher nach Bimini","english":"Turning Biminese","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Teamwork","english":"Sí Se Puede","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Ein Akt der Gnade","english":"Easy as Pie","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Schmetterlingseffekt","english":"The Damage a Man Can Do","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Die Geister die ich rief...","english":"About Last Night","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Ende einer Freundschaft","english":"Go Your Own Way","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Adios, Amigo","english":"I Had a Dream","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Überlebenswille","english":"Do You Take Dexter Morgan?","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream"]}
+         ]
+}

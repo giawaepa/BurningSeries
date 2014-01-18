@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Pokemon Ranger und der Meerestempel",
+         "titleen":"Movie 009",
+         "description":"Auf ihrer Reise haben sich Ash und seine Freunde gründlich verirrt. In der sengenden Hitze begegnen sie einer Familie von Wasser-Pokémon-Trainern, die sich die Marina Gruppe nennt. Die Urahnen dieser Familie waren die Wassermenschen die den geheimnisvollen Seetempel erbaut haben, der heute durch die Ozeane treibt und nur bei einer totalen Mondfinsternis für kurze Zeit sichtbar wird. In diesem Tempel befindet sich die sagenhafte Seekrone, hinter der der Pirat Phantom her ist...",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4696516/Pokemon_Ranger_und_der_Meerestempel_Part_1_10"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4696681/Pokemon_Ranger_und_der_Meerestempel_Part_2_10"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4696821/Pokemon_Ranger_und_der_Meerestempel_Part_3_10"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"4696933/Pokemon_Ranger_und_der_Meerestempel_Part_4_10"
+                }
+       ]
+}

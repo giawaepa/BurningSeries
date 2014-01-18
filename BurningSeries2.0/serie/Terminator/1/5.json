@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Das Schachspiel",
+         "titleen":"Queens Gambit",
+         "description":"Andy meldet seinen Computer für ein Schachturnier an. Es sieht lange so aus, als würde er gewinnen, bis ein gegnerisches Team ihn plötzlich schachmatt setzt. Kurz darauf findet Sarah Andy tot auf und beobachtet einen Fremden, der auf der Flucht von der Polizei festgenommen wird. John hackt sich in das Netzwerk der Polizei und findet heraus, dass der Mann ein Widerstandskämpfer ist. Nachdem Ellison den Mann verhört hat, verschafft sich Sarah Zugang zum Verhörzimmer. Der Mann gibt zu, dass er weiß, wer sie ist, und behauptet, Andy nicht getötet zu haben. Es ist Derek Reese, der Bruder von Sarahs Mann Kyle und Johns Onkel. Sarah verhilft Derek zur Flucht; als er unterwegs von einem Terminator schwer verwundet wird, bringt sie ihn zu sich nach Hause. John holt Sarahs ehemaligen Verlobten Charlie, der Derek verarzten soll.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5765156/Terminator_The_Sarah_Connor_Chronicles_S01E05_part_1_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5765350/Terminator_The_Sarah_Connor_Chronicles_S01E05_part_2_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5765567/Terminator_The_Sarah_Connor_Chronicles_S01E05_part_3_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5765793/Terminator_The_Sarah_Connor_Chronicles_S01E05_part_4_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"1690B7AED87C7683"
+                }
+       ]
+}

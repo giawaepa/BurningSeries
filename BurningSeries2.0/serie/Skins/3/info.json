@@ -1,0 +1,18 @@
+{
+        "series":"Skins",
+        "seasons":5,
+        "cover":"Skins_bb9c269a192f18edaf505b3c54e0e175.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Everyone","english":"Everyone","hoster":["PutLocker"]},
+                {"german":"Cook","english":"Cook","hoster":["PutLocker"]},
+                {"german":"Thomas","english":"Thomas","hoster":["PutLocker"]},
+                {"german":"Pandora","english":"Pandora","hoster":["PutLocker"]},
+                {"german":"Freddie","english":"Freddie","hoster":["PutLocker"]},
+                {"german":"Naomi","english":"Naomi","hoster":["PutLocker"]},
+                {"german":"J.J.","english":"J.J.","hoster":["PutLocker"]},
+                {"german":"Der Ausflug","english":"Effy","hoster":["PutLocker"]},
+                {"german":"Katie &amp; Emily","english":"Katie &amp; Emily","hoster":["PutLocker"]},
+                {"german":"Cook, Effy &amp; Freddie","english":"Cook, Effy &amp; Freddie","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Babylon 5",
+        "seasons":5,
+        "cover":"Babylon-5_dfb79108b56479fb5db5a8bc6ce39fff.jpeg",
+        "movies":true,
+        "episodes":[
+                {"german":"In der Stunde des Wolfes","english":"The Hour Of The Wolf","hoster":["PutLocker"]},
+                {"german":"Der Letzte des Kha&#039;ri","english":"Whatever Happened To Mr. Garibaldi?","hoster":["PutLocker"]},
+                {"german":"Rückkehr vom Schattenplaneten","english":"The Summoning","hoster":["PutLocker"]},
+                {"german":"Das Monster auf dem Thron","english":"Falling Towards Apotheosis","hoster":["PutLocker"]},
+                {"german":"Tyrannenmord","english":"The Long Night","hoster":["PutLocker"]},
+                {"german":"Das dritte Zeitalter","english":"Into The Fire","hoster":["PutLocker"]},
+                {"german":"Unter Quarantäne","english":"Epiphanies","hoster":["PutLocker"]},
+                {"german":"Lügenpropaganda","english":"The Illusion Of Truth","hoster":["PutLocker"]},
+                {"german":"Das Traumorakel","english":"Atonement","hoster":["PutLocker"]},
+                {"german":"Captain Jack","english":"Racing Mars","hoster":["PutLocker"]},
+                {"german":"Die Stimme des Widerstands","english":"Lines Of Communication","hoster":["PutLocker"]},
+                {"german":"Ein Job für Garibaldi","english":"Conflicts Of Interests","hoster":["PutLocker"]},
+                {"german":"Krieg der Kasten","english":"Rumors, Bargains And Lies","hoster":["PutLocker"]},
+                {"german":"Im Kreis des Sternenfeuers","english":"Moments Of Transitions","hoster":["PutLocker"]},
+                {"german":"Die Befreiung von Proxima 3","english":"No Surrender, No Retreat","hoster":["PutLocker"]},
+                {"german":"Hinter den Kulissen","english":"The Exercise Of Vital Powers","hoster":["PutLocker"]},
+                {"german":"Homo Superior","english":"The Face Of The Enemy","hoster":["PutLocker"]},
+                {"german":"Das Verhör","english":"Intersections In Real Time","hoster":["PutLocker"]},
+                {"german":"Das Werkzeug der Vergeltung","english":"Between The Darkness And The Light","hoster":["PutLocker"]},
+                {"german":"Söhne und Töchter der Erde","english":"Endgame","hoster":["PutLocker"]},
+                {"german":"Die neue Allianz","english":"Rising Star","hoster":["PutLocker"]},
+                {"german":"In hundert Jahren, in tausend Jahren","english":"The Deconstruction Of Falling Stars","hoster":["PutLocker"]}
+         ]
+}

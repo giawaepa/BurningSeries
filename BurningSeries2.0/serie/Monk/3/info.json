@@ -1,0 +1,24 @@
+{
+        "series":"Monk",
+        "seasons":8,
+        "cover":"Monk_bfa22242c5b58dd205872102d92eeed7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Mr. Monk erobert Manhattan","english":"Mr. Monk Takes Manhattan","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der Affe","english":"Mr. Monk and the Panic Room","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der Stromausfall","english":"Mr. Monk and the Blackout","hoster":["PutLocker"]},
+                {"german":"Mr. Monk wird gefeuert","english":"Mr. Monk Gets Fired","hoster":["PutLocker"]},
+                {"german":"Mr. Monk hilft der Mafia","english":"Mr. Monk Meets the Godfather","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und Sharonas Besuch aus dem Jenseits","english":"Mr. Monk and the Girl Who Cried Wolf","hoster":["PutLocker"]},
+                {"german":"Mr. Monk arbeitet im Supermarkt","english":"Mr. Monk and the Employee of the Month","hoster":["PutLocker"]},
+                {"german":"Mr. Monk spielt mit","english":"Mr. Monk and the Game Show","hoster":["PutLocker"]},
+                {"german":"Mr. Monk kann auch anders","english":"Mr. Monk Takes His Medicine","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und Natalie fischen im Dunkeln","english":"Mr. Monk and the Red Herring","hoster":["PutLocker"]},
+                {"german":"Mr. Monk gegen den toten Mörder","english":"Mr. Monk vs. the Cobra","hoster":["PutLocker"]},
+                {"german":"Mr. Monk muss in den Wald","english":"Mr. Monk Gets Cabin Fever","hoster":["PutLocker"]},
+                {"german":"Mr. Monk steckt im Stau","english":"Mr. Monk Gets Stuck in Traffic","hoster":["PutLocker"]},
+                {"german":"Mr. Monk in Las Vegas","english":"Mr. Monk Goes to Vegas","hoster":["PutLocker"]},
+                {"german":"Mr. Monk als Wahlhelfer","english":"Mr. Monk and the Election","hoster":["PutLocker"]},
+                {"german":"Mr. Monk will Vater werden","english":"Mr. Monk and the Kid","hoster":["PutLocker"]}
+         ]
+}

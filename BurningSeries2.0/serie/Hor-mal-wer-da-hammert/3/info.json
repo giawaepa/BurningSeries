@@ -1,0 +1,33 @@
+{
+        "series":"Hör mal, wer da hämmert",
+        "seasons":8,
+        "cover":"Hoer-mal-wer-da-haemmert_b8fa4de126ccdd7ebe5087ef115e5452.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Grüße vom Klapperstorch","english":"Maybe, Baby","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Reingelegt (aka. Liebeshorror)","english":"Crazy For You","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Witzfigur","english":"A Sew, Sew Evening","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Nervensäge","english":"This Joke&#039;s For You","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Tim trauert","english":"Arrivederci, Binford","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Liebeshorror","english":"Aisle See You In My Dreams","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Idealgatte","english":"Blow Up","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Schrottwerkzeug","english":"Be True To Your Tool","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Wertanlage","english":"Dollars And Sense","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Weihnachtsphotokarte","english":"A Frozen Moment","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das Klassentreffen","english":"Feud For Thought","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Oh, du schreckliche Weihnacht!","english":"&#039;twas The Blight Before Christmas","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Herausforderung","english":"Slip Sleddin&#039; Away","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Träume sind Schäume","english":"Dream On","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Eisfischen","english":"Reel Men","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Wie sag ich&#039;s meinem Opa","english":"The Colonel","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Zimmerwechsel","english":"Room For Change","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Teamgeist","english":"The Eve Of Construction","hoster":["PutLocker","DivxStage"]},
+                {"german":"Viele Köche verderben den Brei","english":"Too Many Cooks","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Bilanz einer Ehe","english":"It Was The Best Of Tims, It Was The Worst Of Tims","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Geldprobleme","english":"Fifth Anniversary","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Verschaukelt","english":"Swing Time","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Einsichten","english":"What You See Is What You Get","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Computer-Casanova","english":"Reality Bytes","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das große Rennen, Teil 2","english":"The Great Race II","hoster":["YouTube","PutLocker","DivxStage"]}
+         ]
+}

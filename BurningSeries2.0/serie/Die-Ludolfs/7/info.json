@@ -1,0 +1,17 @@
+{
+        "series":"Die Ludolfs ? 4 Brüder auf&#039;m Schrottplatz",
+        "seasons":8,
+        "cover":"Die-Ludolfs-4-Brueder-auf-m-Schrottplatz_7ba678b4ad0cf41bab5e69183b76d4f3.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Ein Auto sticht in See","english":"","hoster":[]},
+                {"german":"Der Monstertruck","english":"","hoster":[]},
+                {"german":"Unter den Wolken","english":"","hoster":[]},
+                {"german":"Die Renovierung","english":"","hoster":[]},
+                {"german":"Die Tapeten-Revolution","english":"","hoster":[]},
+                {"german":"Taxi, Taxi","english":"","hoster":[]},
+                {"german":"Im Land der Pommes Frites","english":"","hoster":[]},
+                {"german":"Fünf-Uhr-Tee mit der Queen","english":"","hoster":[]},
+                {"german":"Westerwälder Auto-Träume","english":"","hoster":[]}
+         ]
+}

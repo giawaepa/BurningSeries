@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Ein giftiger Nebel",
+         "titleen":"Episode 21",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6478295/Naruto_Shippuuden_UNCUT_Folge_21_Deutsch_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6478830/Naruto_Shippuuden_UNCUT_Folge_21_Deutsch_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6478848/Naruto_Shippuuden_UNCUT_Folge_21_Deutsch_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"AA19396FD1457F8C"
+                }
+       ]
+}

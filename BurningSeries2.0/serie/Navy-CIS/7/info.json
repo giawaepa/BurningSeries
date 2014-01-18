@@ -1,0 +1,32 @@
+{
+        "series":"Navy CIS",
+        "seasons":9,
+        "cover":"Navy-CIS_141ca3e65244fc72f323f852248d3211.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Joker","english":"Truth or Consequences","hoster":["PutLocker"]},
+                {"german":"Wie ein Vater","english":"Reunion","hoster":["PutLocker"]},
+                {"german":"Der Insider","english":"The Inside Man","hoster":["PutLocker"]},
+                {"german":"Damokles","english":"Good Cop, Bad Cop","hoster":["PutLocker"]},
+                {"german":"Böse Streiche","english":"Code of Conduct","hoster":["PutLocker"]},
+                {"german":"Das Boot","english":"Outlaws and In-Laws","hoster":["PutLocker"]},
+                {"german":"Der letzte Schuss","english":"Endgame","hoster":["PutLocker"]},
+                {"german":"Unplugged","english":"Power Down","hoster":["PutLocker"]},
+                {"german":"Kinderspiel","english":"Child&#039;s Play","hoster":["PutLocker"]},
+                {"german":"Die Ehre der Familie","english":"Faith","hoster":["PutLocker"]},
+                {"german":"Rocket Man","english":"Ignition","hoster":["PutLocker"]},
+                {"german":"Der doppelte Tony","english":"Flesh and Blood","hoster":["PutLocker"]},
+                {"german":"Wie im Flug","english":"Jet Lag","hoster":["PutLocker"]},
+                {"german":"Kobalt 60","english":"Masquerade","hoster":["PutLocker"]},
+                {"german":"Vollgas","english":"Jack-Knife","hoster":[]},
+                {"german":"Schwiegermuttertag","english":"Mother?s Day","hoster":["PutLocker"]},
+                {"german":"Zwei Leben","english":"Double Identity","hoster":["PutLocker"]},
+                {"german":"Der Schatz der Calafuego","english":"Jurisdiction","hoster":[]},
+                {"german":"Holly Snow","english":"Guilty Pleasure","hoster":["PutLocker"]},
+                {"german":"Ein-rotes-Haar","english":"Moonlighting","hoster":["PutLocker"]},
+                {"german":"Regel Nummer Zehn","english":"Obsession","hoster":["PutLocker"]},
+                {"german":"Kalte Spuren","english":"Borderland","hoster":[]},
+                {"german":"Ein guter Patriot","english":"Patriot Down","hoster":[]},
+                {"german":"Regel 51","english":"Rule Fifty-One","hoster":["PutLocker"]}
+         ]
+}

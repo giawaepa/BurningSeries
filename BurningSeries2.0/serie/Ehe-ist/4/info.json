@@ -1,0 +1,30 @@
+{
+        "series":"Ehe ist?",
+        "seasons":4,
+        "cover":"Ehe-ist-.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Mit den Waffeln einer Mutter","english":"Doug and Ally Return","hoster":[]},
+                {"german":"Getrennte Betten","english":"Separate Beds","hoster":[]},
+                {"german":"Eddies Buch","english":"Eddie&#039;s Book","hoster":[]},
+                {"german":"Arbeitslos","english":"Joy&#039;s Out of Work","hoster":[]},
+                {"german":"HDTV","english":"Hi Def TV","hoster":[]},
+                {"german":"Das Leben ist eine Sitcom","english":"Independent Action","hoster":[]},
+                {"german":"Eine teure Versöhnung","english":"The Break-Up","hoster":[]},
+                {"german":"Die letzte Überlebende","english":"Check-Up","hoster":[]},
+                {"german":"Wie Du mir?","english":"Check Mate","hoster":[]},
+                {"german":"Das Konzert","english":"The Concert","hoster":[]},
+                {"german":"Das Prinzip Leistung","english":"Merit Pay","hoster":[]},
+                {"german":"Tommy und April","english":"The New Neighbors","hoster":[]},
+                {"german":"Die Hochzeit","english":"The Wedding","hoster":["PutLocker"]},
+                {"german":"Joys Mutter","english":"Joy&#039;s Mom","hoster":[]},
+                {"german":"Ein neues Haus","english":"Sell The House","hoster":[]},
+                {"german":"Wir sind schwanger","english":"Ally&#039;s Pregnant","hoster":[]},
+                {"german":"Das Smartphone","english":"Smart Phone","hoster":[]},
+                {"german":"Großer Mann ganz klein","english":"Big Man, Little Man","hoster":[]},
+                {"german":"Gefeuert","english":"Work Wife","hoster":[]},
+                {"german":"Alles für das Baby","english":"Baby Steps","hoster":[]},
+                {"german":"Gut versteckt","english":"Let&#039;s Go","hoster":[]},
+                {"german":"Das Baby","english":"The Baby","hoster":[]}
+         ]
+}

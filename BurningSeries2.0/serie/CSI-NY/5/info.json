@@ -1,0 +1,33 @@
+{
+        "series":"CSI: NY",
+        "seasons":8,
+        "cover":"CSI-NY_01987587a2ebb5130440caece7c6127b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Fette Beute","english":"Veritas","hoster":[]},
+                {"german":"Das Buch der Toten","english":"Page Turner","hoster":["PutLocker"]},
+                {"german":"Über den Wolken","english":"Turbulence","hoster":["PutLocker"]},
+                {"german":"Entpuppt","english":"Sex, Lies and Silicone","hoster":["PutLocker"]},
+                {"german":"Im Untergrund","english":"The Cost of Living","hoster":["PutLocker"]},
+                {"german":"Drei Rächer","english":"Enough","hoster":["PutLocker"]},
+                {"german":"Leiche im Keller","english":"Dead inside","hoster":["PutLocker"]},
+                {"german":"Mac ist tot","english":"My Name is Mac Taylor","hoster":["PutLocker"]},
+                {"german":"Autofriedhof","english":"The Box","hoster":["PutLocker"]},
+                {"german":"Verstrahlt","english":"The Triangle","hoster":["PutLocker"]},
+                {"german":"Die verbotene Frucht","english":"Forbidden Fruit","hoster":["PutLocker"]},
+                {"german":"Die Braut trug Rot","english":"Help","hoster":["PutLocker"]},
+                {"german":"Die Leiche im Müll","english":"Rush to Judgement","hoster":["PutLocker"]},
+                {"german":"Mädchenhandel","english":"She&#039;s Not There","hoster":["PutLocker"]},
+                {"german":"Chaostage","english":"The Party&#039;s Over","hoster":["PutLocker"]},
+                {"german":"Unter Geiern","english":"No Good Deed","hoster":["PutLocker"]},
+                {"german":"Der Anschlag","english":"Green Piece","hoster":["PutLocker"]},
+                {"german":"Innere Werte","english":"Point of No Return","hoster":["PutLocker"]},
+                {"german":"Der tote Häuptling","english":"Communication Breakdown","hoster":["PutLocker"]},
+                {"german":"Letzter Ausweg","english":"Prey","hoster":["PutLocker"]},
+                {"german":"Tiefer Fall","english":"The Past, Present and Murder","hoster":["PutLocker"]},
+                {"german":"Relikt","english":"Yahrzeit","hoster":["PutLocker"]},
+                {"german":"Schuld und Sühne","english":"Greater Good","hoster":["PutLocker"]},
+                {"german":"Schattenmord","english":"Grounds For Deception","hoster":["PutLocker"]},
+                {"german":"Abschied für immer","english":"Pay Up","hoster":[]}
+         ]
+}

@@ -1,0 +1,29 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Geheimsache","english":"Wrong Is Right","hoster":[]},
+                {"german":"Eine Frage der Ehre","english":"Honor","hoster":[]},
+                {"german":"Trophäen","english":"Closure Part 2","hoster":[]},
+                {"german":"Emily","english":"Legacy","hoster":[]},
+                {"german":"Elias","english":"Baby Killer","hoster":[]},
+                {"german":"Nebenwirkungen","english":"Noncompliance","hoster":[]},
+                {"german":"Entzwei","english":"Asunder","hoster":[]},
+                {"german":"Ausgetrickst","english":"Taken","hoster":[]},
+                {"german":"Der Turnvater","english":"Pixies","hoster":[]},
+                {"german":"Willenlos","english":"Consent","hoster":[]},
+                {"german":"Kind eines Rockstars","english":"Abuse","hoster":[]},
+                {"german":"Schmutziges Geheimnis","english":"Secrets","hoster":[]},
+                {"german":"Prävention","english":"Victims","hoster":[]},
+                {"german":"Paranoia","english":"Paranoia","hoster":[]},
+                {"german":"Countdown","english":"Countdown","hoster":[]},
+                {"german":"Die Ausreißerin","english":"Runaway","hoster":[]},
+                {"german":"Der Liebesbote","english":"Folly","hoster":[]},
+                {"german":"Katz und Maus","english":"Manhunt","hoster":[]},
+                {"german":"Parasiten","english":"Parasites","hoster":[]},
+                {"german":"Familienbande","english":"Pique","hoster":[]},
+                {"german":"Das Buch Daniel","english":"Scourge","hoster":[]}
+         ]
+}

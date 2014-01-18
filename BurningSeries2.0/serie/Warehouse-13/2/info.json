@@ -1,0 +1,21 @@
+{
+        "series":"Warehouse 13",
+        "seasons":3,
+        "cover":"Warehouse-13_93f78768ca2f8ae84eadc580f851f733.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Perle der Weisheit","english":"Time Will Tell","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"In der Maske des Helden","english":"Mild Mannered","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Unheimliches in Univille","english":"Beyond Our Control","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Preis der Jugend","english":"Age Before Beauty","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Das Hirn des Konstrukteurs","english":"13.1.","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Am Rande des Wahnsinns","english":"Around the Bend","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Zaubertrank der Wikinger","english":"For the Team","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Im Körper des Kollegen","english":"Merge with Caution","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Rächer aus der Vergangenheit","english":"Vendetta","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Zeitreise in die Sechziger","english":"Where and When","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Das Vermächtnis der Ägypter","english":"Buried","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Dreizack der Verdammnis","english":"Reset","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Geist der Weihnacht","english":"Secret Santa","hoster":["PutLocker","Sockshare","DivxStage"]}
+         ]
+}

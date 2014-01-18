@@ -1,0 +1,33 @@
+{
+        "series":"The King of Queens",
+        "seasons":9,
+        "cover":"The-King-of-Queens_bbc35c6d9ebd3e1bdb5e304bbb42d956.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Hundstage","english":"Walk, Man","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Blinde Kuh","english":"Sight Gag","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Streber","english":"Mean Streak","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Alles nur Blech","english":"Friender Bender","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die Sportskanone","english":"No Retreat","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Das Geisterhaus","english":"Ticker Treat","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Arthurs Geheimnis","english":"Lyin&#039; Hearted","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die Reality-Show","english":"Life Sentence","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Ein Zeichen Gottes","english":"Veiled Threat","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Luft und Liebe","english":"Oxy Moron","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Experte","english":"Depo Man","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Speedy Gonzales","english":"Ovary Action","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die Fressaffäre","english":"Food Fight","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Gewinner und Verlierer","english":"Double Downer","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Discofieber","english":"Dougie Nights","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Verfolgungswahn","english":"No Orleans","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Das lustige Quartett","english":"Missing Links","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"The King of Sandwich","english":"Hero Worship","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Hausarrest","english":"Screwed Driver","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Happy Hour","english":"Lush Life","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Liebestöter","english":"Bun Dummy","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Echte Wohltäter","english":"Patrons Ain&#039;t","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Reich für einen Tag","english":"Eddie Money","hoster":["MyVideo","PutLocker"]},
+                {"german":"... Er hat doch gebohrt!","english":"Two Thirty","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Psycho-Kisten","english":"Shrink Wrap","hoster":["YouTube","MyVideo","PutLocker"]}
+         ]
+}

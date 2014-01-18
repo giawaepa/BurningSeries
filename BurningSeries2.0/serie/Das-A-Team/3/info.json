@@ -1,0 +1,33 @@
+{
+        "series":"Das A-Team",
+        "seasons":5,
+        "cover":"Das-A-Team_326982f33c15520fd5d58216d5ecfd79.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Schatten im Sommerparadies","english":"Bullets And Bikinis","hoster":["Sockshare"]},
+                {"german":"Die versunkene Stadt (1)","english":"The Bend In The River (1)","hoster":["Sockshare"]},
+                {"german":"Die versunkene Stadt (2)","english":"The Bend In The River (2)","hoster":["Sockshare"]},
+                {"german":"Feueralarm","english":"Fire","hoster":[]},
+                {"german":"Der Herr des Waldes","english":"Timber!","hoster":[]},
+                {"german":"Der Kronzeuge","english":"Double Heat","hoster":[]},
+                {"german":"Ärger auf Rädern","english":"Trouble On Wheels","hoster":[]},
+                {"german":"Drogen und Krokodile","english":"The Island","hoster":[]},
+                {"german":"Plagiatoren","english":"Showdown","hoster":[]},
+                {"german":"Die Auferstehung des toten Ingenieurs","english":"Sheriffs Of Rivertown","hoster":[]},
+                {"german":"Liederzirkus","english":"The Bells Of St. Mary&#039;s","hoster":[]},
+                {"german":"Haute Couture","english":"Hot Styles","hoster":[]},
+                {"german":"Die 100 000-Dollar-Frau","english":"Breakout!","hoster":[]},
+                {"german":"Heiße Küche","english":"Cup A&#039; Joe","hoster":[]},
+                {"german":"Geldhaie","english":"The Big Squeeze","hoster":[]},
+                {"german":"Boxkämpfe","english":"Champ!","hoster":[]},
+                {"german":"Elfenbein aus Kenia","english":"Skins","hoster":[]},
+                {"german":"Roulette auf Rädern","english":"Road Games","hoster":[]},
+                {"german":"Entführung auf arabisch","english":"Moving Targets","hoster":[]},
+                {"german":"Ritter der Landstraße","english":"Knights Of The Road","hoster":[]},
+                {"german":"Ausgeliefert","english":"Waste &#039;em!","hoster":[]},
+                {"german":"Kopfgeldjäger","english":"Bounty","hoster":[]},
+                {"german":"Orignal oder Fälschung","english":"Beverly Hills Assault","hoster":[]},
+                {"german":"Wirb oder stirb","english":"Trouble Brewing","hoster":[]},
+                {"german":"Richtig ködern will gelernt sein","english":"Incident At Crystal Lake","hoster":[]}
+         ]
+}

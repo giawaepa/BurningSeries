@@ -1,0 +1,21 @@
+{
+        "series":"Mad Men",
+        "seasons":4,
+        "cover":"Mad-Men_281facf042e84d97cba1d07f887cbd79.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Public Relations","english":"Public Relations","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schon wieder Weihnachten","english":"Christmas Comes But Once a Year","hoster":["PutLocker","DivxStage"]},
+                {"german":"Auf ein Neues!","english":"The Good News","hoster":["PutLocker"]},
+                {"german":"Guter Hoffnung","english":"The Rejected","hoster":["PutLocker","DivxStage"]},
+                {"german":"Chrysantheme und Schwert","english":"The Chrysanthemum and the Sword","hoster":["PutLocker","DivxStage"]},
+                {"german":"Eine Frage der Einstellung","english":"Waldorf Stories","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein Koffer voll Wahrheit","english":"The Suitcase","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wind und Sonne","english":"The Summer Man","hoster":["PutLocker"]},
+                {"german":"Alle mal wegschauen","english":"The Beautiful Girls","hoster":["PutLocker","DivxStage"]},
+                {"german":"Auf Händen und Knien","english":"Hands and Knees","hoster":["PutLocker","DivxStage"]},
+                {"german":"Im Kartenhaus","english":"Chinese Wall","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Blowing Smoke","hoster":["PutLocker"]},
+                {"german":"","english":"Tomorrowland","hoster":["PutLocker"]}
+         ]
+}

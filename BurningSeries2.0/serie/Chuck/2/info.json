@@ -1,0 +1,30 @@
+{
+        "series":"Chuck",
+        "seasons":5,
+        "cover":"Chuck_e64842e7889ebfe9486715b4c589901b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Chuck gegen das erste Date","english":"Chuck Versus the First Date","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die schwarze Witwe","english":"Chuck Versus the Seduction","hoster":["PutLocker"]},
+                {"german":"Chuck gegen alle Vernunft","english":"Chuck Versus the Break-Up","hoster":["PutLocker"]},
+                {"german":"Chuck gegen das Partygirl","english":"Chuck Versus the Cougars","hoster":["PutLocker"]},
+                {"german":"Chuck gegen Tom Sawyer","english":"Chuck Versus Tom Sawyer","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die Ex","english":"Chuck Versus the Ex","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die Oper","english":"Chuck Versus the Fat Lady","hoster":["PutLocker"]},
+                {"german":"Chuck gegen Jill","english":"Chuck Versus The Gravitron","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die innere Ruhe","english":"Chuck Versus the Sensei","hoster":["PutLocker"]},
+                {"german":"Chuck gegen zehn Millionen","english":"Chuck Versus the Delorean","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Weihnachtsmann","english":"Chuck Versus Santa Claus","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die dritte Dimension","english":"Chuck Versus the Third Dimension","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die braven Bürger","english":"Chuck Versus the Suburbs","hoster":["PutLocker"]},
+                {"german":"Chuck gegen Morgan","english":"Chuck Versus the Best Friend","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Muskelprotz","english":"Chuck Versus the Beefcake","hoster":["PutLocker"]},
+                {"german":"Chuck gegen Leathal Weapon","english":"Chuck Versus the Lethal Weapon","hoster":["PutLocker"]},
+                {"german":"Chuck gegen Beckmann","english":"Chuck Versus the Predator","hoster":["PutLocker"]},
+                {"german":"Chuck gegen das gebrochene Herz","english":"Chuck Versus the Broken Heart","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Traumjob","english":"Chuck Versus the Dream Job","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die grosse Lüge","english":"Chuck Versus the First Kill","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Colonel","english":"Chuck Versus the Colonel","hoster":["PutLocker"]},
+                {"german":"Chuck gegen das Ende","english":"Chuck Versus the Ring","hoster":["PutLocker"]}
+         ]
+}

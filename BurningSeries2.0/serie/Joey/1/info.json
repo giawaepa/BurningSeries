@@ -1,0 +1,32 @@
+{
+        "series":"Joey",
+        "seasons":2,
+        "cover":"Joey_9f09e953dc3350d8833223d157edf85a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Auf nach Hollywood","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Aufreißen für Anfänger","english":"Joey and the Student","hoster":["PutLocker"]},
+                {"german":"Joey und die Party","english":"Joey and the Party","hoster":["PutLocker"]},
+                {"german":"Der Buchclub","english":"Joey and the Book Club","hoster":["PutLocker"]},
+                {"german":"Das Multitalent","english":"Joey and the Perfect Storm","hoster":["PutLocker"]},
+                {"german":"Der neue Freund","english":"Joey and the Nemesis","hoster":["PutLocker"]},
+                {"german":"Der Friseursalon","english":"Joey and the Husband","hoster":["PutLocker"]},
+                {"german":"Die Traumfrau, Teil 1","english":"Joey and the Dream Girl (1)","hoster":["PutLocker"]},
+                {"german":"Die Traumfrau, Teil 2","english":"Joey and the Dream Girl (2)","hoster":["PutLocker"]},
+                {"german":"Das große Casting","english":"Joey and the Big Audition","hoster":["PutLocker"]},
+                {"german":"Der Schönheitswettbewerb","english":"Joey and the Road Trip","hoster":["PutLocker"]},
+                {"german":"Joey darf nicht sterben","english":"Joey and the Plot Twist","hoster":["PutLocker"]},
+                {"german":"Der Lasagnetest","english":"Joey and the Taste Test","hoster":["PutLocker"]},
+                {"german":"Die Premierenfeier","english":"Joey and the Premiere","hoster":["PutLocker"]},
+                {"german":"Der neue Assistent","english":"Joey and the Assistant","hoster":["PutLocker"]},
+                {"german":"Joeys großer Auftritt","english":"Joey and the Tonight Show","hoster":["PutLocker"]},
+                {"german":"Happy Valentine","english":"Joey and the Valentine&#039;s Date","hoster":["PutLocker"]},
+                {"german":"Die Preisverleihung","english":"Joey and the Wrong Name","hoster":["PutLocker"]},
+                {"german":"Joeys beste Schwester","english":"Joey and the Fancy Sister","hoster":["PutLocker"]},
+                {"german":"Die Nachbarin","english":"Joey and the Neighbor","hoster":["PutLocker"]},
+                {"german":"Spione unter sich","english":"Joey and the Spying","hoster":["PutLocker"]},
+                {"german":"Heiße Versuchung","english":"Joey and the Temptation","hoster":["PutLocker"]},
+                {"german":"Scheiden tut weh","english":"Joey and the Breakup","hoster":["PutLocker"]},
+                {"german":"Geteiltes Leid","english":"Joey and the Moving In","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Fünf Musketiere",
+         "titleen":"The Truth Is Out There",
+         "description":"Ein junger PO, der in der Postabteilung arbeitete, wird tot in einem Nachtclub gefunden. Haben seine Freunde etwas zu verbergen, denn im Zimmer des PO finden Gibbs und das Team eine große Summe Geld?",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"3725685/NCIS_Die_5_Musketiere_part_1_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"3726080/NCIS_Die_5_Musketiere_part_2_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"3726578/NCIS_Die_5_Musketiere_part_3_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"3727242/NCIS_Die_5_Musketiere_part_4_5"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"425A28DF47EC46D6"
+                }
+       ]
+}

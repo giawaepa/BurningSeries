@@ -1,0 +1,32 @@
+{
+        "series":"Alle unter einem Dach",
+        "seasons":9,
+        "cover":"Alle-unter-einem-Dach_2db8eb16cd5d05a61805adfcf8c1d513.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Kampf der Giganten","english":"Surely You Joust","hoster":[]},
+                {"german":"Der heilige Trottel","english":"Dance to the Music","hoster":[]},
+                {"german":"Bleib cool, Carl!","english":"Driving Carl Crazy","hoster":[]},
+                {"german":"Ist der Ruf erst ruiniert","english":"Rumor Has It","hoster":[]},
+                {"german":"Zwei Männer im Bett","english":"Number One with a Bullet","hoster":[]},
+                {"german":"Wem gehört das Kind?","english":"Whose Kid Is it Anyway?","hoster":[]},
+                {"german":"Waldos großer Fehler","english":"An Officer and a Waldo","hoster":[]},
+                {"german":"Steve auf dem Dach","english":"Just One Date!","hoster":[]},
+                {"german":"Junge, komm bald wieder!","english":"The Oddest Couple","hoster":[]},
+                {"german":"Gespräche mit dem Schutzengel","english":"It&#039;s Beginning to Look a Lot like Urkel","hoster":[]},
+                {"german":"Geschenke für die Dicke!","english":"Muskrat Love","hoster":[]},
+                {"german":"Der Superkleber","english":"Hot Wheels","hoster":[]},
+                {"german":"Die schönste Nebensache der Welt","english":"The Way the Ball Bounces","hoster":[]},
+                {"german":"Rendezvous für vier","english":"A Thought in the Dark","hoster":[]},
+                {"german":"Duett im Hotel","english":"Tender Kisses","hoster":[]},
+                {"german":"Küssen verboten!","english":"Heart Strings","hoster":[]},
+                {"german":"Streik im Irrenhaus","english":"It&#039;s a Mad, Mad, Madhouse","hoster":[]},
+                {"german":"Alter schützt vor Liebe nicht","english":"Higher Anxiety","hoster":[]},
+                {"german":"Die Rentnerhochzeit","english":"Mama&#039;s Wedding","hoster":[]},
+                {"german":"Die Telefon-Konferenz","english":"Pulling Teeth","hoster":[]},
+                {"german":"Laura und das wilde Leben","english":"Walk on the Wild Side","hoster":[]},
+                {"german":"Myra lässt nicht locker!","english":"Hot Stuff","hoster":[]},
+                {"german":"Die Sache mit Myra","english":"Stormy Weather","hoster":[]},
+                {"german":"Der Würstchen-Boss","english":"Buds &#039;n&#039; Buns","hoster":[]}
+         ]
+}

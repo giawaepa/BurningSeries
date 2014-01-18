@@ -1,0 +1,26 @@
+{
+        "series":"Naruto Shippuuden",
+        "seasons":8,
+        "cover":"Naruto-Shippuuden_198c1ffe8cb76e7ea7d21734cae9e6e3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Sai gewinnt eine Erkenntnis - und ein Veilchen!","english":"Episode 54","hoster":["YouTube","MyVideo"]},
+                {"german":"Chakra-Element Wind","english":"Episode 55","hoster":["YouTube"]},
+                {"german":"Sich krümmen und winden","english":"Episode 56","hoster":[]},
+                {"german":"Gefangen im ewigen Schlaf","english":"Episode 57","hoster":["YouTube"]},
+                {"german":"Der einsame Mönch","english":"Episode 58","hoster":["YouTube"]},
+                {"german":"Ein gefährlicher Weg","english":"Episode 59","hoster":["YouTube"]},
+                {"german":"Allein im Fallen-Labyrinth","english":"Episode 60","hoster":["YouTube"]},
+                {"german":"Küssen verboten","english":"Episode 61","hoster":["YouTube"]},
+                {"german":"Die Sache mit dem Mops","english":"Episode 62","hoster":["YouTube"]},
+                {"german":"Die Zwei Könige","english":"Episode 63","hoster":["YouTube"]},
+                {"german":"Das Pechschwarze Signalfeuer","english":"Episode 64","hoster":["YouTube"]},
+                {"german":"Die Versiegelung der Dunkelheit","english":"Episode 65","hoster":["YouTube"]},
+                {"german":"Blitze über Konoha","english":"Episode 66","hoster":["YouTube"]},
+                {"german":"Ein Himmelreich für einen Plan","english":"Episode 67","hoster":["YouTube"]},
+                {"german":"Der Augenblick des Erwachens","english":"Episode 68","hoster":["YouTube"]},
+                {"german":"Das Siegel wird gelöst","english":"Episode 69","hoster":["YouTube"]},
+                {"german":"Eine Frage der Ehre","english":"Episode 70","hoster":["YouTube"]},
+                {"german":"Feind verloren, Freund gewonnen","english":"Episode 71","hoster":["YouTube"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"T.J., der Held des Tages / Das Witzeduell",
+         "titleen":"The Shiner / Stand-up Randall",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=azaPDUIm6JE"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=E_O_33s45Pk"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6696595/Disneys_Grosse_Pause_Episode_72_T_J_der_Held_des_Tages"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6696521/Disneys_Grosse_Pause_Episode_73_Das_Witzeduell"
+                }
+       ]
+}

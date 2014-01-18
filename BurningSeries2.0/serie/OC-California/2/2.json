@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Das Wiedersehen",
+         "titleen":"The Way We Were",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5207142/Ghost_Whisperer_2x2_01_05_Unvergessene_Liebe"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5207352/Ghost_Whisperer_2x2_02_05_Unvergessene_Liebe"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5207491/Ghost_Whisperer_2x2_03_05_Unvergessene_Liebe"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5207948/Ghost_Whisperer_2x2_04_05_Unvergessene_Liebe"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"5A83B7CE47F5C90B"
+                }
+       ]
+}

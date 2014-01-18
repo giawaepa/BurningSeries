@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der junge Meisterdieb (1)",
+         "titleen":"Episode 235",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=wT9b491XF50"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5853724/Detektiv_Conan_Folge_235_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5854249/Detektiv_Conan_Folge_235_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5854786/Detektiv_Conan_Folge_235_3_3"
+                }
+       ]
+}

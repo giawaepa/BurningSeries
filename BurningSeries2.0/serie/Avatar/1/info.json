@@ -1,0 +1,28 @@
+{
+        "series":"Avatar ? Der Herr der Elemente",
+        "seasons":3,
+        "cover":"Avatar-Der-Herr-der-Elemente_b8ac3e54721f9c23be80a7198816106c.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Der Junge im Eisberg","english":"The Boy in the Iceberg","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Avatar kehrt zurück","english":"The Avatar Returns","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der südliche Lufttempel","english":"The Southern Air Temple","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Kriegerinnen von Kyoschi","english":"The Warriors of Kyoshi","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der König von Omaschu","english":"The King of Omashu","hoster":["PutLocker","RapidVideo"]},
+                {"german":"In Gefangenschaft!","english":"Imprisoned","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Geister-Welt [Wintersonnenwende (1)]","english":"The Spirit World [Winter Solstice (1)]","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Avatar Roku [Wintersonnenwende (2)]","english":"Avatar Roku [Winter Solstice (2)]","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Schriftrolle","english":"The Waterbending Scroll","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Jet, der Rebell","english":"Jet","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Grabenkämpfe","english":"The Great Divide","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Sturm","english":"The Storm","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Blaue Geist","english":"The Blue Spirit","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Wahrsagerin","english":"The Fortuneteller","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bato vom Wasserstamm","english":"Bato of the Water Tribe","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Macht des Feuers","english":"The Deserter","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Luftakrobaten","english":"The Northern Air Temple","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Meister der Wasserbändiger","english":"The Waterbending Master","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Belagerung des Nordens (1)","english":"The Siege of the North (1)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Belagerung des Nordens (2)","english":"The Siege of the North (2)","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

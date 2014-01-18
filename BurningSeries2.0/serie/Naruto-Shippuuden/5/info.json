@@ -1,0 +1,32 @@
+{
+        "series":"Naruto Shippuuden",
+        "seasons":8,
+        "cover":"Naruto-Shippuuden_198c1ffe8cb76e7ea7d21734cae9e6e3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Tsunades seltsame Entdeckung","english":"Episode 89","hoster":["YouTube"]},
+                {"german":"Die Entscheidung eines Shinobi","english":"Episode 90","hoster":["YouTube"]},
+                {"german":"Im Dorf der heißen Quellen","english":"Episode 91","hoster":["YouTube"]},
+                {"german":"Fliegen fangen leicht gemacht!","english":"Episode 92","hoster":["YouTube"]},
+                {"german":"Die Verbindung der Gefühle","english":"Episode 93","hoster":["YouTube"]},
+                {"german":"Orochimarus Pläne in Gefahr","english":"Episode 94","hoster":["YouTube","MyVideo"]},
+                {"german":"Die beiden Glücksbringer","english":"Episode 95","hoster":["YouTube"]},
+                {"german":"Der Nebel, der alle Spuren beseitigt","english":"Episode 96","hoster":["YouTube"]},
+                {"german":"Das Labyrinth der verzerrten Reflexionen","english":"Episode 97","hoster":["YouTube"]},
+                {"german":"Der Trick mit den Fledermäusen","english":"Episode 98","hoster":["YouTube"]},
+                {"german":"Der unheimliche See","english":"Episode 99","hoster":["YouTube"]},
+                {"german":"Mitten im Nebel","english":"Episode 100","hoster":["YouTube"]},
+                {"german":"Auf eigene Faust!","english":"Episode 101","hoster":["YouTube","MyVideo"]},
+                {"german":"Alte Mission, neue Ziele!","english":"Episode 102","hoster":["YouTube"]},
+                {"german":"Der mit dem Herzen sieht","english":"Episode 103","hoster":["YouTube"]},
+                {"german":"Der Aufbruch des Kristallverstecks","english":"Episode 104","hoster":["YouTube"]},
+                {"german":"Die Versiegelungsbarriere kippt!","english":"Episode 105","hoster":["YouTube"]},
+                {"german":"Rote Kamelien","english":"Episode 106","hoster":["YouTube"]},
+                {"german":"Zwei im gleichen Boot!","english":"Episode 107","hoster":["YouTube"]},
+                {"german":"Der Weg nach draußen, den es nicht gibt!","english":"Episode 108","hoster":["YouTube"]},
+                {"german":"Kabutos geheimer Trick","english":"Episode 109","hoster":["YouTube"]},
+                {"german":"Yukimaru erfährt die Wahrheit","english":"Episode 110","hoster":["YouTube"]},
+                {"german":"Der Kristall zerbricht","english":"Episode 111","hoster":["YouTube"]},
+                {"german":"Ein Ort, an den man immer zurückkehren kann","english":"Episode 112","hoster":["YouTube"]}
+         ]
+}

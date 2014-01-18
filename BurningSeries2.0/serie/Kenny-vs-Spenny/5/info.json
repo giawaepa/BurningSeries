@@ -1,0 +1,18 @@
+{
+        "series":"Kenny vs. Spenny",
+        "seasons":6,
+        "cover":"Kenny-vs-Spenny_b242cb25f204a30c0cf52db43ae9de9f.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Wer kann es länger mit Kot in der Hose aushalten?","english":"Who Can Keep a Dump in Their Pants the Longest?","hoster":[]},
+                {"german":"Wer bekommt mehr Frauen ins Bett?","english":"Who Can Bone More Women?","hoster":["YouTube"]},
+                {"german":"Wer kann länger ein Gorilla-Kostüm tragen?","english":"Who Can Wear a Gorilla Suit the Longest?","hoster":[]},
+                {"german":"Wer kann mehr Leute verärgern?","english":"Who Can Piss Off More People?","hoster":[]},
+                {"german":"Wer zuerst den Boden berührt verliert.","english":"First Guy to Touch the Ground Loses.","hoster":[]},
+                {"german":"Wer ist der beste Profi-Wrestler?","english":"Who&#039;s the Best Pro Wrestler?","hoster":["YouTube"]},
+                {"german":"Wer ist der beste Soldat?","english":"Who&#039;s the Best Soldier?","hoster":["YouTube"]},
+                {"german":"Wer ist der bessere Jude?","english":"Who&#039;s the Better Jew?","hoster":["YouTube"]},
+                {"german":"Wen mögen behinderte Menschen mehr?","english":"Who Do Disabled People Like More?","hoster":["YouTube"]},
+                {"german":"Wer kann mehr Gras rauchen?","english":"Who Can Smoke More Weed?","hoster":[]}
+         ]
+}

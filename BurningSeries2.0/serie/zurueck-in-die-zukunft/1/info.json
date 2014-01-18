@@ -1,0 +1,21 @@
+{
+        "series":"Zurück in die Zukunft",
+        "seasons":2,
+        "cover":"Zurueck-in-die-Zukunft_f5eb15b1344dcb276c12eacbe22ed4b6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Verne verhindert eine Schlacht","english":"Brothers","hoster":["PutLocker"]},
+                {"german":"Der Familienurlaub","english":"A Family Vacation","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Rückkehr der Saurier","english":"Forward To The Past","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Jagd auf eine Hexe","english":"Witchcraft","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ferien im alten Rom","english":"Roman Holiday","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der adoptierte Sohn","english":"Go Fly A Kite","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Frosch der Inkas","english":"Time Waits For No Frog / Einstein&#039;s Adventure","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Marty als Baseballstar","english":"Batter Up!","hoster":["PutLocker"]},
+                {"german":"Abenteuer im Weltall","english":"Solar Sailors","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Weihnachten im Hochsommer","english":"Dickens Of A Christmas","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Angelwettbewerb","english":"Gone Fishin","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Wetterchaos","english":"Retired","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hochzeit im Wilden Westen","english":"Clara&#039;s Folks","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

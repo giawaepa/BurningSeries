@@ -1,0 +1,12 @@
+{
+        "series":"Futurama",
+        "seasons":6,
+        "cover":"Futurama_979ef846f0c79ee83e7d3bcc3912fa2a.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Benders Big Score","english":"Benders Big Score","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Ära des Tentakels","english":"The Beast with a Billion Backs","hoster":["PutLocker"]},
+                {"german":"Benders Game","english":"Bender&#039;s Game","hoster":["PutLocker"]},
+                {"german":"Leela und die Enzyklopoden","english":"Into the Wild Green Yonder","hoster":["PutLocker"]}
+         ]
+}

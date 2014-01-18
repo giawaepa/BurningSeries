@@ -1,0 +1,14 @@
+{
+        "series":"The IT Crowd",
+        "seasons":4,
+        "cover":"The-IT-Crowd_18ba26fab4f72050ce30de428ce1e031.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Alptraum-Handwerker","english":"From Hell","hoster":["RapidVideo"]},
+                {"german":"Richtige Männer","english":"Are We Not Men?","hoster":["RapidVideo"]},
+                {"german":"Die Triebhose","english":"Tramps Like Us","hoster":["RapidVideo"]},
+                {"german":"Die Rede","english":"The Speech","hoster":["RapidVideo"]},
+                {"german":"Das soziale Netzwerk","english":"Friendface","hoster":["RapidVideo"]},
+                {"german":"Kalender Trottel","english":"Calendar Geeks","hoster":["RapidVideo"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der verlorene Sohn",
+         "titleen":"Iceman",
+         "description":"In der Autopsie wacht einer der &#039;Patienten&#039; plötzlich auf. Es stellt sich heraus, dass dieser der Sohn von Mike Frank - Gibbs&#039; ehemaligem Mentor - ist.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"3950140/Part1_Der_verlorene_Sohn"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"3952483/Part2_Der_verlorene_Sohn"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"3952875/Part3_Der_verlorene_Sohn"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"3953447/Part4_Der_verlohrene_Sohn"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"677CF1BF6F2C062B"
+                }
+       ]
+}

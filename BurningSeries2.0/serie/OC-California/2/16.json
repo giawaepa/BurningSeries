@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Feuer",
+         "titleen":"The Blaze of Glory",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7142203/O_C_California_s02e16_Feuer_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7142221/O_C_California_s02e16_Feuer_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7142249/O_C_California_s02e16_Feuer_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7142312/O_C_California_s02e16_Feuer_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"6F5F4C1EAB4E0036"
+                }
+       ]
+}

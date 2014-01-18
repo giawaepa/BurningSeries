@@ -1,0 +1,23 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Auf eigene Faust","english":"","hoster":[]},
+                {"german":"Wer einmal lügt...","english":"","hoster":[]},
+                {"german":"Rabenmutter","english":"","hoster":[]},
+                {"german":"Unter Druck","english":"","hoster":[]},
+                {"german":"Der Verrat","english":"","hoster":[]},
+                {"german":"Am Ende der Jugend","english":"","hoster":["PutLocker"]},
+                {"german":"Schattenmann","english":"","hoster":[]},
+                {"german":"Leibwächter","english":"","hoster":[]},
+                {"german":"Begraben","english":"","hoster":[]},
+                {"german":"Genies unter sich","english":"","hoster":["PutLocker"]},
+                {"german":"Im Aus","english":"","hoster":["PutLocker"]},
+                {"german":"Himmelfahrtskommando","english":"","hoster":["PutLocker"]},
+                {"german":"Die Braut","english":"","hoster":["PutLocker"]},
+                {"german":"Das Komplott","english":"","hoster":["PutLocker"]},
+                {"german":"Die schwarze Madonna","english":"","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,20 @@
+{
+        "series":"Sekirei",
+        "seasons":1,
+        "cover":"Sekirei_85e6093f5ae05a370bb96e4a9ec5c978.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Sekirei","english":"Sekirei","hoster":["MyVideo","PutLocker"]},
+                {"german":"Tür zu einem neuen Haus","english":"Door to a New House","hoster":["PutLocker"]},
+                {"german":"Das grüne Mädchen","english":"The Green Girl","hoster":["PutLocker"]},
+                {"german":"Das Mysterium vom Izumo Inn","english":"Izumo Inn&#039;s Weird Story","hoster":["PutLocker"]},
+                {"german":"Die Wassersekirei","english":"The Water Sekirei","hoster":["PutLocker"]},
+                {"german":"Izumo Blumenkampf","english":"Izumo Inn Flower Troops","hoster":[]},
+                {"german":"Die schwarze Sekirei","english":"The Black Sekirei","hoster":["PutLocker"]},
+                {"german":"Die versiegelte Hauptstadt","english":"The Sealed Capital City","hoster":["PutLocker"]},
+                {"german":"der Schleier und der Wind","english":"Veil and Wind","hoster":["PutLocker"]},
+                {"german":"Die Nacht vor der Flucht","english":"The Night Before the Escape","hoster":["PutLocker"]},
+                {"german":"Das Verschwinden ihrer Sekirei Krone","english":"Sekirei Crest Erasure","hoster":["PutLocker"]},
+                {"german":"Die Sekirei des Schicksals","english":"Sekirei of Fate","hoster":["PutLocker"]}
+         ]
+}

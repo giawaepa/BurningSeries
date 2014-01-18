@@ -1,0 +1,33 @@
+{
+        "series":"Alle unter einem Dach",
+        "seasons":9,
+        "cover":"Alle-unter-einem-Dach_2db8eb16cd5d05a61805adfcf8c1d513.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Wer braucht hier &#039;ne Brille?","english":"To Be or Not to Be (1)","hoster":[]},
+                {"german":"Der falsche Carl","english":"To Be or Not to Be (2)","hoster":[]},
+                {"german":"Eine coole Hütte","english":"Till Death Do Us Apartment","hoster":[]},
+                {"german":"Drei Männer im Bunker","english":"The Looney Bin","hoster":[]},
+                {"german":"Ein uncooler Freund","english":"Beta Chi Guy","hoster":[]},
+                {"german":"In einer dunklen Sturmnacht","english":"Dark and Stormy Night","hoster":[]},
+                {"german":"Betrug beim Golf","english":"Par For the Course","hoster":[]},
+                {"german":"Schwimmstunden","english":"Sink or Swim","hoster":[]},
+                {"german":"Der Liebestest","english":"Paradise Bluff","hoster":[]},
+                {"german":"Blindflug nach Detroit","english":"Flying Blind","hoster":[]},
+                {"german":"Der Weihnachtsmann heißt Ben","english":"Miracle on Elm Street","hoster":[]},
+                {"german":"Die Prüfungstorte","english":"Midterm Crisis","hoster":[]},
+                {"german":"Engel mit Hosenträgern","english":"An Unlikely Match","hoster":[]},
+                {"german":"Die Kampfmaschine","english":"The Substitute Son","hoster":[]},
+                {"german":"Waffen weg!","english":"The Gun","hoster":[]},
+                {"german":"Die Hausmeister-Hochzeit","english":"Wedding Bell Blues","hoster":[]},
+                {"german":"Elvis lebt!","english":"Ain&#039;t Nothin&#039; But an Urkel","hoster":[]},
+                {"german":"Der Heldenonkel","english":"My Uncle Hero","hoster":[]},
+                {"german":"Mein dicker Leibwächter","english":"My Bodyguard","hoster":[]},
+                {"german":"Überraschung in Omaha","english":"Cheers Looking at You, Kid","hoster":[]},
+                {"german":"Is&#039; was, Doc?","english":"What&#039;s Up Doc?","hoster":[]},
+                {"german":"Traumhochzeit in Florida (1)","english":"We&#039;re Going to Disney World (1)","hoster":[]},
+                {"german":"Traumhochzeit in Florida (2)","english":"We&#039;re Going to Disney World (2)","hoster":[]},
+                {"german":"Tanz mit mir in den Morgen!","english":"They Shoot Urkels, Don&#039;t They?","hoster":[]},
+                {"german":"Umzug nach Moskau?","english":"Home Sweet Home","hoster":[]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der letzte Schritt",
+         "titleen":"Don&#039;t Lie To Me",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7035986/Die_wilden_70er_der_letzte_Schritt_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7036150/Die_wilden_70er_der_letzte_Schritt_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7036299/Die_wilden_70er_der_letzte_Schritt_3_3"
+                }
+       ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Was nun?","english":"Now What?","hoster":[]},
+                {"german":"Der Priester","english":"The Lost","hoster":[]},
+                {"german":"Liebe Abby","english":"Dear Abby","hoster":[]},
+                {"german":"Friedhofsschicht","english":"Shifts Happen","hoster":[]},
+                {"german":"Jenseits von Afrika","english":"Out of Africa","hoster":[]},
+                {"german":"Der größere Nutzen","english":"The Greater Good","hoster":[]},
+                {"german":"Steuerschuld","english":"Death and Taxes","hoster":[]},
+                {"german":"Im freien Fall","english":"Freefall","hoster":[]},
+                {"german":"Vermisst","english":"Missing","hoster":[]},
+                {"german":"Makemba","english":"Makemba","hoster":[]},
+                {"german":"Der Fehlgriff","english":"Touch and Go","hoster":[]},
+                {"german":"Am Anfang","english":"NICU","hoster":[]},
+                {"german":"Romanos Vermächtnis","english":"Get Carter","hoster":[]},
+                {"german":"Kontrollverlust","english":"Impulse Control","hoster":[]},
+                {"german":"Blutsverwandte","english":"Blood Relations","hoster":[]},
+                {"german":"Vergeben und vergessen","english":"Forgive and Forget","hoster":[]},
+                {"german":"Die Praktikantin","english":"The Student","hoster":[]},
+                {"german":"Wo Rauch ist","english":"Where There&#039;s Smoke","hoster":[]},
+                {"german":"Medizin zum Anfassen","english":"Just a Touch","hoster":[]},
+                {"german":"Abby Normal","english":"Abby Normal","hoster":[]},
+                {"german":"Mitternacht","english":"Midnight","hoster":[]},
+                {"german":"Auf der Fahrt","english":"Drive","hoster":[]}
+         ]
+}

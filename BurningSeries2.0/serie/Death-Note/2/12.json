@@ -1,0 +1,16 @@
+{ 
+         "titlede":"Übertragung",
+         "titleen":"Transfer",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"EBE6E56C2E32B778"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"8262359F01C65042"
+                }
+       ]
+}

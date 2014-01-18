@@ -1,0 +1,31 @@
+{
+        "series":"Navy CIS",
+        "seasons":9,
+        "cover":"Navy-CIS_141ca3e65244fc72f323f852248d3211.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Air Force One","english":"Yankee White","hoster":["MyVideo","PutLocker"]},
+                {"german":"Sprung in den Tod","english":"Hung Out to Dry","hoster":["PutLocker"]},
+                {"german":"Seadog","english":"Seadog","hoster":["PutLocker"]},
+                {"german":"Die Unsterblichen","english":"The Immortals","hoster":["PutLocker"]},
+                {"german":"Der Fluch der Mumie","english":"The Curse","hoster":[]},
+                {"german":"Speed","english":"High Seas","hoster":["PutLocker"]},
+                {"german":"Unter Wasser","english":"Sub Rosa","hoster":["PutLocker"]},
+                {"german":"Schlimmer als der Tod","english":"Minimum Security","hoster":["PutLocker"]},
+                {"german":"Anruf von einem Toten","english":"Marine Down","hoster":["MyVideo","PutLocker"]},
+                {"german":"Lebendig Begraben","english":"Left For Dead","hoster":["PutLocker"]},
+                {"german":"Wintersonne","english":"Eye Spy","hoster":["PutLocker"]},
+                {"german":"Ein Bein in West Virginia","english":"My Other Left Foot","hoster":["PutLocker"]},
+                {"german":"Todesschüsse","english":"One Shot, One Kill","hoster":["PutLocker"]},
+                {"german":"Der gute Samariter","english":"The Good Samaritan","hoster":["PutLocker"]},
+                {"german":"Der Colonel","english":"Enigma","hoster":["PutLocker"]},
+                {"german":"Alptraum im Keller","english":"Bete Noire","hoster":["MyVideo","PutLocker"]},
+                {"german":"Fünf Musketiere","english":"The Truth Is Out There","hoster":["MyVideo","PutLocker"]},
+                {"german":"Falsche Fährten","english":"Unsealed","hoster":["PutLocker"]},
+                {"german":"Wenn Tote sprechen","english":"Dead Man Talking","hoster":["PutLocker"]},
+                {"german":"Willkommen in der Hölle","english":"Missing","hoster":["PutLocker"]},
+                {"german":"Verbotene Waffen","english":"Split Decision","hoster":["PutLocker"]},
+                {"german":"Abgestürzt","english":"A Weak Link","hoster":["PutLocker"]},
+                {"german":"Der Terrorist","english":"Reveille","hoster":["PutLocker"]}
+         ]
+}

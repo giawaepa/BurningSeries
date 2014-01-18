@@ -1,0 +1,14 @@
+{
+        "series":"Victorious",
+        "seasons":3,
+        "cover":"Victorious_9ba78937ee288a97b90c447986b5520b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"A Christmas Tori","hoster":["PutLocker"]},
+                {"german":"","english":"The Breakfast Bunch","hoster":["PutLocker"]},
+                {"german":"","english":"The Gorilla Club","hoster":[]},
+                {"german":"","english":"The Worst Couple","hoster":[]},
+                {"german":"","english":"Andre?s Horrible Girl","hoster":[]},
+                {"german":"","english":"Car, Rain, and Fire","hoster":[]}
+         ]
+}

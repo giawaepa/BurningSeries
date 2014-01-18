@@ -1,0 +1,30 @@
+{
+        "series":"Smallville",
+        "seasons":10,
+        "cover":"Smallville_9b035bf1ed4971800a10af943bd17d18.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Gelandet!","english":"Arrival","hoster":["PutLocker"]},
+                {"german":"Ein Mensch zu sein ...","english":"Mortal","hoster":["PutLocker"]},
+                {"german":"Wiedergeburt","english":"Hidden","hoster":["PutLocker"]},
+                {"german":"Aquaman","english":"Aqua","hoster":["PutLocker"]},
+                {"german":"Schwarze Schwestern","english":"Thirst","hoster":["PutLocker"]},
+                {"german":"Verbrechen verführt","english":"Exposed","hoster":["PutLocker"]},
+                {"german":"Silberwahn","english":"Splinter","hoster":["PutLocker"]},
+                {"german":"Kryptons dunkle Seite","english":"Solitude","hoster":["PutLocker"]},
+                {"german":"Santa Clark","english":"Lexmas","hoster":["PutLocker"]},
+                {"german":"Lex gegen Jonathan","english":"Fanatic","hoster":["PutLocker"]},
+                {"german":"Zeugen der Ankunft","english":"Lockdown","hoster":["PutLocker"]},
+                {"german":"Was ich tat, tat ich aus Liebe ...","english":"Reckoning","hoster":["PutLocker"]},
+                {"german":"Nichts mehr, wie es war","english":"Vengeance","hoster":["PutLocker"]},
+                {"german":"Unruhe der Toten","english":"Tomb","hoster":["PutLocker"]},
+                {"german":"Cyborg","english":"Cyborg","hoster":["PutLocker"]},
+                {"german":"Dressiert","english":"Hypnotic","hoster":["PutLocker"]},
+                {"german":"Jenseitstrip","english":"Void","hoster":["PutLocker"]},
+                {"german":"Scherben","english":"Fragile","hoster":["PutLocker"]},
+                {"german":"Höllenspiel","english":"Mercy","hoster":["PutLocker"]},
+                {"german":"Dankbarkeitsmord","english":"Fade","hoster":["PutLocker"]},
+                {"german":"Töte ihn!","english":"Oracle","hoster":["PutLocker"]},
+                {"german":"Untergang","english":"Vessel","hoster":["PutLocker"]}
+         ]
+}

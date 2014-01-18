@@ -1,0 +1,24 @@
+{
+        "series":"Psych",
+        "seasons":6,
+        "cover":"Psych_a6900fd3ffbe74c30b48832b726da02b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Wer sucht heim den Star, der sich für super hält?","english":"American Duos","hoster":["PutLocker"]},
+                {"german":"Waren sie zur Tatzeit bereits ausgestorben?","english":"Sixty Five Million Years Off","hoster":["PutLocker"]},
+                {"german":"Duell der Hellseher","english":"Psy Vs. Psy","hoster":["PutLocker"]},
+                {"german":"Pimp My Psych","english":"Zero To Murder In Sixty Seconds","hoster":["PutLocker"]},
+                {"german":"Pferdefüße beim Pferderennen","english":"And Down The Stretch Comes Murder","hoster":["PutLocker"]},
+                {"german":"Schlecht sind die Pilze und die Hellseher kaum besser","english":"Meat Is Murder, But Murder Is Also Murder","hoster":["PutLocker"]},
+                {"german":"Wenn du so klug bist, warum bist du dann tot?","english":"If You&#039;re So Smart, Then Why Are You Dead?)","hoster":["PutLocker"]},
+                {"german":"Kinder sind unsere Zukunft ? unsere steinreiche Zukunft!","english":"Rob-A-Bye Baby","hoster":["PutLocker"]},
+                {"german":"Kopfgeldjägereien","english":"Bounty Hunters!","hoster":["PutLocker"]},
+                {"german":"Ihr Mörderlein kommet, o kommet doch all","english":"Gus&#039; Dad May Have Killed an Old Guy!","hoster":["PutLocker"]},
+                {"german":"Verrückt nach Mira","english":"There&#039;s Something About Mira","hoster":["PutLocker"]},
+                {"german":"Schatten der Rentnerschaft","english":"The Old and the Restless","hoster":["PutLocker"]},
+                {"german":"Licht, Kamera - und Mord!","english":"Lights, Camera ? Homicidio","hoster":["PutLocker"]},
+                {"german":"Lügen, Leiche und Loge","english":"Dis-Lodged","hoster":["PutLocker"]},
+                {"german":"Modeopfer de luxe","english":"Black and Tan: A Crime of Fashion","hoster":["PutLocker"]},
+                {"german":"Eine Mumie geht (und bringt) um!","english":"Shawn (and Gus) of the Dead","hoster":["PutLocker"]}
+         ]
+}

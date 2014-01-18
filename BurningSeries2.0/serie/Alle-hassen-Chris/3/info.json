@@ -1,0 +1,30 @@
+{
+        "series":"Alle hassen Chris",
+        "seasons":4,
+        "cover":"Alle-hassen-Chris_51cdef0d24b78b5050a9c0bddde6db58.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Chris hasst den Beratungslehrer","english":"Everybody hates the Guidance Counselor","hoster":[]},
+                {"german":"Chris hasst Prügeleien","english":"Everybody hates Caruso","hoster":[]},
+                {"german":"Chris hasst Autofahren","english":"Everybody hates Driving","hoster":["YouTube"]},
+                {"german":"Chris hasst Blackie","english":"Everybody hates Blackie","hoster":[]},
+                {"german":"Chris hasst sturmfreie Bude","english":"Everybody hates the Bachelor Pad","hoster":[]},
+                {"german":"Chris hasst das Schuljahrbuch","english":"Everybody hates Bed-Stuy","hoster":[]},
+                {"german":"Chris hasst Greg","english":"Everybody hates Houseguests","hoster":[]},
+                {"german":"Chris hasst Hungerlöhne","english":"Everybody hates Minimum Wage","hoster":[]},
+                {"german":"Chris hasst Lügen","english":"Everybody hates the New Kid","hoster":[]},
+                {"german":"Chris hasst Kwanzaa","english":"Everybody hates Kwanzaa","hoster":[]},
+                {"german":"Chris hasst den Busbahnhof","english":"Everybody hates the Port Authority","hoster":[]},
+                {"german":"Chris hasst Haute Cuisine","english":"Everybody hates Bad Boys","hoster":[]},
+                {"german":"Chris hasst Flaschendrehen","english":"Everybody hates the First Kiss","hoster":[]},
+                {"german":"Chris hasst Ostern","english":"Everybody hates Easter","hoster":[]},
+                {"german":"Chris hasst Eishockey","english":"Everybody hates Gretzky","hoster":[]},
+                {"german":"Chris hasst sein Praktikum","english":"Everybody hates the BFD","hoster":[]},
+                {"german":"Chris hasst Ex-Knackis","english":"Everybody hates Ex-Cons","hoster":[]},
+                {"german":"Chris hasst Recycling","english":"Everybody hates Earth Day","hoster":[]},
+                {"german":"Chris hasst coole Typen","english":"Everybody hates Being Cool","hoster":[]},
+                {"german":"Chris hasst den Schulball","english":"Everybody hates the Ninth-Grade Dance","hoster":[]},
+                {"german":"Chris hasst Muttertag","english":"Everybody hates Mother&#039;s Day","hoster":[]},
+                {"german":"Chris hasst die Zukunft","english":"Everybody hates Graduation","hoster":[]}
+         ]
+}

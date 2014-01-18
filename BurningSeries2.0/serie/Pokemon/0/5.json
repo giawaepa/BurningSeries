@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Pokemon Helden Latias und Latios",
+         "titleen":"Movie 005",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7839420/Pokemon_Film_5_Helden_Latias_und_Latios_Teil_1_7_Ger_Dub"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7839433/Pokemon_Film_5_Helden_Latias_und_Latios_Teil_2_7_Ger_Dub"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7839452/Pokemon_Film_5_Helden_Latias_und_Latios_Teil_3_7_Ger_Dub"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7839462/Pokemon_Film_5_Helden_Latias_und_Latios_Teil_4_7_Ger_Dub"
+                }
+       ]
+}

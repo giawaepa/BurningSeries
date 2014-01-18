@@ -1,0 +1,20 @@
+{ 
+         "titlede":"...dann arbeite ich eben",
+         "titleen":"Peggy Sue Got Work",
+         "description":"Peggy wünscht sich einen Videorecorder. Da Al ihr kein Geld gibt, nimmt Peggy einen Job an. Das Arbeitsleben behagt ihr gar nicht, noch mehr aber, dass Al erwartet, dass sie neben ihrem Job auch noch die Hausarbeit erledigt. Insgeheim aber wünscht er sich, dass Peggy nicht mehr arbeitet. Auch die Kinder flehen Peggy an, zu Hause zu bleiben, weil sie sie vermissen. So scheint es jedenfalls, denn die beiden wurden für ihren Auftritt bezahlt - sowohl von Al als auch von Peggy.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7435736/Eine_Schrecklich_Nette_Familie_Folge_9_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7435798/Eine_Schrecklich_Nette_Familie_Folge_9_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7435834/Eine_Schrecklich_Nette_Familie_Folge_9_Part_3"
+                }
+       ]
+}

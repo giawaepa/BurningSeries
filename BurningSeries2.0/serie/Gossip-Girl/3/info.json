@@ -1,0 +1,30 @@
+{
+        "series":"Gossip Girl",
+        "seasons":5,
+        "cover":"Gossip-Girl_f9c8cb175a5621ae8be8f5da39d9a280.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Affären der Upper East Siders","english":"Reversals of Fortune","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das College geht los","english":"The Freshman","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der verlorene Sohn","english":"The Lost Boy","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Dan De Fleurette","english":"Dan de Fleurette","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Rufus Hochzeit","english":"Rufus Getting Married","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Genug von Eva","english":"Enough about Eve","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Geisterstunde","english":"How to Succeed in Bassness","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Der Großvater, Teil 2","english":"The Grandfather: Part II","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Jagd auf Jenny","english":"They Shoot Humphreys, don&#039;t they?","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Versuchungen","english":"The Last Days of Disco Stick","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Zeit der Wahrheit","english":"The Treasure of Serena Madre","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Unter Feinden","english":"The Debarted","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Gute Zeiten, Schlechte Zeiten","english":"The Hurt Locket","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Von Müttern und Vätern","english":"The Lady Vanished","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Jungfrau und sechszehn","english":"The Sixteen Year Old Virgin","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Das Empire wackelt","english":"The Empire Strikes Jack","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Inglourious Bass-terds","english":"Inglourious Bassterds","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Dorotas Hochzeit","english":"The Unblairable Lightness of Being","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Dr. van der Woodsen","english":"Dr. Estrangeloved","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Was will Willi?","english":"It?s a Dad, Dad, Dad, Dad World","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ex-Ehemänner und -frauen","english":"Ex-Husbands and Wives","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ungewisse Zukunft","english":"Last Tango, Then Paris","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]}
+         ]
+}

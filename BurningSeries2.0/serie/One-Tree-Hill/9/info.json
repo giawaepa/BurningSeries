@@ -1,0 +1,12 @@
+{
+        "series":"One Tree Hill",
+        "seasons":9,
+        "cover":"One-Tree-Hill_2fa03b219e492507d3b23615a456128d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Know This, We&#039;ve Noticed","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"In the Room Where You Sleep","hoster":["PutLocker"]},
+                {"german":"","english":"Love The Way You Lie","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Don&#039;t You Want to Share the Guilt?","hoster":["DivxStage"]}
+         ]
+}

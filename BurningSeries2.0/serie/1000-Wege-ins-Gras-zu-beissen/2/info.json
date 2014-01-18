@@ -1,0 +1,20 @@
+{
+        "series":"1000 Wege, ins Gras zu beißen",
+        "seasons":5,
+        "cover":"1000-Wege-ins-Gras-zu-beissen_d594f972824143107e1c196ef0f8a724.png",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1","english":"Death On Arrival","hoster":[]},
+                {"german":"Episode 2","english":"Death Bites!","hoster":[]},
+                {"german":"Episode 3","english":"Up With Death","hoster":[]},
+                {"german":"Episode 4","english":"Putting a Happy Face on Death","hoster":[]},
+                {"german":"Episode 5","english":"Bringing In The Dead","hoster":[]},
+                {"german":"Episode 6","english":"Gratefully Dead","hoster":[]},
+                {"german":"Episode 7","english":"Come On, Get Deathy","hoster":[]},
+                {"german":"Episode 8","english":"Death Watch","hoster":[]},
+                {"german":"Episode 9","english":"Waking Up Dead","hoster":[]},
+                {"german":"Episode 10","english":"You&#039;re Dead! LOL!","hoster":[]},
+                {"german":"Episode 11","english":"Dead to Rights","hoster":[]},
+                {"german":"Episode 12","english":"Dead on Dead","hoster":[]}
+         ]
+}

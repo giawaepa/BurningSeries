@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Barrikade",
+         "titleen":"Episode 18",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6471058/Naruto_Shippuuden_UNCUT_Folge_18_Deutsch_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6471272/Naruto_Shippuuden_UNCUT_Folge_18_Deutsch_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6471448/Naruto_Shippuuden_UNCUT_Folge_18_Deutsch_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"470A68CC9566DCE6"
+                }
+       ]
+}

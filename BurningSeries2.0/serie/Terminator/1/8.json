@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Vicks Chip",
+         "titleen":"Vicks Chip",
+         "description":"Derek beschuldigt Cameron, den Speicherchip des T-888 nicht wie besprochen zerstört zu haben. John nutzt die Gelegenheit und hackt sich in den Chip. Er macht die Adresse einer Frau ausfindig, die im Gedächtnis des T-888 als ?Vick? gespeichert ist. Sarah und Derek dringen in das Haus der Frau ein und stellen fest, dass sie Barbara Chamberlain heißt und für die Stadt Los Angeles arbeitet. Sie finden heraus, dass Barbara an einem Programm namens ARTIE (Automated Realtime Traffic Information Exchange) arbeitet, welches über ein Faseroptik-Netzwerk funktioniert, das alles sieht und hört. Das Gehirn des Programms könnte Andys Computer sein. John schlägt vor, einen Virus zu programmieren, den Sarah und Derek auf dem Rechner im Rathaus installieren sollen. Die Überspielung löst jedoch ein Alarmsystem aus, bevor die Installation beendet ist, und Sarah und Derek müssen fliehen. John hat aber noch eine andere Idee: Er benutzt Camerons Speicherchip, um ihr Zugriff auf ARTIE zu ermöglichen und das System zu stoppen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5773880/Terminator_The_Sarah_Connor_Chronicles_S01E08_part_1_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5774068/Terminator_The_Sarah_Connor_Chronicles_S01E08_part_2_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5774297/Terminator_The_Sarah_Connor_Chronicles_S01E08_part_3_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5774514/Terminator_The_Sarah_Connor_Chronicles_S01E08_part_4_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"1FC63265CD4763E5"
+                }
+       ]
+}

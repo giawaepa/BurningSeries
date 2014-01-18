@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Oggy hat Geburtstag / Die Verwandlung / Eifersucht",
+         "titleen":"",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=OPKbZ7LuOFA"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=vgUiU2IGJ_c"
+                },{
+                        "hoster":"YouTube",
+                        "part":3,
+                        "link":"=n6ypTUkkz5Y"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"2845207/Oggy_Und_Die_Kakerlaken_EP010"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"2845724/Oggy_Und_Die_Kakerlaken_EP011"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"2847994/Oggy_Und_Die_Kakerlaken_EP012"
+                }
+       ]
+}

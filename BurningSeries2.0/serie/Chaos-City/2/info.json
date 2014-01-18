@@ -1,0 +1,32 @@
+{
+        "series":"Chaos City",
+        "seasons":6,
+        "cover":"Chaos-City_1ad3cd7b69a489f93e37c45bd58a219d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Aussetzer","english":"Paul Flew Over The Cuckoo&#039;s Nest","hoster":[]},
+                {"german":"Schmutzige Geschäfte","english":"Porn In The U.s.a.","hoster":[]},
+                {"german":"Mit Volldampf voraus","english":"Wonder Woman","hoster":[]},
+                {"german":"Triebe statt Liebe","english":"The Goodbye Girl","hoster":[]},
+                {"german":"Schwarz und Schweiß","english":"In The Heat Of The Day","hoster":[]},
+                {"german":"Das Großmaul","english":"Radio Daze","hoster":[]},
+                {"german":"Der 30. Geburtstag","english":"Thirty Year Itch","hoster":[]},
+                {"german":"TV total!","english":"My Life Is A Soap Opera","hoster":[]},
+                {"german":"Besuch von Muttern","english":"Family Affair - Part 1","hoster":[]},
+                {"german":"Täuschungsmanöver","english":"Family Affair - Part 2","hoster":[]},
+                {"german":"Von Pferden und Vätern","english":"They Shoot Horses, Don&#039;t They?","hoster":[]},
+                {"german":"Double mit Bart","english":"Miracle Near 34th Street","hoster":[]},
+                {"german":"Im Augenblick der Wahrheit","english":"Same Time Next Year","hoster":[]},
+                {"german":"Große und kleine Sorgen","english":"The Paul Lassiter Story","hoster":[]},
+                {"german":"Allein unter Frauen","english":"Gentleman&#039;s Agreement","hoster":[]},
+                {"german":"Der Fluch","english":"Deaf Man Walking","hoster":[]},
+                {"german":"Geständnisse","english":"The Marrying Man","hoster":[]},
+                {"german":"Gemischtes Doppel","english":"One Wedding And A Funeral","hoster":[]},
+                {"german":"Nur keine Hemmungen","english":"A River Runs Through Me","hoster":[]},
+                {"german":"Besuch vom Papst","english":"The Pope Of Gracie Mansion","hoster":[]},
+                {"german":"Die Nacht vor der Hochzeit","english":"Bye, Bye, Birdie","hoster":[]},
+                {"german":"Einfach zauberhaft!","english":"The Lady Or The Tiger","hoster":["PutLocker"]},
+                {"german":"Eine Stadt voller Ratten","english":"Single White Male","hoster":[]},
+                {"german":"Eine Hochzeit und ein Todesfall","english":"The Paul-bearer","hoster":[]}
+         ]
+}

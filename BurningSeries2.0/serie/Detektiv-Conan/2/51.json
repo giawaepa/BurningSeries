@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Nachtaufnahmen",
+         "titleen":"Episode 153",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=N8ZC3K3_Bp4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5525987/Detektiv_Conan_Folge_153_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5526250/Detektiv_Conan_Folge_153_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5526536/Detektiv_Conan_Folge_153_3_3"
+                }
+       ]
+}

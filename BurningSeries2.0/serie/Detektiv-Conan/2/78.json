@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Kuss der Venus",
+         "titleen":"Episode 180",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=5JRcNI0vwog"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5615951/Detektiv_Conan_Folge_180_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5616308/Detektiv_Conan_Folge_180_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5616541/Detektiv_Conan_Folge_180_3_3"
+                }
+       ]
+}

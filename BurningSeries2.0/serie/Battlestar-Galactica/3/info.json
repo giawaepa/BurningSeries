@@ -1,0 +1,28 @@
+{
+        "series":"Battlestar Galactica",
+        "seasons":4,
+        "cover":"Battlestar-Galactica_19e85954f3a2b7522194ce3f0b1a0c8d.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Okkupation","english":"Occupation","hoster":["PutLocker"]},
+                {"german":"Am Abgrund","english":"Precipice","hoster":["PutLocker"]},
+                {"german":"Exodus, Teil 1","english":"Exodus, Part 1","hoster":[]},
+                {"german":"Exodus, Teil 2","english":"Exodus, Part 2","hoster":[]},
+                {"german":"Verräter","english":"Collaborators","hoster":["PutLocker"]},
+                {"german":"Virus","english":"Torn (1)","hoster":["PutLocker"]},
+                {"german":"Immun","english":"A Measure of Salvation (2)","hoster":["PutLocker"]},
+                {"german":"Helden","english":"Hero","hoster":["PutLocker"]},
+                {"german":"Der Ring","english":"Unfinished Business","hoster":["PutLocker"]},
+                {"german":"Auftrag ausgeführt","english":"The Passage","hoster":["PutLocker"]},
+                {"german":"Das Auge des Jupiter","english":"The Eye of Jupiter (1)","hoster":["PutLocker"]},
+                {"german":"Die Supernova","english":"Rapture (2)","hoster":["PutLocker"]},
+                {"german":"Zuckerbrot und Peitsche","english":"Taking a Break from All Your Worries","hoster":["PutLocker"]},
+                {"german":"Allein gegen den Hass","english":"The Woman King","hoster":[]},
+                {"german":"Bis nächstes Jahr","english":"A Day in the Life","hoster":[]},
+                {"german":"Streik!","english":"Dirty Hands","hoster":["PutLocker"]},
+                {"german":"Ruf aus dem Jenseits","english":"Maelstrom","hoster":[]},
+                {"german":"Berufung","english":"The Son Also Rises","hoster":[]},
+                {"german":"Am Scheideweg, Teil 1","english":"Crossroads, Part 1","hoster":["PutLocker"]},
+                {"german":"Am Scheideweg, Teil 2","english":"Crossroads, Part 2","hoster":["PutLocker"]}
+         ]
+}

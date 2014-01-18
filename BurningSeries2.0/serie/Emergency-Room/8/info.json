@@ -1,0 +1,30 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Vier Wahrheiten","english":"Four Corners","hoster":["PutLocker","Sockshare"]},
+                {"german":"Fehldiagnose","english":"The Longer You Stay","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Aquarium-Manöver","english":"Blood, Sugar, Sex, Magic","hoster":["PutLocker","Sockshare"]},
+                {"german":"Bauernopfer","english":"Never Say Never","hoster":["PutLocker","Sockshare"]},
+                {"german":"Noch einmal von vorn","english":"Start All Over Again","hoster":["PutLocker","Sockshare"]},
+                {"german":"Auf Schritt und Tritt","english":"Supplies and Demands","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Todesengel","english":"If I Should Fall from Grace","hoster":["PutLocker","Sockshare"]},
+                {"german":"Fahrerflucht","english":"Partly Cloudy, Chance of Rain","hoster":["PutLocker","Sockshare"]},
+                {"german":"Quo vadis","english":"Quo Vadis?","hoster":["PutLocker","Sockshare"]},
+                {"german":"Entscheidung zu Weihnachten","english":"I&#039;ll Be Home for Christmas","hoster":["PutLocker","Sockshare"]},
+                {"german":"Unfreiwillig","english":"Beyond Repair","hoster":["PutLocker","Sockshare"]},
+                {"german":"Selbstmord oder Hinrichtung?","english":"A River in Egypt","hoster":["PutLocker","Sockshare"]},
+                {"german":"Schicksalsschlag für Greene","english":"Damage Is Done","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zwischen den Fronten","english":"A Simple Twist of Fate","hoster":["PutLocker","Sockshare"]},
+                {"german":"Galgenfrist","english":"It&#039;s All in Your Head","hoster":["PutLocker","Sockshare"]},
+                {"german":"Geheimnisse und Lügen","english":"Secrets and Lies","hoster":["PutLocker","Sockshare"]},
+                {"german":"Geborgte Zeit","english":"Bygones","hoster":["PutLocker","Sockshare"]},
+                {"german":"Am Himmel steht Orion","english":"Orion in the Sky","hoster":["PutLocker","Sockshare"]},
+                {"german":"Brüder und Schwestern","english":"Brothers and Sisters","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Brief","english":"The Letter","hoster":["PutLocker","Sockshare"]},
+                {"german":"Am Strand","english":"On the Beach","hoster":["PutLocker","Sockshare"]},
+                {"german":"Unter Quarantäne","english":"Lockdown","hoster":["PutLocker","Sockshare"]}
+         ]
+}

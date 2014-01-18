@@ -1,0 +1,30 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Shotgun","english":"","hoster":["PutLocker"]},
+                {"german":"Ausgesetzt","english":"","hoster":["PutLocker"]},
+                {"german":"Kaltblütig","english":"","hoster":["PutLocker"]},
+                {"german":"Notlandung","english":"","hoster":["PutLocker"]},
+                {"german":"Das Attentat","english":"","hoster":[]},
+                {"german":"Die verlorene Tochter","english":"","hoster":["PutLocker"]},
+                {"german":"Rache ist süß","english":"","hoster":["PutLocker"]},
+                {"german":"Bremsversagen","english":"","hoster":[]},
+                {"german":"Crash","english":"","hoster":[]},
+                {"german":"Kindersorgen","english":"","hoster":["PutLocker"]},
+                {"german":"Generalprobe","english":"","hoster":["PutLocker"]},
+                {"german":"Raubritter","english":"","hoster":["PutLocker"]},
+                {"german":"Volleystop","english":"","hoster":["PutLocker"]},
+                {"german":"Schlag zu","english":"","hoster":["PutLocker"]},
+                {"german":"Sonnenkinder","english":"","hoster":["PutLocker"]},
+                {"german":"Zwischen den Fronten","english":"","hoster":["PutLocker"]},
+                {"german":"Faule Äpfel","english":"","hoster":["PutLocker"]},
+                {"german":"Kurze Rast","english":"","hoster":["PutLocker"]},
+                {"german":"Gift","english":"","hoster":["PutLocker"]},
+                {"german":"Tödlicher Ruhm","english":"","hoster":["PutLocker"]},
+                {"german":"Schnäppchenjäger","english":"","hoster":["PutLocker"]},
+                {"german":"Leichenwagen","english":"","hoster":["PutLocker"]}
+         ]
+}

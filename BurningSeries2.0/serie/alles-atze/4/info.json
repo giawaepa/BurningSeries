@@ -1,0 +1,16 @@
+{
+        "series":"Alles Atze",
+        "seasons":6,
+        "cover":"Alles-Atze_a365bdc14aba8ab98c5db36e9b3a641b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Baby-Alarm","english":"","hoster":["PutLocker"]},
+                {"german":"Schwere Jungs","english":"","hoster":["PutLocker"]},
+                {"german":"Die türkische Braut","english":"","hoster":[]},
+                {"german":"Baggern, pritschen und versenken","english":"","hoster":[]},
+                {"german":"Dein schönster Tag","english":"","hoster":["PutLocker"]},
+                {"german":"Der Kronprinz","english":"","hoster":["PutLocker"]},
+                {"german":"Einfach irre","english":"","hoster":[]},
+                {"german":"Schröders Liste","english":"Bonus-Folge, bisher nur auf DVD veröffentlicht","hoster":["PutLocker"]}
+         ]
+}

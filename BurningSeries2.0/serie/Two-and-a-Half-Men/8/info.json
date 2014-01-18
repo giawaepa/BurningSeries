@@ -1,0 +1,24 @@
+{
+        "series":"Two and a Half Men",
+        "seasons":9,
+        "cover":"Two-and-a-Half-Men_ea46d0663909996e48ffabdbd86264fb.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Tubensahne","english":"Three Girls and a Guy Named Bud","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","UploadC"]},
+                {"german":"Eine Flasche Wein und ein Presslufthammer","english":"A Bottle of Wine and a Jackhammer","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","UploadC"]},
+                {"german":"Feuer und Flamme","english":"A Pudding-Filled Cactus","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","UploadC"]},
+                {"german":"Nutten, Nutten, Nutten","english":"Hookers, Hookers, Hookers","hoster":["PutLocker","Sockshare","Ecostream","BitShare","UploadC"]},
+                {"german":"Die Mumie schlägt zurück","english":"The Immortal Mr. Billy Joel","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","UploadC"]},
+                {"german":"Oberflächlich, eitel und seicht","english":"Twanging Your Magic Clanger","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","UploadC"]},
+                {"german":"Verrückte Weiber","english":"The Crazy Bitch Gazette","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","UploadC"]},
+                {"german":"Wolkenstürmer am Stiel","english":"Springtime on a Stick","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schöne Stunden in Zentralafrika","english":"Good Time In Central Africa","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die japanische Regenbrille","english":"Ow, Ow, Don&#039;t Stop","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Von der Hüfte abwärts tot","english":"Dead From The Waist Down","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Mann ohne Freunde","english":"Chocolate Diddlers Or My Puppy&#039;s Dead","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Stinktier, Ketchup und Hundekacke","english":"Skunk, Dog, Crap and Ketchup","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der menschliche Vulkan","english":"Lookin&#039; for Japanese Subs","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Still und Steif","english":"Three Hookers and a Philly Cheesesteak","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Dein Mann ist deine Puppe","english":"That Darn Priest","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]}
+         ]
+}

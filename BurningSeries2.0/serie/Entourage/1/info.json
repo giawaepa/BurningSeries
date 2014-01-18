@@ -1,0 +1,16 @@
+{
+        "series":"Entourage",
+        "seasons":8,
+        "cover":"Entourage_bf0bdac8ab078439059a825957b1c9b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Klassentreffen","english":"Entourage","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Kritik","english":"The Review","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Talkshow","english":"Talk Show","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein Date? Kein Problem!","english":"Date Night","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Drehbuch gefällig?","english":"The Script And The Sherpa","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der alte Mann und der Strand","english":"Busey And the Beach","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Szene","english":"The Scene","hoster":["PutLocker","RapidVideo"]},
+                {"german":"New York","english":"New York","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

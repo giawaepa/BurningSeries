@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Club der einsamen Herzen",
+         "titleen":"The Lonely Hearts Club",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7135630/O_C_California_s02e12_Der_Club_der_einsamen_Herzen_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7135674/O_C_California_s02e12_Der_Club_der_einsamen_Herzen_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7135703/O_C_California_s02e12_Der_Club_der_einsamen_Herzen_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7135796/O_C_California_s02e12_Der_Club_der_einsamen_Herzen_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"CADAF1B5AD199D44"
+                }
+       ]
+}

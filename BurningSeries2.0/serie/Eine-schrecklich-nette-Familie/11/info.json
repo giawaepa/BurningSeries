@@ -1,0 +1,32 @@
+{
+        "series":"Eine schrecklich nette Familie",
+        "seasons":11,
+        "cover":"Eine-schrecklich-nette-Familie_c1fd2e1979181b45a7c4bb6c755e10b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Windjammer","english":"Twisted","hoster":[]},
+                {"german":"Das Schuh-Inferno","english":"Children of the corns","hoster":["YouTube"]},
+                {"german":"Unschuldsengel","english":"Kelly´s gotta habit","hoster":[]},
+                {"german":"Auto am Tropf (1)","english":"Requiem for a chevyweight (1)","hoster":[]},
+                {"german":"Auto am Tropf (2)","english":"Requiem for a chevyweight (2)","hoster":[]},
+                {"german":"Ein Stück vom Kuchen","english":"Bundy thanksgiving","hoster":[]},
+                {"german":"Nie wieder Urlaub","english":"The Juggs have left the building","hoster":[]},
+                {"german":"Schreckliche Weihnachten","english":"God help ye, Merry Bundymen","hoster":[]},
+                {"german":"Ein pfundiger Geburtstag","english":"Crimes against obesity","hoster":[]},
+                {"german":"Al im Paradies","english":"The Stepford Peg","hoster":[]},
+                {"german":"Garys Gigolo","english":"Bud on the side","hoster":[]},
+                {"german":"Gnadenlos","english":"Crime and punishment","hoster":[]},
+                {"german":"Müllomania","english":"T*R*A*S*H","hoster":[]},
+                {"german":"Scheiden tut weh (1)","english":"Breaking up is easy to do (1)","hoster":[]},
+                {"german":"Scheiden tut weh (2)","english":"Breaking up is easy to do (2)","hoster":[]},
+                {"german":"Scheiden tut weh (3)","english":"Breaking up is easy to do (3)","hoster":[]},
+                {"german":"Schleiertanz","english":"Live nude Peg","hoster":[]},
+                {"german":"Kelly im Fernsehland","english":"A babe in toyland","hoster":[]},
+                {"german":"Lachfalten und Krähenfüße","english":"Birthday boy toy","hoster":[]},
+                {"german":"Teuflisch gut","english":"Damn Bundys","hoster":[]},
+                {"german":"Für Männerhände viel zu schade","english":"Lez be friends","hoster":[]},
+                {"german":"Kuhhandel","english":"The desperate half-hour","hoster":[]},
+                {"german":"Besuch aus dem Knast","english":"How to marry a moron","hoster":["MyVideo"]},
+                {"german":"Verliebt, verlobt, verratzt","english":"Chicago shoe exchange","hoster":[]}
+         ]
+}

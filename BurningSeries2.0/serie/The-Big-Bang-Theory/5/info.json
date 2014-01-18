@@ -1,0 +1,24 @@
+{
+        "series":"The Big Bang Theory",
+        "seasons":5,
+        "cover":"The-Big-Bang-Theory_e2e0d054b42e7310babc02f3d12b2fb7.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"The Skank Reflex Analysis","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Infestation Hypothesis","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Pulled Groin Extrapolation","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Wiggly Finger Catalyst","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Russian Rocket Reaction","hoster":["PutLocker"]},
+                {"german":"","english":"The Rhinitis Revelation","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Good Guy Fluctuation","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Isolation Permutation","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Ornithophobia Diffusion","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Flaming Spittoon Acquisitiom","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Speckerman Recurrance","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Shiny Trinket Maneuver","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Recombination Hypothesis","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Beta Test Initiation","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Friendship Contraction","hoster":["PutLocker"]},
+                {"german":"","english":"The Vacation Solution","hoster":["PutLocker"]}
+         ]
+}

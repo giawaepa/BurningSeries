@@ -1,0 +1,24 @@
+{
+        "series":"Doctor Who",
+        "seasons":6,
+        "cover":"Doctor-Who_afb3def19dd3034de70546d97c212148.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Fünf vor Zwölf","english":"The Eleventh Hour","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Sternenwal","english":"The Beast Below","hoster":["PutLocker","DivxStage"]},
+                {"german":"Sieg der Daleks","english":"Victory of the Daleks","hoster":["PutLocker","DivxStage"]},
+                {"german":"Zeit der Engel","english":"The Time of Angels (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Herz aus Stein","english":"Flesh and Stone (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Vampire von Venedig","english":"The Vampires of Venice","hoster":["PutLocker","DivxStage"]},
+                {"german":"Amy&#039;s Entscheidung","english":"Amy&#039;s Choice","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hungrige Erde","english":"The Hungry Earth (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kaltblütig","english":"Cold Blood (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Vincent und der Doctor","english":"Vincent and the Doctor","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Untermieter","english":"The Lodger","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Pandorica","english":"The Pandorica Opens (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der große Knall","english":"The Big Bang (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Fest der Liebe (Special)","english":"A Christmas Carol (Special)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Space (1) (Special)","hoster":["YouTube"]},
+                {"german":"","english":"Time (2) (Special)","hoster":["YouTube"]}
+         ]
+}

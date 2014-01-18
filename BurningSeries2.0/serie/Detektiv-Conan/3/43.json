@@ -1,0 +1,24 @@
+{ 
+         "titlede":"99 Serpentinen",
+         "titleen":"Episode 225",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=FP4TRoKF7VE"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5821092/Detektiv_Conan_Folge_225_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5821444/Detektiv_Conan_Folge_225_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5821740/Detektiv_Conan_Folge_225_3_3"
+                }
+       ]
+}

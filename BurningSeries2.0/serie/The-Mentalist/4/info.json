@@ -1,0 +1,21 @@
+{
+        "series":"The Mentalist",
+        "seasons":4,
+        "cover":"The-Mentalist_b499d969570af95071715644774fe7fc.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Eine harte Woche","english":"Scarlet Ribbons","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der letzte Beweis","english":"Little Red Book","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Pretty Red Balloon","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Ring Around the Rosie","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Blood and Sand","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Where in the World is Carmine O&#039;Brien","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Blinking Red Light","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Pink Tops","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Redshirt","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Fugue in Red","hoster":["Sockshare"]},
+                {"german":"","english":"Always Bet on Red","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"My Bloody Valentine","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Red Is The New Black","hoster":["PutLocker"]}
+         ]
+}

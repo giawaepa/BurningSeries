@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Episode 9",
+         "titleen":"",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5315859/Switch_Reloaded_Staffel_3_Folge_9_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5316023/Switch_Reloaded_Staffel_3_Folge_9_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5316091/Switch_Reloaded_Staffel_3_Folge_9_3_3"
+                }
+       ]
+}

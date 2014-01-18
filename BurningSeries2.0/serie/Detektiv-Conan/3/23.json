@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Mord in der ersten Reihe (1)",
+         "titleen":"Episode 205",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=yCmeesJZgf8"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5750832/Detektiv_Conan_Folge_205_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5751184/Detektiv_Conan_Folge_205_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5751476/Detektiv_Conan_Folge_205_3_3"
+                }
+       ]
+}

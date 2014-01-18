@@ -1,0 +1,31 @@
+{
+        "series":"Cold Case ? Kein Opfer ist je vergessen",
+        "seasons":7,
+        "cover":"Cold-Case-Kein-Opfer-ist-je-vergessen_d952da7f4cf1e5ddc35621c07baa7a54.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Am Rand der Gesellschaft","english":"The Badlands","hoster":["PutLocker"]},
+                {"german":"Fabrikmädchen","english":"Factory Girls","hoster":["PutLocker"]},
+                {"german":"Daniela","english":"Daniela","hoster":["PutLocker"]},
+                {"german":"Tod im Fluchttunnel","english":"The House","hoster":["PutLocker"]},
+                {"german":"Das Familiengeheimnis","english":"Who&#039;s Your Daddy","hoster":["PutLocker"]},
+                {"german":"Übernachtungsgäste","english":"The Sleepover","hoster":["PutLocker"]},
+                {"german":"Der verlorene Sohn","english":"It&#039;s Raining Men","hoster":["PutLocker"]},
+                {"german":"Hexenjagd","english":"Red Glare","hoster":["PutLocker"]},
+                {"german":"Menschenjagd","english":"Mind Hunters","hoster":["PutLocker"]},
+                {"german":"Diskretion","english":"Discretions","hoster":["PutLocker"]},
+                {"german":"Die Sekte","english":"Blank Generation","hoster":["PutLocker"]},
+                {"german":"Tödliche Wette","english":"Yo, Adrian","hoster":["PutLocker"]},
+                {"german":"Querschläger","english":"Time to Crime","hoster":["PutLocker"]},
+                {"german":"Kriegshelden","english":"Revolution","hoster":["PutLocker"]},
+                {"german":"Die Kraft der Wünsche","english":"Wishing","hoster":["PutLocker"]},
+                {"german":"Selbstjustiz","english":"Revenge","hoster":["PutLocker"]},
+                {"german":"Schadenfreude","english":"Schadenfreude","hoster":["PutLocker"]},
+                {"german":"Verhängnisvolle Sucht","english":"Ravaged","hoster":["PutLocker"]},
+                {"german":"Schwarz und Weiß","english":"Strange Fruit","hoster":["PutLocker"]},
+                {"german":"Verraten und verkauft","english":"Kensington","hoster":["PutLocker"]},
+                {"german":"Die Rocky Horror Show","english":"Creatures of the Night","hoster":["PutLocker"]},
+                {"german":"Mehr als Freundschaft","english":"Best Friends","hoster":["PutLocker"]},
+                {"german":"Der Jäger kehrt zurück","english":"The Woods","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"The Vampire Diaries",
+        "seasons":3,
+        "cover":"The-Vampire-Diaries_bb79592b7f234e95fc4c39172d8b595c.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mein liebes Tagebuch","english":"Pilot","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Nacht der Kometen","english":"The Night of the Comet","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Monster","english":"Friday Night Bites","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Gründerfest","english":"Family Ties","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Im Kerker","english":"You&#039;re Undead to Me","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Verlorene Mädchen","english":"The Lost Girls","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Heimgesucht","english":"Haunted","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"162 Kerzen","english":"162 Candles","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Geister","english":"History Repeating","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Wendepunkt","english":"The Turning Point","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Lebenslinien","english":"Bloodlines","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Zu schön, um böse zu sein","english":"Unpleasantville","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Kinder der Verdammnis","english":"Children of the Damned","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Gruft","english":"Fool Me Once","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Isobel","english":"A Few Good Men","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Haus der Vampire","english":"There Goes the Neighborhood","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Unwetter	","english":"Let the Right One In","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Unter Kontrolle","english":"Under Control","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Miss Mystic Falls","english":"Miss Mystic Falls","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Blutsbrüder","english":"Blood Brothers","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Waffe","english":"Isobel","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Feuerwerk","english":"Founder&#039;s Day","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]}
+         ]
+}

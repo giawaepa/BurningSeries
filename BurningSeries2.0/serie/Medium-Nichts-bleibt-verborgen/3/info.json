@@ -1,0 +1,30 @@
+{
+        "series":"Medium ? Nichts bleibt verborgen",
+        "seasons":7,
+        "cover":"Medium-Nichts-bleibt-verborgen_0b0e86f0a8fda0fc1c335a2ccfa7a5d6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Vier Träume (1)","english":"Four Dreams (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Vier Träume (2)","english":"Four Dreams (2)","hoster":["Sockshare"]},
+                {"german":"Der Teufelskreis","english":"Be Kind, Rewind","hoster":["PutLocker","Sockshare"]},
+                {"german":"Blutrausch","english":"Blood Relations","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Seele der Dinge","english":"Ghost in the Machine","hoster":["PutLocker","Sockshare"]},
+                {"german":"Tödlicher Instinkt","english":"Profiles in Terror","hoster":["PutLocker"]},
+                {"german":"Das Dreamteam","english":"Mother&#039;s Little Helper","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Fluch der Bösen Tat","english":"The Whole Truth","hoster":["PutLocker","Sockshare"]},
+                {"german":"Todesopfer","english":"Better Off Dead","hoster":["Sockshare"]},
+                {"german":"Puppenmorde","english":"Very Merry Maggie","hoster":["PutLocker","Sockshare"]},
+                {"german":"Träume, mein Herz","english":"Apocalypse, Push","hoster":["Sockshare"]},
+                {"german":"In den Schuhen einer Toten","english":"The One Behind the Wheel","hoster":["PutLocker","Sockshare"]},
+                {"german":"Blick in die Zukunft","english":"Second Opinion","hoster":["PutLocker","Sockshare"]},
+                {"german":"Dreimal lebenslänglich","english":"We Had a Dream","hoster":["PutLocker","Sockshare"]},
+                {"german":"Nicht anklopfen","english":"The Boy Next Door","hoster":["PutLocker","Sockshare"]},
+                {"german":"Bonbons und Dämonen","english":"Whatever Possessed You","hoster":["PutLocker","Sockshare"]},
+                {"german":"Angst um Joe","english":"Joe Day Afternoon","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hellseher-Hotline","english":"1-900-Lucky","hoster":["PutLocker","Sockshare"]},
+                {"german":"Eiskalt","english":"No One to Watch Over Me","hoster":["Sockshare"]},
+                {"german":"Um Kopf und Kragen","english":"Head Games","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wenn Köpfe rollen","english":"Heads Will Roll","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kopf hoch!","english":"Everything Comes To A Head","hoster":["PutLocker","Sockshare"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Barnaby Boys / Die Schatzsuche",
+         "titleen":"Barnaby Boys / Buried Treasure",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=E7V6wt07cvw"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=lF2mBQ9ZkZk"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6643168/Disneys_Grosse_Pause_Episode_90_Die_Barnaby_Boys"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6643097/Disneys_Grosse_Pause_Episode_91_Die_Schatzsuche"
+                }
+       ]
+}

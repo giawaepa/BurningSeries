@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Bärenjäger",
+         "titleen":"Ravenous",
+         "description":"Ein toter Marine wird im Shenandoah-Nationalpark im Kot eines Bären gefunden. Dabei stellt sich heraus, dass er nicht alleine zelten war. Wo ist seine Partnerin?",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"2519489/Navy_CIS_Baerenjaeger_part1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"2523775/Navy_CIS_Baerenjaeger_part2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"2524759/Navy_CIS_Baerenjaeger_part3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"2526383/Navy_CIS_Baerenjaeger_part4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"05A15433D2FF7BF7"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"38DF7E3400DDC3EF"
+                }
+       ]
+}

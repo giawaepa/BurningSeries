@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der falsche Fan (2)",
+         "titleen":"Episode 302",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=1zWLNWsF1hw"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=On9BY_HgZao"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6166185/Detektiv_Conan_Folge_302_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6166371/Detektiv_Conan_Folge_302_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6166598/Detektiv_Conan_Folge_302_3_3"
+                }
+       ]
+}

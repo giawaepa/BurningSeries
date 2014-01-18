@@ -1,0 +1,31 @@
+{
+        "series":"CSI: NY",
+        "seasons":8,
+        "cover":"CSI-NY_01987587a2ebb5130440caece7c6127b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Im Augenblick des Todes","english":"Blink","hoster":[]},
+                {"german":"Geschöpfe der Nacht","english":"Creatures of the Night","hoster":["PutLocker"]},
+                {"german":"Seine letzte Fahrt","english":"American Dreamers","hoster":["PutLocker"]},
+                {"german":"Todesgrüße auf Vinyl","english":"Grand Master","hoster":["PutLocker"]},
+                {"german":"Tiefes Grab","english":"A Man a Mile","hoster":["PutLocker"]},
+                {"german":"Trennungsschmerzen","english":"Outside Man","hoster":["PutLocker"]},
+                {"german":"Im Jahr des Affen","english":"Rain","hoster":["PutLocker"]},
+                {"german":"Fremde Stimmen","english":"Three Generations are Enough","hoster":["PutLocker"]},
+                {"german":"Der Heckenschütze","english":"Officer Blue","hoster":["PutLocker"]},
+                {"german":"Die Schlafwandlerin","english":"Night, Mother","hoster":["PutLocker"]},
+                {"german":"Unter Strom","english":"Tri-Borough","hoster":["PutLocker"]},
+                {"german":"Stichwunden","english":"Recycling","hoster":["PutLocker"]},
+                {"german":"Schlagkräftig","english":"Tanglewood","hoster":["PutLocker"]},
+                {"german":"Der Schlangenmensch","english":"Blood, Sweat &amp; Tears","hoster":["PutLocker"]},
+                {"german":"Tod am Altar","english":"Til Death Do We Part","hoster":["PutLocker"]},
+                {"german":"Heiße Ware","english":"Hush","hoster":[]},
+                {"german":"Absturz","english":"The Fall","hoster":[]},
+                {"german":"Tödliche Verwechslung","english":"The Dove Commission","hoster":["PutLocker"]},
+                {"german":"Doppelmord","english":"Crime and Misdemeanor","hoster":["PutLocker"]},
+                {"german":"Weißer Tod","english":"Supply and Demand","hoster":["PutLocker"]},
+                {"german":"Im Kreuzfeuer","english":"On the Job","hoster":["PutLocker"]},
+                {"german":"Seitenwechsel","english":"The Closer","hoster":["YouTube","PutLocker"]},
+                {"german":"Falscher Schein","english":"What You See is What You See","hoster":["YouTube","PutLocker"]}
+         ]
+}

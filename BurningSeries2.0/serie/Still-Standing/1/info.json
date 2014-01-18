@@ -1,0 +1,30 @@
+{
+        "series":"Still Standing",
+        "seasons":4,
+        "cover":"Still-Standing_2ea2bb7ba00d6e18ccc1a17dc5af4edc.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die neue Frisur","english":"Pilot","hoster":["YouTube","PutLocker"]},
+                {"german":"Der Bücherzirkel","english":"Still Reading","hoster":["YouTube","PutLocker"]},
+                {"german":"Klassentreffen","english":"Still in School","hoster":["YouTube","PutLocker"]},
+                {"german":"Das Geburtstagskonzert","english":"Still Rocking","hoster":["YouTube"]},
+                {"german":"Ehrenämter","english":"Still Volunteering","hoster":["YouTube"]},
+                {"german":"Footballträume","english":"Still Cheering","hoster":["YouTube"]},
+                {"german":"Männerfreundschaft","english":"Still Cheating","hoster":["YouTube"]},
+                {"german":"Familienabend","english":"Still Family","hoster":["YouTube"]},
+                {"german":"Schwiegereltern-Alarm","english":"Still Thankful","hoster":["YouTube"]},
+                {"german":"Opernabend","english":"Still Scalping","hoster":["YouTube"]},
+                {"german":"Der neue Fernseher","english":"Still Spending","hoster":["YouTube"]},
+                {"german":"Ein Kleid für Lauren","english":"Still Bullying","hoster":["YouTube"]},
+                {"german":"Good Cop - Bad Cop","english":"Still Good Cop","hoster":["YouTube"]},
+                {"german":"Sport ist Mord","english":"Still Scoring","hoster":["YouTube"]},
+                {"german":"Valentinstag","english":"Still Romancing","hoster":["YouTube"]},
+                {"german":"Judys Friseur","english":"Still Hairdressing","hoster":["YouTube"]},
+                {"german":"Bastelstunde","english":"Still Excelling","hoster":["YouTube"]},
+                {"german":"Schwestern","english":"Still Sisters","hoster":["YouTube"]},
+                {"german":"Der Männer-Bunker","english":"Still Changing","hoster":["YouTube"]},
+                {"german":"Untermieter","english":"Still Petting","hoster":["YouTube"]},
+                {"german":"Grandmas neuer Job","english":"Still Mom","hoster":["YouTube"]},
+                {"german":"Partyalarm","english":"Still Partying","hoster":["YouTube"]}
+         ]
+}

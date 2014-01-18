@@ -1,0 +1,16 @@
+{
+        "series":"Hausmeister Krause",
+        "seasons":8,
+        "cover":"Hausmeister-Krause_ee4628169cc6aaba3cd245b263b75349.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Carmen will ein Baby","english":"","hoster":["PutLocker"]},
+                {"german":"Die Kanzlerin kommt","english":"","hoster":["PutLocker"]},
+                {"german":"Dieter Balboa - Eine Frage der Ehre","english":"","hoster":["PutLocker"]},
+                {"german":"Der Triebtäter","english":"","hoster":["PutLocker"]},
+                {"german":"Das Luder","english":"","hoster":["PutLocker"]},
+                {"german":"Man lebt nur zweimal","english":"","hoster":["PutLocker"]},
+                {"german":"Voll die Bescherung","english":"","hoster":["PutLocker"]},
+                {"german":"Das Ende","english":"","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Der Musterschüler","english":"Bart Gets an F","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Karriere mit Köpfchen","english":"Simpson and Delilah","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Horror frei Haus","english":"Treehouse of Horror","hoster":["PutLocker","DivxStage","BitShare","UploadC"]},
+                {"german":"Frische Fische mit drei Augen","english":"Two Cars in Every Garage and Three Eyes on Every Fish","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Das Maskottchen","english":"Dancin&#039; Homer","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Der Wettkampf","english":"Dead Putting Society","hoster":["PutLocker","DivxStage","BitShare","UploadC"]},
+                {"german":"Bart bleibt hart","english":"Bart vs. Thanksgiving","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Der Teufelssprung","english":"Bart the Daredevil","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Das Fernsehen ist an allem schuld","english":"Itchy &amp; Scratchy &amp; Marge","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Bart kommt unter die Räder","english":"Bart Gets Hit By A Car","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die 24-Stunden-Frist","english":"One Fish, Two Fish, Blowfish, Blue Fish","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Wie alles begann","english":"The Way We Was","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Das achte Gebot","english":"Homer vs. Lisa and the 8th Commandment","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Heiratskandidat","english":"Principal Charming","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Ein Bruder für Homer","english":"Oh Brother, Where Art Thou?","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Betragen mangelhaft","english":"Bart?s Dog Gets an F","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Die Erbschaft","english":"Old Money","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Marges Meisterwerk","english":"Brush with Greatness","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Der Aushilfslehrer","english":"Lisa?s Substitute","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Kampf dem Ehekrieg","english":"The War of the Simpsons","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Drei Freunde und ein Comic-Heft","english":"Three Men and a Comic Book","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Der Lebensretter","english":"Blood Feud","hoster":["PutLocker","Sockshare","DivxStage"]}
+         ]
+}

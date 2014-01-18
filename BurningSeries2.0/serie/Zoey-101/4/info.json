@@ -1,0 +1,22 @@
+{
+        "series":"Zoey 101",
+        "seasons":4,
+        "cover":"Zoey-101_86ecef89107519802dab849cb081b6e4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Schlechtes Timing","english":"Trading Places","hoster":[]},
+                {"german":"Coco wird gefeuert","english":"Fake Roommate","hoster":[]},
+                {"german":"Alleine an der PCA","english":"Alone at PCA","hoster":[]},
+                {"german":"Das Gerücht","english":"Rumor of Love","hoster":[]},
+                {"german":"Die Mailboxnachricht","english":"Anger Management","hoster":[]},
+                {"german":"Quinn vermisst Mark","english":"Quinn Misses the Mark","hoster":[]},
+                {"german":"Lolas Spende","english":"Walk-A-Thon","hoster":[]},
+                {"german":"Vince Blake ist wieder da","english":"Vince is Back","hoster":[]},
+                {"german":"Trautes Dinner zu sechst","english":"Dinner for Two Many","hoster":[]},
+                {"german":"Illegale Kaffeegeschäfte","english":"Coffee Cart Ban","hoster":[]},
+                {"german":"Micheals Achterbahn-Phobie","english":"Roller Caster","hoster":[]},
+                {"german":"Zoey auf der Suche, Teil 1","english":"Chasing Zoey, Part 1","hoster":[]},
+                {"german":"Zoey auf der Suche, Teil 2","english":"Chasing Zoey, Part 2","hoster":[]},
+                {"german":"Es ist viel passiert","english":"PCA Confidential","hoster":[]}
+         ]
+}

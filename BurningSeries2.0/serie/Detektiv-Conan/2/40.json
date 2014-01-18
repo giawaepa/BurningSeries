@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Tödlicher Zauber (1)",
+         "titleen":"Episode 142",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=tPyBzOIJvuw"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5488066/Detektiv_Conan_Folge_142_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5488913/Detektiv_Conan_Folge_142_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5489141/Detektiv_Conan_Folge_142_3_3"
+                }
+       ]
+}

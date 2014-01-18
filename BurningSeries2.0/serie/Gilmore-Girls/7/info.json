@@ -1,0 +1,30 @@
+{
+        "series":"Gilmore Girls",
+        "seasons":7,
+        "cover":"Gilmore-Girls_7f16155ca12e6b38d5c40963a00e8818.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Abgeschossen","english":"The Long Morrow","hoster":[]},
+                {"german":"Scherbenhaufen","english":"That&#039;s What You Get, Folks, For Makin&#039; Whoopee","hoster":[]},
+                {"german":"Knigge-Girls","english":"Lorelai&#039;s First Cotillion","hoster":[]},
+                {"german":"Rein platonisch","english":"&#039;S Wonderful, &#039;S Marvelous","hoster":[]},
+                {"german":"Vergurkt noch mal!","english":"The Great Stink","hoster":[]},
+                {"german":"Essen macht fertig","english":"Go, Bulldogs!","hoster":[]},
+                {"german":"Stadt der Liebe","english":"French Twist","hoster":[]},
+                {"german":"Ausgewohnt","english":"Introducing Lorelai Planetarium","hoster":[]},
+                {"german":"Verstrickt","english":"Knit, People, Knit!","hoster":[]},
+                {"german":"Kindersegen","english":"Merry Fisticuffs","hoster":[]},
+                {"german":"Zwischen den Jahren","english":"Santa&#039;s Secret Stuff","hoster":[]},
+                {"german":"Mister Sorglos","english":"To Whom It May Concern","hoster":[]},
+                {"german":"Am offenen Herzen","english":"I&#039;d Rather Be In Philadelphia","hoster":[]},
+                {"german":"Tierisch traurig","english":"Farewell, My Pet","hoster":[]},
+                {"german":"Im Rausch vereint","english":"I&#039;m a Kayak, Hear Me Roar","hoster":[]},
+                {"german":"Schiff ahoi!","english":"Will You Be My Lorelai Gilmore?","hoster":[]},
+                {"german":"Drei und keine zu viel","english":"Gilmore Girls Only","hoster":[]},
+                {"german":"Das Frühlingslabyrinth","english":"Hay Bale Maze","hoster":[]},
+                {"german":"Ausgebremst","english":"It&#039;s Just Like Riding a Bike","hoster":[]},
+                {"german":"Für immer","english":"Lorelai? Lorelai?","hoster":[]},
+                {"german":"Die Abschlussfeier","english":"Unto The Breach","hoster":[]},
+                {"german":"Die letzte Klappe","english":"Bon Voyage","hoster":[]}
+         ]
+}

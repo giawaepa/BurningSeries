@@ -1,0 +1,31 @@
+{
+        "series":"Cold Case ? Kein Opfer ist je vergessen",
+        "seasons":7,
+        "cover":"Cold-Case-Kein-Opfer-ist-je-vergessen_d952da7f4cf1e5ddc35621c07baa7a54.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mord verjährt nicht","english":"Look Again","hoster":["PutLocker"]},
+                {"german":"Eine explosive Überraschung","english":"Gleen","hoster":["PutLocker"]},
+                {"german":"Ein Serientäter kehrt zurück","english":"Our Boy Is Back","hoster":[]},
+                {"german":"Kirchgänger","english":"Churchgoing People","hoster":["PutLocker"]},
+                {"german":"Tödlicher Streit","english":"The Runner","hoster":["PutLocker"]},
+                {"german":"Liebe ist stärker als der Tod","english":"Love Conquers Al","hoster":["PutLocker"]},
+                {"german":"Zeit des Hasses","english":"A Time to Hate","hoster":["PutLocker"]},
+                {"german":"Sprung in den Tod","english":"Fly Away","hoster":[]},
+                {"german":"Schuldgefühle","english":"Sherry Darlin&#039;","hoster":["PutLocker"]},
+                {"german":"Per Anhalter in den Tod","english":"The Hitchhiker","hoster":["PutLocker"]},
+                {"german":"Mord auf Bestellung","english":"Hubris","hoster":["PutLocker"]},
+                {"german":"Stillmans Fall","english":"Glued","hoster":["PutLocker"]},
+                {"german":"Der letzte Brief","english":"The Letter","hoster":["PutLocker"]},
+                {"german":"Der Junge im Karton","english":"Boy in the Box","hoster":["PutLocker"]},
+                {"german":"Disco Inferno","english":"Disco Inferno","hoster":["PutLocker"]},
+                {"german":"Freiwillige","english":"Volunteers","hoster":["PutLocker"]},
+                {"german":"Falscher Ehrgeiz","english":"The Lost Soul of Herman Lester","hoster":[]},
+                {"german":"Gute Vorsätze","english":"Resolutions","hoster":["PutLocker"]},
+                {"german":"Geschwisterliebe","english":"Late Returns","hoster":["PutLocker"]},
+                {"german":"Gier","english":"Greed","hoster":["PutLocker"]},
+                {"german":"Mutterinstinkt","english":"Maternal Instincts","hoster":["PutLocker"]},
+                {"german":"Der Plan","english":"The Plan","hoster":[]},
+                {"german":"Erste Liebe","english":"Lover&#039;s Lane","hoster":["PutLocker"]}
+         ]
+}

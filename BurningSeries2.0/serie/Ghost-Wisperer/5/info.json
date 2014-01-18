@@ -1,0 +1,30 @@
+{
+        "series":"Ghost Whisperer",
+        "seasons":5,
+        "cover":"Ghost-Whisperer_f4bdf6134524bd348400224dd9816f55.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Aiden","english":"Birthday Presence","hoster":["YouTube"]},
+                {"german":"Tödlicher Kettenbrief","english":"See No Evil","hoster":["YouTube"]},
+                {"german":"Für immer","english":"Till Death Do Us Part","hoster":[]},
+                {"german":"Die Herzoperation","english":"Do Over","hoster":["YouTube"]},
+                {"german":"Panikraum","english":"Cause For Alarm","hoster":["YouTube"]},
+                {"german":"Der kopflose Reiter","english":"Head Over Heels","hoster":["YouTube"]},
+                {"german":"Das Geschäft mit dem Teufel","english":"Devil&#039;s Bargain","hoster":["YouTube"]},
+                {"german":"Die Liste des Todes","english":"Dead Listing","hoster":["YouTube"]},
+                {"german":"Die Macht der Schatten","english":"Lost In The Shadows","hoster":["YouTube"]},
+                {"german":"Exzessive Kräfte","english":"Excessive Forces","hoster":["YouTube"]},
+                {"german":"Die Todesmelodie","english":"Dead Air","hoster":["YouTube"]},
+                {"german":"Auf der Flucht","english":"Blessings In Disguise","hoster":["YouTube"]},
+                {"german":"Insomnia","english":"Living Nightmare","hoster":["YouTube"]},
+                {"german":"Das Ouija-Brett","english":"Dead to Me","hoster":["YouTube"]},
+                {"german":"Implosion","english":"Implosion","hoster":["YouTube"]},
+                {"german":"Madame Greta","english":"Old Sins Cast Long Shadows","hoster":["YouTube"]},
+                {"german":"Auf dünnem Eis","english":"On Thin Ice","hoster":["YouTube"]},
+                {"german":"Tote Augen","english":"Dead Eye","hoster":[]},
+                {"german":"Das Kindermädchen","english":"Lethal Combination","hoster":[]},
+                {"german":"Blutiges Geld","english":"Blood Money","hoster":[]},
+                {"german":"Unzertrennlich","english":"Dead Ringer","hoster":[]},
+                {"german":"Die Kinder-Parade","english":"The Children&#039;s Parade","hoster":[]}
+         ]
+}

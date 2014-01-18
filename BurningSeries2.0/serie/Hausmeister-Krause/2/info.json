@@ -1,0 +1,23 @@
+{
+        "series":"Hausmeister Krause",
+        "seasons":8,
+        "cover":"Hausmeister-Krause_ee4628169cc6aaba3cd245b263b75349.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Carmen ist schwanger","english":"","hoster":["YouTube","PutLocker"]},
+                {"german":"Dackel kross süß-sauer","english":"","hoster":["YouTube"]},
+                {"german":"Der Karnevals-Coup","english":"","hoster":["PutLocker"]},
+                {"german":"Der Verräter","english":"","hoster":["PutLocker"]},
+                {"german":"Sex","english":"","hoster":["PutLocker"]},
+                {"german":"Ein Trauerfall","english":"","hoster":[]},
+                {"german":"Die Swingerparty","english":"","hoster":["PutLocker"]},
+                {"german":"Carmen zieht aus","english":"","hoster":["PutLocker"]},
+                {"german":"Der falsche Krause","english":"","hoster":["PutLocker"]},
+                {"german":"Geiseln ohne Gnade","english":"","hoster":["PutLocker"]},
+                {"german":"Die Schwule Attacke","english":"","hoster":["PutLocker"]},
+                {"german":"Der Killervirus","english":"","hoster":["PutLocker"]},
+                {"german":"Der Mörder","english":"","hoster":["PutLocker"]},
+                {"german":"Der Rivale","english":"","hoster":["PutLocker"]},
+                {"german":"Magische Pilze","english":"","hoster":["PutLocker"]}
+         ]
+}

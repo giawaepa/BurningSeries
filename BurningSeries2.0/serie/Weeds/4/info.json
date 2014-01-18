@@ -1,0 +1,21 @@
+{
+        "series":"Weeds",
+        "seasons":7,
+        "cover":"Weeds_eccc3dc026f23617b18608ae7cb24016.png",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Mother Thinks the Birds Are After Her","hoster":[]},
+                {"german":"","english":"Lady&#039;s a Charm","hoster":[]},
+                {"german":"","english":"The Whole Blah Damn Thing","hoster":[]},
+                {"german":"","english":"The Three Coolers","hoster":[]},
+                {"german":"","english":"No Man Is Pudding","hoster":[]},
+                {"german":"","english":"Excellent Treasures","hoster":[]},
+                {"german":"","english":"Yes I Can","hoster":[]},
+                {"german":"","english":"I Am the Table","hoster":[]},
+                {"german":"","english":"Little Boats","hoster":[]},
+                {"german":"","english":"The Love Circle Overlap","hoster":[]},
+                {"german":"","english":"Head Cheese","hoster":[]},
+                {"german":"","english":"&#039;Till We Meet Again","hoster":[]},
+                {"german":"","english":"If You Work for a Living, Then Why Do You Kill Yourself Working?","hoster":[]}
+         ]
+}

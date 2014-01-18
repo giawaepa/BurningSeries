@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die verschwundenen Kinder",
+         "titleen":"Episode 176",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=bAQqbU1_KgI"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5605457/Detektiv_Conan_Folge_176_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5605798/Detektiv_Conan_Folge_176_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5606168/Detektiv_Conan_Folge_176_3_3"
+                }
+       ]
+}

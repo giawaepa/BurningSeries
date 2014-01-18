@@ -1,0 +1,30 @@
+{
+        "series":"Eine schrecklich nette Familie",
+        "seasons":11,
+        "cover":"Eine-schrecklich-nette-Familie_c1fd2e1979181b45a7c4bb6c755e10b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Urlaubermörder (1)","english":"Poppy´s by the tree (1)","hoster":["YouTube"]},
+                {"german":"Die Urlaubermörder (2)","english":"Poppy´s by the tree (2)","hoster":["YouTube"]},
+                {"german":"Millionäre bevorzugt","english":"I were a rich man","hoster":["YouTube"]},
+                {"german":"Die Kastration","english":"Buck can do it","hoster":[]},
+                {"german":"Frauen wollen auch mal Spaß (1)","english":"Girls just wanna have fun (1)","hoster":["YouTube"]},
+                {"german":"Frauen wollen auch mal Spaß (2)","english":"Girls just wanna have fun (2)","hoster":["YouTube"]},
+                {"german":"Kein Anschluss unter dieser Nummer","english":"For whom the bells tolls","hoster":[]},
+                {"german":"Wer nimmt mich mit?","english":"Born to walk","hoster":["YouTube"]},
+                {"german":"Bundy gegen den Rest der Welt","english":"Alley of the dolls","hoster":[]},
+                {"german":"Bart oder nicht Bart?","english":"The razor´s edge","hoster":["YouTube"]},
+                {"german":"Die Tätowierung","english":"How do you spell revenge","hoster":[]},
+                {"german":"Frühstück mit Tiffany","english":"Earth Angel","hoster":[]},
+                {"german":"Vom Himmel hoch","english":"You better watch out","hoster":[]},
+                {"german":"Alte Zeiten","english":"Guys and Dolls","hoster":[]},
+                {"german":"Die Mausefalle","english":"Build a better mousetrap","hoster":[]},
+                {"german":"Mein Hund hat Kredit","english":"Master the possibilities","hoster":[]},
+                {"german":"Sag´s endlich!","english":"Peggy loves Al - Yeah...","hoster":[]},
+                {"german":"Wer schnarcht hier?","english":"The great Escape","hoster":[]},
+                {"german":"Finger weg von meinem Auto","english":"Im-Po-Dent","hoster":[]},
+                {"german":"Studioluft","english":"Just married ... with children","hoster":[]},
+                {"german":"Bringt mir das Geld von Al Bundy","english":"Father Lode","hoster":[]},
+                {"german":"Die fürchterlichen Verwandten","english":"All in the family","hoster":[]}
+         ]
+}

@@ -1,0 +1,17 @@
+{
+        "series":"Terminator: The Sarah Connor Chronicles",
+        "seasons":2,
+        "cover":"Terminator-The-Sarah-Connor-Chronicles_4586181bf42dda91dac6874e6b175a4chtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Gejagten","english":"Pilot","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Verräter","english":"Gnothi Seauton","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Türke","english":"The Turk","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Golem","english":"Heavy Metal","hoster":["MyVideo","PutLocker"]},
+                {"german":"Das Schachspiel","english":"Queens Gambit","hoster":["MyVideo","PutLocker"]},
+                {"german":"Von Menschen und Maschinen","english":"Dungeons &amp; Dragons","hoster":["MyVideo","PutLocker"]},
+                {"german":"Die Hand Gottes","english":"The Demon Hand","hoster":["MyVideo","PutLocker"]},
+                {"german":"Vicks Chip","english":"Vicks Chip","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Todesbote","english":"What He Beheld","hoster":["MyVideo","PutLocker"]}
+         ]
+}

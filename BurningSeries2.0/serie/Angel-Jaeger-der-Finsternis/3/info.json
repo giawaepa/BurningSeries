@@ -1,0 +1,30 @@
+{
+        "series":"Angel ? Jäger der Finsternis",
+        "seasons":5,
+        "cover":"Angel-Jäger-der-Finsternis_f5fbc189c7b71cd5c39acd5af755d0f0.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Herzflattern","english":"Heartthrob","hoster":[]},
+                {"german":"Tödliche Visionen","english":"That vision thing","hoster":[]},
+                {"german":"Meine alte Gang","english":"That old gang of mine","hoster":[]},
+                {"german":"Der Geist des Marcus","english":"Carpe noctem","hoster":[]},
+                {"german":"Fre(u)dlos","english":"Fredless","hoster":[]},
+                {"german":"Billy","english":"Billy","hoster":[]},
+                {"german":"Die Prophezeiung","english":"Offspring","hoster":[]},
+                {"german":"Auf der Flucht","english":"Quickening","hoster":[]},
+                {"german":"Wiegenlied für eine Liebe","english":"Lullaby","hoster":[]},
+                {"german":"Vaterfreuden","english":"Dad","hoster":[]},
+                {"german":"Die Qual der Wahl","english":"Birthday","hoster":[]},
+                {"german":"Rätselraten","english":"Provider","hoster":[]},
+                {"german":"Liebe und andere Schwierigkeiten","english":"Waiting in the wings","hoster":[]},
+                {"german":"Einsam, zweisam","english":"Couplet","hoster":[]},
+                {"german":"Eine Frage der Loyalität","english":"Loyalty","hoster":[]},
+                {"german":"Das Tor zur Hölle","english":"Sleep tight","hoster":[]},
+                {"german":"Vergebung","english":"Forgiving","hoster":[]},
+                {"german":"Zahltag","english":"Double or nothing","hoster":[]},
+                {"german":"Preis der Magie","english":"The price","hoster":[]},
+                {"german":"Eine neue Welt","english":"A new world","hoster":[]},
+                {"german":"Vater und Sohn","english":"Benediction","hoster":[]},
+                {"german":"Heute und morgen","english":"Tomorrow","hoster":[]}
+         ]
+}

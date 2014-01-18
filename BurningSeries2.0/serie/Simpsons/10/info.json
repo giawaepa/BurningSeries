@@ -1,0 +1,31 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Ein jeder kriegt sein Fett","english":"Lard of the Dance","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Im Schatten des Genies","english":"The Wizard of Evergreen Terrace","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bart brütet etwas aus","english":"Bart the Mother","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das unheimliche Mord-Transplantat","english":"Treehouse of Horror IX","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Kennst du berühmte Stars?","english":"When You Dish Upon a Star","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Homer ist ein toller Hippie","english":"D&#039;oh-in&#039; in the Wind","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die große Betrügerin","english":"Lisa Gets an A","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Grandpas Nieren explodieren","english":"Homer Simpson in: Kidney Trouble","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der unerschrockene Leibwächter","english":"Mayored to the Mob","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Wir fahr&#039;n nach ... Vegas","english":"Viva Ned Flanders","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Allgemeine Ausgangssperre","english":"Wild Barts Can&#039;t Be Broken","hoster":["PutLocker","DivxStage"]},
+                {"german":"Nur für Spieler und Prominente","english":"Sunday, Cruddy Sunday","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Namen machen Leute","english":"Homer to the Max","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Apu und Amor","english":"I&#039;m With Cupid","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Marge Simpson im Anmarsch","english":"Marge Simpson in: Screaming Yellow Honkers","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Es tut uns leid, Lisa!","english":"Make Room for Lisa","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Geheimnis der Lastwagenfahrer","english":"Maximum Homerdrive","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Bibelstunde, einmal anders","english":"Simpsons Bible Stories","hoster":["PutLocker","DivxStage"]},
+                {"german":"Überraschung für Springfield","english":"Mom and Pop Art","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Seid nett zu alten Leuten!","english":"The Old Man and The C Student","hoster":["PutLocker","DivxStage"]},
+                {"german":"Burns möchte geliebt werden","english":"Monty Can&#039;t Buy Me Love","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Stadt der primitiven Langweiler","english":"They Saved Lisa&#039;s Brain","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die japanische Horror-Spielshow","english":"Thirty Minutes Over Tokyo","hoster":["PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

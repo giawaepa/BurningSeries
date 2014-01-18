@@ -1,0 +1,16 @@
+{
+        "series":"Ausgesetzt in der Wildnis",
+        "seasons":7,
+        "cover":"Ausgesetzt-in-der-Wildnis_df6212bf0ba49f03423dae4acfbfae23.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Stunt über dem Everest","english":"Bear&#039;s Mission Everest","hoster":["PutLocker"]},
+                {"german":"Sahara - Skorpione zum Frühstück","english":"Sahara","hoster":["PutLocker"]},
+                {"german":"Sahara - Das Gesetz der Berber","english":"Desert Survivor","hoster":["PutLocker"]},
+                {"german":"Panama 1","english":"Panama","hoster":["PutLocker"]},
+                {"german":"Panama 2","english":"Jungle","hoster":["PutLocker"]},
+                {"german":"Patagonien 1","english":"Patagonia","hoster":["PutLocker"]},
+                {"german":"Patagonien 2","english":"Andes Adventure","hoster":["PutLocker"]},
+                {"german":"Bear isst einfach alles","english":"Bear Eats","hoster":["PutLocker"]}
+         ]
+}

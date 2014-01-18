@@ -1,0 +1,30 @@
+{
+        "series":"CSI: NY",
+        "seasons":8,
+        "cover":"CSI-NY_01987587a2ebb5130440caece7c6127b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Leiche im Labor","english":"The 34th Floor","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ihr letzter Chat","english":"Unfriendly Chat","hoster":["PutLocker","DivxStage"]},
+                {"german":"Blinde Wut","english":"Damned If You Do","hoster":["PutLocker","DivxStage"]},
+                {"german":"Blutgericht","english":"Sangre Por Sangre","hoster":["PutLocker","DivxStage"]},
+                {"german":"Blutspur","english":"Out Of The Sky","hoster":["PutLocker","DivxStage"]},
+                {"german":"Spurlos","english":"Do Not Pass Go","hoster":["PutLocker","DivxStage"]},
+                {"german":"Im Fadenkreuz","english":"Hide Sight","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Geister, die ich rief","english":"Scared Stiff (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Mantel des Schweigens","english":"Justified (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Tod im Schaufenster","english":"Shop Till You Drop","hoster":["PutLocker","DivxStage"]},
+                {"german":"Killerclown","english":"To What End?","hoster":["PutLocker","DivxStage"]},
+                {"german":"Spanisches Blut","english":"Holding Cell","hoster":["PutLocker","DivxStage"]},
+                {"german":"Partykiller","english":"Party Down","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bittere Pillen","english":"Smooth Criminal","hoster":["PutLocker","DivxStage"]},
+                {"german":"Mord nach Ansage","english":"Vigilante","hoster":["PutLocker","DivxStage"]},
+                {"german":"Maskenball","english":"The Untouchable","hoster":["PutLocker"]},
+                {"german":"Die Spur des Skorpions","english":"Do Or Die","hoster":["PutLocker"]},
+                {"german":"Abgezockt","english":"Identity Crisis","hoster":["PutLocker","DivxStage"]},
+                {"german":"Flambiert","english":"Food for Thought","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kofferleiche","english":"Nothing For Something","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kugelhagel","english":"Life Sentence","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Exit Strategy","hoster":["PutLocker"]}
+         ]
+}

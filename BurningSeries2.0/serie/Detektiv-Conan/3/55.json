@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der junge Meisterdieb (3)",
+         "titleen":"Episode 237",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=VqdWKlo5Vyw"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5859691/Detektiv_Conan_Folge_237_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5860119/Detektiv_Conan_Folge_237_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5860609/Detektiv_Conan_Folge_237_3_3"
+                }
+       ]
+}

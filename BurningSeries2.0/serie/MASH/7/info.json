@@ -1,0 +1,33 @@
+{
+        "series":"M*A*S*H",
+        "seasons":11,
+        "cover":"M-A-S-H_ba9c37303b185e8c205e7b06cbc0acda.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Kommandanten-Soße","english":"Commander Pierce","hoster":[]},
+                {"german":"Alles nur Nullen","english":"Peace On Us","hoster":[]},
+                {"german":"Eine letzte Liebe","english":"Lil","hoster":[]},
+                {"german":"Unser Bestes - Teil 1 + 2","english":"Our Finest Hour - Part 1 + 2","hoster":[]},
+                {"german":"Hilfe durch Hypnose","english":"The Billfold Syndrome","hoster":[]},
+                {"german":"Alle mögen&#039;s kühl","english":"None Like is Hot","hoster":[]},
+                {"german":"In vornehmen Kreisen","english":"They Call the Wind Korea","hoster":[]},
+                {"german":"Der Held des fernen Ostens","english":"Major Ego","hoster":[]},
+                {"german":"Klingers Kälteschock","english":"Baby, It&#039;s Cold Outside","hoster":[]},
+                {"german":"Genug des Irrsinns!","english":"Point of View","hoster":[]},
+                {"german":"Dear Comrade","english":"Der hilfreiche Spion","hoster":[]},
+                {"german":"Das Ganoven Ehrenwort","english":"Out of Gas","hoster":[]},
+                {"german":"Nektar der Rache","english":"An Eye for a Tooth","hoster":[]},
+                {"german":"Es geschehen Wunder","english":"Dear Sis","hoster":[]},
+                {"german":"Merkwürdige Patienten","english":"B.J. Papa San","hoster":[]},
+                {"german":"Inga gibt zu denken","english":"Inga","hoster":[]},
+                {"german":"Dein Pferd und Du","english":"The Price","hoster":[]},
+                {"german":"Ernie&#039;s Pizza Inferno","english":"The Young and Restless","hoster":[]},
+                {"german":"Radar hat ein Mädchen","english":"Hot Lips is Back in Town","hoster":[]},
+                {"german":"Die mutigen Helden","english":"C*A*V*E","hoster":[]},
+                {"german":"Spionagering enttarnt","english":"Rally Round the Flagg, Boys","hoster":[]},
+                {"german":"Der rettende Blinddarm","english":"Preventive Medicine","hoster":[]},
+                {"german":"Eine Nacht in Rosieland","english":"A Night at Rosie&#039;s","hoster":[]},
+                {"german":"Varianten der Liebe","english":"Ain&#039;t Love Grand","hoster":[]},
+                {"german":"Ein gigantisches Fest","english":"The Party","hoster":[]}
+         ]
+}

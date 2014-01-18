@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Auge um Auge",
+         "titleen":"Vanished",
+         "description":"Ein Farmer entdeckt einen Hubschrauber der Marines auf seinem Feld mitten in einem Kornkreis, verlassen von seiner Crew. Stecken Aliens dahinter?",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4471838/Part1_Auge_um_Auge"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4472126/Part2_Auge_um_Auge"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4472476/Part3_Auge_um_Auge"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"4472832/Part4_Auge_um_Auge"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"7762DBD520350B7C"
+                }
+       ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"So Long, Eric",
+         "titleen":"Til The Next Goodbye",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7083185/Die_wilden_70er_So_Long_Eric_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7083310/Die_wilden_70er_So_Long_Eric_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7083419/Die_wilden_70er_So_Long_Eric_3_3"
+                }
+       ]
+}

@@ -1,0 +1,26 @@
+{
+        "series":"Eureka ? Die geheime Stadt",
+        "seasons":5,
+        "cover":"Eureka-Die-geheime-Stadt_08a8ad78e757dda13dc6181775c80b11.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Martha, sei nicht zickig","english":"Bad to the Drone","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Re-Evolution","english":"What About Bob?","hoster":["PutLocker","DivxStage"]},
+                {"german":"Braver Hund!","english":"Best in Faux","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Zeitschleife","english":"I Do Over","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Fargo und Königin Nyota","english":"Show Me the Mummy","hoster":["YouTube","DivxStage"]},
+                {"german":"Captain Eureka","english":"Phased and Confused","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Sonnige Zeiten","english":"Here Come the Suns","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"In Ewigkeit Angst","english":"From Fear to Eternity","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Willkommen zurück, Carter","english":"Welcome Back, Carter","hoster":["PutLocker","DivxStage"]},
+                {"german":"Dein Gesicht oder meins?","english":"Your Face or Mine?","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die fünfte Dimension","english":"Insane in the P-Brane","hoster":["PutLocker","DivxStage"]},
+                {"german":"Es ist nicht leicht, grün zu sein","english":"It Ain&#039;t Easy Being Green","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wenn ihr gebaut habt, kommen sie","english":"If You Build It?","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Ein Schiff kommt selten allein","english":"Ship Happens","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wasser marsch!","english":"Shower the People","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Wer ist Jack?","english":"You Don&#039;t Know Jack","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Eiszeit in Eureka","english":"Have an Ice Day","hoster":["PutLocker","DivxStage"]},
+                {"german":"Nemesis","english":"What Goes Around Comes Around","hoster":["PutLocker","DivxStage","Ecostream"]}
+         ]
+}

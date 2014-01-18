@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Werbeunterbrechung",
+         "titleen":"Commercial Breaks",
+         "description":"Zack, Cody und der Rest der Bande sind ganz aufgedreht: Für einen Werbespot über das Tipton Hotel werden Darsteller gesucht. Natürlich will jeder gerne ein Star werden und schon bald fliegen die Fetzen.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=3CQwVU8IcAY"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=Qnlx077QrW4"
+                },{
+                        "hoster":"YouTube",
+                        "part":3,
+                        "link":"=gDxs12PZpGU"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6964854/Hotel_Zack_Cody_Episode_25_Werbeunterbrechungen_1_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6964856/Hotel_Zack_Cody_Episode_25_Werbeunterbrechungen_2_2"
+                }
+       ]
+}

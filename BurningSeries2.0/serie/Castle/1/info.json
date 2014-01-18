@@ -1,0 +1,18 @@
+{
+        "series":"Castle",
+        "seasons":4,
+        "cover":"Castle_7bc4559eb18712efdb6eb86c1e858f8a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Blumen für dein Grab","english":"Flowers for Your Grave","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die tote Nanny","english":"Nanny McDead","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Eliten-Clique","english":"Hedge Fund Homeboys","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Hölle kennt keine Wut","english":"Hell Hath No Fury","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gefrorenes Blut","english":"A Chill Goes Through Her Veins","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Voodoo","english":"Always Buy Retail","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Reich und tot","english":"Home Is Where The Heart Stops","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Geister","english":"Ghosts","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die verschwundene Tochter","english":"Little Girl Lost","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein Todesfall in der Familie","english":"A Death in the Family","hoster":["PutLocker"]}
+         ]
+}

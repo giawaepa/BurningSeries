@@ -1,0 +1,27 @@
+{
+        "series":"Two and a Half Men (English)",
+        "seasons":9,
+        "cover":"Two-and-a-Half-Men-English_ebc8320f754ed410607aecbe9f08f8c4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Large Birds, Spiders and Mom","hoster":["PutLocker"]},
+                {"german":"","english":"Media Room Slash Dungeon","hoster":["PutLocker"]},
+                {"german":"","english":"Dum Diddy Dum Diddy Doo","hoster":["PutLocker"]},
+                {"german":"","english":"City of Great Racks","hoster":["PutLocker"]},
+                {"german":"","english":"Putting Swim Fins on a Cat","hoster":["PutLocker"]},
+                {"german":"","english":"Help Daddy Finds his Toenail","hoster":["PutLocker"]},
+                {"german":"","english":"The Leather Gear is in the Guest Room","hoster":["PutLocker"]},
+                {"german":"","english":"Is there a Mrs. Waffles?","hoster":["PutLocker"]},
+                {"german":"","english":"Shoes, Hats Pickle Jar Lids","hoster":["PutLocker"]},
+                {"german":"","english":"Kinda Like Necrophilia","hoster":["PutLocker"]},
+                {"german":"","english":"Meander to Your Dander","hoster":["PutLocker"]},
+                {"german":"","english":"A Little Clammy and None to Fresh","hoster":["PutLocker"]},
+                {"german":"","english":"The Soil is Moist","hoster":["PutLocker"]},
+                {"german":"","english":"Winky-Dink Time","hoster":["PutLocker"]},
+                {"german":"","english":"Rough Night in Hump Junction","hoster":["PutLocker"]},
+                {"german":"","english":"Look at Me, Mommy, I&#039;m Pretty!","hoster":["PutLocker"]},
+                {"german":"","english":"Fish in a Drawer","hoster":["PutLocker"]},
+                {"german":"","english":"If My Hole Could Talk","hoster":["PutLocker"]},
+                {"german":"","english":"Waiting for the Right Snapper","hoster":["PutLocker"]}
+         ]
+}

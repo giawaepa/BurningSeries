@@ -1,0 +1,19 @@
+{
+        "series":"Heroes",
+        "seasons":4,
+        "cover":"Heroes_e41f6f87c707d19cd6da7ea27fdf0a1b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Vier Monate später...","english":"Four Months Later...","hoster":["PutLocker"]},
+                {"german":"Eidechsen","english":"Lizards","hoster":["PutLocker"]},
+                {"german":"Verwandte Seelen","english":"Kindred","hoster":[]},
+                {"german":"Der Trost von Fremden","english":"The Kindness of Strangers","hoster":["PutLocker"]},
+                {"german":"Kampf oder Flucht","english":"Fight Or Flight","hoster":["PutLocker"]},
+                {"german":"Grenzen","english":"The Line","hoster":["PutLocker"]},
+                {"german":"Zeitenwanderer","english":"Out of Time","hoster":["PutLocker"]},
+                {"german":"Vier Monate zuvor...","english":"Four Months Ago...","hoster":["PutLocker"]},
+                {"german":"Lektionen","english":"Cautionary Tales","hoster":["PutLocker"]},
+                {"german":"Im Bund mit dem Bösen","english":"Truth &amp; Consequences","hoster":["PutLocker"]},
+                {"german":"Machtlos","english":"Powerless","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,10 @@
+{
+        "series":"Knight Rider",
+        "seasons":4,
+        "cover":"Knight-Rider_9188b0ea252ebce4c306fb51cc8d4f12.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Knight Rider 2000","english":"Knight Rider 2000","hoster":[]},
+                {"german":"Knight Rider - K.I.T.T. in Gefahr!","english":"Knight Rider","hoster":["YouTube"]}
+         ]
+}

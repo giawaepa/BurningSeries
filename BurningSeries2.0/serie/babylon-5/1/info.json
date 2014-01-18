@@ -1,0 +1,31 @@
+{
+        "series":"Babylon 5",
+        "seasons":5,
+        "cover":"Babylon-5_dfb79108b56479fb5db5a8bc6ce39fff.jpeg",
+        "movies":true,
+        "episodes":[
+                {"german":"Die Zusammenkunft","english":"The Gathering","hoster":[]},
+                {"german":"Ragesh 3","english":"Midnight on the Firing Line","hoster":["YouTube","PutLocker"]},
+                {"german":"Der Seelenjäger","english":"Soul Hunter","hoster":["PutLocker"]},
+                {"german":"Die Purpurdaten","english":"Born To The Purple","hoster":["PutLocker"]},
+                {"german":"Ein unheimlicher Fund","english":"Infection","hoster":["PutLocker"]},
+                {"german":"Angriff auf G&#039;Kar","english":"The Parliament Of Dreams","hoster":["PutLocker"]},
+                {"german":"Die Macht des Geistes","english":"Mind War","hoster":["PutLocker"]},
+                {"german":"Angriff auf die Außerirdischen","english":"The War Prayer","hoster":["PutLocker"]},
+                {"german":"Gefangen im Cybernetz","english":"And The Sky Full Of Stars","hoster":["PutLocker"]},
+                {"german":"Die Todesbringerin","english":"Deathwalker","hoster":["PutLocker"]},
+                {"german":"Die Gläubigen","english":"Believers","hoster":["PutLocker"]},
+                {"german":"Ein Wiedersehen mit Folgen","english":"Survivors","hoster":["PutLocker"]},
+                {"german":"Mit allen Mitteln...","english":"By Any Means Necessary","hoster":["PutLocker"]},
+                {"german":"Visionen des Schreckens","english":"Signs And Portents","hoster":["PutLocker"]},
+                {"german":"Im Ring des Blutes","english":"TKO","hoster":["PutLocker"]},
+                {"german":"Der Gral","english":"Grail","hoster":["PutLocker"]},
+                {"german":"Die Untersuchung","english":"Eyes","hoster":["PutLocker"]},
+                {"german":"Krieger wider Willen","english":"Legacies","hoster":["PutLocker"]},
+                {"german":"Angriff der Aliens (Teil 1)","english":"A Voice In The Wilderness (1)","hoster":["PutLocker"]},
+                {"german":"Angriff der Aliens (Teil 2)","english":"A Voice In The Wilderness (2)","hoster":["PutLocker"]},
+                {"german":"Verloren in der Zeit","english":"Babylon Squared","hoster":["PutLocker"]},
+                {"german":"Die Heilerin","english":"The Quality Of Mercy","hoster":["PutLocker"]},
+                {"german":"Chrysalis","english":"Chrysalis","hoster":["PutLocker"]}
+         ]
+}

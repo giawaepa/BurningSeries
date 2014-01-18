@@ -1,0 +1,15 @@
+{
+        "series":"Family Guy",
+        "seasons":10,
+        "cover":"Family-Guy_1ef52f1420d3e2b6e6e4159f2a83c30a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der großzügige Wohlfahrtsscheck","english":"Death Has a Shadow","hoster":["PutLocker","Sockshare","Ecostream","BitShare","UploadC"]},
+                {"german":"Der verhängnisvolle Autounfall","english":"I Never Met the Dead Man","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Stewies erster Geburtstag","english":"Chitty Chitty Death Bang","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Die Zeitmaschine","english":"Mind Over Murder","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Der Held von nebenan","english":"A Hero Sits Next Door","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Nie mehr Pfadfinder","english":"The Son Also Draws","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream"]},
+                {"german":"Das Leben des Brian","english":"Brian: Portrait of a Dog","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream"]}
+         ]
+}

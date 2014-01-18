@@ -1,0 +1,28 @@
+{
+        "series":"Big Time Rush",
+        "seasons":2,
+        "cover":"Big-Time-Rush_a78b9290d616a918c3fb9a958b037d0c.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Big Time - Casting (1)","english":"Big Time Audition (1)","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Big Time - Casting (2)","english":"Big Time Audition (2)","hoster":["MyVideo","PutLocker"]},
+                {"german":"Big Time - Neue Bude","english":"Big Time Crib","hoster":["YouTube","MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Big Time - School of Rocque","english":"Big Time School of Rocque","hoster":["MyVideo","PutLocker"]},
+                {"german":"Big Time - Bad Boy","english":"Big Time Bad Boy","hoster":["YouTube","MyVideo"]},
+                {"german":"Big Time - Verliebt","english":"Big Time Love Song","hoster":["PutLocker"]},
+                {"german":"Big Time - Villa","english":"Big Time Mansion","hoster":["MyVideo","Sockshare"]},
+                {"german":"Big Time - Foto Shooting","english":"Big Time Photo Shoot","hoster":["MyVideo","Sockshare"]},
+                {"german":"Big Time - Auszeit","english":"Big Time Break","hoster":["MyVideo","Sockshare"]},
+                {"german":"Big Time - Fast halb da","english":"Big Time Demos","hoster":["MyVideo","Sockshare"]},
+                {"german":"Big Time - Partyspaß","english":"Big Time Party","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Big Time - Schadenersatz","english":"Big Time Jobs","hoster":["YouTube","RapidVideo"]},
+                {"german":"Big Time - Blogger","english":"Big Time Blogger","hoster":["YouTube"]},
+                {"german":"Big Time - Horror","english":"Big Time Terror","hoster":["YouTube","MyVideo"]},
+                {"german":"Big Time - Schulparty","english":"Big Time Dance","hoster":["YouTube","RapidVideo"]},
+                {"german":"Big Time - Duett","english":"Big Time Sparks","hoster":["YouTube","RapidVideo"]},
+                {"german":"Big Time - Hollywood-Fieber","english":"Big Time Fever","hoster":["MyVideo"]},
+                {"german":"Big Time - Musikvideo","english":"Big Time Video","hoster":["YouTube"]},
+                {"german":"Big Time - Konzert (1)","english":"Big Time Concert (1)","hoster":["YouTube"]},
+                {"german":"Big Time - Konzert (2)","english":"Big Time Concert (2)","hoster":["YouTube"]}
+         ]
+}

@@ -1,0 +1,13 @@
+{
+        "series":"Babylon 5",
+        "seasons":5,
+        "cover":"Babylon-5_dfb79108b56479fb5db5a8bc6ce39fff.jpeg",
+        "movies":true,
+        "episodes":[
+                {"german":"Der erste Schritt","english":"In the Beginning","hoster":[]},
+                {"german":"Das Tor zur 3. Dimnsion","english":"Thirdspace","hoster":["PutLocker"]},
+                {"german":"Der Fluss der Seelen","english":"The River of Souls","hoster":[]},
+                {"german":"Waffenbrüder","english":"A Call to Arms","hoster":[]},
+                {"german":"Legenden der Ranger","english":"The Legend of the Rangers: To Live and Die in Starlight","hoster":[]}
+         ]
+}

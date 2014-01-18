@@ -1,0 +1,30 @@
+{
+        "series":"Buffy ? Im Bann der Dämonen",
+        "seasons":7,
+        "cover":"Buffy-Im-Bann-der-Daemonen_2390181eb7a9fad2f38e699ee61e40e3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Alles auf Anfang","english":"Lessons","hoster":["RapidVideo"]},
+                {"german":"Das Monster aus der Tiefe","english":"Beneath You","hoster":["RapidVideo"]},
+                {"german":"Willows Welt","english":"Same Time, Same Place","hoster":["RapidVideo"]},
+                {"german":"Hilflos","english":"Help","hoster":["RapidVideo"]},
+                {"german":"Wandlungen","english":"Selfless","hoster":["RapidVideo"]},
+                {"german":"Liebesbeweise","english":"Him","hoster":["RapidVideo"]},
+                {"german":"Gespräche mit Toten","english":"Conversations with Dead People","hoster":["RapidVideo"]},
+                {"german":"Unschuldig Schuldig","english":"Sleeper","hoster":["RapidVideo"]},
+                {"german":"Boten des Bösen","english":"Never Leave Me","hoster":["RapidVideo"]},
+                {"german":"Wenn die Nacht beginnt","english":"Bring on the Night","hoster":["RapidVideo"]},
+                {"german":"Showtime","english":"Showtime","hoster":["RapidVideo"]},
+                {"german":"Die Anwärterin","english":"Potential","hoster":["RapidVideo"]},
+                {"german":"Die Mörder in mir","english":"The Killer in Me","hoster":["RapidVideo"]},
+                {"german":"Das Erste Date","english":"First Date","hoster":["RapidVideo"]},
+                {"german":"Das Angebot","english":"Get It Done","hoster":["RapidVideo"]},
+                {"german":"Der Geschichtenerzähler","english":"Storyteller","hoster":["RapidVideo"]},
+                {"german":"Mütter und Söhne","english":"Lies My Parents Told Me","hoster":["RapidVideo"]},
+                {"german":"Caleb","english":"Dirty Girls","hoster":["RapidVideo"]},
+                {"german":"... und raus bist Du","english":"Empty Places","hoster":["RapidVideo"]},
+                {"german":"Die Quelle der Mache","english":"Touched","hoster":["RapidVideo"]},
+                {"german":"Das Ende der Zeit, Teil 1","english":"End of Days","hoster":["RapidVideo"]},
+                {"german":"Das Ende der Zeit, Teil 2","english":"Chosen","hoster":["RapidVideo"]}
+         ]
+}

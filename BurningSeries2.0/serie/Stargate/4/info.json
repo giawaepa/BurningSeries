@@ -1,0 +1,30 @@
+{
+        "series":"Stargate SG-1",
+        "seasons":10,
+        "cover":"Stargate-SG-1_6b5b9978ee26b1880a53c96bc53f8c10.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Nemesis, Teil 2","english":"Small Victories (2)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die andere Seite der Medaille","english":"The Other Side","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Vermächtnis der Ataniker","english":"Upgrades","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Shan&#039;Aucs Opfer","english":"Crossroads","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gipfeltreffen","english":"Divide and Conquer","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kein Ende in Sicht","english":"Window of Opportunity","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Planet des Wassers","english":"Watergate","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Unas","english":"The First Ones","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Enkaraner","english":"Scorched Earth","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Planet der Eiszeit","english":"Beneath the Surface","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kein Zurück","english":"Point of No Return","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Rettung im All","english":"Tangent","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Rückkehr der Osiris","english":"The Curse","hoster":["PutLocker"]},
+                {"german":"Die Verhinderte Allianz","english":"The Serpent&#039;s Venom","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kettenreaktion","english":"Chain Reaction","hoster":["PutLocker"]},
+                {"german":"2010","english":"2010","hoster":["PutLocker"]},
+                {"german":"Unbegrenztes Wissen","english":"Absolute Power","hoster":["PutLocker"]},
+                {"german":"Das Licht","english":"The Light","hoster":["PutLocker"]},
+                {"german":"Das Wunder","english":"Prodigy","hoster":["PutLocker"]},
+                {"german":"Die Falsche Wahl","english":"Entity","hoster":["PutLocker"]},
+                {"german":"Doppelter Einsatz","english":"Double Jeopardy","hoster":["PutLocker"]},
+                {"german":"Exodus","english":"Exodus (1)","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Cougar Town",
+        "seasons":2,
+        "cover":"Cougar-Town_0b6953cc038e95743776c9b40e7e0df9.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Riesenweltuntergang","english":"All Mixed Up","hoster":["PutLocker"]},
+                {"german":"Abschied ist schwer","english":"Let Yourself Go","hoster":["PutLocker"]},
+                {"german":"Jules allein zu Haus","english":"Makin? Some Noise","hoster":["PutLocker"]},
+                {"german":"Schluck das Schwert","english":"The Damage You&#039;ve Done","hoster":["PutLocker"]},
+                {"german":"Keine Alimente mehr","english":"Keeping Me Alive","hoster":["PutLocker"]},
+                {"german":"Wieso sollte er mich hassen?","english":"You Don&#039;t Know How It Feels","hoster":["PutLocker"]},
+                {"german":"Die üblichen Verdächtigen","english":"Fooled Again (I Don&#039;t Like It)","hoster":["PutLocker"]},
+                {"german":"Die neue Freundin","english":"Little Girl Blues","hoster":["PutLocker"]},
+                {"german":"Andy, der Optimist","english":"When the Time Comes","hoster":["PutLocker"]},
+                {"german":"Ein Zuhause, das braucht jeder","english":"The Same Old You","hoster":["PutLocker"]},
+                {"german":"Der Tierfriedhof","english":"No Reason to Cry","hoster":["PutLocker"]},
+                {"german":"Waschbär zu Besuch","english":"A Thing About You","hoster":["PutLocker"]},
+                {"german":"Sardinen in der Dose","english":"Lost Children","hoster":["PutLocker"]},
+                {"german":"Was Frauen wollen","english":"Cry to Me","hoster":["PutLocker"]},
+                {"german":"Ausgrabungsarbeiten","english":"Walls","hoster":["PutLocker"]},
+                {"german":"Nervenaufreibende Nächte","english":"Baby?s a Rock ?N? Roller","hoster":["PutLocker"]},
+                {"german":"Das Golfturnier","english":"You?re Gonna Get It","hoster":["PutLocker"]},
+                {"german":"Wohnungstausch","english":"Lonesome Showdown","hoster":["PutLocker"]},
+                {"german":"Die lieben Verwandten","english":"Damaged by Love","hoster":["PutLocker"]},
+                {"german":"Kinder des Zorns","english":"Free Fallin?","hoster":["PutLocker"]},
+                {"german":"Auf und davon ? Teil 1","english":"Something Good Coming (1)","hoster":["PutLocker"]},
+                {"german":"Ablenkungsmethoden ? Teil 2","english":"Something Good Coming (2)","hoster":["PutLocker"]}
+         ]
+}

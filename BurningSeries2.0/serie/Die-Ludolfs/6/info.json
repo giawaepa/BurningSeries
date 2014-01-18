@@ -1,0 +1,17 @@
+{
+        "series":"Die Ludolfs ? 4 Brüder auf&#039;m Schrottplatz",
+        "seasons":8,
+        "cover":"Die-Ludolfs-4-Brueder-auf-m-Schrottplatz_7ba678b4ad0cf41bab5e69183b76d4f3.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Daddy Cool","english":"","hoster":["PutLocker"]},
+                {"german":"Rocket Manni","english":"","hoster":["PutLocker"]},
+                {"german":"Ei, Ei, Ei - Die Ludolfs","english":"","hoster":[]},
+                {"german":"Schatzsuche im Westerwald","english":"","hoster":[]},
+                {"german":"Das Seifenkistenrennen","english":"","hoster":[]},
+                {"german":"Die Ehre der Ludolfs","english":"","hoster":[]},
+                {"german":"Super Cooper","english":"","hoster":["PutLocker"]},
+                {"german":"Die Führerscheinprüfung","english":"","hoster":["PutLocker"]},
+                {"german":"Die 13 schönsten Momente (Best-Of)","english":"","hoster":["PutLocker"]}
+         ]
+}

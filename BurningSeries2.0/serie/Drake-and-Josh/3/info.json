@@ -1,0 +1,28 @@
+{
+        "series":"Drake &amp; Josh",
+        "seasons":4,
+        "cover":"Drake-Josh_4641eaa9bacd6e8baff66898514f6ae3.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Pension Drake &amp; Josh","english":"The Drake and Josh Inn","hoster":[]},
+                {"german":"Powerpfeffer aus Peru","english":"Peruvian Puff Pepper","hoster":[]},
+                {"german":"Andere Länder andere Sitten","english":"We&#039;re Married","hoster":[]},
+                {"german":"Die heimliche Freundin","english":"Mindy&#039;s Back","hoster":[]},
+                {"german":"Dad auf Abwegen","english":"The Affaire","hoster":[]},
+                {"german":"Mädchen und andere Sorgen","english":"Playing the Field","hoster":[]},
+                {"german":"Operation Helen","english":"Helen&#039;s Surgery","hoster":[]},
+                {"german":"Dr. Drake, bitte in den OP","english":"Paging Dr. Drake","hoster":[]},
+                {"german":"Die erste Begegnung","english":"The Foam Finger","hoster":[]},
+                {"german":"Frauenpower","english":"Girl Power","hoster":[]},
+                {"german":"Booob, das Schaf","english":"Sheep Thrills","hoster":[]},
+                {"german":"Der neue Lehrer","english":"Megan&#039;s new Teacher","hoster":[]},
+                {"german":"Der Schulfrischling","english":"Little Sibling","hoster":[]},
+                {"german":"Der Kinogangster","english":"Theater Thug","hoster":[]},
+                {"german":"Papa Nichols und die Achterbahn","english":"The Demonator","hoster":[]},
+                {"german":"Aliens greifen an","english":"Alien Invasion","hoster":[]},
+                {"german":"Die Fernsehpsychologin","english":"Dr. Phyllis Show","hoster":[]},
+                {"german":"Drake &amp; Josh unterwegs nach Hollywood, Teil 1","english":"Drake &amp; Josh Go Hollywood, Part 1","hoster":["PutLocker"]},
+                {"german":"Drake &amp; Josh unterwegs nach Hollywood, Teil 2","english":"Drake &amp; Josh Go Hollywood, Part 2","hoster":[]},
+                {"german":"Drake &amp; Josh unterwegs nach Hollywood, Teil 3","english":"Drake &amp; Josh Go Hollywood, Part 3","hoster":[]}
+         ]
+}

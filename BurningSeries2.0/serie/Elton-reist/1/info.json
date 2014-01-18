@@ -1,0 +1,14 @@
+{
+        "series":"Elton reist",
+        "seasons":1,
+        "cover":"Elton-reist_56a4a96a6ac5cab5718b9a79f2ccaefdhtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Elton Reist - Spanien","english":"","hoster":["PutLocker","MySpass"]},
+                {"german":"Elton Reist - Thailand","english":"","hoster":["PutLocker","MySpass"]},
+                {"german":"Elton Reist - Frankreich","english":"","hoster":["PutLocker","MySpass"]},
+                {"german":"Elton Reist - England","english":"","hoster":["PutLocker","MySpass"]},
+                {"german":"Elton Reist - Niederlande","english":"","hoster":["PutLocker","MySpass"]},
+                {"german":"Elton Reist - Finnland","english":"","hoster":["PutLocker","MySpass"]}
+         ]
+}

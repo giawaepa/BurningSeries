@@ -1,0 +1,30 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Es lebe die Seekuh!","english":"The Bonfire of the Manatees","hoster":["PutLocker","DivxStage"]},
+                {"german":"Angst essen Seele auf","english":"The Girl Who Slept Too Little","hoster":["DivxStage"]},
+                {"german":"Milhouse aus Sand und Nebel","english":"Milhouse of Sand and Fog","hoster":["PutLocker","DivxStage"]},
+                {"german":"B.I.: Bartificial Intelligence","english":"Treehouse of Horror XVI","hoster":["PutLocker","DivxStage"]},
+                {"german":"Mamas kleiner Liebling","english":"Marge&#039;s Son Poisoning","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Sicherheitssalamander","english":"See Homer Run","hoster":["PutLocker","DivxStage"]},
+                {"german":"Marge und der Frauen-Club","english":"The Last of the Red Hat Mamas","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der italienische Bob","english":"The Italian Bob","hoster":["PutLocker","DivxStage"]},
+                {"german":"Simpsons Weihnachtsgeschichten","english":"Simpsons Christmas Stories","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wer ist Homers Vater?","english":"Homer&#039;s Paternity Coot","hoster":["PutLocker"]},
+                {"german":"Die Straße der Verdammten","english":"We&#039;re on the Road to D&#039;ohwhere","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein perfekter Gentleman","english":"My Fair Laddy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die scheinbar unendliche Geschichte","english":"The Seemingly Never-Ending Story","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bart hat zwei Mütter","english":"Bart Has Two Mommies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Frauentausch","english":"Homer Simpson, This is Your Wife","hoster":["PutLocker","DivxStage"]},
+                {"german":"Corrida de Toro","english":"Million Dollar Abie","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kiss, Kiss Bang Bangalore","english":"Kiss Kiss, Bang Bangalore","hoster":["PutLocker","DivxStage"]},
+                {"german":"Drei nasse Geschichten","english":"The Wettest Stories Ever Told","hoster":["PutLocker","DivxStage"]},
+                {"german":"Gleichung mit einem Unbekannten","english":"Girls Just Want to Have Sums","hoster":["PutLocker","DivxStage"]},
+                {"german":"Selig sind die Unwissenden","english":"Regarding Margie","hoster":["PutLocker","DivxStage"]},
+                {"german":"Gott gegen Lisa Simpson","english":"The Monkey Suit","hoster":["PutLocker","DivxStage"]},
+                {"german":"Homerun für die Liebe","english":"Marge and Homer Turn a Couple Play","hoster":["PutLocker","DivxStage"]}
+         ]
+}

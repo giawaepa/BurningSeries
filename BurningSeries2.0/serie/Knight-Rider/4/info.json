@@ -1,0 +1,30 @@
+{
+        "series":"Knight Rider",
+        "seasons":4,
+        "cover":"Knight-Rider_9188b0ea252ebce4c306fb51cc8d4f12.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"K.I.T.T.s Unfall mit Folgen (Teil 1)","english":"Knight Of The Juggernaut (1)","hoster":["PutLocker"]},
+                {"german":"K.I.T.T.s Unfall mit Folgen (Teil 2)","english":"Knight Of The Juggernaut (2)","hoster":["PutLocker"]},
+                {"german":"Kidnapping","english":"KITTnap","hoster":["PutLocker"]},
+                {"german":"Die Flugzeugentführung","english":"Sky Knight","hoster":["PutLocker"]},
+                {"german":"Die heilige Grabstätte","english":"Burial Ground","hoster":["PutLocker"]},
+                {"german":"Aus Spaß wird bitterer Ernst","english":"The Wrong Crowd","hoster":["PutLocker"]},
+                {"german":"Tödliche Bakterien","english":"Knight Sting","hoster":["PutLocker"]},
+                {"german":"Herzlichen Glückwunsch","english":"Many Happy Returns","hoster":["PutLocker"]},
+                {"german":"Der Tod fährt mit","english":"Knight Racer","hoster":["PutLocker"]},
+                {"german":"Knight hinter Gittern","english":"Knight Behind Bars","hoster":["PutLocker"]},
+                {"german":"Die Bodenspekulanten","english":"Knight Song","hoster":["PutLocker"]},
+                {"german":"Duft einer Rose","english":"The Scent Of Roses","hoster":["PutLocker"]},
+                {"german":"Killer K.I.T.T.","english":"Killer K.I.T.T.","hoster":["PutLocker"]},
+                {"german":"Wie die Axt im Walde","english":"Out Of The Woods","hoster":["PutLocker"]},
+                {"german":"Zauberspiele","english":"Deadly Knightshade","hoster":["PutLocker"]},
+                {"german":"Die Boxmeisterschaft","english":"Redemption Of A Champion","hoster":["PutLocker"]},
+                {"german":"Wer andern eine Grube gräbt","english":"Knight Of A Thousand Devils","hoster":["PutLocker"]},
+                {"german":"Der Brandstifter","english":"Hills Of Fire","hoster":["PutLocker"]},
+                {"german":"Der Militärputsch","english":"Knight Flight To Freedom","hoster":["PutLocker"]},
+                {"german":"Der unheimliche Mönch","english":"Fright Knight","hoster":["PutLocker"]},
+                {"german":"Der japanische Geheimbund","english":"Knight Of The Rising Sun","hoster":["PutLocker"]},
+                {"german":"Der geheimnisvolle Ohrclip","english":"Voo Doo Knight","hoster":["PutLocker"]}
+         ]
+}

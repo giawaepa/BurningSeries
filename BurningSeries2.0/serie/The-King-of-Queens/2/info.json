@@ -1,0 +1,33 @@
+{
+        "series":"The King of Queens",
+        "seasons":9,
+        "cover":"The-King-of-Queens_bbc35c6d9ebd3e1bdb5e304bbb42d956.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Born to be Wild","english":"Queasy Rider","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die beste Freundin","english":"Female Problems","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Unwichtiges in Klammern gesetzt","english":"Assaulted Nuts","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Rabenpaten","english":"Parent Trapped","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Späte Rache","english":"Tube Stakes","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Gib dem Affen Zucker","english":"Doug Out","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Adam, Eva und Apfel","english":"Get Away","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Schöne Aussichten","english":"Dire Strayts","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Ein heißer Typ","english":"I, Candy","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Spence zieht aus","english":"Roamin&#039; Holiday","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Bowlingkrieg","english":"Sparing Carrie","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Aktienfieber","english":"Net Prophets","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Voll daneben","english":"Party Favor","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Spiele von gestern","english":"Block Buster","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Heiß und kalt","english":"Frozen Pop","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Fair Play","english":"Fair Game","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Doug trifft Carrie","english":"Meet By-Product","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Paarweise","english":"The Shmenkmans","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Geburtstagskind gesucht","english":"Surprise Artie","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Lügen haben schlechte Karten","english":"Wild Cards","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Patenbruder","english":"Big Dougie","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Dumm gelaufen","english":"Soft Touch","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Kapernkrieg","english":"Restaurant Row","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Liebesgrüße aus dem Schuhkarton","english":"Flower Power","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Traumurlaub","english":"Whine Country","hoster":["YouTube","MyVideo","PutLocker"]}
+         ]
+}

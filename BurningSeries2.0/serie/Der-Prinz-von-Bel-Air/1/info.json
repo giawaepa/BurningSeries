@@ -1,0 +1,33 @@
+{
+        "series":"Der Prinz von Bel Air",
+        "seasons":6,
+        "cover":"Der-Prinz-von-Bel-Air_8852ec7f531d3cc12b2010591068939f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Will kommt nach Bel-Air","english":"Pilot","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Schlagzeug-Stunden","english":"Bang The Drum Ashley","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Gentleman oder Gangster","english":"Clubba Hubba","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Nicht mit meinem Schwein","english":"Not With My Pig, You Don´t","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Besuch aus Philadelphia","english":"Homeboy, Sweet Homeboy","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Die Automarder","english":"Mistaken Identity","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Der Klub der tauben Dichter","english":"Def Poets Society","hoster":["MyVideo","PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Die Wette (I)","english":"Someday Your Prince Will Be In E...","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Die Wette (II)","english":"Someday Your Prince Will Be In E...","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Küsse meinen Butler","english":"Kiss My Butler","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Das Ein-Mann-Team","english":"Courting Disaster","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Verkohltes Fest","english":"Talking Turkey","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Wissen ist Macht","english":"Knowledge Is Power","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Die Grusel-Schule","english":"Day Damn One","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Oh Plastikbaum ...","english":"Deck the Walls","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Gastspiel an der Börse","english":"Lucky Charm","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Schwarze Geschichte","english":"The Ethnic Tip","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Oma Hattie voll drauf","english":"The Young And The Restless","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Wie behandelt man eine Frau?","english":"It Had To Be You","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Lady auf Abwegen","english":"Nice Lady","hoster":["MyVideo","PutLocker","Sockshare","BitShare"]},
+                {"german":"Liebe und Streit","english":"Love at First Fight","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Billard","english":"Banks Shot","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"72 Stunden","english":"72 Hours","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Ein genialer Plan","english":"Working It Out","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Der Kinderstar","english":"Just Infatuation","hoster":["PutLocker","Sockshare","BitShare","UploadC"]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Ein Fall für drei",
+         "titleen":"Fight Back",
+         "description":"Willie hat Kummer mit seinem Auto. Kaum aus der Werkstatt zurück, ist eine neue Reparatur fällig. Sollte der Mechaniker dabei seine Hand im Spiel haben? Die Tanners entwerfen einen Kriegsplan.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6814341/ALF_Ein_Fall_fuer_drei_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6814398/ALF_Ein_Fall_fuer_drei_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6814441/ALF_Ein_Fall_fuer_drei_3_3"
+                }
+       ]
+}

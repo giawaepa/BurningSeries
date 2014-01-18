@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Sateda",
+         "titleen":"Sateda",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7261845/Stargate_Atlantis_S03E04_Sateda_1_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7261949/Stargate_Atlantis_S03E04_Sateda_2_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7262020/Stargate_Atlantis_S03E04_Sateda_3_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7262080/Stargate_Atlantis_S03E04_Sateda_4_5"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"D2E0D2A300825ED2"
+                },{
+                        "hoster":"DivxStage",
+                        "part":1,
+                        "link":"q5op522gz0waw"
+                }
+       ]
+}

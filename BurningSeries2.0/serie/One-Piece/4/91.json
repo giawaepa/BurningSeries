@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der Buster Call rückt näher!",
+         "titleen":"Episode 297",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4078528/One_Piece_Folge_297_1_3_Der_Buster_Call_rueckt_naeher"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4080519/One_Piece_Folge_297_2_3_Der_Buster_Call_rueckt_naeher"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4081194/One_Piece_Folge_297_3_3_Der_Buster_Call_rueckt_naeher"
+                }
+       ]
+}

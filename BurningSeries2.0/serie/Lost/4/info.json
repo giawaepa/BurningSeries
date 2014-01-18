@@ -1,0 +1,22 @@
+{
+        "series":"Lost",
+        "seasons":6,
+        "cover":"Lost_49ec17f91f9058c5bd0884ad26d418d5.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Anfang vom Ende","english":"The Beginning of the End","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Für tot erklärt","english":"Confirmed Dead","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Ökonom","english":"The Economist","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Deal","english":"Eggtown","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Konstante","english":"The Constant","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die andere Frau","english":"The Other Woman","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ji Yeon","english":"Ji Yeon","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Mein Name ist Kevin Johnson","english":"Meet Kevin Johnson","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Konturen der Zukunft","english":"The Shape of Things to Come","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Operation","english":"Something Nice Back Home","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Hüttenzauber","english":"Cabin Fever","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Rückkehr ? Teil 1","english":"There&#039;s No Place Like Home (1)","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Rückkehr ? Teil 2","english":"There&#039;s No Place Like Home (2)","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Rückkehr ? Teil 3","english":"There&#039;s No Place Like Home (3)","hoster":["PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

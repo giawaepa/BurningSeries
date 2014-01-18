@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Eine Heiße Spur",
+         "titleen":"Episode 111",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4740448/Naruto_Folge_111_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4740589/Naruto_Folge_111_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4740707/Naruto_111_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"502A7925D8F030CC"
+                }
+       ]
+}

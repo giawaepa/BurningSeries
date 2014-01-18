@@ -1,0 +1,18 @@
+{
+        "series":"The Colony (US)",
+        "seasons":2,
+        "cover":"The-Colony-US_ea23acdab292440abb147635897dcac3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"In Quarantäne","english":"New Beginning","hoster":[]},
+                {"german":"Stunde Null","english":"After the Fall","hoster":[]},
+                {"german":"Die Fremden","english":"Trust","hoster":[]},
+                {"german":"Feuer und Wasser","english":"To Have and Have Not","hoster":[]},
+                {"german":"Die Entführung","english":"The Abduction","hoster":[]},
+                {"german":"Fette Beute","english":"Skout","hoster":[]},
+                {"german":"Miese Tricks","english":"Tick","hoster":[]},
+                {"german":"Alarmstufe Rot","english":"Defense","hoster":[]},
+                {"german":"Das Virus","english":"The Virus","hoster":[]},
+                {"german":"Flucht nach vorn","english":"Don&#039;t Look Back","hoster":[]}
+         ]
+}

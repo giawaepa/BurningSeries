@@ -1,0 +1,28 @@
+{
+        "series":"Avatar ? Der Herr der Elemente",
+        "seasons":3,
+        "cover":"Avatar-Der-Herr-der-Elemente_b8ac3e54721f9c23be80a7198816106c.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Der Avatar-Zustand","english":"The Avatar State","hoster":["PutLocker"]},
+                {"german":"Die Höhle der Verliebten","english":"The Cave of Two Lovers","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Rückkehr nach Omashu","english":"Return To Omashu","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Sumpf ruft","english":"The Swamp","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Tag des Avatar","english":"Avatar Day","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der blinde Bandit","english":"The Blind Bandit","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zukos Erinnerungen","english":"Zuko Alone","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Verfolgungsjagd","english":"The Chase","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hartes Training","english":"Bitter Work","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wissen ist Macht [Aang&#039;s Zorn (1)]","english":"The Library [The Fury of Aang (1)]","hoster":["PutLocker","RapidVideo"]},
+                {"german":"In der Wüste [Aang&#039;s Zorn (2)]","english":"The Desert [The Fury of Aang (2)]","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Schlangenpass [Das Geheimnis der Feuernation (1)]","english":"The Serpent&#039;s Pass [The Secret of the Fire Nation (1)]","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bedrohlicher Bohrer [Das Geheimnis der Feuernation (2)]","english":"The Drill  [The Secret of the Fire Nation (2)]","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Mauern und Geheimnisse","english":"City of Walls and Secrets","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Geschichten aus Ba Sing Se","english":"Tales of Ba Sing Se","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Armer Appa","english":"Appa&#039;s Lost Days","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Laogai-See","english":"Lake Laogai","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Erdkönig","english":"The Earth King","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Guru","english":"The Guru","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein fataler Niedergang","english":"The Crossroads of Destiny","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

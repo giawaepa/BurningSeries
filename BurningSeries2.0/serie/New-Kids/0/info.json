@@ -1,0 +1,10 @@
+{
+        "series":"New Kids",
+        "seasons":1,
+        "cover":"New-Kids_8334ce81b804111f35136ffb98854541.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"New Kids Turbo","english":"New Kids Turbo","hoster":["PutLocker","DivxStage"]},
+                {"german":"New Kids Nitro","english":"","hoster":["DivxStage"]}
+         ]
+}

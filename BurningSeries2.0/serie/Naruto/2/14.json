@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Erinnerung",
+         "titleen":"Episode 41",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=AeQjjpeIw0Q"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=icsyZWEHt48"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6352149/Naruto_folge_41_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6352193/Naruto_folge_41_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6352235/Naruto_folge_41_part_3_3"
+                }
+       ]
+}

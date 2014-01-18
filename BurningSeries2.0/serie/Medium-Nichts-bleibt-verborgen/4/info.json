@@ -1,0 +1,24 @@
+{
+        "series":"Medium ? Nichts bleibt verborgen",
+        "seasons":7,
+        "cover":"Medium-Nichts-bleibt-verborgen_0b0e86f0a8fda0fc1c335a2ccfa7a5d6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Pures Gift","english":"And Then","hoster":["PutLocker","Sockshare"]},
+                {"german":"Jugendsünde","english":"But for the Grace of God","hoster":["PutLocker","Sockshare"]},
+                {"german":"Paris träumt von der Liebe","english":"To Have and to Hold","hoster":["PutLocker","Sockshare"]},
+                {"german":"Geld macht taub","english":"Do You Hear What I Hear","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Mordfee","english":"Girls Ain&#039;t Nothing But Trouble","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hunger auf Fleisch","english":"Aftertaste","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Frau im Feuer, Teil 1","english":"Burn Baby Burn (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Frau im Feuer, Teil 2","english":"Burn Baby Burn (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Mimikry, Teil 1","english":"Wicked Game (1)","hoster":["Sockshare"]},
+                {"german":"Mimikry, Teil 2","english":"Wicked Game (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Lady Killer","english":"Lady Killer","hoster":["PutLocker","Sockshare"]},
+                {"german":"Mord aus dem Jenseits","english":"Partners in Crime","hoster":["PutLocker"]},
+                {"german":"Fünf Fremde am Flughafen","english":"A Cure for What Ails You","hoster":["Sockshare"]},
+                {"german":"Traumauto","english":"Car Trouble","hoster":["PutLocker","Sockshare"]},
+                {"german":"Meines Bruders Hüter","english":"Being Joey Carmichael","hoster":["PutLocker"]},
+                {"german":"Drowned World","english":"Drowned World","hoster":["PutLocker","Sockshare"]}
+         ]
+}

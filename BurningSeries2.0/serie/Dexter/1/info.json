@@ -1,0 +1,20 @@
+{
+        "series":"Dexter",
+        "seasons":6,
+        "cover":"Dexter_e97f436efe89e3a3de52918566ece733.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Tod kommt in kleinen Stücken","english":"Dexter","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Eiskalt erwischt","english":"Crocodile","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","BitShare"]},
+                {"german":"Cherry On Ice","english":"The Popping Cherry","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Mit Hand und Fuß","english":"Let&#039;s Give the Boy a Hand","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Das perfekte Paar","english":"Love American Style","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare"]},
+                {"german":"Ein Sturm zieht auf","english":"Return to Sender","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","BitShare"]},
+                {"german":"Freundeskreis","english":"Circle of Friends","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Therapiestunden","english":"Shrink Wrap","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Spuren der Vergangenheit","english":"Father Knows Best","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","BitShare"]},
+                {"german":"Rot wie Blut","english":"Seeing Red","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare"]},
+                {"german":"Tödliche Weihnachten","english":"Truth Be Told","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","BitShare"]},
+                {"german":"Blutsbrüder","english":"Born Free","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","BitShare"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Orochimaru kehrt zurück",
+         "titleen":"Episode 68",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6207204/Naruto_Folge_68_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6207233/Naruto_Folge_68_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6207300/Naruto_Folge_68_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"E44BC811706FCAE5"
+                }
+       ]
+}

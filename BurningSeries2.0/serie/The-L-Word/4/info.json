@@ -1,0 +1,20 @@
+{
+        "series":"The L Word",
+        "seasons":6,
+        "cover":"The-L-Word_2989b24ba4baa8267a2baadbeff05c51.jpeg",
+        "movies":false,
+        "episodes":[
+                {"german":"Kidnapping","english":"Legend in the Making","hoster":[]},
+                {"german":"Das Geständnis","english":"Livin&#039; La Vida Loca","hoster":[]},
+                {"german":"Willkommen im Club","english":"Lassoed","hoster":["PutLocker"]},
+                {"german":"Lust auf was Neues","english":"Layup","hoster":[]},
+                {"german":"Der Artikel","english":"Lez Girls","hoster":[]},
+                {"german":"Das Glück, eine Frau zu sein","english":"Luck Be a Lady","hoster":[]},
+                {"german":"Ein andermal","english":"Lesson Number One","hoster":["PutLocker"]},
+                {"german":"Versöhnung","english":"Lexington and Concord","hoster":["PutLocker"]},
+                {"german":"Leonhard hat noch","english":"Lacy Lilting Lyrics","hoster":["PutLocker"]},
+                {"german":"Kontrollverlust","english":"Little Boy Blue","hoster":["PutLocker"]},
+                {"german":"Lästermäuler","english":"Literary License to Kill","hoster":["PutLocker"]},
+                {"german":"Klare Fronten","english":"Long Time Coming","hoster":[]}
+         ]
+}

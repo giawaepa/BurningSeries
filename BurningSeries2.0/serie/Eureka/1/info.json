@@ -1,0 +1,21 @@
+{
+        "series":"Eureka ? Die geheime Stadt",
+        "seasons":5,
+        "cover":"Eureka-Die-geheime-Stadt_08a8ad78e757dda13dc6181775c80b11.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Am Ende der Zeit (1)","english":"Pilot (1)","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Am Ende der Zeit (2)","english":"Pilot (2)","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"S.A.R.A.H.","english":"Many Happy Returns","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Sommernachtstrauminvasion","english":"Before I Forget","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Angriff der Außerirdischen","english":"Alienated","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Unbesiegbar","english":"Invincible","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Dr.Nobel","english":"Dr. Nobel","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Auf Speed","english":"Blink","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Der Weihnachts-Virus","english":"Right as Raynes","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Urinstinkte","english":"Primal","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Pollenflug","english":"Purple Haze","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Hausordnung","english":"H.O.U.S.E. Rules","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Einmal im Leben","english":"Once in a Lifetime","hoster":[]}
+         ]
+}

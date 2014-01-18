@@ -1,0 +1,30 @@
+{
+        "series":"Star Trek: The Next Generation",
+        "seasons":7,
+        "cover":"Star-Trek-The-Next-Generation_adb8ec5b4a94271b206068f7004b2095.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Kind","english":"The Child","hoster":["PutLocker"]},
+                {"german":"Illusion oder Wirklichkeit?","english":"Where Silence Has Lease","hoster":[]},
+                {"german":"Sherlock Data Holmes","english":"Elementary, Dear Data","hoster":["PutLocker"]},
+                {"german":"Der unmögliche Captain Okona","english":"The Outrageous Okona","hoster":["PutLocker"]},
+                {"german":"Der stumme Vermittler","english":"Loud As a Whisper","hoster":["PutLocker"]},
+                {"german":"Das fremde Gedächtnis","english":"The Schizoid Man","hoster":["PutLocker"]},
+                {"german":"Die jungen Greise","english":"Unnatural Selection","hoster":["PutLocker"]},
+                {"german":"Der Austauschoffizier","english":"A Matter Of Honor","hoster":["PutLocker"]},
+                {"german":"Wem gehört Data?","english":"The Measure Of a Man","hoster":["PutLocker"]},
+                {"german":"Die Thronfolgerin","english":"The Dauphin","hoster":["PutLocker"]},
+                {"german":"Die Iconia Sonden","english":"Contagion","hoster":["PutLocker"]},
+                {"german":"Hotel Royale","english":"The Royale","hoster":["PutLocker"]},
+                {"german":"Die Zukunft schweigt","english":"Time Squared","hoster":["PutLocker"]},
+                {"german":"Rikers Vater","english":"The Icarus Factor","hoster":[]},
+                {"german":"Brieffreunde","english":"Pen Pals","hoster":["PutLocker"]},
+                {"german":"Zeitsprung mit Q","english":"Q Who","hoster":[]},
+                {"german":"Das Herz eines Captains","english":"Samaritan Snare","hoster":["PutLocker"]},
+                {"german":"Der Planet der Klone","english":"Up The Long Ladder","hoster":["PutLocker"]},
+                {"german":"Andere Sterne, andere Sitten","english":"Manhunt","hoster":[]},
+                {"german":"Klingonenbegegnung","english":"The Emissary","hoster":["PutLocker"]},
+                {"german":"Galavorstellung","english":"Peak Performance","hoster":[]},
+                {"german":"Kraft der Träume","english":"Shades Of Gray","hoster":["PutLocker"]}
+         ]
+}

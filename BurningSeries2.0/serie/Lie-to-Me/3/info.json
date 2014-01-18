@@ -1,0 +1,21 @@
+{
+        "series":"Lie to Me",
+        "seasons":3,
+        "cover":"Lie-to-Me_50cd757916126ece2ae4905c554e8c77.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Bad Bank","english":"In The Red","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Fremdes Leid","english":"The Royal We","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Blinder Fleck","english":"Dirty Loyal","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Täuschungsmanöver","english":"Double Blind","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Unter Tage","english":"The Canary?s Song","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Gehirnwäsche","english":"Beyond Belief","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Todesengel","english":"Veronica","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Onkel Teddy","english":"Smoked","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Horrortrip","english":"Funhouse","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Frauenflüsterer","english":"Rebound","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Kollision","english":"Saved","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Vermisst","english":"Gone","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Killer App","english":"Killer App","hoster":["PutLocker","Sockshare","DivxStage"]}
+         ]
+}

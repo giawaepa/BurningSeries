@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Schönheitswettbewerb",
+         "titleen":"Oh, Pretty Woman",
+         "description":"Lynn ist traurig: Ihr Freund hat den ganzen Abend mit einer anderen getanzt, die viel hübscher ist als sie. Für Alf ist Lynn die Schönste. Um das zu beweisen, meldet er sie bei einem Schönheitswettbewerb an.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6724951/ALF_Der_Schoenheitswettbewerb_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6724969/ALF_Der_Schoenheitswettbewerb_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6724986/ALF_ALF_Der_Schoenheitswettbewerb_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"9D0AB78825B159CD"
+                }
+       ]
+}

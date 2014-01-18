@@ -1,0 +1,30 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Judaslohn","english":"Leave It to Weaver","hoster":["PutLocker","Sockshare"]},
+                {"german":"Letzte Ölung","english":"Last Rites","hoster":["PutLocker","Sockshare"]},
+                {"german":"Greenes Rivale","english":"Greene with Envy","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Sünden der Väter","english":"Sins of the Fathers","hoster":["PutLocker","Sockshare"]},
+                {"german":"Folgenschwere Vertauschung","english":"Truth &amp; Consequences","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Falle","english":"The Peace of Wild Things","hoster":["PutLocker","Sockshare"]},
+                {"german":"Vorsicht, Dr. Corday!","english":"Humpty Dumpty","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zwillinge!","english":"Great Expectations","hoster":["PutLocker","Sockshare"]},
+                {"german":"Weihnachtsmänner","english":"How the Finch Stole Christmas","hoster":["PutLocker","Sockshare"]},
+                {"german":"Seines Bruders Hüter","english":"Family Matters","hoster":["PutLocker","Sockshare"]},
+                {"german":"Trügerische Hoffnung","english":"The Domino Heart","hoster":["PutLocker","Sockshare"]},
+                {"german":"Abgründe","english":"Abby Road","hoster":["PutLocker","Sockshare"]},
+                {"german":"Für immer mein Herz","english":"Be Still My Heart","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Tat eines Wahnsinnigen","english":"All in the Family","hoster":["PutLocker","Sockshare"]},
+                {"german":"Instinkt","english":"Be Patient","hoster":["PutLocker","Sockshare"]},
+                {"german":"Unter Kontrolle","english":"Under Control","hoster":["PutLocker","Sockshare"]},
+                {"german":"Mit sofortiger Wirkung","english":"Viable Options","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein schrecklicher Irrtrum","english":"Match Made in Heaven","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zeit des Abschieds","english":"The Fastest Year","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ungeklärte Verhältnisse","english":"Loose Ends","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die eine grosse Liebe","english":"Such Sweet Sorrow","hoster":["PutLocker","Sockshare"]},
+                {"german":"May Day","english":"May Day","hoster":["PutLocker","Sockshare"]}
+         ]
+}

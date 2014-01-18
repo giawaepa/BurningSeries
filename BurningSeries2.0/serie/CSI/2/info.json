@@ -1,0 +1,31 @@
+{
+        "series":"CSI: Den Tätern auf der Spur",
+        "seasons":12,
+        "cover":"CSI-Den-Taetern-auf-der-Spur_a5a70731c9e7b0fd031284dab691f885.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Blutiges Testament","english":"Burked","hoster":[]},
+                {"german":"Spurlos","english":"Chaos Theory","hoster":[]},
+                {"german":"Unter Strom","english":"Overload","hoster":[]},
+                {"german":"Der Duft der Frauen","english":"Bully for You","hoster":[]},
+                {"german":"Ein fliegender Beweis","english":"Scuba Doobie-Doo","hoster":[]},
+                {"german":"Wie Kain und Abel","english":"Alter Boys","hoster":[]},
+                {"german":"Ein zweifelhafter Zeuge","english":"Caged","hoster":[]},
+                {"german":"Tod einer Domina","english":"Slaves of Las Vegas","hoster":[]},
+                {"german":"Rien ne va plus","english":"And Then There Were None","hoster":[]},
+                {"german":"Blütenzauber","english":"Ellie","hoster":[]},
+                {"german":"Der Tote im Fahrstuhl","english":"Organ Grinder","hoster":[]},
+                {"german":"Scherbenhaufen","english":"You&#039;ve Got Male","hoster":[]},
+                {"german":"Um Haaresbreite","english":"Identity Crisis","hoster":[]},
+                {"german":"Ein schmutziges Spiel","english":"The Finger","hoster":[]},
+                {"german":"Die Last der Beweise","english":"Burden of Proof","hoster":[]},
+                {"german":"Eisiger Tod","english":"Primum Non Nocere","hoster":[]},
+                {"german":"Tod im Tempel","english":"Felonius Monk","hoster":["YouTube"]},
+                {"german":"Letzte Ausfahrt","english":"Chasing the Bus","hoster":["YouTube"]},
+                {"german":"Der Psychopath","english":"Stalker","hoster":["YouTube"]},
+                {"german":"Katz und Maus","english":"Cats in the Cradle","hoster":[]},
+                {"german":"Falsche Fährten","english":"Anatomy of a Lye","hoster":[]},
+                {"german":"Tod in Miami","english":"Cross-Jurisdictions","hoster":[]},
+                {"german":"Preis der Schönheit","english":"The Hunger Artist","hoster":[]}
+         ]
+}

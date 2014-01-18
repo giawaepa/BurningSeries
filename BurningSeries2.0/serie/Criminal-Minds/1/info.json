@@ -1,0 +1,30 @@
+{
+        "series":"Criminal Minds",
+        "seasons":7,
+        "cover":"Criminal-Minds_b57c4c9433b36cce49ad96d3ca0a8cc4html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Abgrund","english":"Extreme Aggressor","hoster":["YouTube","PutLocker"]},
+                {"german":"Feuerprobe","english":"Compulsion","hoster":["YouTube","PutLocker"]},
+                {"german":"Rot oder Blau","english":"Won&#039;t Get Fooled Again","hoster":["PutLocker"]},
+                {"german":"Kein Gold der Welt","english":"Plain Sight","hoster":[]},
+                {"german":"Spiegelzwillinge","english":"Broken Mirror","hoster":["PutLocker"]},
+                {"german":"Fernschüsse","english":"L.D.S.K.","hoster":["PutLocker"]},
+                {"german":"Hölle privat","english":"The Fox","hoster":["PutLocker"]},
+                {"german":"Undercover","english":"Natural Born Killer","hoster":["PutLocker"]},
+                {"german":"Entgleist","english":"Derailed","hoster":["PutLocker"]},
+                {"german":"Heile Welt","english":"The Popular Kids","hoster":["PutLocker"]},
+                {"german":"Engelsstimme","english":"Blood Hungry","hoster":["PutLocker"]},
+                {"german":"24 Stunden","english":"What Fresh Hell","hoster":["PutLocker"]},
+                {"german":"Gift","english":"Poison","hoster":["PutLocker"]},
+                {"german":"Das geschenkte Leben","english":"Riding The Lightning","hoster":["PutLocker"]},
+                {"german":"Offene Rechnungen","english":"Unfinished Business","hoster":["PutLocker"]},
+                {"german":"Der Stamm","english":"The Tribe","hoster":["PutLocker"]},
+                {"german":"Ein großer Regen","english":"A Real Rain","hoster":["PutLocker"]},
+                {"german":"Rote Anemonen","english":"Somebody&#039;s Watching","hoster":["PutLocker"]},
+                {"german":"Der Tag der Toten","english":"Machismo","hoster":["PutLocker"]},
+                {"german":"Das Chamäleon","english":"Charm and Harm","hoster":["PutLocker"]},
+                {"german":"Alte Freunde","english":"Secrets and Lies","hoster":["PutLocker"]},
+                {"german":"Die Suche","english":"The Fisher King (1)","hoster":["PutLocker"]}
+         ]
+}

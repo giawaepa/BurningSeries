@@ -1,0 +1,30 @@
+{
+        "series":"Smallville",
+        "seasons":10,
+        "cover":"Smallville_9b035bf1ed4971800a10af943bd17d18.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Lana &amp; Lois","english":"Crusade","hoster":["PutLocker"]},
+                {"german":"Das leere Grab","english":"Gone","hoster":["PutLocker"]},
+                {"german":"OP/TIK","english":"Facade","hoster":["PutLocker"]},
+                {"german":"Kuschelmonster","english":"Devoted","hoster":["PutLocker"]},
+                {"german":"Flash!","english":"Run","hoster":["Sockshare"]},
+                {"german":"Im Körper des Feindes","english":"Transference","hoster":["PutLocker"]},
+                {"german":"Regeln des Spiels","english":"Jinx","hoster":["PutLocker"]},
+                {"german":"Die Nacht der 3","english":"Spell","hoster":["PutLocker"]},
+                {"german":"Mutter aus Leidenschaft","english":"Bound","hoster":["PutLocker"]},
+                {"german":"Angstgase","english":"Scare","hoster":["PutLocker"]},
+                {"german":"Ja, ich will ... nicht","english":"Unsafe","hoster":["PutLocker"]},
+                {"german":"Augenzeugin","english":"Pariah","hoster":["PutLocker"]},
+                {"german":"Lahmgelegt","english":"Recruit","hoster":["PutLocker"]},
+                {"german":"Krypto","english":"Krypto","hoster":["PutLocker"]},
+                {"german":"Isabelle reloaded","english":"Sacred","hoster":["PutLocker"]},
+                {"german":"Hoppla Lucy","english":"Lucy","hoster":["PutLocker"]},
+                {"german":"Lex gegen Lex!","english":"Onyx","hoster":["PutLocker"]},
+                {"german":"(Small)willenlos","english":"Spirit","hoster":["PutLocker"]},
+                {"german":"Noch mal mit Gefühl","english":"Blank","hoster":["PutLocker"]},
+                {"german":"Eintagseltern","english":"Ageless","hoster":["PutLocker"]},
+                {"german":"School of Wax","english":"Forever","hoster":["PutLocker"]},
+                {"german":"Armageddon","english":"Commencement","hoster":["PutLocker"]}
+         ]
+}

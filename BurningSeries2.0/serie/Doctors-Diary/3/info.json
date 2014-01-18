@@ -1,0 +1,15 @@
+{
+        "series":"Doctors Diary",
+        "seasons":3,
+        "cover":"Doctors-Diary_2e4f5105e2c180960d2ae718b9034d3d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Skandal! Hochzeitsnacht zu dritt","english":"","hoster":["PutLocker"]},
+                {"german":"Oh Gott! Mein Mann hat mich nackt gesehen!","english":"","hoster":["PutLocker"]},
+                {"german":"Mist! Wieder einen Frosch erwischt!","english":"","hoster":["PutLocker"]},
+                {"german":"Oh je! Dein Ex auf Wein, das lass sein!","english":"","hoster":["PutLocker"]},
+                {"german":"Autsch! Sturz von der Karriereleiter","english":"","hoster":["PutLocker"]},
+                {"german":"Endlich! Ein Kind von Marc!","english":"","hoster":["PutLocker"]},
+                {"german":"Herr Ober! Mein Happy End ist kalt!","english":"","hoster":[]}
+         ]
+}

@@ -1,0 +1,40 @@
+{ 
+         "titlede":"Der rote Handschuh",
+         "titleen":"Voices",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=sUcxHj0HORw"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=LTVY3NlqDfc"
+                },{
+                        "hoster":"YouTube",
+                        "part":3,
+                        "link":"=V3966eHhqGw"
+                },{
+                        "hoster":"YouTube",
+                        "part":4,
+                        "link":"=pfCPM7Dxm48"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5213653/Ghost_Whisperer_1x9_01_05_Der_rote_Handschuh"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5213767/Ghost_Whisperer_1x9_02_05_Der_rote_Handschuh"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5214117/Ghost_Whisperer_1x9_03_05_Der_rote_Handschuh"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5214282/Ghost_Whisperer_1x9_04_05_Der_rote_Handschuh"
+                }
+       ]
+}

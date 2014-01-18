@@ -1,0 +1,33 @@
+{
+        "series":"Die Zauberer vom Waverly Place",
+        "seasons":4,
+        "cover":"Die-Zauberer-vom-Waverly-Place_0d88dca953212894fd04bfa22d72954f.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Die Verhandlung","english":"Alex Tells the World","hoster":["YouTube"]},
+                {"german":"Alex gibt auf","english":"Alex Gives Up","hoster":["YouTube"]},
+                {"german":"Harpers Führerscheinprüfung","english":"Lucky Charmed","hoster":["YouTube"]},
+                {"german":"Ein Job für Captain Jim Bob","english":"Journey to the Center of Mason","hoster":["YouTube"]},
+                {"german":"Alle wie einer, einer wie keiner","english":"Three Maxes and a Little Lady","hoster":[]},
+                {"german":"Der Engel-Klub","english":"Dancing with Angels","hoster":[]},
+                {"german":"Verliebt in einen Engel, Teil 1","english":"Wizards vs. Angels - Part 1","hoster":["YouTube"]},
+                {"german":"Verliebt in einen Engel, Teil 2","english":"Wizards vs. Angels - Part 2","hoster":["YouTube"]},
+                {"german":"Max wird wieder der Alte","english":"Back to Max","hoster":["YouTube","PutLocker"]},
+                {"german":"Zeke weiß was","english":"Zeke Finds Out","hoster":["YouTube"]},
+                {"german":"Magie im Ring","english":"Magic Unmasked","hoster":["PutLocker"]},
+                {"german":"","english":"Meet the Werewolves","hoster":[]},
+                {"german":"","english":"Beast Tamer","hoster":[]},
+                {"german":"","english":"Wizard of the Year","hoster":[]},
+                {"german":"","english":"Misfortune at the Beach","hoster":[]},
+                {"german":"","english":"Wizards vs. Asteroid","hoster":["PutLocker"]},
+                {"german":"","english":"Justin?s Back In","hoster":["PutLocker"]},
+                {"german":"","english":"Alex the Puppetmaster","hoster":["PutLocker"]},
+                {"german":"","english":"My Two Harpers","hoster":["YouTube"]},
+                {"german":"","english":"Wizards of Apartment 13B","hoster":[]},
+                {"german":"","english":"Ghost Roommate","hoster":["PutLocker"]},
+                {"german":"","english":"Get Along, Little Zombie","hoster":["PutLocker"]},
+                {"german":"","english":"Wizards vs. Everything","hoster":[]},
+                {"german":"","english":"Rock Around the Clock","hoster":["PutLocker"]},
+                {"german":"","english":"Harperella","hoster":["PutLocker"]}
+         ]
+}

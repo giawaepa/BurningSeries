@@ -1,0 +1,30 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Informantin","english":"Informed","hoster":["PutLocker"]},
+                {"german":"Kind","english":"Clock","hoster":["PutLocker"]},
+                {"german":"Abrechnung","english":"Recall","hoster":["PutLocker"]},
+                {"german":"Sadist","english":"Uncle","hoster":["PutLocker"]},
+                {"german":"Fortpflanzung","english":"Confrontation","hoster":["PutLocker"]},
+                {"german":"Undercover","english":"Infiltrated","hoster":["PutLocker"]},
+                {"german":"Babystrich","english":"Underbelly","hoster":["PutLocker"]},
+                {"german":"Käfig","english":"Cage","hoster":["PutLocker"]},
+                {"german":"Gift","english":"Choreographed","hoster":["PutLocker"]},
+                {"german":"Scheherazade","english":"Scheherezade","hoster":["PutLocker"]},
+                {"german":"Brandopfer","english":"Burned","hoster":["PutLocker"]},
+                {"german":"Versager","english":"Outsider","hoster":["PutLocker"]},
+                {"german":"Versuchskaninchen","english":"Loophole","hoster":["PutLocker"]},
+                {"german":"Abhängig","english":"Dependent","hoster":[]},
+                {"german":"Gentest","english":"Haystack","hoster":["PutLocker"]},
+                {"german":"Geschwister","english":"Philadelphia","hoster":[]},
+                {"german":"Sünde","english":"Sin","hoster":["PutLocker"]},
+                {"german":"Alkohol","english":"Responsible","hoster":["PutLocker"]},
+                {"german":"Vertrauen","english":"Florida","hoster":["PutLocker"]},
+                {"german":"Ausgelöscht","english":"Annihilated","hoster":["PutLocker"]},
+                {"german":"Sechzehn","english":"Pretend","hoster":[]},
+                {"german":"Konsequenzen","english":"Screwed","hoster":["PutLocker"]}
+         ]
+}

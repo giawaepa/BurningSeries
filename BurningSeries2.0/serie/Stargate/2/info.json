@@ -1,0 +1,30 @@
+{
+        "series":"Stargate SG-1",
+        "seasons":10,
+        "cover":"Stargate-SG-1_6b5b9978ee26b1880a53c96bc53f8c10.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Die Invasion: Kampf um die Erde","english":"The Serpent&#039;s Lair (3)","hoster":["PutLocker"]},
+                {"german":"Freund oder Feind?","english":"In the Line of Duty","hoster":["PutLocker"]},
+                {"german":"Zerstörerin der Welten","english":"Prisoners","hoster":["PutLocker"]},
+                {"german":"Virtueller Alptraum","english":"The Gamekeeper","hoster":["PutLocker"]},
+                {"german":"Der Sarkophag","english":"Need","hoster":["PutLocker"]},
+                {"german":"Rückkehr des Thor","english":"Thor&#039;s Chariot","hoster":["PutLocker"]},
+                {"german":"Trojanische Kugel","english":"Message in a Bottle","hoster":["PutLocker"]},
+                {"german":"Der Verlorene Sohn","english":"Family","hoster":["PutLocker"]},
+                {"german":"Sha&#039;Res Rückkehr","english":"Secrets","hoster":["PutLocker"]},
+                {"german":"Insekten des Todes","english":"Bane","hoster":["PutLocker"]},
+                {"german":"Tok&#039;Ra - Teil 1","english":"The Tok&#039;ra (1)","hoster":["PutLocker"]},
+                {"german":"Tok&#039;Ra - Teil 2","english":"The Tok&#039;ra (2)","hoster":["PutLocker"]},
+                {"german":"Geister","english":"Spirits","hoster":["PutLocker"]},
+                {"german":"Das Zweite Tor","english":"Touchstone","hoster":["PutLocker"]},
+                {"german":"Die Fünfte Spezies","english":"The Fifth Race","hoster":["MyVideo","PutLocker"]},
+                {"german":"Das Schwarze Loch","english":"A Matter of Time","hoster":["PutLocker"]},
+                {"german":"Seelenwanderung","english":"Holiday","hoster":["PutLocker"]},
+                {"german":"Der Sturz des Sonnengottes","english":"Serpent&#039;s Song","hoster":["PutLocker"]},
+                {"german":"Tödliche Klänge","english":"One False Step","hoster":["MyVideo","PutLocker"]},
+                {"german":"Neue Feinde","english":"Show and Tell","hoster":["PutLocker"]},
+                {"german":"1969","english":"1969","hoster":["MyVideo","PutLocker"]},
+                {"german":"Die Höhle des Löwen - Teil 1","english":"Out of Mind (1)","hoster":["PutLocker"]}
+         ]
+}

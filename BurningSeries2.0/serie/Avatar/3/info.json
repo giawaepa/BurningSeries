@@ -1,0 +1,29 @@
+{
+        "series":"Avatar ? Der Herr der Elemente",
+        "seasons":3,
+        "cover":"Avatar-Der-Herr-der-Elemente_b8ac3e54721f9c23be80a7198816106c.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Aang erwacht","english":"The Awakening","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hoch das Bein!","english":"The Headband","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die bemalte Lady","english":"The Painted Lady","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sokka und sein Meister","english":"Sokka&#039;s Master","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Am Strand","english":"The Beach","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Vermächtnis","english":"The Avatar and the Fire Lord","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gauner und Fallen","english":"The Runaway","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Drama um Hama","english":"The Puppetmaster","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Durch den Wind","english":"Nightmares and Daydreams","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Tag der Schwarzen Sonne (1)","english":"The Day of Black Sun (1): The Invasion","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Tag der Schwarzen Sonne (2)","english":"The Day of Black Sun (2): The Eclipse","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Westliche Lufttempel","english":"The Western Air Temple","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sonnenkrieger und Feuerdrachen","english":"The Firebending Masters","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Brodelnde Fels (1)","english":"The Boiling Rock (1)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Brodelnde Fels (2)","english":"The Boiling Rock (2)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schatten der Vergangenheit","english":"The Southern Raiders","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Auf die Bühne, fertig, Los","english":"The Ember Island Players","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zosins Komet (1): Der Phönix-König","english":"Sozin&#039;s Comet (1): The Phoenix King","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zosins Komet (2): Die alten Meister","english":"Sozin&#039;s Comet (2): The Old Masters","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zosins Komet (3): Von Angesicht zu Angesicht","english":"Sozin&#039;s Comet (3): Into the Inferno","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zosins Komet (4): Avatar Aang","english":"Sozin&#039;s Comet (4): Avatar Aang","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

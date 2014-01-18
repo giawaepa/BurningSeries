@@ -1,0 +1,32 @@
+{
+        "series":"CSI: Miami",
+        "seasons":10,
+        "cover":"CSI-Miami_b05c65690e21963e0626d83346766b0ahtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Absturz","english":"Golden Parachute","hoster":["YouTube"]},
+                {"german":"Eine explosive Mischung","english":"Losing Face","hoster":["YouTube","PutLocker"]},
+                {"german":"Preis der Freiheit","english":"Wet Foot/Dry Foot","hoster":["YouTube","PutLocker"]},
+                {"german":"Ein verhängnisvolles Angebot","english":"Just One Kiss","hoster":["YouTube"]},
+                {"german":"Asche zu Asche","english":"Ashes to Ashes","hoster":["YouTube","PutLocker"]},
+                {"german":"Mörderisches Puzzle","english":"Broken","hoster":["YouTube","PutLocker"]},
+                {"german":"Atemlos","english":"Breathless","hoster":["PutLocker"]},
+                {"german":"Haus des Todes","english":"Slaughterhouse","hoster":[]},
+                {"german":"Der Heckenschütze","english":"Kill Zone","hoster":["PutLocker"]},
+                {"german":"Der Tote am Baum","english":"A Horrible Mind","hoster":["PutLocker"]},
+                {"german":"Das Todescamp","english":"Camp Fear","hoster":["PutLocker"]},
+                {"german":"Der Sündenbock","english":"Entrance Wound","hoster":["PutLocker"]},
+                {"german":"Alte Wunden","english":"Bunk","hoster":[]},
+                {"german":"Die Rache ist mein","english":"Forced Entry","hoster":[]},
+                {"german":"Radioaktiv","english":"Dead Woman Walking","hoster":[]},
+                {"german":"Nackte Wahrheit","english":"Evidence of Things Unseen","hoster":["PutLocker"]},
+                {"german":"Nur 24 Stunden","english":"Simple Man","hoster":["PutLocker"]},
+                {"german":"Der Drahtzieher","english":"Dispo Day","hoster":[]},
+                {"german":"Der Kronzeuge","english":"Double Cap","hoster":["PutLocker"]},
+                {"german":"Schießwütig","english":"Grave Young Men","hoster":[]},
+                {"german":"Der Beißer","english":"Spring Break","hoster":["PutLocker"]},
+                {"german":"Flammendes Inferno","english":"Tinder Box","hoster":[]},
+                {"german":"Drogenwahn","english":"Freaks and Tweaks","hoster":["PutLocker"]},
+                {"german":"Auf der Flucht","english":"Body Count","hoster":["PutLocker"]}
+         ]
+}

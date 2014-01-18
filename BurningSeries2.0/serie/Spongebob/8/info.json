@@ -1,0 +1,10 @@
+{
+        "series":"SpongeBob Schwammkopf",
+        "seasons":8,
+        "cover":"SpongeBob-Schwammkopf_578d1fb072ab042e7a42a5c1e6892b26.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"","english":"Ghoul Fools","hoster":["PutLocker"]},
+                {"german":"","english":"Walking the Plankton","hoster":["PutLocker"]}
+         ]
+}

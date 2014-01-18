@@ -1,0 +1,16 @@
+{
+        "series":"The Tudors",
+        "seasons":4,
+        "cover":"The-Tudors_b0319774fd5c74fdbfb03d128ee004df.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1","english":"Civil Unrest","hoster":[]},
+                {"german":"Episode 2","english":"The Northern Uprising","hoster":["PutLocker"]},
+                {"german":"Episode 3","english":"Dissension and Punishment","hoster":[]},
+                {"german":"Episode 4","english":"The Death of a Queen","hoster":[]},
+                {"german":"Episode 5","english":"Problems in the Reformation","hoster":[]},
+                {"german":"Episode 6","english":"Search for a New Queen","hoster":[]},
+                {"german":"Episode 7","english":"Protestant Anne of Cleves","hoster":["PutLocker"]},
+                {"german":"Episode 8","english":"The Undoing of Cromwell","hoster":[]}
+         ]
+}

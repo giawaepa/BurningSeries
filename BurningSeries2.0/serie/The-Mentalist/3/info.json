@@ -1,0 +1,32 @@
+{
+        "series":"The Mentalist",
+        "seasons":4,
+        "cover":"The-Mentalist_b499d969570af95071715644774fe7fc.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Diamantenfalle","english":"Red Sky at Night","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das perfekte Opfer","english":"Cackle-Bladder Blood","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Feinde der Wahrheit","english":"The Blood on His Hands","hoster":["PutLocker","DivxStage"]},
+                {"german":"Lügen und Kerzen","english":"Red Carpet Treatment","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Schnell wie der Wind","english":"The Red Ponies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ruhe in Frieden","english":"Pink Chanel Suit","hoster":["PutLocker","DivxStage"]},
+                {"german":"Sag niemals nie","english":"Red Hot","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Von langer Hand","english":"Ball of Fire","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Tiger, Tiger?","english":"Red Moon","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Todesengel","english":"A Jolly Red Elf","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Bis aufs Blut","english":"Bloodsport","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Harte Zahlen","english":"Bloodhounds","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Mittel und Wege","english":"Red Alert","hoster":["PutLocker"]},
+                {"german":"Spätes Wunder","english":"Blood For Blood","hoster":["PutLocker","DivxStage"]},
+                {"german":"Goldrausch","english":"Red Gold","hoster":["PutLocker","DivxStage"]},
+                {"german":"Besser Allein","english":"Red Queen","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schmerzensschreie","english":"Bloodstream","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kleine graue Männchen","english":"The Red Mile","hoster":["PutLocker","DivxStage"]},
+                {"german":"Keine Rose ohne Dornen","english":"Every Rose Has It?s Thorn","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein Akt der Liebe","english":"Redacted","hoster":["PutLocker","DivxStage"]},
+                {"german":"Alte Schule","english":"Like A Redheaded Stepchild","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hortensien lügen nicht","english":"Rhapsody in Red","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bomben","english":"Strawberries and Cream (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Erbeeren mit Sahne","english":"Strawberries and Cream (2)","hoster":["PutLocker","DivxStage"]}
+         ]
+}

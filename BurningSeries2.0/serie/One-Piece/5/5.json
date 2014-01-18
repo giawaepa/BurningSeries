@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der Kampf der Strohhuete",
+         "titleen":"Episode 330",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4029498/One_Piece_Folge_330_Die_Strohuete_kaempfen_hart_Teil_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4030167/One_Piece_Folge_330_Die_Strohuete_kaempfen_hart_Teil_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4030317/One_Piece_Folge_330_Die_Strohuete_kaempfen_hart_Teil_3"
+                }
+       ]
+}

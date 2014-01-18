@@ -1,0 +1,30 @@
+{
+        "series":"Supernatural",
+        "seasons":7,
+        "cover":"Supernatural_a74050852c0b23409201cbcc3b25787e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Lazarus erhebt sich","english":"Lazarus Rising","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Die Zeugen","english":"Are You There God? It&#039;s Me, Dean Winchester","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Als es Begann","english":"In the Beginning","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Metamorphose","english":"Metamorphosis","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Monster Movie","english":"Monster Movie","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Gelbes Fieber","english":"Yellow Fever","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Es ist der schönste Schatz, Sam Winchester","english":"It&#039;s the Great Pumpkin, Sam Winchester","hoster":["PutLocker"]},
+                {"german":"Wunschdenken","english":"Wishful Thinking","hoster":["PutLocker"]},
+                {"german":"Ich weiß was du letzten Sommer getan hast","english":"I Know What You Did Last Summer","hoster":["PutLocker"]},
+                {"german":"Himmel und Hölle","english":"Heaven and Hell","hoster":["PutLocker"]},
+                {"german":"Familiäre Überreste","english":"Family Remains","hoster":["PutLocker"]},
+                {"german":"Illusionen","english":"Criss Angel is a Douche Bag","hoster":["PutLocker"]},
+                {"german":"Sondernachschulung","english":"Afterschool Special","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sex und Gewalt","english":"Sex and Violence","hoster":["PutLocker"]},
+                {"german":"Der Tod macht Ferien","english":"Death Takes a Holiday","hoster":["PutLocker"]},
+                {"german":"Auf dem Kopf des Nagels","english":"On The Head Of A Pin","hoster":["PutLocker"]},
+                {"german":"Es ist ein schreckliches Leben","english":"It&#039;s a Terrible Life","hoster":["PutLocker"]},
+                {"german":"Das Monster am Ende des Buches","english":"The Monster at the End of this book","hoster":["PutLocker"]},
+                {"german":"Anstieg auf den Hai","english":"Jump the Shark","hoster":["PutLocker"]},
+                {"german":"Die Entzückung","english":"The Rapture","hoster":["PutLocker"]},
+                {"german":"Wenn der Damm bricht","english":"When the Levee Breaks","hoster":["PutLocker"]},
+                {"german":"Luzifers Aufstieg","english":"Lucifer Rising","hoster":["YouTube","PutLocker"]}
+         ]
+}

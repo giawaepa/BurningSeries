@@ -1,0 +1,32 @@
+{
+        "series":"Navy CIS",
+        "seasons":9,
+        "cover":"Navy-CIS_141ca3e65244fc72f323f852248d3211.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Schalom","english":"Shalom","hoster":["MyVideo","PutLocker"]},
+                {"german":"Auf der Flucht","english":"Escaped","hoster":["PutLocker"]},
+                {"german":"Schnelle Liebe","english":"Singled Out","hoster":["PutLocker"]},
+                {"german":"Der größte Köder","english":"Faking It","hoster":["PutLocker"]},
+                {"german":"Die Verlobten","english":"Dead and unburried","hoster":["PutLocker"]},
+                {"german":"Halloween Hunt","english":"Witch hunt","hoster":["PutLocker"]},
+                {"german":"Der Hintermann","english":"Sandblast","hoster":["PutLocker"]},
+                {"german":"Einmal ein Held","english":"Once a hero","hoster":["PutLocker"]},
+                {"german":"Die kleine Schwester","english":"Twisted sister","hoster":["PutLocker"]},
+                {"german":"Die Mumie","english":"Smoked","hoster":["PutLocker"]},
+                {"german":"Sabotage","english":"Driven","hoster":["PutLocker"]},
+                {"german":"Verdacht","english":"Suspicion","hoster":["PutLocker"]},
+                {"german":"Giftgas","english":"Sharif returns","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Frosch","english":"Blowback","hoster":["MyVideo","PutLocker"]},
+                {"german":"Das letzte Lebewohl","english":"Friends &amp; Lovers","hoster":["MyVideo","PutLocker"]},
+                {"german":"Wettlauf mit dem Tod","english":"Dead man Walking","hoster":["MyVideo","PutLocker"]},
+                {"german":"Skelette","english":"Skeletons","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der verlorene Sohn","english":"Iceman","hoster":["MyVideo","PutLocker"]},
+                {"german":"Hinterhalt","english":"Grace Period","hoster":["MyVideo","PutLocker"]},
+                {"german":"Das Buch zum Mord","english":"Cover story","hoster":["MyVideo","PutLocker"]},
+                {"german":"Zum Greifen Nah","english":"Brother in Arms","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Blinde Fotograf","english":"In the dark","hoster":["MyVideo","PutLocker"]},
+                {"german":"Das Trojanische Pferd","english":"Trojan Horse","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Todesengel","english":"Angel of Death","hoster":["PutLocker"]}
+         ]
+}

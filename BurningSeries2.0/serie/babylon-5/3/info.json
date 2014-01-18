@@ -1,0 +1,30 @@
+{
+        "series":"Babylon 5",
+        "seasons":5,
+        "cover":"Babylon-5_dfb79108b56479fb5db5a8bc6ce39fff.jpeg",
+        "movies":true,
+        "episodes":[
+                {"german":"Das Schattenschiff","english":"Matters Of Honor","hoster":["PutLocker"]},
+                {"german":"Bombenterror","english":"Convictions","hoster":["PutLocker"]},
+                {"german":"24 Stunden bis zum Ende","english":"A Day In The Strife","hoster":["PutLocker"]},
+                {"german":"Die Schrift aus Blut","english":"Passing through Gethsemane","hoster":["PutLocker"]},
+                {"german":"Der Beweis","english":"Voices Of Authority","hoster":["PutLocker"]},
+                {"german":"Der Selbstversuch","english":"Dust To Dust","hoster":["PutLocker"]},
+                {"german":"Die Hüter des Wissens","english":"Exogenesis","hoster":["PutLocker"]},
+                {"german":"Das Netz der Lügen","english":"Messages From Earth (1)","hoster":["PutLocker"]},
+                {"german":"Kriegsrecht","english":"Point Of No Return (2)","hoster":["PutLocker"]},
+                {"german":"Die Strafaktion","english":"Severed Dreams (3)","hoster":["PutLocker"]},
+                {"german":"Ein neuer Anfang","english":"Ceremonies Of Light And Dark","hoster":["PutLocker"]},
+                {"german":"Eine wahre Centauri","english":"Sic Transit Vir","hoster":["PutLocker"]},
+                {"german":"Schmerzen der Erinnerung","english":"A Late Delivery From Avalon","hoster":[]},
+                {"german":"Der Feind meines Feindes","english":"Ship Of Tears","hoster":["PutLocker"]},
+                {"german":"Zeit des Abschieds","english":"Interludes And Examinations","hoster":["PutLocker"]},
+                {"german":"Ranger eins","english":"War Without End (1)","hoster":["PutLocker"]},
+                {"german":"Tausend Jahre durch die Zeit","english":"War Without End (2)","hoster":["PutLocker"]},
+                {"german":"Die Schlacht der Telepathen","english":"Walkabout","hoster":["PutLocker"]},
+                {"german":"Das Rätsel von Grau 17","english":"Grey 17 Is Missing","hoster":["PutLocker"]},
+                {"german":"Tod eines Intriganten","english":"And The Rock Cried Out, No Hiding Place","hoster":["PutLocker"]},
+                {"german":"Der große Schlag","english":"Shadow Dancing","hoster":["PutLocker"]},
+                {"german":"Der Alleingang","english":"Z&#039;ha&#039;dum","hoster":["PutLocker"]}
+         ]
+}

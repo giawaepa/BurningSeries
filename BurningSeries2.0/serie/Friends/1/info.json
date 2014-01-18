@@ -1,0 +1,32 @@
+{
+        "series":"Friends",
+        "seasons":10,
+        "cover":"Friends_ecd9c11d4588bc6ea50e8829954d980f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Liebe? Nein, doch nicht!","english":"The One Where Monica Gets A Roommate (a.k.a. The One Where It All Began)","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Familienfreuden","english":"The One With The Sonogram At The End","hoster":["PutLocker","DivxStage"]},
+                {"german":"Getrennt von Bett und Daumen","english":"The One With The Thumb","hoster":["PutLocker","DivxStage"]},
+                {"german":"Pizza und Erotik","english":"The One With George Stephanopoulos","hoster":["PutLocker","DivxStage"]},
+                {"german":"Im Schonwaschgang","english":"The One With The East German Laundry Detergent","hoster":["PutLocker","DivxStage"]},
+                {"german":"Dusch dich!","english":"The One With The Butt","hoster":["PutLocker","DivxStage"]},
+                {"german":"Dunkle Leidenschaft","english":"The One With The Blackout","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wenn die Oma zweimal stirbt","english":"The One Where Nana Dies Twice","hoster":["PutLocker","DivxStage"]},
+                {"german":"Aufgeblasen!","english":"The One Where Underdog Gets Away","hoster":["PutLocker","DivxStage"]},
+                {"german":"Affen unter sich","english":"The One With The Monkey","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Mutterküsser","english":"The One With Mrs. Bing","hoster":["PutLocker","DivxStage"]},
+                {"german":"Italienische Massage","english":"The One With The Dozen Lasagnas","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Superbusen-Express","english":"The One With The Boobies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Feuer und Flamme","english":"The One With The Candy Hearts","hoster":["PutLocker","DivxStage"]},
+                {"german":"Aus der Traum...","english":"The One With The Stoned Guy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Zweiteiler (1)","english":"The One With Two Parts (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Zweiteiler - Teil 2","english":"The One With Two Parts (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Pokerbräute","english":"The One With All The Poker","hoster":["PutLocker","DivxStage"]},
+                {"german":"Affe auf der Flucht","english":"The One Where The Monkey Gets Away","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wüstling in Weiß","english":"The One With The Evil Orthodontist","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die zweite Monica","english":"The One With The Fake Monica","hoster":["PutLocker","DivxStage"]},
+                {"german":"Junge Triebe","english":"The One With The Ick Factor","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wehe, wenn die Wehe kommt!","english":"The One With The Birth","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Liebesspender","english":"The One Where Rachel Finds Out","hoster":["PutLocker","DivxStage"]}
+         ]
+}

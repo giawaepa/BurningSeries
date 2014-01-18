@@ -1,0 +1,20 @@
+{
+        "series":"The L Word",
+        "seasons":6,
+        "cover":"The-L-Word_2989b24ba4baa8267a2baadbeff05c51.jpeg",
+        "movies":false,
+        "episodes":[
+                {"german":"Heimaturlaub","english":"LGB Tease","hoster":[]},
+                {"german":"Das Buch der Lesbenberatung","english":"Look Out, Here They Come!","hoster":["PutLocker"]},
+                {"german":"Ausflug","english":"Lady of the Lake","hoster":[]},
+                {"german":"Sex-Alarm","english":"Let&#039;s Get This Party Started","hoster":[]},
+                {"german":"Outing","english":"Lookin&#039; at You, Kid","hoster":["PutLocker"]},
+                {"german":"Action","english":"Lights! Camera! Action!","hoster":[]},
+                {"german":"Lesben-Wrestling","english":"Lesbians Gone Wild","hoster":[]},
+                {"german":"Lesbisch oder nicht?","english":"Lay Down the Law","hoster":[]},
+                {"german":"Die Hitzewelle","english":"Liquid Heat","hoster":[]},
+                {"german":"Tour der Herzen","english":"Lifecycle","hoster":[]},
+                {"german":"Aus und vorbei","english":"Lunar Cycle","hoster":[]},
+                {"german":"Vertrauensbrüche","english":"Loyal and True","hoster":[]}
+         ]
+}

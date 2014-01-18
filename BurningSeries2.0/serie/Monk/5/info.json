@@ -1,0 +1,24 @@
+{
+        "series":"Monk",
+        "seasons":8,
+        "cover":"Monk_bfa22242c5b58dd205872102d92eeed7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Mr. Monk mal zwei?","english":"Mr. Monk and the Actor","hoster":["PutLocker"]},
+                {"german":"Mr. Monk im Müll","english":"Mr. Monk and the Garbage Strike","hoster":["PutLocker"]},
+                {"german":"Mr. Monk als Trainer","english":"Mr. Monk and the Big Game","hoster":["PutLocker"]},
+                {"german":"Mr. Monk sieht nichts mehr","english":"Mr. Monk Can&#039;t See a Thing","hoster":["PutLocker"]},
+                {"german":"Mr. Monk, Privatdetektiv","english":"Mr. Monk, Private Eye","hoster":["PutLocker"]},
+                {"german":"Mr. Monk auf dem Jahrgangstreffen","english":"Mr. Monk and the Class Reunion","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der neue Psychiater","english":"Mr. Monk Gets a New Shrink","hoster":["PutLocker"]},
+                {"german":"Mr. Monk muss auf ein Rockkonzert","english":"Mr. Monk Goes to a Rock Concert","hoster":["PutLocker"]},
+                {"german":"Mr. Monk trifft seinen Vater","english":"Mr. Monk Meets His Dad","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der Lepramann","english":"Mr. Monk and the Leper","hoster":["PutLocker"]},
+                {"german":"Mr. Monk findet einen besten Freund","english":"Mr. Monk Makes A Friend","hoster":["PutLocker"]},
+                {"german":"Mr. Monk als Butler?","english":"Mr. Monk Is At Your Service","hoster":["PutLocker"]},
+                {"german":"Mr. Monk ist auf Sendung","english":"Mr. Monk Is On The Air","hoster":["PutLocker"]},
+                {"german":"Mr. Monk atmet Landluft","english":"Mr. Monk Visits a Farm","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der echt total tote Typ","english":"Mr. Monk and the Really, Really Dead Guy","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und das Aus im Krankenhaus?","english":"Mr. Monk Goes to the Hospital","hoster":["PutLocker"]}
+         ]
+}

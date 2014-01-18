@@ -1,0 +1,22 @@
+{
+        "series":"South Park",
+        "seasons":15,
+        "cover":"South-Park_5a9e7a27200896c407a230a91f9bc93c.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Der Ring","english":"The Ring","hoster":["PutLocker","DivxStage","BitShare","MySpass"]},
+                {"german":"Der Coon","english":"The Coon","hoster":["PutLocker","BitShare","MySpass"]},
+                {"german":"Margaritaville","english":"Margaritaville","hoster":["PutLocker","DivxStage","BitShare","MySpass"]},
+                {"german":"Queeft los","english":"Eat, Pray, Queef","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Leck mich am Stäbchen","english":"Fishsticks","hoster":["YouTube","PutLocker","BitShare","MySpass"]},
+                {"german":"Pinewood Derby","english":"Pinewood Derby","hoster":["PutLocker","BitShare","MySpass"]},
+                {"german":"Käpt&#039;n Fettbart","english":"Fatbeard","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Tote Promis","english":"Dead Celebrities","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Butters Ober-Bitch","english":"Butters&#039; Bottom Bitch","hoster":["YouTube","PutLocker","BitShare","MySpass"]},
+                {"german":"Ringen um Wrestling","english":"W.T.F.","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Der Sündenwal","english":"Whale Whores","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Schwule Schwuchteln","english":"The F Word","hoster":["YouTube","PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Der mit den Schlümpfen tanzt","english":"Dances with Smurfs","hoster":["YouTube","PutLocker","MySpass"]},
+                {"german":"Pisse","english":"Pee","hoster":["PutLocker","Sockshare","BitShare","MySpass"]}
+         ]
+}

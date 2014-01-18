@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der Jodelpriester",
+         "titleen":"Gimme That Old Time Religion",
+         "description":"Alf muss innerhalb von sechs Monaten die Prüfung zum Melmac-Priester bestehen. Wenn nicht gilt er für den Rest seines Lebens als Ausgestoßener. Für die Familie Tanner ist dies keine leichte Aufgabe.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7015544/ALF_Der_Jodelpriester_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7015567/ALF_Der_Jodelpriester_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7015597/ALF_Der_Jodelpriester_3_3"
+                }
+       ]
+}

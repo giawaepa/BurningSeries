@@ -1,0 +1,30 @@
+{
+        "series":"Stargate SG-1",
+        "seasons":10,
+        "cover":"Stargate-SG-1_6b5b9978ee26b1880a53c96bc53f8c10.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Die Höhle des Löwen - Teil 2","english":"Into the Fire (2)","hoster":["PutLocker"]},
+                {"german":"Seth","english":"Seth","hoster":["PutLocker"]},
+                {"german":"Die Saat des Verrats","english":"Fair Game","hoster":["PutLocker"]},
+                {"german":"Besessen","english":"Legacy","hoster":["PutLocker"]},
+                {"german":"Die Lektion der Orbaner","english":"Learning Curve","hoster":["PutLocker"]},
+                {"german":"Lebenslinien","english":"Point of View","hoster":["PutLocker"]},
+                {"german":"Kopfgeldjäger","english":"Deadman Switch","hoster":["PutLocker"]},
+                {"german":"Dämonen","english":"Demons","hoster":["PutLocker"]},
+                {"german":"Regeln der Kriegsführung","english":"Rules of Engagement","hoster":["PutLocker"]},
+                {"german":"Sha&#039;res Tod","english":"Forever in a Day","hoster":["PutLocker"]},
+                {"german":"Vergangenheit und Gegenwart","english":"Past and Present","hoster":["PutLocker"]},
+                {"german":"Jolinars Erinnerungen","english":"Jolinar&#039;s Memories (1)","hoster":["PutLocker"]},
+                {"german":"Apophis&#039; Rückkehr","english":"The Devil You Know (2)","hoster":["PutLocker"]},
+                {"german":"Außerirdische im Vormarsch","english":"Foothold","hoster":["PutLocker"]},
+                {"german":"Die Tollan Triade","english":"Pretense","hoster":["PutLocker"]},
+                {"german":"Urgo","english":"Urgo","hoster":["MyVideo","PutLocker"]},
+                {"german":"O&#039;Neill und Laira","english":"A Hundred Days","hoster":["PutLocker"]},
+                {"german":"O&#039;Neill auf Abwegen","english":"Shades of Grey","hoster":["PutLocker"]},
+                {"german":"Tödlicher Verrat","english":"New Ground","hoster":["PutLocker"]},
+                {"german":"Harsesis Rettung","english":"Maternal Instinct","hoster":["PutLocker"]},
+                {"german":"Der Kristallschädel","english":"Crystal Skull","hoster":["PutLocker"]},
+                {"german":"Nemesis, Teil 1","english":"Nemesis (1)","hoster":["PutLocker"]}
+         ]
+}

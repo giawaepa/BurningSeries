@@ -1,0 +1,25 @@
+{
+        "series":"Cosmo und Wanda ? Wenn Elfen helfen",
+        "seasons":8,
+        "cover":"Cosmo-und-Wanda-Wenn-Elfen-helfen_efab7858e8f9b95490bb33ca474e61ca.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Zauberhafter Nachwuchs, Teil 1","english":"Fairly OddBaby, Part 1","hoster":["PutLocker"]},
+                {"german":"Zauberhafter Nachwuchs, Teil 2","english":"Fairly OddBaby, Part 2","hoster":[]},
+                {"german":"Timmy verantwortungsvoll / Haare! Haare! Haare!","english":"Mission: Responsible / Hairicane","hoster":[]},
+                {"german":"Sag Aaah! / Piraten gegen Piraten","english":"Open Wide and Say Aaagh! / OddPirates","hoster":[]},
+                {"german":"Rock &#039;N&#039; Rasen / Nur für den Notfall","english":"The Odd Squad / For Emergencies Only","hoster":[]},
+                {"german":"Käse-Crocker / In einem Land vor Timmys Zeit","english":"Cheese &amp; Crockers /Land Before Timmy","hoster":[]},
+                {"german":"König für einen Tag / Verführerische Mächte","english":"King Chang / The End of the Universe-ity","hoster":[]},
+                {"german":"Die Elfenwelt-Olympiade","english":"The Fairly Oddlympics","hoster":[]},
+                {"german":"Super Poof / Wünsche, Wünsche, Wünsche","english":"Sooper Poof / Wishing Well","hoster":[]},
+                {"german":"Aus Alt mach Neu / Nicht von schlechten Eltern","english":"Wishy Washy / Poof&#039;s Playdate","hoster":[]},
+                {"german":"Vicky wird gefeuert / Auch Helden brauchen Liebe","english":"Vicky Gets Fired / Chindred Spirits","hoster":[]},
+                {"german":"Neun Leben / Gefährliche Gäste","english":"9 Lives / Dread &#039;n&#039; Breakfast","hoster":[]},
+                {"german":"Fröhliche Wunschnachten","english":"Merry Wishmas","hoster":[]},
+                {"german":"Geburtstag ist Murkstag / Mom, Mom, Mom!","english":"Birthday Bashed / Momnipresent","hoster":[]},
+                {"german":"Wünschologie - Teil 1: Der Anfang vom Anfang","english":"Wishology, Part 1: The Big Beginning","hoster":[]},
+                {"german":"Wünschologie - Teil 2: Mittendrin im Mittelteil","english":"Wishology, Part 2: The Exciting Middle Part","hoster":[]},
+                {"german":"Wünschologie - Teil 3: Das Ende kommt zum Schluss","english":"Wishology, Part 3: The Final Ending","hoster":[]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Alle unter einem Dach",
+        "seasons":9,
+        "cover":"Alle-unter-einem-Dach_2db8eb16cd5d05a61805adfcf8c1d513.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Kleine Defizite","english":"Out With the Old","hoster":[]},
+                {"german":"Die Waffen nieder!","english":"They Shoot Ducks, Don&#039;t They?","hoster":[]},
+                {"german":"Der Debütantinnenball","english":"Dumb Belle of the Ball","hoster":[]},
+                {"german":"Ein Kuss verändert alles","english":"Drinking and Jiving","hoster":[]},
+                {"german":"Das kleine schwarze Buch","english":"Who&#039;s Afraid of the Big Black Book?","hoster":[]},
+                {"german":"Der Gedankenleser","english":"A Mind Is a Terrible Thing to Read","hoster":[]},
+                {"german":"Die Rückkehr der Teufelspuppe","english":"Stevil II: This Time He&#039;s Not Alone","hoster":[]},
+                {"german":"Vertauschte Rollen","english":"Trading Places","hoster":[]},
+                {"german":"Der goldene Wurf","english":"A Pain in Harassment","hoster":[]},
+                {"german":"Mein Cousin heißt OGD","english":"Original Gangsta Dawg","hoster":[]},
+                {"german":"Das schönste Geschenk","english":"Deck the Malls","hoster":[]},
+                {"german":"Kochen wie in Japan","english":"Grill of My Dreams","hoster":[]},
+                {"german":"Eddies Entschluss","english":"Breaking Up Is Hard to Do","hoster":[]},
+                {"german":"Die letzte Polka?","english":"Crazy for You (1)","hoster":[]},
+                {"german":"Das Liebesdreieck","english":"Crazier for You (2)","hoster":[]},
+                {"german":"Zwei Ladies im Ring","english":"Whose Man Is It Anyway?","hoster":[]},
+                {"german":"Die erste Polka","english":"Polkapalooza","hoster":[]},
+                {"german":"Der blinde Passagier","english":"Throw Urkel From the Train","hoster":[]},
+                {"german":"Captain Carl und die Massage","english":"Don&#039;t Make Me Over","hoster":[]},
+                {"german":"Zwei Männer ein Ziel","english":"Pop Goes the Question","hoster":[]},
+                {"german":"Houston, wir haben ein Problem (1)","english":"Lost in Space (1)","hoster":[]},
+                {"german":"Houston, wir haben ein Problem (2)","english":"Lost in Space (2)","hoster":[]}
+         ]
+}

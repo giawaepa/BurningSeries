@@ -1,0 +1,21 @@
+{
+        "series":"CSI: Miami",
+        "seasons":10,
+        "cover":"CSI-Miami_b05c65690e21963e0626d83346766b0ahtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Countermeasures (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Stiff","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Blown Away","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Look Who?s Taunting","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Killer Regrets","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"By The Book","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Sinner Takes All","hoster":["PutLocker"]},
+                {"german":"","english":"Dead Ringer","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"A Few Dead Man","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Long Gone","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Crowned","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Friendly Fire","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Terminal Velocity","hoster":["PutLocker","DivxStage"]}
+         ]
+}

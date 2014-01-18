@@ -1,0 +1,24 @@
+{
+        "series":"Medium ? Nichts bleibt verborgen",
+        "seasons":7,
+        "cover":"Medium-Nichts-bleibt-verborgen_0b0e86f0a8fda0fc1c335a2ccfa7a5d6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Anwältin der Toten","english":"Pilot","hoster":["PutLocker","Sockshare"]},
+                {"german":"Vision und Wahrheit","english":"Suspicions and Certainties","hoster":["PutLocker","Sockshare"]},
+                {"german":"Schnappschüsse im Jenseits","english":"A Couple of Choices","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Nacht des Wolfes","english":"Night of the Wolf","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Kunst des Schweigens","english":"In Sickness and Adultery","hoster":["PutLocker","Sockshare"]},
+                {"german":"Schneller als der Teufel","english":"Coming Soon","hoster":["Sockshare"]},
+                {"german":"Chronik eines Selbstmordes","english":"Jump Start","hoster":["PutLocker","Sockshare"]},
+                {"german":"Lucky","english":"Lucky","hoster":["PutLocker","Sockshare"]},
+                {"german":"Im Reich des Drachen","english":"Coded","hoster":["PutLocker","Sockshare"]},
+                {"german":"Jenseits der Gleise","english":"The Other Side of the Tracks","hoster":["PutLocker","Sockshare"]},
+                {"german":"Meine Frau, die Hellseherin","english":"I Married a Mind Reader","hoster":["PutLocker","Sockshare"]},
+                {"german":"Heute Hinrichtung","english":"A Priest, a Doctor and a Medium Walk into an Execution Chamber","hoster":["Sockshare"]},
+                {"german":"Koordinaten des Todes","english":"Being Mrs. O&#039;Leary&#039;s Cow","hoster":["PutLocker","Sockshare"]},
+                {"german":"Lebendig begraben","english":"In the Rough","hoster":["PutLocker","Sockshare"]},
+                {"german":"Besessen","english":"Penny for Your Thoughts","hoster":["Sockshare"]},
+                {"german":"Von Herzen","english":"When Push Comes to Shove (1)","hoster":["PutLocker","Sockshare"]}
+         ]
+}

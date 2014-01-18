@@ -1,0 +1,30 @@
+{
+        "series":"CSI: Miami",
+        "seasons":10,
+        "cover":"CSI-Miami_b05c65690e21963e0626d83346766b0ahtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Gefallen ? Teil 2","english":"Fallen (2)","hoster":["PutLocker"]},
+                {"german":"Champagnertränen","english":"Sudden Death","hoster":["PutLocker","DivxStage"]},
+                {"german":"Finsternis","english":"See No Evil","hoster":["PutLocker","DivxStage"]},
+                {"german":"Memento Marisol","english":"Manhunt","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schlaflos in Miami","english":"Sleepless in Miami","hoster":["PutLocker","DivxStage"]},
+                {"german":"Dein letzter Auftritt","english":"Reality Kills","hoster":["PutLocker","DivxStage"]},
+                {"german":"Am Haken","english":"On the Hook","hoster":["PutLocker","DivxStage"]},
+                {"german":"Happy Birthday","english":"Happy Birthday","hoster":["PutLocker","DivxStage"]},
+                {"german":"Blutzucker","english":"Blood Sugar","hoster":["PutLocker","DivxStage"]},
+                {"german":"Albtraumpaar","english":"Match Made in Hell","hoster":["PutLocker","DivxStage"]},
+                {"german":"Du sollst nicht wissen, wer ich bin","english":"F-T-F","hoster":["PutLocker","DivxStage"]},
+                {"german":"Connie und ihre Feinde","english":"Wheels Up","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der letzte Widerstand","english":"Last Stand","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Stoned Cold","hoster":[]},
+                {"german":"","english":"Blood Lust","hoster":[]},
+                {"german":"","english":"Hunting Ground","hoster":[]},
+                {"german":"","english":"Special Delivery","hoster":[]},
+                {"german":"","english":"About Face","hoster":[]},
+                {"german":"","english":"Caged","hoster":[]},
+                {"german":"","english":"Paint It Black","hoster":[]},
+                {"german":"","english":"G.O.","hoster":[]},
+                {"german":"","english":"Mayday (1)","hoster":[]}
+         ]
+}

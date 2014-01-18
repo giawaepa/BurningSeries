@@ -1,0 +1,20 @@
+{
+        "series":"Human Target",
+        "seasons":2,
+        "cover":"Human-Target_1bdf4b660014f7a389e46b875d3d8dae.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Absprung","english":"Pilot","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kopfüber","english":"Rewind","hoster":["RapidVideo"]},
+                {"german":"Vergiftet","english":"Embassy Row","hoster":["YouTube","RapidVideo"]},
+                {"german":"Refugium","english":"Sanctuary","hoster":["MyVideo","RapidVideo"]},
+                {"german":"Kassensturz","english":"Run","hoster":["RapidVideo"]},
+                {"german":"Abgeriegelt","english":"Lockdown","hoster":["RapidVideo"]},
+                {"german":"Saldovars Gold","english":"Salvage &amp; Reclamation","hoster":["RapidVideo"]},
+                {"german":"Baptiste","english":"Baptiste","hoster":["RapidVideo"]},
+                {"german":"Im Ring","english":"Corner Man","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tanarak","english":"Tanarak","hoster":["RapidVideo"]},
+                {"german":"Victoria","english":"Victoria","hoster":["RapidVideo"]},
+                {"german":"Christopher Chance","english":"Christopher Chance","hoster":["RapidVideo"]}
+         ]
+}

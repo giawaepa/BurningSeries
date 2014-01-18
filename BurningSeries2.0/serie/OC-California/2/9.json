@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Ex-Faktor",
+         "titleen":"The Ex-Factor",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7133956/O_C_California_s02e09_Der_Ex_Faktor_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7134003/O_C_California_s02e09_Der_Ex_Faktor_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7134028/O_C_California_s02e09_Der_Ex_Faktor_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7134042/O_C_California_s02e09_Der_Ex_Faktor_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"850B826059FD07EC"
+                }
+       ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Weg des Drachen (2)",
+         "titleen":"Episode 204",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=wasMZ_17yiA"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5744062/Detektiv_Conan_Folge_204_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5744510/Detektiv_Conan_Folge_204_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5744794/Detektiv_Conan_Folge_204_3_3"
+                }
+       ]
+}

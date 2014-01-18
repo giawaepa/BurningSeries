@@ -1,0 +1,21 @@
+{
+        "series":"Numb3rs ? Die Logik des Verbrechens",
+        "seasons":6,
+        "cover":"Numb3rs-Die-Logik-des-Verbrechens_8e3e17c52a0c53602826e85ab5fe4c15.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Brandzeichen","english":"Pilot","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bankräuber","english":"Uncertainty Principle","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vektor","english":"Vector","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Konstruktionsfehler","english":"Structural Corruption","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Primzahlen","english":"Prime Suspect","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sabotage","english":"Sabotage","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Blütenzauber","english":"Counterfeit Reality","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Identitätskrise","english":"Identity Crisis","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hinterhalt","english":"Sniper Zero","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Radioaktiv","english":"Dirty Bomb","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Chancengleichheit","english":"Sacrifice","hoster":["PutLocker","RapidVideo"]},
+                {"german":"UFO","english":"Noisy Edge","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Menschenjagd","english":"Man Hunt","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

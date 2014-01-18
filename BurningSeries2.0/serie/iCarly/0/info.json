@@ -1,0 +1,9 @@
+{
+        "series":"iCarly",
+        "seasons":5,
+        "cover":"iCarly_7203625d55cfd3b4011def326c78e6e2.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Bitte löschen","english":"to be deleted","hoster":[]}
+         ]
+}

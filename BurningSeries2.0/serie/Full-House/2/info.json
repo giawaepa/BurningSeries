@@ -1,0 +1,30 @@
+{
+        "series":"Full House",
+        "seasons":8,
+        "cover":"Full-House_20bd56938965807a7c4bdb8c45cd6edb.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Haarschnitt mit Folgen","english":"Cutting It Close","hoster":[]},
+                {"german":"Der Giftburger","english":"Tanner vs. Gibbler","hoster":[]},
+                {"german":"Vater und Sohn","english":"It&#039;s Not My Job","hoster":[]},
+                {"german":"Das Erste Pferd","english":"D.J.&#039;s Very First Horse","hoster":[]},
+                {"german":"Eine Melodie bringt Streit","english":"Jingle Hell","hoster":[]},
+                {"german":"Die Große Show ","english":"Beach Boy Bingo","hoster":[]},
+                {"german":"Joey bleibt hart","english":"Joey Gets Tough","hoster":[]},
+                {"german":"Dreifache Verabredung","english":"Triple Date","hoster":[]},
+                {"german":"Völlig verrückte Weihnachten","english":"Our Very First Christmas Show","hoster":[]},
+                {"german":"Stephanies Krise","english":"Middle Age Crazy","hoster":[]},
+                {"german":"Liebeskummer lohnt sich nicht","english":"A Little Romance","hoster":[]},
+                {"german":"Das Schlagzeug","english":"Fogged In","hoster":[]},
+                {"german":"Auf dem Weg zum Erfolg","english":"Working Mothers","hoster":[]},
+                {"german":"Der Ladendiebstahl","english":"Little Shop of Sweaters","hoster":[]},
+                {"german":"Blutsbrüder","english":"Pal Joey","hoster":[]},
+                {"german":"Michelles erste Liebe","english":"Baby Love","hoster":[]},
+                {"german":"D.J.s großes Problem","english":"El Problema Grande de D.J.","hoster":[]},
+                {"german":"Steph ist sauer","english":"Goodbye, Mr. Bear","hoster":[]},
+                {"german":"Eine Alte Freundin","english":"Blast from the Past","hoster":[]},
+                {"german":"Jesse im Superstreß","english":"I&#039;m There for You, Babe","hoster":[]},
+                {"german":"Das Glück eine Frau zu sein - Teil 1","english":"Luck Be a Lady (1)","hoster":[]},
+                {"german":"Das Glück eine Frau zu sein - Teil 2","english":"Luck Be a Lady (2)","hoster":[]}
+         ]
+}

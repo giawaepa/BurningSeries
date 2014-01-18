@@ -1,0 +1,29 @@
+{
+        "series":"Die Sopranos",
+        "seasons":6,
+        "cover":"Die-Sopranos_3a285a15376f94a24caf2cba6d7ebc27.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mitglied auf Lebenszeit","english":"Members Only","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Was bleibt, ist die Hoffnung","english":"Join the Club","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Träumer und die Parasiten","english":"Mayham","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schwarz und Weiß","english":"The Fleshy Part of the Thigh","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Nimmt man Tony noch ernst?","english":"Mr. and Mrs. John Sacrimoni Request","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lebe frei oder stirb","english":"Live Free or Die","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Luxury Lounge","english":"Luxury Lounge","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Johnny Cakes","english":"Johnny Cakes","hoster":["PutLocker","RapidVideo"]},
+                {"german":"The Ride","english":"The Ride","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Altlasten","english":"Moe and Joe","hoster":["PutLocker"]},
+                {"german":"Der Himmel über Paris","english":"Cold Stones","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kaisha","english":"Kaisha","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Soprano Home Movies","english":"Soprano Home Movies","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Goodbye Johnny","english":"Stage 5","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die guten alten Zeiten","english":"Remember When","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Jagd nach dem Glück","english":"Chasing It","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Männer und ihre Krisen","english":"Walk Like a Man","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kennedy und Heidi","english":"Kennedy and Heidi","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das große Nichts","english":"The Second Coming","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein tödliches Hobby","english":"The Blue Comet","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Sopranos schlagen zurück","english":"Made in America","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,27 @@
+{
+        "series":"Medium ? Nichts bleibt verborgen",
+        "seasons":7,
+        "cover":"Medium-Nichts-bleibt-verborgen_0b0e86f0a8fda0fc1c335a2ccfa7a5d6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Seelenwanderung","english":"Soul Survivor","hoster":["PutLocker"]},
+                {"german":"Vorübergehend tot","english":"Things to Do in Phoenix When You&#039;re Dead","hoster":["Sockshare"]},
+                {"german":"Bombenbastler","english":"A Person of Interest","hoster":["PutLocker","Sockshare"]},
+                {"german":"Eine Wagenladung Angst","english":"...About Last Night","hoster":["Sockshare"]},
+                {"german":"A Taste Of Her Own Medicine","english":"A Taste of Her Own Medicine","hoster":["PutLocker","Sockshare"]},
+                {"german":"Adam und Eva","english":"Apocalypse...Now?","hoster":["PutLocker","Sockshare"]},
+                {"german":"Tipps von Toten","english":"A Necessary Evil","hoster":["PutLocker","Sockshare"]},
+                {"german":"Truth Be Told","english":"Truth Be Told","hoster":["PutLocker","Sockshare"]},
+                {"german":"All In The Family","english":"All In the Family","hoster":["Sockshare"]},
+                {"german":"Die Zeitschleife","english":"Then...and Again","hoster":["Sockshare"]},
+                {"german":"The Devil Inside (1)","english":"The Devil Inside (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"The Devil Inside (2)","english":"The Devil Inside (2)","hoster":["Sockshare"]},
+                {"german":"How To Make A Killing In Big Business (1)","english":"How to Make a Killing in Big Business (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"How To Make A Killing In Big Business (2)","english":"How to Make a Killing in Big Business (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"How To Make A Killing In Big Business (3)","english":"How to Make a Killing in Big Business (3)","hoster":["PutLocker","Sockshare"]},
+                {"german":"The Man In The Mirror","english":"The Man in the Mirror","hoster":["PutLocker","Sockshare"]},
+                {"german":"Rache mit Biss","english":"The First Bite Is the Deepest","hoster":["PutLocker","Sockshare"]},
+                {"german":"The Talented Ms. Boddicker","english":"The Talented Ms. Boddicker","hoster":["PutLocker","Sockshare"]},
+                {"german":"Stille im Kopf","english":"Bring Me the Head of Oswaldo Castillo (1)","hoster":["PutLocker","Sockshare"]}
+         ]
+}

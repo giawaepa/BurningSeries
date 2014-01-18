@@ -1,0 +1,21 @@
+{
+        "series":"Das A-Team",
+        "seasons":5,
+        "cover":"Das-A-Team_326982f33c15520fd5d58216d5ecfd79.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Verschollen in Mexiko","english":"Mexican Slayride","hoster":["PutLocker","Sockshare"]},
+                {"german":"Fegefeuer","english":"Children Of Jamestown","hoster":["Sockshare"]},
+                {"german":"Auf Leben und Tod","english":"Pros And Cons","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wölfe in Uniform","english":"A Small And Deadly War","hoster":["PutLocker","Sockshare"]},
+                {"german":"Blutsbande","english":"Black Day At Bad Rock","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein todsicheres System","english":"The Rabbit Who Ate Las Vegas","hoster":["PutLocker","Sockshare"]},
+                {"german":"Bruchlandung","english":"Holiday In The Hills","hoster":["PutLocker","Sockshare"]},
+                {"german":"Müllaktion in Manhatten","english":"The Out Of Towners","hoster":["PutLocker","Sockshare"]},
+                {"german":"Reife Melonen","english":"West Coast Turnaround","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein bisschen mehr Zeit","english":"One More Time","hoster":["PutLocker","Sockshare"]},
+                {"german":"Bis dass der Tod uns scheidet","english":"Till Death Do Us Part","hoster":["PutLocker","Sockshare"]},
+                {"german":"Lösegeld für einen Jumbo","english":"The Beast From The Belly Of A Boeing","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ärger im vierten Monat","english":"A Nice Place To Visit","hoster":["PutLocker","Sockshare"]}
+         ]
+}

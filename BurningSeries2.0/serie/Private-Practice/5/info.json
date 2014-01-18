@@ -1,0 +1,20 @@
+{
+        "series":"Private Practice",
+        "seasons":5,
+        "cover":"Private-Practice_555c7752a33670b8601c85d49ac9e79a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"God Laughs","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Breaking the Rules","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Deal With It","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Remember Me","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Step One","hoster":["DivxStage"]},
+                {"german":"","english":"If I Hadn?t Forgotten?","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Don?t Stop Till You Get Enough","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Who We Are","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Breaking Point","hoster":["PutLocker"]},
+                {"german":"","english":"Are You My Mother?","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Standing Eight Count","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Losing Battles","hoster":["PutLocker","DivxStage"]}
+         ]
+}

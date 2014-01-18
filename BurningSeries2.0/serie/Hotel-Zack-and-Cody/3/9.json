@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Musical-Fieber",
+         "titleen":"Lip Syncin&#039; in the Rain",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=mB_2-ER6CSQ"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=4bf8pyhP1R8"
+                },{
+                        "hoster":"YouTube",
+                        "part":3,
+                        "link":"=b3qPzxlgmac"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5065228/Staffel_3_Folge_9_1_3_Musical_Fieber_Hotel_Zack_And_Cody"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5065973/Staffel_3_Folge_9_2_3_Musical_Fieber_Hotel_Zack_And_Cody"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5066064/Staffel_3_Folge_9_3_3_Musical_Fieber_Hotel_Zack_And_Cody"
+                }
+       ]
+}

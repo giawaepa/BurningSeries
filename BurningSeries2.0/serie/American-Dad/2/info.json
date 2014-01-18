@@ -1,0 +1,27 @@
+{
+        "series":"American Dad",
+        "seasons":7,
+        "cover":"American-Dad_ff475b83acefe494dafbe34c812419d8.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Camp Refoogee","english":"Camp Refoogee","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream"]},
+                {"german":"Eine Frage des Gewichts","english":"The American Dad after School Special","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Die harte Tour","english":"Failure Is Not A Factory-Installed Option","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Hauptsache Republikaner","english":"Lincoln Lover","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Aufbruch in neue Welten","english":"Dungeons and Wagons","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Iced, Iced Baby","english":"Iced, Iced Babies","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Die Braut für alle Fälle","english":"Of Ice and Men","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"In Sachen Steve","english":"Irregarding Steve","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Zurück zu Weihnachten","english":"The Best Christmas Story Never","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Mein Freund Bush","english":"Bush Comes To Dinner","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Illegale Zaubärhaftis","english":"American Dream Factory","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Roger, mein außerirdischer Freund","english":"A.T. The Abusive Terrestrial","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Das Vermächtnis der geheimen Erdnussbutter","english":"Black Mystery Month","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Thermonukleare Angriffsübung für Blödköpfe","english":"An Apocalypse to Remember","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Vier kleine Worte","english":"Four Little Words","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"When a Stan Loves a Woman","english":"When a Stan Loves a Woman","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Lass die Leute reden","english":"I Can","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Der glorreiche Steven","english":"The Magnificent Steven","hoster":["PutLocker","Sockshare","Ecostream","BitShare"]},
+                {"german":"Viel Rauch um Nichts","english":"Joint Custody","hoster":["PutLocker","BitShare"]}
+         ]
+}

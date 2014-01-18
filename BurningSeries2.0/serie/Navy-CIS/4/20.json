@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Das Buch zum Mord",
+         "titleen":"Cover story",
+         "description":"McGees Roman Deep Six war ein Erfolg für den Hobbyschriftsteller und deshalb hat er sich dazu entschlossen, eine Fortsetzung zu schreiben. Eines Tages weist ein Mordfall seltsame Parallelen zu seinem noch nicht veröffentlichten Werk auf. Irgendjemand muss sich Zugang zum Manuskript verschafft haben und das Buch nachleben ?",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"3458445/Part1_Das_Buch_zum_Mord"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"3458901/Part2_Das_Buch_zum_Mord"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"3459363/Part3_Das_Buch_zum_Mord"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"3460287/Part4_Das_Buch_zum_Mord"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"341D111DA92E52B8"
+                }
+       ]
+}

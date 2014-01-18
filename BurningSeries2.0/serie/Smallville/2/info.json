@@ -1,0 +1,31 @@
+{
+        "series":"Smallville",
+        "seasons":10,
+        "cover":"Smallville_9b035bf1ed4971800a10af943bd17d18.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Seh die Welt in Trümmern liegen","english":"Vortex (2)","hoster":["PutLocker"]},
+                {"german":"Heiß!","english":"Heat","hoster":["PutLocker"]},
+                {"german":"Raumschiff verzweifelt gesucht","english":"Duplicity","hoster":["PutLocker"]},
+                {"german":"Wahnsinnsrot","english":"Red","hoster":["PutLocker"]},
+                {"german":"Byron und sein Hyde","english":"Nocturne","hoster":["PutLocker"]},
+                {"german":"Ich atme ein, die Jugend dein!","english":"Redux","hoster":["PutLocker"]},
+                {"german":"Mütter, Väter, nur Verräter?","english":"Lineage","hoster":["PutLocker"]},
+                {"german":"Ryan","english":"Ryan","hoster":["PutLocker"]},
+                {"german":"Eigenkopie","english":"Dichotic","hoster":["PutLocker"]},
+                {"german":"Höhlengeheimnis","english":"Skinwalker","hoster":["PutLocker"]},
+                {"german":"Was ist bloß mit Whitney los?","english":"Visage","hoster":["PutLocker"]},
+                {"german":"Metropolis Report","english":"Insurgence","hoster":["PutLocker"]},
+                {"german":"Wer schoss auf Lionel Luthor?","english":"Suspect","hoster":["PutLocker"]},
+                {"german":"Blutparasit","english":"Rush","hoster":["PutLocker"]},
+                {"german":"Triple Luthor","english":"Prodigal","hoster":["PutLocker"]},
+                {"german":"Zeitpunkt des Todes: 02.17 Uhr","english":"Fever","hoster":["PutLocker"]},
+                {"german":"Kal-El von Krypton","english":"Rosetta","hoster":["PutLocker"]},
+                {"german":"Alien 2?","english":"Visitor","hoster":["PutLocker"]},
+                {"german":"Viel Arbeit für den neuen Sheriff","english":"Precipice","hoster":["PutLocker"]},
+                {"german":"Abgedampft","english":"Witness","hoster":["PutLocker"]},
+                {"german":"Geisterjäger","english":"Accelerate","hoster":["PutLocker"]},
+                {"german":"Für immer ...","english":"Calling (1)","hoster":["PutLocker"]},
+                {"german":"... nach hause?","english":"Exodus (2)","hoster":["PutLocker"]}
+         ]
+}

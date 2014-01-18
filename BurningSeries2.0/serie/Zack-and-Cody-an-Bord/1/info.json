@@ -1,0 +1,29 @@
+{
+        "series":"Zack &amp; Cody an Bord",
+        "seasons":3,
+        "cover":"Zack-Cody-an-Bord_1dd26793c360c2867bcc41c87aadcf12.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Erster Tag auf Hoher See","english":"The Suite Life Sets Sail","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die Papageien-Insel","english":"Parrot Island","hoster":["YouTube"]},
+                {"german":"Pleiten, Pech und Jo-Jo","english":"Broke&#039;N&#039;YoYo","hoster":["YouTube","MyVideo"]},
+                {"german":"Der Diamantendieb","english":"The Kidney of the Sea","hoster":["YouTube"]},
+                {"german":"Zeigt her eure Füße!","english":"Show and Tell/Showgirls","hoster":["YouTube","MyVideo"]},
+                {"german":"Und täglich grüsst Miss Tutweiller","english":"International Dateline","hoster":["YouTube"]},
+                {"german":"Das kommt mir griechisch vor","english":"It&#039;s All Greek to Me","hoster":["YouTube"]},
+                {"german":"Seemonster Gertie","english":"Sea Monster Mash","hoster":["YouTube"]},
+                {"german":"Lügen und nichts als Lügen","english":"Flowers and Chocolate","hoster":["YouTube","MyVideo"]},
+                {"german":"Kein (Selbst-)Vertrauen","english":"Boo You","hoster":["YouTube"]},
+                {"german":"Harmonie auf hoher See","english":"seaHarmony","hoster":["MyVideo"]},
+                {"german":"Der teure Pfad der Erleuchtung","english":"The Swami and the Mommy","hoster":["YouTube"]},
+                {"german":"Maddie an Bord","english":"Maddie on Deck","hoster":["YouTube","MyVideo"]},
+                {"german":"Verliebt in Rom","english":"When in Rome?","hoster":["YouTube"]},
+                {"german":"Schiffnose","english":"Shipnotized","hoster":["YouTube"]},
+                {"german":"Mom und Dad an Bord","english":"Mom and Dad on Deck","hoster":["YouTube"]},
+                {"german":"Der Weltraum-Wettstreit","english":"The Wrong Stuff","hoster":["YouTube"]},
+                {"german":"Cody, das Umweltmonster","english":"Splash &amp; Trash","hoster":["YouTube"]},
+                {"german":"Viel Lärm um nichts","english":"Mulch Ado About Nothing","hoster":["YouTube"]},
+                {"german":"Mast- und Beinbruch","english":"Cruisin&#039; For a Bruisin&#039;","hoster":["YouTube"]},
+                {"german":"Das Treffen der Superstars","english":"Double-Crossed","hoster":["MyVideo"]}
+         ]
+}

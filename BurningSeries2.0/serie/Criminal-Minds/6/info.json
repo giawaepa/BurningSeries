@@ -1,0 +1,32 @@
+{
+        "series":"Criminal Minds",
+        "seasons":7,
+        "cover":"Criminal-Minds_b57c4c9433b36cce49ad96d3ca0a8cc4html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Die längste Nacht ? Teil 2","english":"The Longest Night (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Unter Haien","english":"JJ","hoster":["PutLocker","DivxStage"]},
+                {"german":"Letzte Anrufe","english":"Rememberance of Things Past","hoster":["PutLocker","DivxStage"]},
+                {"german":"Alpha-Männer","english":"Compromising Positions","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der böse Zwilling","english":"Safe Haven","hoster":["PutLocker","DivxStage"]},
+                {"german":"Flammen der Rache","english":"Devil&#039;s Night","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bis zum Ende","english":"Middle Man","hoster":["PutLocker","DivxStage"]},
+                {"german":"Spiegelbild der Sehnsucht","english":"Reflection of Desire","hoster":["PutLocker","DivxStage"]},
+                {"german":"In die Wälder","english":"Into the Woods","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Beste Tag seines Lebens","english":"What Happens At Home","hoster":["PutLocker","DivxStage"]},
+                {"german":"Alte Spuren","english":"25 to Life","hoster":["PutLocker","DivxStage"]},
+                {"german":"Palo Mayombe","english":"Corazon","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bis das der Tod","english":"The Thirteenth Step","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Duft der Vergangenheit","english":"Sense Memory","hoster":["PutLocker","DivxStage"]},
+                {"german":"Alles nur für dich","english":"Today I Do","hoster":["PutLocker","DivxStage"]},
+                {"german":"Am Ende des Traums","english":"Coda","hoster":["PutLocker","DivxStage"]},
+                {"german":"Valhalla","english":"Valhalla","hoster":["PutLocker","DivxStage"]},
+                {"german":"Lauren Reynolds ist tot","english":"Lauren","hoster":["PutLocker","DivxStage"]},
+                {"german":"Böse Freunde","english":"With Friends Like These...","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Versprechen","english":"Hanley Waters","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Babysitter-Mörder","english":"The Stranger","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Out of the Light","hoster":["PutLocker"]},
+                {"german":"","english":"Big Sea","hoster":["PutLocker"]},
+                {"german":"","english":"Supply &amp; Demand","hoster":["PutLocker"]}
+         ]
+}

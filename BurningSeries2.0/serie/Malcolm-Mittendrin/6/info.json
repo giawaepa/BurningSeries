@@ -1,0 +1,30 @@
+{
+        "series":"Malcolm Mittendrin",
+        "seasons":7,
+        "cover":"Malcolm-Mittendrin_1bb1532f3e072d63b21fae3c0fc10a51.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Reese kommt nach Hause","english":"Reese comes Home","hoster":["PutLocker"]},
+                {"german":"Hal und die Bodybuilder","english":"Busey&#039;s run away","hoster":["PutLocker"]},
+                {"german":"Die Macht des Müllmanns","english":"Standee","hoster":["PutLocker"]},
+                {"german":"Pearl Harbor","english":"Pearl Harbor","hoster":["PutLocker"]},
+                {"german":"Die Preisverleihung","english":"Kiddy&#039;s back","hoster":["PutLocker"]},
+                {"german":"Der Familienausflug","english":"Hal&#039;s Christmas Gift","hoster":["PutLocker"]},
+                {"german":"Schlafwandler","english":"Hal sleepwalks","hoster":["PutLocker"]},
+                {"german":"Der Mutter-Sohn-Krieg","english":"Lois Battles Jamie","hoster":["PutLocker"]},
+                {"german":"Verliebt in ein Auto","english":"Malcolm&#039;s Car","hoster":["PutLocker"]},
+                {"german":"Die Rechte der Frauen","english":"Billboard","hoster":["PutLocker"]},
+                {"german":"Deweys Oper","english":"Dewey&#039;s Opera","hoster":["PutLocker"]},
+                {"german":"Der Fitness-Guru","english":"Living Will","hoster":["PutLocker"]},
+                {"german":"Die Tiki-Stunde","english":"Tiki Lounge","hoster":["PutLocker"]},
+                {"german":"Mutterliebe","english":"Ida Loses A Leg","hoster":["PutLocker"]},
+                {"german":"Der Übernachtungsgast","english":"Chad&#039;s Sleepover","hoster":["PutLocker"]},
+                {"german":"Das Versprechen","english":"No Motorcycles","hoster":["RapidVideo"]},
+                {"german":"Schmetterlinge","english":"Butterflies","hoster":["PutLocker"]},
+                {"german":"Idas Tanz","english":"Ida&#039;s Dance","hoster":["PutLocker"]},
+                {"german":"Motivator Hal","english":"Motivational Speaker","hoster":["PutLocker"]},
+                {"german":"Stelzen","english":"Stilts","hoster":["PutLocker"]},
+                {"german":"Lehrer in Geiselhaft","english":"Buseys Takes A Hostage","hoster":["PutLocker"]},
+                {"german":"Der Schönheitswettbewerb","english":"Mrs. Tri-County","hoster":["PutLocker"]}
+         ]
+}

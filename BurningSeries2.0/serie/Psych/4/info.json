@@ -1,0 +1,24 @@
+{
+        "series":"Psych",
+        "seasons":6,
+        "cover":"Psych_a6900fd3ffbe74c30b48832b726da02b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Shawns und Gus verrückte Reise durch Kanada","english":"Extradition: British Columbia","hoster":["PutLocker"]},
+                {"german":"Wer früher mordet, ist schneller reich","english":"He Dead","hoster":["PutLocker"]},
+                {"german":"Spiel mir das Spiel vom Tod","english":"High Noon-ish","hoster":["PutLocker"]},
+                {"german":"Der Teufel steckt im Detail ... und in jungen Frauen","english":"The Devil&#039;s in the Details? and in the Upstairs Bedroom","hoster":["PutLocker"]},
+                {"german":"Lassiters vertraute Feinde","english":"Shawn Has the Yips","hoster":["PutLocker"]},
+                {"german":"Töte und denke nur an morgen","english":"Bollywood Homicide","hoster":["PutLocker"]},
+                {"german":"","english":"High Top Fade Out","hoster":["PutLocker"]},
+                {"german":"","english":"Let&#039;s Get Hairy","hoster":["PutLocker"]},
+                {"german":"","english":"Shawn Takes a Shot in the Dark","hoster":[]},
+                {"german":"","english":"You Can&#039;t Handle This Episode","hoster":[]},
+                {"german":"","english":"Thrill Seekers and Hell Raisers","hoster":["PutLocker"]},
+                {"german":"","english":"A Very Juliet Episode","hoster":[]},
+                {"german":"","english":"Death Is In The Air","hoster":[]},
+                {"german":"","english":"Think Tank","hoster":[]},
+                {"german":"","english":"The Head, The Tail, The Whole Damn","hoster":["PutLocker"]},
+                {"german":"","english":"Mr. Yin Presents","hoster":[]}
+         ]
+}

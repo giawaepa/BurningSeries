@@ -1,0 +1,19 @@
+{
+        "series":"Life",
+        "seasons":2,
+        "cover":"Life_a37b04693edc2de97bf762ae8d1430fb.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Dienstbeginn","english":"Merit Badge","hoster":["PutLocker"]},
+                {"german":"Die tote Braut","english":"Tear Asunder","hoster":["PutLocker"]},
+                {"german":"Alleingang","english":"Let Her Go","hoster":["PutLocker"]},
+                {"german":"Szenen einer Ehe","english":"What They Saw","hoster":["PutLocker"]},
+                {"german":"Gefallener Engel","english":"The Fallen Woman","hoster":["PutLocker"]},
+                {"german":"Ausgeliefert","english":"Powerless","hoster":["PutLocker"]},
+                {"german":"Falsche Fährte","english":"A Civil War","hoster":["PutLocker"]},
+                {"german":"Der halbierte Mann","english":"Farthingale","hoster":["PutLocker"]},
+                {"german":"Die geraubte Stimme","english":"Serious Control Issues","hoster":["PutLocker"]},
+                {"german":"Vergraben","english":"Dig A Hole","hoster":["PutLocker"]},
+                {"german":"Alte Rechnungen","english":"Fill It Up","hoster":["PutLocker"]}
+         ]
+}

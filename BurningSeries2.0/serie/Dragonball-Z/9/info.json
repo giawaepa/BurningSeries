@@ -1,0 +1,16 @@
+{
+        "series":"Dragonball Z",
+        "seasons":10,
+        "cover":"Dragonball-Z_7d6ce1eb7a20cddb926ffffe5d01bb68.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Der erste Highschool-Tag","english":"Episode 200","hoster":["PutLocker"]},
+                {"german":"Der große Saiyaman","english":"Episode 201","hoster":["PutLocker"]},
+                {"german":"Trouble mit den Frauen","english":"Episode 202","hoster":["PutLocker"]},
+                {"german":"Schnüfflerin Videl","english":"Episode 203","hoster":["PutLocker"]},
+                {"german":"Enttarnt!","english":"Episode 204","hoster":["PutLocker"]},
+                {"german":"Das große Turnier","english":"Episode 205","hoster":["PutLocker"]},
+                {"german":"Ein kleiner Super-Saiyajin","english":"Episode 206","hoster":["PutLocker"]},
+                {"german":"Flugunterricht","english":"Episode 207","hoster":["PutLocker"]}
+         ]
+}

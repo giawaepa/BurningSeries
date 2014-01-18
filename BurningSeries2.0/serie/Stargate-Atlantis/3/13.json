@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Koylas Ende",
+         "titleen":"Irresponsible",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7375739/Stargate_Atlantis_S03E13_Koylas_Ende_1_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7375911/Stargate_Atlantis_S03E13_Koylas_Ende_2_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7375980/Stargate_Atlantis_S03E13_Koylas_Ende_3_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7376043/Stargate_Atlantis_S03E13_Koylas_Ende_4_5"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"711033D5AB969BB1"
+                }
+       ]
+}

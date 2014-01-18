@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Ein Mädchen names Rhonda",
+         "titleen":"Help Me Rhonda",
+         "description":"Alf ist deprimiert. Er muss immer daran denken, dass er nie wieder nach Melmac zurück kann. Nie wird er seine Freundin Rhonda wiedersehen. Alf wird ganz krank vor Heimweh. Mr. Tanner stellt Funkkontakt zu Skip und Rhonda her. Sie versprechen, Alf zu holen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6654824/ALF_Ein_Maedchen_namens_Rhonda_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6655055/ALF_Ein_Maedchen_namens_Rhonda_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6655785/ALF_Ein_Maedchen_namens_Rhonda_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"AB54E6F1F2D52A41"
+                }
+       ]
+}

@@ -1,0 +1,32 @@
+{
+        "series":"Der Prinz von Bel Air",
+        "seasons":6,
+        "cover":"Der-Prinz-von-Bel-Air_8852ec7f531d3cc12b2010591068939f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Flambierte Bananen","english":"Burning Down the House","hoster":["PutLocker","Sockshare","UploadC"]},
+                {"german":"Rache ist süß","english":"Get a Job","hoster":["PutLocker","Sockshare"]},
+                {"german":"Nur ein durchgeknallter Cousin","english":"Stress Related","hoster":["PutLocker","Sockshare"]},
+                {"german":"Keiner liebt mich","english":"Bourgie Sings the Blues","hoster":["PutLocker","Sockshare"]},
+                {"german":"Rabenvater Richter Banks","english":"The Script Formerly Known as ...","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sturmfreie Bude","english":"Not, I Barbeque","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Lauschangriff","english":"Not with My Cousin You Don&#039;t","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Zockerkönig","english":"Viva Loss Wages","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Spezialbehandlung (1)","english":"That&#039;s the Rub","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Spezialbehandlung (2)","english":"That&#039;s the Rub","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hilarys großer Auftritt","english":"I, Ooh Baby, Baby","hoster":["PutLocker","Sockshare"]},
+                {"german":"Fit ins neue Jahr","english":"Boxing Helena","hoster":["PutLocker","Sockshare"]},
+                {"german":"Carlton als Leibwächter","english":"I, Clownius","hoster":["PutLocker","Sockshare"]},
+                {"german":"Familienpolitik - Teil 1","english":"Breaking Up Is Hard to Do - Part 1","hoster":["PutLocker","Sockshare"]},
+                {"german":"Familienpolitik - Teil 2","english":"Breaking Up Is Hard to Do - Part 2","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Bowlingduell","english":"I, Bowl Buster","hoster":["PutLocker","Sockshare"]},
+                {"german":"Geoffrey wird Papa","english":"The Butler&#039;s Son Did It","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ostern bei den Banks","english":"Hare Today...","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wie war das noch mal?","english":"Whoops, There It Is","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein Pferd auf dem Sofa","english":"I, Stank Horse","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Golfturnier","english":"I, Stank Hole In One","hoster":["PutLocker","Sockshare"]},
+                {"german":"Captain Kirk beim Zahnarzt","english":"Eye, Tooth","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein Neues Leben - Teil 1","english":"I, Done - Part 1","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein Neues Leben - Teil 2","english":"I, Done - Part 2","hoster":["PutLocker","Sockshare"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Besuch aus Norwegen / Der Bücherwurm",
+         "titleen":"Yope from Norway / The Library Kid",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=pdp0kxJY3NA"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=zE2kTVQMDds"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6642142/Disneys_Grosse_Pause_Episode_94_Besuch_aus_Norwegen"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6642132/Disneys_Grosse_Pause_Episode_95_Der_Buecherwurm"
+                }
+       ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der Zeuge im Netz",
+         "titleen":"Hide Away",
+         "description":"Willies Kollege Jim benimmt sich merkwürdig. Aus seinen Erzählungen schließt Alf, dass der Mann verfolgt wird. Er baut im Garten Fallen auf und schlägt einen Eindringling nieder. Leider den Falschen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6730095/ALF_Der_Zeuge_im_Netz_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6730177/ALF_Der_Zeuge_im_Netz_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6730244/ALF_Der_Zeuge_im_Netz_3_3"
+                }
+       ]
+}

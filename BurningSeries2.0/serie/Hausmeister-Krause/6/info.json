@@ -1,0 +1,18 @@
+{
+        "series":"Hausmeister Krause",
+        "seasons":8,
+        "cover":"Hausmeister-Krause_ee4628169cc6aaba3cd245b263b75349.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Schwiegermuttermord","english":"","hoster":["PutLocker"]},
+                {"german":"Junge Frau mit großen Problemen","english":"","hoster":[]},
+                {"german":"Dieter ist blind","english":"","hoster":[]},
+                {"german":"Das Wunder","english":"","hoster":["PutLocker"]},
+                {"german":"Tommie wird Vater","english":"","hoster":[]},
+                {"german":"Das Manga-Girl","english":"","hoster":["PutLocker"]},
+                {"german":"Der Feind aus Frankfurt","english":"","hoster":["PutLocker"]},
+                {"german":"Tommie wird verheitzt","english":"","hoster":["PutLocker"]},
+                {"german":"Krause gegen Krause","english":"","hoster":[]},
+                {"german":"Susi Gnadenlos","english":"","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Die Frucht des Verrates",
+         "titleen":"Episode 45",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6634063/Naruto_Shippuuden_UNCUT_Folge_45_Deutsch_1_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6634730/Naruto_Shippuuden_UNCUT_Folge_45_Deutsch_2_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6635015/Naruto_Shippuuden_UNCUT_Folge_45_Deutsch_3_3_HQ"
+                }
+       ]
+}

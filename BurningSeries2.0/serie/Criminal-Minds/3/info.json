@@ -1,0 +1,28 @@
+{
+        "series":"Criminal Minds",
+        "seasons":7,
+        "cover":"Criminal-Minds_b57c4c9433b36cce49ad96d3ca0a8cc4html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Zweifel","english":"Doubt","hoster":["PutLocker"]},
+                {"german":"Der letzte Fall","english":"In Name and Blood","hoster":["PutLocker"]},
+                {"german":"Todesangst","english":"Scared to Death","hoster":["PutLocker"]},
+                {"german":"Kinder der Dunkelheit","english":"Children of the Dark","hoster":["PutLocker"]},
+                {"german":"Sieben Sekunden","english":"Seven Seconds","hoster":["PutLocker"]},
+                {"german":"Masken","english":"About Face","hoster":["PutLocker"]},
+                {"german":"Das verlorene Ich","english":"Identity","hoster":["PutLocker"]},
+                {"german":"Teuflisches Glück","english":"Lucky","hoster":["PutLocker"]},
+                {"german":"	Penelope","english":"Penelope","hoster":["PutLocker"]},
+                {"german":"Die Wahrheit der Nacht","english":"True Night","hoster":["PutLocker"]},
+                {"german":"Familientradition","english":"Birthright","hoster":["PutLocker"]},
+                {"german":"Das dritte Leben","english":"3rd Life","hoster":["PutLocker"]},
+                {"german":"Das letzte Kapitel","english":"Limelight","hoster":["PutLocker"]},
+                {"german":"Jahrestag","english":"Damaged","hoster":["PutLocker"]},
+                {"german":"Tödliche Gnade","english":"A Higher Power","hoster":["PutLocker"]},
+                {"german":"Das Gedächtnis des Elefanten","english":"Elephant&#039;s Memory","hoster":[]},
+                {"german":"Frei in Miami","english":"In Heat","hoster":["PutLocker"]},
+                {"german":"Stalker","english":"The Crossing","hoster":["PutLocker"]},
+                {"german":"Tabula Rasa","english":"Tabula Rasa","hoster":["PutLocker"]},
+                {"german":"Am helllichten Tag","english":"Lo-Fi","hoster":["PutLocker"]}
+         ]
+}

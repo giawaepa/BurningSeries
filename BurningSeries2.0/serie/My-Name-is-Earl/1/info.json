@@ -1,0 +1,32 @@
+{
+        "series":"My Name is Earl",
+        "seasons":4,
+        "cover":"My-Name-is-Earl_453b444f097435e95810623c0175f3ab.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Kein Zufall","english":"Pilot","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Zwei Jahre als Geschenk?","english":"Quit Smoking","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Ein 3000-Dollar-Dilemma","english":"Randy&#039;s Touchdown","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Ich war nicht tot, nur genervt","english":"Faked His Own Death","hoster":["PutLocker","Sockshare"]},
+                {"german":"Unser Lehrer Earl","english":"Teacher Earl","hoster":["PutLocker","Sockshare"]},
+                {"german":"Steigen Sünden im Wert?","english":"Broke Joy&#039;s Fancy Figurine","hoster":["PutLocker","Sockshare"]},
+                {"german":"Erschlichenes Bier","english":"Stole Beer From a Golfer","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kopfball für die Braut","english":"Joy&#039;s Wedding","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Senior gegen Junior","english":"Cost Dad the Election","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Lasst uns froh und verlogen sein","english":"White Lie Christmas","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Problemkinder jung und alt","english":"Barn Burner","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Karma, wo bist du?","english":"O Karma, Where Art Thou?","hoster":["PutLocker","Sockshare"]},
+                {"german":"In der Höhle der Wurst","english":"Stole P&#039;s HD Cart","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wie bekommen wir Oma in den Knast?","english":"Monkeys in Space","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Ist das Leben nicht schön?","english":"Something To Live For","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Eifersüchtiges Karma","english":"The Professor","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Ja, bestraft mich!","english":"Didn&#039;t Pay Taxes","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Überraschung vom Schicksal","english":"Dad&#039;s Car","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Als beim Weltuntergang die Welt nicht unterging","english":"Y2K","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein Gespenst kehrt zurück","english":"Boogeyman","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kopfgeldjägerin gegen Luder","english":"The Bounty Hunter","hoster":["PutLocker","Sockshare"]},
+                {"german":"Glück ist eine Frage des Wollens","english":"Stole a Badge","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Blei im Hintern","english":"BB","hoster":["PutLocker","Sockshare"]},
+                {"german":"Arm und ärmerer","english":"Number One","hoster":["PutLocker","Sockshare"]}
+         ]
+}

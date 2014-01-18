@@ -1,0 +1,32 @@
+{
+        "series":"Desperate Housewives",
+        "seasons":8,
+        "cover":"Desperate-Housewives_291bdfe287207faf11aaf9df229de65d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Leben geht weiter","english":"Next","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Kontrolle ist alles","english":"You Could Drive a Person Crazy","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Showtime","english":"You&#039;ll Never Get Away From Me","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die imaginäre Freundin","english":"My Heart Belongs To Daddy","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Treue Gefährten","english":"They Asked Me Why I Believe In You","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ausschläge und Anträge","english":"I Wish I Could Forget You","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"In Flagranti","english":"Color and Light","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der rote Ballon","english":"The Sun Won&#039;t Set","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Guten und die Bösen","english":"That&#039;s Good, That&#039;s Bad","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der verlorene Sohn","english":"Coming Home","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Nur ein Kuss","english":"One more Kiss","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Alles wird gut","english":"We&#039;re Gonna Be All Right","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Kunst des Krieges","english":"There&#039;s Something About a War","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Verrückte Ideen","english":"Silly People","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der kleine Gefallen","english":"Thank You So Much","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der richtige Weg","english":"There Is No Other Way","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Trennungen","english":"Could I Leave You?","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Unwiderstehlich","english":"Everybody Says Don&#039;t","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schamlos","english":"Don&#039;t Look at Me","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Verzweifelte Gebete","english":"It Wasn&#039;t Meant to Happen","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Rache","english":"I Know Things Now","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Allein auf der Welt","english":"No One Is Alone","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Erinnerungen (1)","english":"Remember (1)","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Erinnerungen (2)","english":"Remember (2)","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]}
+         ]
+}

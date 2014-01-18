@@ -1,0 +1,18 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"72 Stunden Angst","english":"","hoster":[]},
+                {"german":"Wettlauf gegen die Zeit","english":"","hoster":[]},
+                {"german":"Mitten ins Herz","english":"","hoster":[]},
+                {"german":"Turbo und Tacho reloaded","english":"","hoster":[]},
+                {"german":"En Vogue","english":"","hoster":[]},
+                {"german":"Familienangelegenheiten","english":"","hoster":[]},
+                {"german":"Babyalarm","english":"","hoster":["DivxStage"]},
+                {"german":"Die Verschwörung","english":"","hoster":["DivxStage"]},
+                {"german":"Viva Colonia","english":"","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Überschall","hoster":[]}
+         ]
+}

@@ -1,0 +1,24 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Comeback","english":"","hoster":[]},
+                {"german":"Feindliche Übernahme","english":"","hoster":["YouTube"]},
+                {"german":"Heldentage","english":"","hoster":["PutLocker"]},
+                {"german":"Der Kommissar","english":"","hoster":["PutLocker"]},
+                {"german":"Fieber","english":"","hoster":[]},
+                {"german":"Notwehr","english":"","hoster":[]},
+                {"german":"Jäger und Gejagte","english":"","hoster":["PutLocker"]},
+                {"german":"Feueralarm","english":"","hoster":[]},
+                {"german":"Hochspannung","english":"","hoster":["PutLocker"]},
+                {"german":"Explosiv","english":"","hoster":["PutLocker"]},
+                {"german":"Auf der Jagd","english":"","hoster":[]},
+                {"german":"Am Abgrund","english":"","hoster":[]},
+                {"german":"Zivilcourage","english":"","hoster":[]},
+                {"german":"Brennpunkt: Autobahn","english":"","hoster":[]},
+                {"german":"Außer Kontrolle","english":"","hoster":[]},
+                {"german":"Kleine Schwester","english":"","hoster":[]}
+         ]
+}

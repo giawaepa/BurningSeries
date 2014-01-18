@@ -1,0 +1,30 @@
+{
+        "series":"Die wilden Siebziger",
+        "seasons":8,
+        "cover":"Die-wilden-Siebziger_62c095abab6c57409310f06720d63299.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Badezimmer-Experiment","english":"Bohemian Rhapsody","hoster":["MyVideo"]},
+                {"german":"Die scharfe blonde Freundin","english":"Somebody to Love","hoster":["MyVideo"]},
+                {"german":"Junggesellenabschied","english":"You&#039;re My Best Friend","hoster":["MyVideo"]},
+                {"german":"25 Jahre später","english":"Misfire","hoster":["MyVideo"]},
+                {"german":"Schon wieder Obstsalat?","english":"Stone Cold Crazy","hoster":["MyVideo"]},
+                {"german":"Leo der Held","english":"Long Away","hoster":["MyVideo"]},
+                {"german":"Der geklaute Clown","english":"Fun It","hoster":["MyVideo"]},
+                {"german":"Die Affäre","english":"Good Company","hoster":["MyVideo"]},
+                {"german":"Die Wanne ist voll","english":"Who Needs You","hoster":["MyVideo"]},
+                {"german":"Willkommen in der Hölle!","english":"Sweet Lady","hoster":["MyVideo"]},
+                {"german":"Leo in Love","english":"Good Old Fashioned Lover Boy","hoster":["MyVideo"]},
+                {"german":"Das Traumpaar","english":"Killer Queen","hoster":[]},
+                {"german":"Die traurige Wahrheit","english":"Spread Your Wings","hoster":["MyVideo"]},
+                {"german":"Frampton oder Clapton?","english":"Son And Daughter","hoster":["MyVideo"]},
+                {"german":"Der 1000-Dollar-Ring","english":"Keep Yourself Alive","hoster":["MyVideo"]},
+                {"german":"Irgendwie verheiratet","english":"My Fairy King","hoster":[]},
+                {"german":"Der Quietscher","english":"Crazy Little Thing Called Love","hoster":[]},
+                {"german":"Jeff and Josh","english":"We Will Rock You","hoster":[]},
+                {"german":"Der Pillentyp","english":"Sheer Heart Attack","hoster":[]},
+                {"german":"Die Sache mit Florida","english":"Leaving Home Ain&#039;t Easy","hoster":[]},
+                {"german":"Vom Leben belohnt","english":"Love Of My Life","hoster":[]},
+                {"german":"Das große Finale","english":"That 70s Finale","hoster":[]}
+         ]
+}

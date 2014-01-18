@@ -1,0 +1,21 @@
+{
+        "series":"Breaking Bad",
+        "seasons":4,
+        "cover":"Breaking-Bad_d346b0f571ed1b31d81cf304d0f2cb65.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Box Cutter","english":"Box Cutter","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Thirty-Eight Snub","english":"Thirty-Eight Snub","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Open House","english":"Open House","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Bullet Points","english":"Bullet Points","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Shotgun","english":"Shotgun","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Cornered","english":"Cornered","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Problem Dog","english":"Problem Dog","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Hermanos","english":"Hermanos","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Bug","english":"Bug","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Salud","english":"Salud","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Crawl Space","english":"Crawl Space","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"End Times","english":"End Times","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Von Angesicht zu Angesicht","english":"Face Off","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Abrakadabra",
+         "titleen":"Ala-ka-scram!",
+         "description":"London verkuckt sich in den Zauberer an Bord. Doch dann findet sie heraus, dass er nur trickst und nicht zaubert!",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=GoEWbalYfxY"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=SnyFPKa83OU"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7324245/Zack_Cody_an_Bord_Staffel_2_Folge_3_Abrakadabra_1_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7324252/Zack_Cody_an_Bord_Staffel_2_Folge_3_Abrakadabra_2_2"
+                }
+       ]
+}

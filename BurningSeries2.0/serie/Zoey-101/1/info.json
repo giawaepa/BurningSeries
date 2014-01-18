@@ -1,0 +1,21 @@
+{
+        "series":"Zoey 101",
+        "seasons":4,
+        "cover":"Zoey-101_86ecef89107519802dab849cb081b6e4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mädchenpower","english":"Welcome to P.C.A","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zoey zieht aus","english":"New Roomies","hoster":["RapidVideo"]},
+                {"german":"Dustin in der Klemme","english":"Defending Dustin","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Alienmädchen küsst man nicht","english":"The Play","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Der Spion","english":"Webcam","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Kamera ab!","english":"Jet-X","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Die Star Party","english":"Spring Fling","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Mädchen raus!","english":"Prank Week","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Quinn ist verknallt","english":"Quinn&#039;s Date","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Die Rucksack-Attacke","english":"Backpack","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Traumfreund gesucht","english":"School Danke","hoster":["RapidVideo"]},
+                {"german":"Gefährliches Spiel","english":"Disco - Golf","hoster":["RapidVideo"]},
+                {"german":"Die Strand-Party","english":"Little Beach Golf","hoster":["Sockshare","RapidVideo"]}
+         ]
+}

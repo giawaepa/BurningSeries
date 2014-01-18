@@ -1,0 +1,20 @@
+{
+        "series":"Californication",
+        "seasons":5,
+        "cover":"Californication_9f13e2ff11127a00c2c2b56e0c93860f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein denkwürdiges Dinner","english":"Wish You Were Here","hoster":["PutLocker"]},
+                {"german":"Der Gastdozent","english":"The Land Of Rape And Honey","hoster":["PutLocker"]},
+                {"german":"Ein Blick hinter die Fassade","english":"Verities &amp; Balderdash","hoster":["PutLocker"]},
+                {"german":"Vierecksbeziehung","english":"Zoso","hoster":["PutLocker"]},
+                {"german":"Jugendfreunde","english":"Slow Happy Boys","hoster":["PutLocker"]},
+                {"german":"In Vino Veritas","english":"Glass Houses","hoster":["PutLocker"]},
+                {"german":"Also, die Sache ist die...","english":"So Here&#039;s The Thing...","hoster":["PutLocker"]},
+                {"german":"Das Apartment","english":"The Apartment","hoster":["PutLocker"]},
+                {"german":"Ein schlechtes Vorbild","english":"Mr. Bad Example","hoster":["PutLocker"]},
+                {"german":"Männerabend","english":"Dogtown","hoster":["PutLocker"]},
+                {"german":"Das Tribunal der Frauen","english":"Comings &amp; Goings","hoster":["PutLocker"]},
+                {"german":"Mia Culpa","english":"Mia Culpa","hoster":["PutLocker"]}
+         ]
+}

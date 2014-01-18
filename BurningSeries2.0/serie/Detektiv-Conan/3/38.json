@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der verliebte Kommissar (1)",
+         "titleen":"Episode 220",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=tX0eXyKmtYs"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5797871/Detektiv_Conan_Folge_220_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5798171/Detektiv_Conan_Folge_220_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5798605/Detektiv_Conan_Folge_220_3_3"
+                }
+       ]
+}

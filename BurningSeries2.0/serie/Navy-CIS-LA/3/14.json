@@ -1,0 +1,16 @@
+{ 
+         "titlede":"",
+         "titleen":"Partners",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"6E22CCA630E16DED"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"8C99AE40EEF3B8A7"
+                }
+       ]
+}

@@ -1,0 +1,20 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Scorched Earth","hoster":["PutLocker"]},
+                {"german":"","english":"Personal Fouls","hoster":["PutLocker"]},
+                {"german":"","english":"Blood Brothers","hoster":["PutLocker"]},
+                {"german":"","english":"Double Strands","hoster":["PutLocker"]},
+                {"german":"","english":"Missing Pieces","hoster":["PutLocker"]},
+                {"german":"","english":"True Believers","hoster":["PutLocker"]},
+                {"german":"","english":"Russian Brides","hoster":["PutLocker"]},
+                {"german":"","english":"Educated Guess","hoster":["PutLocker"]},
+                {"german":"","english":"Lost Traveler","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Spiraling Down","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Theatre Tricks","hoster":["PutLocker"]},
+                {"german":"","english":"Official Story","hoster":["PutLocker"]}
+         ]
+}

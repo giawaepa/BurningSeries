@@ -1,0 +1,21 @@
+{
+        "series":"Neds ultimativer Schulwahnsinn",
+        "seasons":3,
+        "cover":"Neds-ultimativer-Schulwahnsinn_a19ef950f95143f0ef2b1898aba242c9.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der erste Tag + Schließfächer","english":"First Day + Lockers","hoster":["PutLocker"]},
+                {"german":"Schultoiletten + Projekt-Partner","english":"Bathroom + Project Partners","hoster":["PutLocker"]},
+                {"german":"Nachsitzen + Lehrer","english":"Detentions + Teachers","hoster":["PutLocker"]},
+                {"german":"Die Sitzordung + Sportprüfungen","english":"Seating + Tryouts","hoster":["PutLocker"]},
+                {"german":"Schwärme + Tanzabende","english":"Crushes + The Dance","hoster":["PutLocker"]},
+                {"german":"Krankheitstage + Buchstabier-Wettbewerbe","english":"Sick Days + Spelling Bee","hoster":["PutLocker"]},
+                {"german":"Gerüchte + Schulfotos","english":"Rumors + Photo Day","hoster":["PutLocker"]},
+                {"german":"Talent-Shows + Wahlen","english":"Talent Show + Elections","hoster":["PutLocker"]},
+                {"german":"Computerräume + Rucksäcke","english":"Computer Lab + Backpacks","hoster":["PutLocker"]},
+                {"german":"Zettel + Beste Freunde","english":"Notes + Best Friends","hoster":["PutLocker"]},
+                {"german":"Tagträume + Sport","english":"Daydreams + Gym","hoster":["PutLocker"]},
+                {"german":"Schummler + Fieslinge","english":"Cheaters + Bullies","hoster":["PutLocker"]},
+                {"german":"Notfall-Übungen + Busverspätungen","english":"Emergency Drills + Late Bus","hoster":["PutLocker"]}
+         ]
+}

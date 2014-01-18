@@ -1,0 +1,32 @@
+{
+        "series":"How I Met Your Mother",
+        "seasons":7,
+        "cover":"How-I-Met-Your-Mother_470f96f81545d60a203d278bb3b9b0a1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Meins","english":"Big Days","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das große Aufräumen","english":"Cleaning House","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Unvollendet","english":"Unfinished","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Jeder gegen jeden","english":"Subway Wars","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Architekt der Vernichtung","english":"Architect of Destruction","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Kinderkram","english":"Baby Talk","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wir kümmern uns","english":"Canning Randy","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Captain","english":"Natural History","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Glitter","english":"Glitter","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Blitzgiving","english":"Blitzgiving","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Meerjungfrauen-Theorie","english":"The Mermaid Theory","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Positiv denken","english":"False Positive","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schlechte Nachrichten","english":"Bad News","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Letzte Worte","english":"Last Words","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Oh Honey","english":"Oh Honey","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Verzweiflungstag","english":"Desperation Day","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Müllinsel","english":"Garbage Island","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Sinneswandel","english":"A Change of Heart","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Legen-Dad","english":"Legendaddy","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Rachefeldzug","english":"The Exploding Meatball Sub","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Magier","english":"Hopeless","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der perfekte Drink","english":"The Perfect Cocktail","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Denkmal","english":"Landmarks","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Neu ist immer besser","english":"Challenge Accepted","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]}
+         ]
+}

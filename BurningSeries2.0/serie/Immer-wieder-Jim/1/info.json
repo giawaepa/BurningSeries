@@ -1,0 +1,30 @@
+{
+        "series":"Immer wieder Jim",
+        "seasons":8,
+        "cover":"Immer-wieder-Jim_e97064bc1cd1f073436d59cb3f2bf1fa.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Nicht ohne meine Tochter","english":"Pilot","hoster":["YouTube","MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Sexmarathon","english":"No Nookie","hoster":["YouTube","MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Gefrorene Kater","english":"The Cat Came Back","hoster":["YouTube","MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Geschenkte Gaul","english":"Anniversary","hoster":["YouTube","MyVideo","PutLocker","DivxStage"]},
+                {"german":"Jim, der Pädagoge","english":"Unruly Spirits","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Kleinen Laster","english":"The Crush","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Gladiator","english":"Cheryl&#039;s Old Flame","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Bowlingstar","english":"The Turkey Bowl","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Streit nach Noten","english":"Andy&#039;s Girlfriend","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Oh, du Stressige","english":"An According to Jiminy Christmas","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Fluchen will gelernt sein","english":"The Bad Word","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Hauptsache Spaß","english":"Model Behavior","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das Italien-Konto","english":"The Money","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Ein &#039;Scharfer&#039; Schuss","english":"Blow-Up","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Gemischtes Einzel","english":"Racquetball","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Unter Hochdruck","english":"Under Pressure","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Herr Ober, wir gehen!","english":"Date Night","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das Pony, das kein Pony war","english":"Birthday Boys","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Umtausch","english":"The Receipt","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Nostalgie-Anfälle","english":"Old Friends","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Hilfe, die Kinder sind weg!","english":"Cheryl&#039;s Day Off","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Überraschungs - Party","english":"No Surprises","hoster":["YouTube","PutLocker","DivxStage"]}
+         ]
+}

@@ -1,0 +1,31 @@
+{
+        "series":"Crossing Jordan ? Pathologin mit Profil",
+        "seasons":6,
+        "cover":"Crossing-Jordan-Pathologin-mit-Profil_6dac90ade86fd217c84a73877cbf765b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Alles auf Anfang","english":"Pilot","hoster":["PutLocker","Sockshare"]},
+                {"german":"Selbstjustiz","english":"The Dawn Of A New Day","hoster":["PutLocker"]},
+                {"german":"Im Labyrinth der Beweise","english":"The Ties That Bind","hoster":["PutLocker"]},
+                {"german":"Kälter als der Tod","english":"Born To Run","hoster":["PutLocker"]},
+                {"german":"Verbrannte Erde","english":"You Can&#039;t Go Home Again","hoster":["Sockshare"]},
+                {"german":"Die Tote im Park","english":"Believers","hoster":["PutLocker"]},
+                {"german":"Wettlauf gegen die Zeit","english":"Sight Unseen","hoster":["Sockshare"]},
+                {"german":"Lebendig begraben, Teil 1","english":"Digger, Part 1","hoster":["PutLocker","Sockshare"]},
+                {"german":"Lebendig begraben, Teil 2","english":"Digger, Part 2","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Mauer des Schweigens","english":"Blue Christmas","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sicheres Gespür","english":"Wrong Place, Wrong Time","hoster":["Sockshare"]},
+                {"german":"Aus dem Gleichgewicht","english":"Blood Relatives","hoster":["PutLocker"]},
+                {"german":"Zeichen und Wunder","english":"Miracles &amp; Wonders","hoster":["PutLocker"]},
+                {"german":"Freier Fall","english":"Four Fathers","hoster":["PutLocker"]},
+                {"german":"Todgeweiht","english":"Acts Of Mercy","hoster":["PutLocker"]},
+                {"german":"Auf Droge","english":"Lost And Found","hoster":["PutLocker"]},
+                {"german":"Doppelleben","english":"Crime And Punishment","hoster":["PutLocker"]},
+                {"german":"Eine Frage der Ehre","english":"With Honour","hoster":["PutLocker"]},
+                {"german":"Spiel mit dem Feuer","english":"For Harry, With Love And Squalor","hoster":["Sockshare"]},
+                {"german":"Ruhe in Frieden","english":"The Gift Of Life","hoster":["PutLocker","Sockshare"]},
+                {"german":"Auf den zweiten Blick","english":"Someone To Count On","hoster":["Sockshare"]},
+                {"german":"Reddings Geheimnis, Teil 1","english":"Secrets &amp; Lies, Part 1","hoster":["Sockshare"]},
+                {"german":"Reddings Geheimnis, Teil 2","english":"Secrets &amp; Lies, Part 2","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,25 @@
+{
+        "series":"Friends",
+        "seasons":10,
+        "cover":"Friends_ecd9c11d4588bc6ea50e8829954d980f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Reden ist Silber","english":"The One After Joey And Rachel Kiss","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ross geht es gut","english":"The One Where Ross Is Fine","hoster":["PutLocker","DivxStage"]},
+                {"german":"Liebesnacht mit Hindernissen","english":"The One With Ross&#039;s Tan","hoster":["PutLocker","DivxStage"]},
+                {"german":"Geschenke, Geschenke","english":"The One With The Cake","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Rückkehr der schrecklichen Schwester","english":"The One Where Rachel&#039;s Sister Babysits","hoster":["PutLocker","DivxStage"]},
+                {"german":"Alles Lüge!","english":"The One With Ross&#039;s Grant","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das perfekte Zuhause","english":"The One With The Home Study","hoster":["PutLocker","DivxStage"]},
+                {"german":"Tag der Dankbarkeit","english":"The One With The Late Thanksgiving","hoster":["PutLocker","DivxStage"]},
+                {"german":"Was mein ist, ist nicht dein","english":"The One With The Birth Mother","hoster":["PutLocker","DivxStage"]},
+                {"german":"Eine verhängnisvolle Affäre","english":"The One Where Chandler Gets Caught","hoster":["PutLocker","DivxStage"]},
+                {"german":"Tränen eines Strippers","english":"The One Where The Stripper Cries","hoster":["PutLocker","DivxStage"]},
+                {"german":"Phoebes Hochzeit","english":"The One With Phoebe&#039;s Wedding","hoster":["PutLocker","DivxStage"]},
+                {"german":"Joey, das Genie","english":"The One Where Joey Speaks French","hoster":["PutLocker","DivxStage"]},
+                {"german":"Prinzessin Consuela","english":"The One With Princess Consuela","hoster":["PutLocker","DivxStage"]},
+                {"german":"Paris oder New York?","english":"The One Where Estelle Dies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Abschiedsparty","english":"The One With Rachel&#039;s Going Away Party","hoster":["PutLocker","DivxStage"]},
+                {"german":"Auf Wiedersehen","english":"The Last One","hoster":["PutLocker","DivxStage"]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Star Wars: The Clone Wars",
+        "seasons":4,
+        "cover":"Star-Wars-The-Clone-Wars_164076794aa451946eb1a006e4e3226b.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Holocron-Raub","english":"Holocron Heist","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Schicksalhafte Ladung","english":"Cargo of Doom","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Kinder der Macht","english":"Children of the Force","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Spion des Senats","english":"Senate Spy","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Kampf und Wettkampf","english":"Landing at Point Rain","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Waffenfabrik","english":"Weapons Factory","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Vermächtnis des Terrors","english":"Legacy of Terror","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Gehirn-Parasiten","english":"Brain Invaders","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Grievous&#039; Hinterhalt","english":"Grievous Intrigue","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Deserteur","english":"The Deserter","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Eine Lektion in Sachen Geduld","english":"Lightsaber Lost","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Verschwörung auf Mandalore","english":"The Mandalore Plot","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Reise der Versuchung","english":"Voyage of Temptation","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Herzogin von Mandalore","english":"Duchess of Mandalore","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Mord im Senat","english":"Senate Murders","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Katz und Maus","english":"Cat and Mouse","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Kopfgeldjäger","english":"Bounty Hunters","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Zillo Biest","english":"Zillo Beast","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Zillo Biest schlägt zurück","english":"The Zillo Beast Strikes Back","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Tödliche Falle","english":"Death Trap","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Komm&#039; nach Hause, R2","english":"R2 Come Home","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Auf Geiseljagd","english":"Lethal Trackdown","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

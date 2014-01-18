@@ -1,0 +1,32 @@
+{
+        "series":"Full House",
+        "seasons":8,
+        "cover":"Full-House_20bd56938965807a7c4bdb8c45cd6edb.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"It Was a Dark and Stormy Night","hoster":[]},
+                {"german":"","english":"The Apartment","hoster":[]},
+                {"german":"","english":"Wrong-Way Tanner","hoster":[]},
+                {"german":"","english":"Tough Love","hoster":[]},
+                {"german":"","english":"Fast Friends","hoster":[]},
+                {"german":"","english":"Smash Club: The Next Generation","hoster":[]},
+                {"german":"","english":"High Anxiety","hoster":[]},
+                {"german":"","english":"Another Opening, Another No Show","hoster":[]},
+                {"german":"","english":"The Day of The Rhino","hoster":[]},
+                {"german":"","english":"The Prying Game","hoster":[]},
+                {"german":"","english":"The Bicycle Thief","hoster":[]},
+                {"german":"","english":"Support Your Local Parents","hoster":[]},
+                {"german":"","english":"The Perfect Couple","hoster":[]},
+                {"german":"","english":"Is It True About Stephanie?","hoster":[]},
+                {"german":"","english":"The Test","hoster":[]},
+                {"german":"","english":"Joey&#039;s Funny Valentine","hoster":[]},
+                {"german":"","english":"The Last Dance","hoster":[]},
+                {"german":"","english":"Kissing Cousins","hoster":[]},
+                {"german":"","english":"Love on the Rocks","hoster":[]},
+                {"german":"","english":"Michelle a la Cart","hoster":[]},
+                {"german":"","english":"Be Your Own Best Friend","hoster":[]},
+                {"german":"","english":"A Date With Fate","hoster":[]},
+                {"german":"","english":"Too Little Richard Too Late","hoster":[]},
+                {"german":"","english":"A House Divided","hoster":[]}
+         ]
+}

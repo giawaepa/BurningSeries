@@ -1,0 +1,30 @@
+{
+        "series":"Medium ? Nichts bleibt verborgen",
+        "seasons":7,
+        "cover":"Medium-Nichts-bleibt-verborgen_0b0e86f0a8fda0fc1c335a2ccfa7a5d6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Rückkehr der Bilder","english":"Vu All Over Again","hoster":["Sockshare"]},
+                {"german":"Wer ist Ariel?","english":"Who&#039;s That Girl?","hoster":["PutLocker","Sockshare"]},
+                {"german":"Schmerzkiller","english":"Pain Killer","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kryptische Killer","english":"The Medium is the Message","hoster":["PutLocker","Sockshare"]},
+                {"german":"Babywahn","english":"Baby Fever","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wenn Träume töten","english":"Bite Me","hoster":["PutLocker","Sockshare"]},
+                {"german":"Bombig","english":"New Terrain","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Traumschwiegersohn","english":"Once in a Lifetime","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Todesuhr","english":"The Future&#039;s So Bright","hoster":["PutLocker","Sockshare"]},
+                {"german":"Fieber","english":"You Give Me Fever","hoster":["PutLocker","Sockshare"]},
+                {"german":"Im Tod vereint","english":"An Everlasting Love","hoster":["PutLocker","Sockshare"]},
+                {"german":"Nachricht von Arianna","english":"Dear Dad...","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Blumen der Bösen","english":"Psych","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der unfassbare Fred","english":"Will The Real Fred Rovick Please Stand Up","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Ende der Angst","english":"How to Beat a Bad Guy","hoster":["Sockshare"]},
+                {"german":"Allisons Hochzeit","english":"Allison Rolen Got Married","hoster":["Sockshare"]},
+                {"german":"Blutgruppe A","english":"There Will Be Blood...Type A","hoster":["PutLocker","Sockshare"]},
+                {"german":"Blutgruppe B","english":"There Will Be Blood...Type B","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sal","english":"Sal","hoster":["PutLocker","Sockshare"]},
+                {"german":"Amensie","english":"Time Keeps on Slippin","hoster":["PutLocker","Sockshare"]},
+                {"german":"Totes Fleisch","english":"Dead Meat","hoster":["Sockshare"]},
+                {"german":"Ein traumhafter Tod","english":"It&#039;s a Wonderful Death","hoster":["PutLocker","Sockshare"]}
+         ]
+}

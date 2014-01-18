@@ -1,0 +1,21 @@
+{
+        "series":"MythBusters ? Die Wissensjäger",
+        "seasons":9,
+        "cover":"MythBusters-Die-Wissensjaeger_cc60346d8cc8ecf4693d55ce07daf622.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Ein brennendes Luftschiff, Krokodile auf Zickzackkurs","english":"Hindenburg Mystery","hoster":["PutLocker"]},
+                {"german":"Piraten-Special","english":"Pirate Special","hoster":[]},
+                {"german":"Gefangen unter Wasser, 7x gefaltet","english":"Underwater Car","hoster":[]},
+                {"german":"Die Tricks der Raser, Defibrillator und Nitroglyzerin","english":"Speed Cameras","hoster":[]},
+                {"german":"Das Hunde Special","english":"Dog Myths","hoster":["PutLocker"]},
+                {"german":"Der verrückte Posaunist, Finger im Lauf, der Heckenschütze, Der explodierende Hammer","english":"More Myths Revisited","hoster":[]},
+                {"german":"Schall und Rauch, Unter Hypnose","english":"Voice Flame Extinguisher","hoster":[]},
+                {"german":"Fernfahrermathematik, Aus einem Boot mach zwei","english":"Birds in a Truck","hoster":[]},
+                {"german":"Magie der Ninjas","english":"Walking on Water","hoster":[]},
+                {"german":"Western-Mythen / Einen Hut vom Kopf schießen / Gefängnisausbruch / Killer-Dietrich","english":"Western Myths","hoster":[]},
+                {"german":"Der explodierende Killerreifen / Windschattenfahren / Einparken wie Knight Rider","english":"Big Rig Myths","hoster":[]},
+                {"german":"Hollywood Handgranaten-Helden / Cola und Kaubonbons lassen den Magen explodieren / Selbsthypnose","english":"Grenades and Guts","hoster":[]},
+                {"german":"Lawinenmythos / Fahren auf Eis / Gefrorene Zunge","english":"Snow Special","hoster":[]}
+         ]
+}

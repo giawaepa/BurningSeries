@@ -1,0 +1,21 @@
+{
+        "series":"Breaking Bad",
+        "seasons":4,
+        "cover":"Breaking-Bad_d346b0f571ed1b31d81cf304d0f2cb65.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"No Mas","english":"No Mas","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Caballo Sin Nombre","english":"Caballo Sin Nombre","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Kopflosigkeit","english":"I.F.T.","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Grünes Licht","english":"Green Light","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Mas","english":"Mas","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Sonnenuntergang","english":"Sunset","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Eine Minute","english":"One Minute","hoster":["PutLocker","Sockshare","UploadC"]},
+                {"german":"Familienbande","english":"I See You","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Kafkaesk","english":"Kafkaesque","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Die Fliege","english":"Fly","hoster":["PutLocker","Sockshare","UploadC"]},
+                {"german":"Offene Worte","english":"Abiquiu","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Halbe Sachen","english":"Half Measures","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Nägel mit Köpfen","english":"Full Measures","hoster":["PutLocker","Sockshare","BitShare"]}
+         ]
+}

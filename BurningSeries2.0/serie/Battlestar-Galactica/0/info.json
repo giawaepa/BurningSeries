@@ -1,0 +1,10 @@
+{
+        "series":"Battlestar Galactica",
+        "seasons":4,
+        "cover":"Battlestar-Galactica_19e85954f3a2b7522194ce3f0b1a0c8d.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Auf Messers Schneide","english":"Razor","hoster":[]},
+                {"german":"The Plan","english":"The Plan","hoster":[]}
+         ]
+}

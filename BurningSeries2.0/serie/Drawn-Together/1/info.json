@@ -1,0 +1,15 @@
+{
+        "series":"Drawn Together",
+        "seasons":3,
+        "cover":"Drawn-Together_f8683566dd2ea396298c627af0b43cf5.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Hot Tub","english":"Hot Tub","hoster":["PutLocker","MySpass"]},
+                {"german":"Clara&#039;s Dirty Little Secret","english":"Clara&#039;s Dirty Little Secret","hoster":["PutLocker","MySpass"]},
+                {"german":"Gay Bash","english":"Gay Bash","hoster":["PutLocker","MySpass"]},
+                {"german":"Requiem for a Reality Show","english":"Requiem for a Reality Show","hoster":["PutLocker","MySpass"]},
+                {"german":"The Other Cousin","english":"The Other Cousin","hoster":["PutLocker","MySpass"]},
+                {"german":"Dirty Pranking Number","english":"Dirty Pranking Number","hoster":["PutLocker","MySpass"]},
+                {"german":"The One Wherein There Is A Big Twist","english":"The One Wherein There Is A Big Twist","hoster":["PutLocker","MySpass"]}
+         ]
+}

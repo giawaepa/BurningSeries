@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Tödlicher Zauber (3)",
+         "titleen":"Episode 144",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=n_dMUnxmV8M"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5492745/Detektiv_Conan_Folge_144_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5493040/Detektiv_Conan_Folge_144_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5493444/Detektiv_Conan_Folge_144_3_3"
+                }
+       ]
+}

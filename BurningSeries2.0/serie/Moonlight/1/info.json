@@ -1,0 +1,24 @@
+{
+        "series":"Moonlight",
+        "seasons":1,
+        "cover":"Moonlight_9e7616b0281b9c05271d80dce4a3b391.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Es gibt keine Vampire","english":"No Such Thing As Vampires","hoster":["YouTube","MyVideo"]},
+                {"german":"Schatten der Vergangenheit","english":"Out of the Past","hoster":["YouTube","MyVideo"]},
+                {"german":"Dr. Feelgood","english":"Dr. Feelgood","hoster":["YouTube","MyVideo"]},
+                {"german":"Fieber","english":"Fever","hoster":["YouTube","MyVideo"]},
+                {"german":"Ewige Jugend","english":"Arrested Development","hoster":["YouTube","MyVideo"]},
+                {"german":"Black Crystal","english":"B.C.","hoster":["YouTube"]},
+                {"german":"Das Ebenbild","english":"The Ringer","hoster":["YouTube","MyVideo"]},
+                {"german":"Die Blutbeichte","english":"12:04 AM","hoster":["YouTube","MyVideo"]},
+                {"german":"Fleur de Lis","english":"Fleur de Lis","hoster":["MyVideo"]},
+                {"german":"Dornröschen","english":"Sleeping Beauty","hoster":["YouTube","MyVideo"]},
+                {"german":"Ewige Liebe","english":"Love Lasts Forever","hoster":["YouTube","MyVideo"]},
+                {"german":"Das Heilmittel","english":"The Mortal Cure","hoster":["YouTube","MyVideo"]},
+                {"german":"Kurzes Glück","english":"Fated to Pretend","hoster":["YouTube","MyVideo"]},
+                {"german":"Klick","english":"Click","hoster":["YouTube","MyVideo"]},
+                {"german":"Was zurück bleibt...","english":"What&#039;s Left Behind","hoster":["YouTube","MyVideo"]},
+                {"german":"Sonata","english":"Sonata","hoster":["YouTube","MyVideo"]}
+         ]
+}

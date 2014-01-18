@@ -1,0 +1,31 @@
+{
+        "series":"Alle lieben Raymond",
+        "seasons":9,
+        "cover":"Alle-lieben-Raymond_fc686af2b853c140fb5eda67e16ef9c7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Spaß mit Debra","english":"Fun with Debra","hoster":["PutLocker"]},
+                {"german":"Zwergenaufstand","english":"Thank You Notes","hoster":["PutLocker"]},
+                {"german":"Pipi-Raymond","english":"Home From School","hoster":["PutLocker"]},
+                {"german":"Der Eheratgeber","english":"Misery Loves Company","hoster":["PutLocker"]},
+                {"german":"Der Preis ist heiß","english":"The Contractor","hoster":["PutLocker"]},
+                {"german":"Der ungeliebte Gast","english":"Peter on the Couch","hoster":["PutLocker"]},
+                {"german":"Lügen haben viele Beine","english":"Liars","hoster":["PutLocker"]},
+                {"german":"Überraschung!","english":"The Surprise Party","hoster":["PutLocker"]},
+                {"german":"Der Vogelmord","english":"The Bird","hoster":["PutLocker"]},
+                {"german":"Der Plattenliebhaber","english":"Jazz Records","hoster":["PutLocker"]},
+                {"german":"Rotkäppchen und viele alte Wölfe","english":"Debra at the Lodge","hoster":["PutLocker"]},
+                {"german":"Die Haussklavin","english":"Slave","hoster":["PutLocker"]},
+                {"german":"Superdaddy","english":"Whose Side Are You On?","hoster":["PutLocker"]},
+                {"german":"Warten auf Debra","english":"Lateness","hoster":["PutLocker"]},
+                {"german":"Aschenputtel","english":"Party Dress","hoster":["PutLocker"]},
+                {"german":"In Sicherheit","english":"Security","hoster":["PutLocker"]},
+                {"german":"Der undankbare Doktor","english":"The Ingrate","hoster":["PutLocker"]},
+                {"german":"Frau Doktor Freud","english":"Crazy Chin","hoster":["PutLocker"]},
+                {"german":"Small Talk mit Tiefgang","english":"The Nice Talk","hoster":["PutLocker"]},
+                {"german":"Plaudertaschen","english":"Blabbermouths","hoster":["PutLocker"]},
+                {"german":"Der Affe mit der Kamera","english":"The Model","hoster":["PutLocker"]},
+                {"german":"Ein vorbildlicher Tyrann","english":"The Mentor","hoster":["PutLocker"]},
+                {"german":"Meine Mama, deine Mama","english":"Golf For It","hoster":["PutLocker"]}
+         ]
+}

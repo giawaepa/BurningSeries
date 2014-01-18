@@ -1,0 +1,20 @@
+{
+        "series":"Californication",
+        "seasons":5,
+        "cover":"Californication_9f13e2ff11127a00c2c2b56e0c93860f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Eine verhängnisvolle Affäre","english":"Pilot","hoster":[]},
+                {"german":"Hanks neuer Job","english":"Hell-A-Woman","hoster":[]},
+                {"german":"Die Huren Babylons","english":"The Whore of Babylon","hoster":["YouTube"]},
+                {"german":"Die Spendengala","english":"Fear and Loathing at the Fundraiser","hoster":["YouTube"]},
+                {"german":"LOL","english":"LOL","hoster":["YouTube"]},
+                {"german":"Wer einmal lügt","english":"Absinthe Makes the Heart Grow Fonder","hoster":["YouTube"]},
+                {"german":"Die Illusion vom Happy End","english":"Girls, Interrupted","hoster":["YouTube"]},
+                {"german":"Vater und Sohn","english":"California Son","hoster":["YouTube"]},
+                {"german":"Schnöder Mammon","english":"Filthy Lucre","hoster":[]},
+                {"german":"In flagranti","english":"The Devil&#039;s Threesome","hoster":[]},
+                {"german":"Ein neues Kapitel","english":"Turn The Page","hoster":["YouTube"]},
+                {"german":"Der letzte Tanz","english":"The Last Waltz","hoster":["YouTube"]}
+         ]
+}

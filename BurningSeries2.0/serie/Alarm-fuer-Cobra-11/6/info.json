@@ -1,0 +1,25 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Hetzjagd","english":"","hoster":["PutLocker"]},
+                {"german":"Der Kleine","english":"","hoster":["PutLocker"]},
+                {"german":"Wehrlos","english":"","hoster":["PutLocker"]},
+                {"german":"Im Kreuzfeuer","english":"","hoster":["PutLocker"]},
+                {"german":"Schwarze Schafe","english":"","hoster":["PutLocker"]},
+                {"german":"Späte Rache","english":"","hoster":["PutLocker"]},
+                {"german":"Black Out","english":"","hoster":[]},
+                {"german":"Vater und Sohn","english":"","hoster":["PutLocker"]},
+                {"german":"Verraten und verkauft","english":"","hoster":["PutLocker"]},
+                {"german":"Bis zum bitteren Ende","english":"","hoster":["PutLocker"]},
+                {"german":"Tod eines Reporters","english":"","hoster":["PutLocker"]},
+                {"german":"Tödliche Kunst","english":"","hoster":["PutLocker"]},
+                {"german":"Der perfekte Mord","english":"","hoster":["PutLocker"]},
+                {"german":"Ein tiefer Fall","english":"","hoster":["PutLocker"]},
+                {"german":"Die Clique","english":"","hoster":["PutLocker"]},
+                {"german":"Schatten der Vergangenheit","english":"","hoster":["PutLocker"]},
+                {"german":"Abschied","english":"","hoster":["PutLocker"]}
+         ]
+}

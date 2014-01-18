@@ -1,0 +1,29 @@
+{
+        "series":"Ally McBeal",
+        "seasons":5,
+        "cover":"Ally-McBeal_a187e7187d7119128b6a6f4f34c52063.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Eine klatschnasse Affäre","english":"Car Wash","hoster":["PutLocker"]},
+                {"german":"Heiße Küsse, Harte Schläge","english":"Buried Pleasures","hoster":["PutLocker"]},
+                {"german":"Showtime","english":"Seeing Green","hoster":["PutLocker"]},
+                {"german":"Sex und Hopp","english":"Heat Wave","hoster":["PutLocker"]},
+                {"german":"Sturmfront","english":"Troubled Water","hoster":["PutLocker"]},
+                {"german":"Stunde der Wahrheit","english":"Changes","hoster":["PutLocker"]},
+                {"german":"Ein dickes Ding","english":"Saving Santa","hoster":["PutLocker"]},
+                {"german":"Ihr Kinderlein kommet","english":"Blue Christmas","hoster":["PutLocker"]},
+                {"german":"Echte Kerle","english":"Out in the Cold","hoster":["PutLocker"]},
+                {"german":"Freunde, Feinde und Liebhaber","english":"Just Friends","hoster":["PutLocker"]},
+                {"german":"Schwere Geschütze","english":"Over the Rainbow","hoster":["PutLocker"]},
+                {"german":"Zwergenaufstand","english":"In Search of Pygmies","hoster":["PutLocker"]},
+                {"german":"Kalter Kaffee","english":"Pursuit of Loneliness","hoster":["PutLocker"]},
+                {"german":"Locker aus der Hüfte","english":"The Oddball Parade","hoster":["PutLocker"]},
+                {"german":"In gefährlicher Mission","english":"Prime Suspect","hoster":["PutLocker"]},
+                {"german":"Kurz und schmerzvoll","english":"Boy Next Door","hoster":["PutLocker"]},
+                {"german":"Beinfreiheit","english":"I Will Survive","hoster":["PutLocker"]},
+                {"german":"Eine Frage der Größe","english":"Turning Thirty","hoster":["PutLocker"]},
+                {"german":"E-Mail für mich","english":"Do You Wanna Dance?","hoster":["PutLocker"]},
+                {"german":"Wölfin im Schafspelz","english":"Hope and Glory","hoster":["PutLocker"]},
+                {"german":"Not nach Noten","english":"Ally McBeal: The Musical, Almost","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,16 @@
+{ 
+         "titlede":"Das Angebot",
+         "titleen":"",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"RapidVideo",
+                        "part":1,
+                        "link":"4ub3vm03"
+                },{
+                        "hoster":"MySpass",
+                        "part":1,
+                        "link":"3461"
+                }
+       ]
+}

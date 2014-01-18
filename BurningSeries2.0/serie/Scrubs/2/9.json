@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Mein Glückstag",
+         "titleen":"My Lucky Day",
+         "description":"Während J.D. und Turk versuchen, ihrem Nachbarn mit Rowdy ein Lächeln aufs Gesicht zu zaubern, hat Elliot Probleme mit der Miete...",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=LZJHrSrWREg"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=10wIeUq-Z1M"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6190056/Scrubs_Die_Anfaenger_St_2_Folge_09_Teil_1_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6191529/Scrubs_Die_Anfaenger_St_2_Folge_09_Teil_2_2"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"72FB7BFBFD2F0701"
+                },{
+                        "hoster":"Ecostream",
+                        "part":1,
+                        "link":"e0eb01eb694f96550feabd70ed8505e0.html"
+                }
+       ]
+}

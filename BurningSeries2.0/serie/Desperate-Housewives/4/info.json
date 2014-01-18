@@ -1,0 +1,25 @@
+{
+        "series":"Desperate Housewives",
+        "seasons":8,
+        "cover":"Desperate-Housewives_291bdfe287207faf11aaf9df229de65d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Alles kommt ans Licht","english":"Now You Know","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Kuchenschlacht","english":"Smiles of a Summer Night","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Scharade","english":"The Game","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Plagen","english":"If There&#039;s Anything I Can&#039;t Stand","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Kunst ist subjektiv","english":"Art Isn&#039;t Easy","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Angst","english":"Now I Know, Don&#039;t Be Scared","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Täuschungsmanöver","english":"You Can&#039;t Judge a Book By It&#039;s Cover","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Treibgut","english":"Distant Past","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Tornado","english":"Something&#039;s Coming","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Nach der Katastrophe","english":"Welcome to Kanagawa","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Sonntag","english":"Sunday","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Blind","english":"In Buddy&#039;s Eyes","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Hallo, kleines Mädchen","english":"Hello, Little Girl","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Willkommen","english":"Opening Doors","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Muttertag","english":"Mother Said","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Namen (1)","english":"The Gun Song (1)","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Befreiung (2)","english":"Free (2)","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]}
+         ]
+}

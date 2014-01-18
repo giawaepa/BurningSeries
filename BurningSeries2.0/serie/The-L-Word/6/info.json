@@ -1,0 +1,16 @@
+{
+        "series":"The L Word",
+        "seasons":6,
+        "cover":"The-L-Word_2989b24ba4baa8267a2baadbeff05c51.jpeg",
+        "movies":false,
+        "episodes":[
+                {"german":"Reise durch den Tag in die Nacht","english":"Long Nights Journey Into Day","hoster":["YouTube"]},
+                {"german":"Alles sehr unwahrscheinlich","english":"Least Likely","hoster":["YouTube"]},
+                {"german":"Lachen ist gesund","english":"LMFAO","hoster":["YouTube"]},
+                {"german":"Raus aus Los Angeles","english":"Leaving Los Angeles","hoster":["YouTube"]},
+                {"german":"","english":"Litmus Test","hoster":["YouTube"]},
+                {"german":"","english":"Lactose Intolerant","hoster":["YouTube"]},
+                {"german":"","english":"Last Couple Standing","hoster":["YouTube"]},
+                {"german":"","english":"Last Word","hoster":["YouTube"]}
+         ]
+}

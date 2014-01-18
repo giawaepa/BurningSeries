@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Umgekehrte falsche Fährte",
+         "titleen":"Episode 222",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=P6K326xPpIQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5802747/Detektiv_Conan_Folge_222_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5803204/Detektiv_Conan_Folge_222_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5803458/Detektiv_Conan_Folge_222_3_3"
+                }
+       ]
+}

@@ -1,0 +1,18 @@
+{
+        "series":"Skins",
+        "seasons":5,
+        "cover":"Skins_bb9c269a192f18edaf505b3c54e0e175.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Tony","english":"Tony","hoster":["YouTube","PutLocker"]},
+                {"german":"Cassie","english":"Cassie","hoster":["YouTube","PutLocker"]},
+                {"german":"Jal","english":"Jal","hoster":["YouTube","PutLocker"]},
+                {"german":"Chris","english":"Chris","hoster":["PutLocker"]},
+                {"german":"Sid","english":"Sid","hoster":["PutLocker"]},
+                {"german":"Maxxie und Anwar","english":"Maxxie and  Anwar","hoster":["PutLocker"]},
+                {"german":"Michelle","english":"Michelle","hoster":["PutLocker"]},
+                {"german":"Effy","english":"Effy","hoster":["PutLocker"]},
+                {"german":"Series Finale","english":"Finale","hoster":["PutLocker"]},
+                {"german":"Party","english":"Secret Party","hoster":[]}
+         ]
+}

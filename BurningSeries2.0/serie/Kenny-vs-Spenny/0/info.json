@@ -1,0 +1,9 @@
+{
+        "series":"Kenny vs. Spenny",
+        "seasons":6,
+        "cover":"Kenny-vs-Spenny_b242cb25f204a30c0cf52db43ae9de9f.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Wer kann in einer Woche mehr zunehmen?","english":"Who Can Gain the Most Weight in One Week?","hoster":["YouTube"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{
+        "series":"Boston Legal",
+        "seasons":5,
+        "cover":"Boston-Legal_b9c234cb27a3f4de023d2a52a7df4c73.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Neue und das Biest","english":"Beauty and the Beast","hoster":["PutLocker"]},
+                {"german":"Berechtigte Zweifel","english":"The Innocent Man","hoster":["PutLocker"]},
+                {"german":"Hahnenkämpfe","english":"The Chicken and the Leg","hoster":["PutLocker"]},
+                {"german":"Wortsalat","english":"Do Tell","hoster":["PutLocker"]},
+                {"german":"Racheengel","english":"Hope and Gory","hoster":["PutLocker"]},
+                {"german":"Objekt der Begierde","english":"The Object of my Affection","hoster":["PutLocker"]},
+                {"german":"Fettnapf","english":"Attack of the Xenophobes","hoster":["PutLocker"]},
+                {"german":"Schwer bekömmlich","english":"Oral Contracts","hoster":["PutLocker"]},
+                {"german":"Gehirnmangel","english":"No Brains Left Behind","hoster":["PutLocker"]},
+                {"german":"Grüne Weihnachten","english":"Green Christmas","hoster":["PutLocker"]},
+                {"german":"Stolperfalle","english":"Mad About You","hoster":["PutLocker"]},
+                {"german":"Samenraub","english":"Roe v. Wade, The Musical","hoster":["PutLocker"]},
+                {"german":"Der Nächste, bitte!","english":"Glow in the Dark","hoster":["PutLocker"]},
+                {"german":"Baden gegangen","english":"Rescue Me","hoster":["PutLocker"]},
+                {"german":"Liebe oder Leben","english":"Tabloid Nation","hoster":["PutLocker"]},
+                {"german":"Bombenstimmung","english":"The Mighty Rogues","hoster":["PutLocker"]},
+                {"german":"Höhepunkt","english":"The Court Supreme","hoster":[]},
+                {"german":"Fleischeslust","english":"Indecent Proposals","hoster":[]},
+                {"german":"Denny for President","english":"The Gods Must Be Crazy","hoster":[]},
+                {"german":"Bruderkrieg","english":"Patriot Acts","hoster":[]}
+         ]
+}

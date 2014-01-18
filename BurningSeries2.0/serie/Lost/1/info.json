@@ -1,0 +1,33 @@
+{
+        "series":"Lost",
+        "seasons":6,
+        "cover":"Lost_49ec17f91f9058c5bd0884ad26d418d5.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Gestrandet (1)","english":"Pilot (1)","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Gestrandet (2)","english":"Pilot (2)","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Tabula Rasa","english":"Tabula Rasa","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Wildschweinjagd","english":"Walkabout","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das weisse Kaninchen","english":"White Rabbit","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Höhle","english":"House of the Rising Sun","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Nachtfalter","english":"The Moth","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Betrüger","english":"Confidence Man","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Einzelhaft","english":"Solitary","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Volkszählung","english":"Raised by Another","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Fährtensucher","english":"All the Best Cowboys Have Daddy Issues","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der silberne Koffer","english":"Whatever the Case May Be","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Gefühl und Verstand","english":"Hearts and Minds","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Eisbär","english":"Special","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Heimkehr","english":"Homecoming","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Outlaws","english":"Outlaws","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"...In Translation","english":"...In Translation","hoster":["PutLocker","DivxStage"]},
+                {"german":"Verfluchte Zahlen","english":"Numbers","hoster":["PutLocker","DivxStage"]},
+                {"german":"Deus Ex Machina","english":"Deus Ex Machina","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schade nicht","english":"Do No Harm","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein höheres Ziel","english":"The Greater Good (a.k.a. Sides)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rastlos","english":"Born to Run","hoster":["PutLocker","DivxStage"]},
+                {"german":"Exodus (1)","english":"Exodus (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Exodus (2)","english":"Exodus (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Exodus (3)","english":"Exodus (3)","hoster":["PutLocker","DivxStage"]}
+         ]
+}

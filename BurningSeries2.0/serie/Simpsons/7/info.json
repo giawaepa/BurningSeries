@@ -1,0 +1,33 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Wer erschoss Mr. Burns? - Teil 2","english":"Who Shot Mr. Burns? (Part Two)","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Filmstar wider Willen","english":"Radioactive Man","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Bei Simpsons stimmt was nicht!","english":"Home Sweet Homediddly-Dum-Doodily","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Bart verkauft seine Seele","english":"Bart Sells His Soul","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Lisa, als Vegetarierin","english":"Lisa the Vegetarian","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Panik-Amok-Horror-Show","english":"Treehouse of Horror VI","hoster":["YouTube","PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Der behinderte Homer","english":"King-Size Homer","hoster":["Sockshare","BitShare"]},
+                {"german":"Wer ist Mona Simpson?","english":"Mother Simpson","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Tingeltangel-Bobs Rache","english":"Sideshow Bob&#039;s Last Gleaming","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Die 138. Episode, eine Sondervorstellung","english":"The Simpsons 138th Episode Spectacular","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Das schwarze Schaf","english":"Marge Be Not Proud","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Homers Bowling-Mannschaft","english":"Team Homer","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Die bösen Nachbarn","english":"Two Bad Neighbors","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Eine Klasse für sich","english":"Scenes from the Class Struggle in Springfield","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bart ist an allem schuld","english":"Bart the Fink","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Das geheime Bekenntnis","english":"Lisa the Iconoclast","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Butler bei Burns","english":"Homer the Smithers","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Wer erfand Itchy und Scratchy?","english":"The Day the Violence Died","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Selma heiratet Hollywoodstar","english":"A Fish Called Selma","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Reise nach Knoxville","english":"Bart on the Road","hoster":["Sockshare","BitShare"]},
+                {"german":"22 Kurzfilme über Springfield","english":"22 Short Films About Springfield","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Simpson und sein Enkel in &#039;Die Schatzsuche&#039;","english":"Raging Abe Simpson and his Grumbling Grandson in The Curse of the Flying Hellfish","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Volksabstimmung in Springfield","english":"Much Apu About Nothing","hoster":["PutLocker","DivxStage"]},
+                {"german":"Homer auf Tournee","english":"Homerpalooza","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Ein Sommer für Lisa","english":"Summer Of 42","hoster":["PutLocker","Sockshare","DivxStage"]}
+         ]
+}

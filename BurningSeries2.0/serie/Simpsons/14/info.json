@@ -1,0 +1,30 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Schickt die Klone rein","english":"Treehouse of Horror XIII","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"It&#039;s only Rock &#039;N&#039; Roll","english":"How I Spent My Strummer Vacation","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Klassenkampf","english":"Bart vs. Lisa vs. The Third Grade","hoster":["PutLocker","DivxStage"]},
+                {"german":"Marge - oben ohne","english":"Large Marge","hoster":["PutLocker"]},
+                {"german":"Der Videobeichtstuhl","english":"Helter Shelter","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Und der Mörder ist ...","english":"The Great Louse Detective","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lehrerin des Jahres","english":"Special Edna","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Vater, der zuwenig wusste","english":"The Dad Who Knew Too Little","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die starken Arme der Marge","english":"The Strong Arms of the Ma","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein kleines Gebet","english":"Pray Anything","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Bart, das Werbebaby","english":"Barting Over","hoster":["PutLocker","DivxStage"]},
+                {"german":"Buchstabe für Buchstabe","english":"I&#039;m Spelling As Fast As I Can","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ein Stern wird neu geboren","english":"A Star Is Born-Again","hoster":["PutLocker","DivxStage"]},
+                {"german":"Krusty im Kongress","english":"Mr. Spritz Goes to Washington","hoster":["PutLocker","DivxStage"]},
+                {"german":"Mr. Burns wird entlassen","english":"C.E.D&#039;oh","hoster":["PutLocker"]},
+                {"german":"Nacht über Springfield","english":"&#039;Scuse Me While I Miss the Sky","hoster":["PutLocker","DivxStage"]},
+                {"german":"Homer auf Irrwegen","english":"Three Gays of the Condo","hoster":["PutLocker","DivxStage"]},
+                {"german":"Auf der Familienranch","english":"Dude, Where&#039;s My Ranch?","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Helden von Springfield","english":"Old Yeller Belly","hoster":["PutLocker","DivxStage"]},
+                {"german":"Stresserella über alles","english":"Brake My Wife, Please","hoster":["PutLocker","DivxStage"]},
+                {"german":"Auf dem Kriegspfad","english":"The Bart of War","hoster":["PutLocker","DivxStage"]},
+                {"german":"Moe Baby Blues","english":"Moe Baby Blues","hoster":["PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

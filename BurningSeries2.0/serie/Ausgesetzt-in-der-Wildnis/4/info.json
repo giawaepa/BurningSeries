@@ -1,0 +1,14 @@
+{
+        "series":"Ausgesetzt in der Wildnis",
+        "seasons":7,
+        "cover":"Ausgesetzt-in-der-Wildnis_df6212bf0ba49f03423dae4acfbfae23.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Zambia - Krank im Busch","english":"Zambia","hoster":["PutLocker"]},
+                {"german":"Namibia - An der Skelettküste","english":"Namibia","hoster":["PutLocker"]},
+                {"german":"Sumatra - Allein auf der Vulkaninsel 1","english":"Jungle Swamp","hoster":["PutLocker"]},
+                {"german":"Sumatra - Allein auf der Vulkaninsel 2","english":"Castaway","hoster":["PutLocker"]},
+                {"german":"Sibirien - Die sibirische Tundra 1","english":"Siberia","hoster":["PutLocker"]},
+                {"german":"Sibirien - Die sibirische Tundra 2","english":"Land of Ice","hoster":["PutLocker"]}
+         ]
+}

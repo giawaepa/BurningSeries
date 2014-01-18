@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Die Warnung",
+         "titleen":"Echoes",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7375387/Stargate_Atlantis_S03E12_Warnung_1_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7375461/Stargate_Atlantis_S03E12_Warnung_2_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7375516/Stargate_Atlantis_S03E12_Warnung_3_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7375577/Stargate_Atlantis_S03E12_Warnung_4_5"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"6BBE4E45DAAFA7A7"
+                },{
+                        "hoster":"DivxStage",
+                        "part":1,
+                        "link":"uprm2aix2pe6e"
+                }
+       ]
+}

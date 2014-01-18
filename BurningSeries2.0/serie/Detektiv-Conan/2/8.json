@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Das Spukhaus der Goblins (1)",
+         "titleen":"Episode 110",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=Qz09G2jAhPU"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5383990/Detektiv_Conan_Folge_110_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5384259/Detektiv_Conan_Folge_110_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5384619/Detektiv_Conan_Folge_110_3_3"
+                }
+       ]
+}

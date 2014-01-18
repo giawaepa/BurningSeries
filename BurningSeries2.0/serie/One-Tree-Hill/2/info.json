@@ -1,0 +1,31 @@
+{
+        "series":"One Tree Hill",
+        "seasons":9,
+        "cover":"One-Tree-Hill_2fa03b219e492507d3b23615a456128d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Heimweh","english":"The Desperate Kingdom of Love","hoster":["PutLocker"]},
+                {"german":"Sinneswandel","english":"Truth Doesn?t Make a Noise","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Stripperinnen","english":"Near Wild Heaven","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Der neue Nachbar","english":"You Can?t Always Get What You Want","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wer wagt, gewinnt","english":"I Will Dare","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Meteorschauer","english":"We Might as Well Be Strangers","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Cluberöffnung","english":"Let the Reigns Go Loose","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Pyjama-Party","english":"Truth, Bitter Truth","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Schulball","english":"The Trick Is to Keep Breathing","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gefühlschaos","english":"Don?t Take Me for Granted","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hör auf dein Herz","english":"The Heart Brings You Back","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verdrängte Wahrheit","english":"Between Order and Randomness","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hier stirbt der Held","english":"The Hero Dies In This One","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der große Wahlkampf","english":"The Quiet Things That No One Ever Knows","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Zeitkapsel","english":"Unopened Letter to the World","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Hochzeit","english":"Somewhere a Clock Is Ticking","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die harte Wahrheit","english":"Something I Can Never Have","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Coming-Out","english":"The Lonesome Road","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Rennen","english":"I?m Wide Awake, It?s Morning","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Was wäre wenn","english":"Lifetime Piling Up","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Filmnacht für Nathan","english":"What Could Have Been","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Liebe und Verlust","english":"The Tide That Left and Never Came Back","hoster":["PutLocker"]},
+                {"german":"Abschiedsblues","english":"The Leavers Dance","hoster":[]}
+         ]
+}

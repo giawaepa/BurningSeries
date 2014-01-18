@@ -1,0 +1,33 @@
+{
+        "series":"Friends",
+        "seasons":10,
+        "cover":"Friends_ecd9c11d4588bc6ea50e8829954d980f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Zeichen","english":"The One After Vegas","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wer liebt wen?","english":"The One Where Ross Hugs Rachel","hoster":["PutLocker","DivxStage"]},
+                {"german":"Zimmer gesucht","english":"The One With Ross&#039;s Denial","hoster":["PutLocker","DivxStage"]},
+                {"german":"Prof. Dr. Geller","english":"The One Where Joey Loses His Insurance","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Traum vom Porsche","english":"The One With Joey&#039;s Porsche","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der letzte Abend","english":"The One On The Last Night","hoster":["PutLocker","DivxStage"]},
+                {"german":"Flirt-Verbot","english":"The One Where Phoebe Runs","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein strahlender Eindruck","english":"The One With Ross&#039;s Teeth","hoster":["PutLocker","DivxStage"]},
+                {"german":"Jugendsünden","english":"The One Where Ross Got High","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die alte Nummer","english":"The One With The Routine","hoster":["PutLocker","DivxStage"]},
+                {"german":"Lautes Blabla","english":"The One With The Apothecary Table","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Playboy-Witz","english":"The One With The Joke","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schwestern","english":"The One With Rachel&#039;s Sister (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Echte Männer weinen nicht","english":"The One Where Chandler Can&#039;t Cry (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Was wäre, wenn (1)","english":"The One That Could Have Been (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Was wäre, wenn (2)","english":"The One That Could Have Been (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Verteidigung im Kopf","english":"The One With Unagi (a.k.a. The One With The Mix Tape)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Professor trifft Studentin","english":"The One Where Ross Dates A Student","hoster":["PutLocker","DivxStage"]},
+                {"german":"Semesterferien","english":"The One With Joey&#039;s Fridge","hoster":["PutLocker","DivxStage"]},
+                {"german":"Mac und Cheese","english":"The One With Mac And C.H.E.E.S.E.","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Mr. Stevens","english":"The One Where Ross Meets Elizabeth&#039;s Dad","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein toller Typ","english":"The One Where Paul&#039;s The Man","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein besonderer Ring","english":"The One With The Ring","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Antrag (1)","english":"The One With The Proposal (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Antrag (2)","english":"The One With The Proposal (2)","hoster":["PutLocker","DivxStage"]}
+         ]
+}

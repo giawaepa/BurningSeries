@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Ein rabenschwarzer Mord",
+         "titleen":"Episode 145",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=0wVR06y3Ezs"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5496095/Detektiv_Conan_Folge_145_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5496423/Detektiv_Conan_Folge_145_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5496770/Detektiv_Conan_Folge_145_3_3"
+                }
+       ]
+}

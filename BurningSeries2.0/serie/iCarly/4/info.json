@@ -1,0 +1,25 @@
+{
+        "series":"iCarly",
+        "seasons":5,
+        "cover":"iCarly_7203625d55cfd3b4011def326c78e6e2.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Hurra, hurra, die Bude brennt!","english":"iGot A Hot Room","hoster":["PutLocker"]},
+                {"german":"Sams Mom","english":"iSam&#039;s Mom","hoster":["PutLocker"]},
+                {"german":"Der König der Streiche","english":"iGet Pranky","hoster":["PutLocker"]},
+                {"german":"Penny-Tees","english":"iSell Penny-Tees","hoster":["PutLocker"]},
+                {"german":"Ja, ich will","english":"iDo","hoster":["PutLocker"]},
+                {"german":"Krieg der Fans - Teil 1","english":"iStart a Fan War ? Part 1","hoster":["PutLocker"]},
+                {"german":"Krieg der Fans - Teil 2","english":"iStart a Fan War ? Part 2","hoster":[]},
+                {"german":"Zu doof, um wahr zu sein","english":"iHire An Idiot","hoster":[]},
+                {"german":"","english":"iPity The Nevel","hoster":["PutLocker"]},
+                {"german":"","english":"iOMG","hoster":["PutLocker"]},
+                {"german":"Party mit Victorious (1)","english":"iParty with Victorious (1)","hoster":["PutLocker"]},
+                {"german":"Party mit Victorious (2)","english":"iParty with Victorious (2)","hoster":[]},
+                {"german":"Party mit Victorious (3)","english":"iParty with Victorious (3)","hoster":[]},
+                {"german":"","english":"bitte löschen!","hoster":[]},
+                {"german":"","english":"bitte löschen!","hoster":[]},
+                {"german":"","english":"bitte löschen!","hoster":[]},
+                {"german":"","english":"bitte löschen!","hoster":[]}
+         ]
+}

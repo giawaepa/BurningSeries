@@ -1,0 +1,33 @@
+{
+        "series":"CSI: Miami",
+        "seasons":10,
+        "cover":"CSI-Miami_b05c65690e21963e0626d83346766b0ahtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Auferstehung","english":"Resurrection (2)","hoster":["PutLocker"]},
+                {"german":"Angezündet","english":"Won?t Get Fueled Again!","hoster":["PutLocker"]},
+                {"german":"Narziss &amp; Psyche","english":"And How Does That Make You Kill?","hoster":["PutLocker"]},
+                {"german":"Fightclub","english":"Raging Cannibal","hoster":["PutLocker"]},
+                {"german":"Ein letztes Accessoire","english":"Bombshell","hoster":["PutLocker"]},
+                {"german":"Abbrucharbeiter für alles","english":"Wrecking Crew","hoster":["PutLocker"]},
+                {"german":"Immer Ärger mit Steven","english":"Cheating Death","hoster":["PutLocker"]},
+                {"german":"Kein Kinderspiel","english":"Gone Baby Gone","hoster":["PutLocker"]},
+                {"german":"Machtrausch","english":"Power Trip","hoster":["PutLocker"]},
+                {"german":"DeLuca Motel","english":"The DeLuca Motel","hoster":["PutLocker"]},
+                {"german":"Sumpfblüten","english":"Tipping Point","hoster":["PutLocker"]},
+                {"german":"Bin ich ein Mörder?","english":"Head Case","hoster":["PutLocker"]},
+                {"german":"Gnadenschuss ohne Gnade","english":"And They?re Offed","hoster":["PutLocker"]},
+                {"german":"Knall und Rauch","english":"Smoke Get?s in Your CSI?s","hoster":["PutLocker"]},
+                {"german":"Mutmaßlicher Mörder","english":"Presumed Guilty","hoster":["PutLocker"]},
+                {"german":"Schwimmen oder untergehen","english":"Sink or Swim","hoster":["PutLocker"]},
+                {"german":"Hängen sollst du in Miami","english":"Divorce Party","hoster":["PutLocker"]},
+                {"german":"Ärger im Gepäck","english":"Flight Risk","hoster":["PutLocker"]},
+                {"german":"Alle im Visier","english":"Target Specific (1)","hoster":["PutLocker"]},
+                {"german":"Ryan Wolfe im Schafspelz","english":"Wolfe?s in Sheep?s Clothing (2)","hoster":["PutLocker"]},
+                {"german":"Schönheit hat ihren Preis","english":"Chip/Tuck","hoster":["PutLocker"]},
+                {"german":"Einmal ist jede dran","english":"Dead on Arrival","hoster":["PutLocker"]},
+                {"german":"Kollateralschaden","english":"Collateral Damage","hoster":["PutLocker"]},
+                {"german":"Aufgelöst","english":"Dissolved","hoster":["PutLocker"]},
+                {"german":"Eine Stadt sieht rot (1)","english":"Seeing Red (1)","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,25 @@
+{
+        "series":"Lost",
+        "seasons":6,
+        "cover":"Lost_49ec17f91f9058c5bd0884ad26d418d5.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Weil Du gegangen bist","english":"Because You Left","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Lüge","english":"The Lie","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Bombe","english":"Jughead","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der kleine Prinz","english":"The Little Prince","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Dieser Ort ist der Tod","english":"This Place is Death","hoster":["PutLocker","RapidVideo"]},
+                {"german":"316","english":"316","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Leben und Tod des Jeremy Bentham","english":"The Life and Death of Jeremy Bentham","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"LaFleur","english":"LaFleur","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Namaste","english":"Namaste","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Deswegen bin ich hier","english":"He&#039;s Our You","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Zurück in die Zukunft","english":"Whatever Happened, Happened","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Tot ist tot","english":"Dead is Dead","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Imperium schlägt zurück","english":"Some Like It Hoth","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Variable","english":"The Variable","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Anführer","english":"Follow the Leader","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Vorfall (Teil 1)","english":"The Incident (Part 1)","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Vorfall (Teil 2)","english":"The Incident (Part 2)","hoster":["PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

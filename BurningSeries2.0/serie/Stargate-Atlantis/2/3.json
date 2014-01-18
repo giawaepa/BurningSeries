@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Der Läufer",
+         "titleen":"Runner",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7111377/Stargate_Atlantis_S02E03_Der_Laeufer_1_7"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7111456/Stargate_Atlantis_S02E03_Der_Laeufer_2_7"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7111692/Stargate_Atlantis_S02E03_Der_Laeufer_3_7"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7111885/Stargate_Atlantis_S02E03_Der_Laeufer_4_7"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"119E8440D871C79F"
+                },{
+                        "hoster":"DivxStage",
+                        "part":1,
+                        "link":"ldu9bix5tpppo"
+                }
+       ]
+}

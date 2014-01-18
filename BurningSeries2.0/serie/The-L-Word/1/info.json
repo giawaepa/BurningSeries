@@ -1,0 +1,21 @@
+{
+        "series":"The L Word",
+        "seasons":6,
+        "cover":"The-L-Word_2989b24ba4baa8267a2baadbeff05c51.jpeg",
+        "movies":false,
+        "episodes":[
+                {"german":"Pilot (1)","english":"Pilot","hoster":[]},
+                {"german":"Frauen, die sich trauen","english":"Let&#039;s Do It","hoster":["PutLocker"]},
+                {"german":"Gefühle der Angst","english":"Longing","hoster":[]},
+                {"german":"Lügen, Lügen, Lügen","english":"Lies, Lies, Lies","hoster":["PutLocker"]},
+                {"german":"Gegen das Gesetz","english":"Lawfully","hoster":["PutLocker"]},
+                {"german":"Verlieren","english":"Losing It","hoster":["PutLocker"]},
+                {"german":"Liebesopfer","english":"L&#039;Ennui","hoster":[]},
+                {"german":"Der gute Ruf","english":"Listen Up","hoster":[]},
+                {"german":"Alles kommt anders","english":"Luck, Next Time","hoster":[]},
+                {"german":"Doppelte Moral","english":"Liberally","hoster":[]},
+                {"german":"Coming Out","english":"Looking Back","hoster":["PutLocker"]},
+                {"german":"Fanatische Leidenschaft","english":"Locked Up","hoster":[]},
+                {"german":"Provokationen","english":"Limb from Limb","hoster":[]}
+         ]
+}

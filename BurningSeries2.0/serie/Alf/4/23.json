@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Umzugsfreuden",
+         "titleen":"I Gotta Be Me",
+         "description":"Kate ist außer sich. Ihre Tochter Lynn hat ein Wochenende mit ihrem Freund Robert verbracht. Jetzt will sie auch noch mit ihm zusammenziehen. Alf ist es recht. Er spekuliert auf Lynns Zimmer.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7026006/ALF_Umzugsfreuden_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7026298/ALF_Umzugsfreuden_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7026410/ALF_Umzugsfreuden_3_3"
+                }
+       ]
+}

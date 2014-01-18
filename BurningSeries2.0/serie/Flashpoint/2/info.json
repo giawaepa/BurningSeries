@@ -1,0 +1,21 @@
+{
+        "series":"Flashpoint",
+        "seasons":4,
+        "cover":"Flashpoint_225fb8aaa8e751d1303dcd74792433e7.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Stunde der Wahrheit","english":"Eagle Two","hoster":["PutLocker"]},
+                {"german":"Zu viele Verlierer","english":"Backwards Day","hoster":["PutLocker"]},
+                {"german":"Geister der Vergangenheit","english":"Haunting the Barn","hoster":["PutLocker"]},
+                {"german":"Söhne des Krieges","english":"Between Heartbeats","hoster":["PutLocker"]},
+                {"german":"Obdachlos","english":"Business As Usual","hoster":[]},
+                {"german":"Die Festung","english":"The Fortress","hoster":["Sockshare"]},
+                {"german":"Zum Schutz des Bösen","english":"Clean Hands","hoster":[]},
+                {"german":"Freunde für immer","english":"Aisle 13","hoster":[]},
+                {"german":"Die perfekte Familie","english":"The Perfect Family","hoster":["PutLocker"]},
+                {"german":"Der Verrat","english":"Remote Control","hoster":["PutLocker"]},
+                {"german":"Amoklauf","english":"Perfect Storm","hoster":["PutLocker"]},
+                {"german":"Der letzte Tanz","english":"Last Dance","hoster":["PutLocker"]},
+                {"german":"Eine bessere Zukunft","english":"Exit Wounds","hoster":["PutLocker"]}
+         ]
+}

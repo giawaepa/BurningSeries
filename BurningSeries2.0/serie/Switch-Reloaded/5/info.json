@@ -1,0 +1,24 @@
+{
+        "series":"Switch Reloaded",
+        "seasons":5,
+        "cover":"Switch-Reloaded_3513ca9feffe1286c90147a8f044051a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1","english":"","hoster":[]},
+                {"german":"Episode 2","english":"","hoster":[]},
+                {"german":"Episode 3","english":"","hoster":[]},
+                {"german":"Episode 4","english":"","hoster":["PutLocker"]},
+                {"german":"Episode 5","english":"","hoster":[]},
+                {"german":"Episode 6","english":"","hoster":[]},
+                {"german":"Episode 7","english":"","hoster":[]},
+                {"german":"Episode 8","english":"","hoster":[]},
+                {"german":"Episode 9","english":"","hoster":[]},
+                {"german":"Episode 10","english":"","hoster":[]},
+                {"german":"Episode 11","english":"","hoster":[]},
+                {"german":"Episode 12","english":"","hoster":[]},
+                {"german":"Episode 13","english":"","hoster":[]},
+                {"german":"Episode 14","english":"","hoster":["MyVideo"]},
+                {"german":"Episode 15","english":"","hoster":[]},
+                {"german":"Jahresrückblick 2010","english":"","hoster":["MyVideo"]}
+         ]
+}

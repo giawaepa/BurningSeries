@@ -1,0 +1,18 @@
+{
+        "series":"Hausmeister Krause",
+        "seasons":8,
+        "cover":"Hausmeister-Krause_ee4628169cc6aaba3cd245b263b75349.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Frau wider Willen","english":"","hoster":["PutLocker"]},
+                {"german":"Die Jungfrau","english":"","hoster":["PutLocker"]},
+                {"german":"Ein unmoralisches Angebot","english":"","hoster":["PutLocker"]},
+                {"german":"Der Untergang","english":"","hoster":["PutLocker"]},
+                {"german":"Schell bei Michelle","english":"","hoster":["PutLocker"]},
+                {"german":"Die Wiedergeburt","english":"","hoster":["PutLocker"]},
+                {"german":"Onkel, willst du ewig leben","english":"","hoster":["PutLocker"]},
+                {"german":"Deutschland: Holland","english":"","hoster":["PutLocker"]},
+                {"german":"Bodo hat die Schnautze voll","english":"","hoster":["PutLocker"]},
+                {"german":"Romeo und Julia","english":"","hoster":[]}
+         ]
+}

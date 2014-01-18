@@ -1,0 +1,30 @@
+{
+        "series":"Star Trek: Enterprise",
+        "seasons":4,
+        "cover":"Star-Trek-Enterprise_c68fc25a7922c34dd2fc5e5bc8eedce5.png",
+        "movies":false,
+        "episodes":[
+                {"german":"Sturmfront, Teil 1","english":"Storm Front (1)","hoster":[]},
+                {"german":"Sturmfront, Teil 2","english":"Storm Front, Part II","hoster":[]},
+                {"german":"Zuhause","english":"Home","hoster":[]},
+                {"german":"Borderland","english":"Borderland (1)","hoster":[]},
+                {"german":"Cold Station 12","english":"Cold Station 12 (2)","hoster":[]},
+                {"german":"Die Augments","english":"The Augments (3)","hoster":[]},
+                {"german":"Der Anschlag","english":"The Forge (1)","hoster":[]},
+                {"german":"Zeit des Erwachens","english":"Awakening (2)","hoster":[]},
+                {"german":"Kir&#039;Shara","english":"Kir&#039;Shara (3)","hoster":[]},
+                {"german":"Daedalus","english":"Daedalus","hoster":[]},
+                {"german":"Beobachtungseffekt","english":"Observer Effect","hoster":[]},
+                {"german":"Babel","english":"Babel One (1)","hoster":[]},
+                {"german":"Vereinigt","english":"United (2)","hoster":[]},
+                {"german":"Die Aenar","english":"The Aenar (3)","hoster":[]},
+                {"german":"Die Heimsuchung","english":"Affliction (1)","hoster":[]},
+                {"german":"Die Abweichung","english":"Divergence (2)","hoster":[]},
+                {"german":"Die Verbindung","english":"Bound","hoster":[]},
+                {"german":"Die dunkle Seite des Spiegels - Teil 1","english":"In a Mirror, Darkly (1)","hoster":[]},
+                {"german":"Die dunkle Seite des Spiegels - Teil 2","english":"In a Mirror, Darkly, Part II","hoster":[]},
+                {"german":"Dämonen","english":"Demons (1)","hoster":[]},
+                {"german":"Terra Prime","english":"Terra Prime (2)","hoster":[]},
+                {"german":"Dies sind die Abenteuer","english":"These Are the Voyages ...","hoster":[]}
+         ]
+}

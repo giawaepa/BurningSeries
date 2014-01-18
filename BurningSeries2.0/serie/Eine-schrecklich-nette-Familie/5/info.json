@@ -1,0 +1,33 @@
+{
+        "series":"Eine schrecklich nette Familie",
+        "seasons":11,
+        "cover":"Eine-schrecklich-nette-Familie_c1fd2e1979181b45a7c4bb6c755e10b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Super-Stau","english":"We´ll follow the sun","hoster":["YouTube"]},
+                {"german":"Al und Kelly allein zu Hause","english":"Al ... with Kelly","hoster":[]},
+                {"german":"Mein Auto - dein Auto","english":"Sue casa, his casa","hoster":[]},
+                {"german":"Das Endspiel","english":"The Unnatural","hoster":[]},
+                {"german":"Liebe geht durch den Magen","english":"Dance Show","hoster":[]},
+                {"german":"Kellys Rache","english":"Kelly bounces back","hoster":[]},
+                {"german":"Al und die Außerirdischen","english":"Married with Aliens","hoster":[]},
+                {"german":"Jagdsaison","english":"Wabbit season","hoster":[]},
+                {"german":"Der Unwiderstehliche","english":"Do ya think I´m sexy","hoster":[]},
+                {"german":"Ein Küken verlässt das Nest","english":"One down, two to go","hoster":[]},
+                {"german":"Baby bringt Barschaft","english":"And baby makes money","hoster":[]},
+                {"german":"Schreckliches Erwachen","english":"Married with who","hoster":[]},
+                {"german":"Der Pate","english":"The Godfather","hoster":[]},
+                {"german":"Schau mal, wer da bellt","english":"Look who´s barking","hoster":[]},
+                {"german":"Mein Klo ist meine Burg","english":"A man´s castle","hoster":[]},
+                {"german":"Der Nachtwächter","english":"All night security dude","hoster":[]},
+                {"german":"Es liegt mir auf der Zunge","english":"Oldies but young ´uns","hoster":[]},
+                {"german":"Ende gut, alles gut","english":"Weenie Tot Lovers and other stra...","hoster":[]},
+                {"german":"Nachwuchs","english":"Kids! Wadaya gonna do?","hoster":[]},
+                {"german":"Der millionste Besucher (1)","english":"You better shop around (1)","hoster":[]},
+                {"german":"Der millionste Besucher (2)","english":"You better shop around (2)","hoster":[]},
+                {"german":"Goldrausch (1)","english":"Route 666 (1)","hoster":[]},
+                {"german":"Goldrausch (2)","english":"Route 666 (2)","hoster":[]},
+                {"german":"Buck geht in die Zucht","english":"Buck the stud","hoster":[]},
+                {"german":"Her mit den reichen Mädchen","english":"Top of the heap","hoster":[]}
+         ]
+}

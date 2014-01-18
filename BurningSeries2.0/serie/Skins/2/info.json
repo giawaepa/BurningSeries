@@ -1,0 +1,18 @@
+{
+        "series":"Skins",
+        "seasons":5,
+        "cover":"Skins_bb9c269a192f18edaf505b3c54e0e175.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Tony und Maxxie","english":"Tony and Maxxie","hoster":["PutLocker"]},
+                {"german":"Sketch","english":"Sketch","hoster":["PutLocker"]},
+                {"german":"Mark","english":"Sid","hoster":["PutLocker"]},
+                {"german":"Scarlett","english":"Michelle","hoster":["PutLocker"]},
+                {"german":"Chris und Jal","english":"Chris","hoster":["PutLocker"]},
+                {"german":"Erwachen","english":"Tony","hoster":["PutLocker"]},
+                {"german":"Effy","english":"Effy","hoster":["PutLocker"]},
+                {"german":"Prüfungen","english":"Jal","hoster":["PutLocker"]},
+                {"german":"Flucht","english":"Cassie","hoster":["PutLocker"]},
+                {"german":"Abschied","english":"Final Goodbyes","hoster":["PutLocker"]}
+         ]
+}

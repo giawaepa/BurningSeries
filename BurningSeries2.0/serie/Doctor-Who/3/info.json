@@ -1,0 +1,23 @@
+{
+        "series":"Doctor Who",
+        "seasons":6,
+        "cover":"Doctor-Who_afb3def19dd3034de70546d97c212148.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Smith and Jones","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Shakespeare Code","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Gridlock","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Daleks in Manhattan (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Evolution of the Daleks (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Lazarus Experiment","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"42","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Human Nature (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Family of Blood (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Blink","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Utopia (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Sound of Drums (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Last of the Time Lords (3)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Special: Time Crash","hoster":["YouTube","Sockshare"]},
+                {"german":"","english":"Special: Voyage of the Damned","hoster":[]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Alles für die Katz",
+         "titleen":"Live and Let Die",
+         "description":"Nachdem Kater Lucky gestorben ist, sorgt Alf mit ein paar neuen Katzen für Ersatz. Zunächst behauptet er, die Kätzchen verspeisen zu wollen. Dann entpuppt er sich als wahrer Katzenfreund.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6956514/ALF_Alles_fuer_die_Katz_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6957184/ALF_Alles_fuer_die_Katz_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6958219/ALF_Alles_fuer_die_Katz_3_3"
+                }
+       ]
+}

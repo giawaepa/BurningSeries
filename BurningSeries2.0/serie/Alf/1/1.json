@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Hallo, da bin ich",
+         "titleen":"Alf (Pilot)",
+         "description":"Den Tanners ist ein Mini-Raumschiff mit dem außerirdischen Lebewesen Alf buchstäblich in den Schoß gefallen. Nun müssen sie den sonderbaren Burschen vor den Nachbarn verstecken.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6575002/ALF_S01E01_Part_1_3_Hallo_da_bin_ich_erste_Folge"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6575785/ALF_S01E01_Part_2_3_Hallo_da_bin_ich"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6577872/ALF_S01E01_Part_3_3_Hallo_da_bin_ich"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"6A4012C9F36541BA"
+                }
+       ]
+}

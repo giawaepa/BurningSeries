@@ -1,0 +1,20 @@
+{
+        "series":"Royal Pains",
+        "seasons":3,
+        "cover":"Royal-Pains_d7a42bf21454fc4d9aeb0ac4fb1717a4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Auch Reiche sind nur Menschen","english":"Pilot","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Essen der Anderen","english":"There Will Be Food","hoster":["PutLocker","Sockshare"]},
+                {"german":"Diskretion über alles?","english":"Strategic Planning","hoster":["PutLocker","Sockshare"]},
+                {"german":"Es steigt der Mut mit der Gelegenheit","english":"TB or Not TB","hoster":["PutLocker","Sockshare"]},
+                {"german":"Inselbegabung","english":"No Man Is an Island","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Bar Mitzwau","english":"If I Were a Sick Man","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wahnsinnige Liebe","english":"Crazy Love","hoster":["PutLocker","Sockshare"]},
+                {"german":"Flimmernde Herzen","english":"The Honeymoon&#039;s Over","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wunsch und Wahrheit","english":"It&#039;s Like Jamais Vu All Over Again","hoster":["PutLocker","Sockshare"]},
+                {"german":"Reich und stur","english":"Am I Blue?","hoster":["PutLocker","Sockshare"]},
+                {"german":"Und der Haifisch, der hat Proteine","english":"Nobody&#039;s Perfect","hoster":["PutLocker","Sockshare"]},
+                {"german":"Böse Geister","english":"Wonderland","hoster":["PutLocker","Sockshare"]}
+         ]
+}

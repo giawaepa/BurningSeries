@@ -1,0 +1,32 @@
+{
+        "series":"CSI: Miami",
+        "seasons":10,
+        "cover":"CSI-Miami_b05c65690e21963e0626d83346766b0ahtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Blutsbrüder","english":"Blood Brothers","hoster":["PutLocker"]},
+                {"german":"Festgenagelt","english":"Dead Zone","hoster":["PutLocker"]},
+                {"german":"Ohne Bewährung","english":"Hard Time","hoster":[]},
+                {"german":"Stück für Stück","english":"Death Grip","hoster":[]},
+                {"german":"Die Todes-Bar","english":"The Best Defense","hoster":[]},
+                {"german":"Sturmfront","english":"Hurricane Anthony","hoster":["PutLocker"]},
+                {"german":"Grand Prix","english":"Grand Prix","hoster":[]},
+                {"german":"Big Brother","english":"Big Brother","hoster":[]},
+                {"german":"Der Köder","english":"Bait","hoster":["PutLocker"]},
+                {"german":"Der letzte Kick","english":"Extreme","hoster":["PutLocker"]},
+                {"german":"Preis der Schönheit","english":"Complications","hoster":["PutLocker"]},
+                {"german":"Der Augenzeuge","english":"Witness To Murder","hoster":["PutLocker"]},
+                {"german":"Blutmond","english":"Blood Moon","hoster":[]},
+                {"german":"Buschfeuer","english":"Slow Burn","hoster":["PutLocker"]},
+                {"german":"Paparazzi","english":"Stalkerazzi","hoster":["PutLocker"]},
+                {"german":"Weiße Spur","english":"Invasion","hoster":[]},
+                {"german":"Falschgeld","english":"Money for Nothing","hoster":[]},
+                {"german":"Störmanöver","english":"Wannabe","hoster":["PutLocker"]},
+                {"german":"Deadline","english":"Deadline","hoster":[]},
+                {"german":"Cop-Killer","english":"The Oath","hoster":[]},
+                {"german":"Sabotage","english":"Not Landing","hoster":[]},
+                {"german":"Tödliche Reime","english":"Rap Sheet","hoster":[]},
+                {"german":"Spurensuche in New York","english":"MIA/NYC ? NonStop","hoster":[]},
+                {"german":"Würgemale","english":"Innocent","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Käse an der Hose",
+         "titleen":"Street Fighting Man",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7044728/Die_wilden_70er_Kaese_an_der_Hose_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7044837/Die_wilden_70er_Kaese_an_der_Hose_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7044993/Die_wilden_70er_Kaese_an_der_Hose_3_3"
+                }
+       ]
+}

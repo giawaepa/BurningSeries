@@ -1,0 +1,32 @@
+{
+        "series":"Ein Käfig voller Helden",
+        "seasons":6,
+        "cover":"Ein-Kaefig-voller-Helden_4e2ca811425051d0a7eb82a84202d576.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Louis ist ein Teufel","english":"Cuisine á la Stalag 13","hoster":["YouTube"]},
+                {"german":"Experten unter sich","english":"The Experts","hoster":["YouTube"]},
+                {"german":"Klinks blaue Periode","english":"Klink&#039;s Masterpiece","hoster":["YouTube"]},
+                {"german":"Lady Chitterlys Liebhaber - Teil 1","english":"Lady Chitterly&#039;s Lover - Part 2","hoster":["YouTube"]},
+                {"german":"Lady Chitterlys Liebhaber - Teil 2","english":"Lady Chitterly&#039;s Lover - Part 1","hoster":["YouTube"]},
+                {"german":"Das gemeinsame Ziel","english":"The Gestapo Takeover","hoster":["YouTube"]},
+                {"german":"Die harte Nuss","english":"Kommandant Schultz","hoster":["YouTube"]},
+                {"german":"Mit bestem Beileid","english":"Eight O&#039;clock and all is Well","hoster":["YouTube"]},
+                {"german":"Eine Platte für Mama","english":"The big Record","hoster":["YouTube"]},
+                {"german":"Woche der Verhütung","english":"It&#039;s Dynamite","hoster":["YouTube"]},
+                {"german":"Kapitulieren Sie!","english":"Operation Tiger","hoster":["YouTube"]},
+                {"german":"Nicht verzagen, Bremsversagen!","english":"The big Broadcast","hoster":["YouTube"]},
+                {"german":"Wie vom Blitz getroffen","english":"The Gypsy","hoster":["YouTube"]},
+                {"german":"Ganz hoher Besuch","english":"The Dropouts","hoster":["YouTube"]},
+                {"german":"Spionagering gesprengt!","english":"Easy come, Easy go","hoster":["YouTube"]},
+                {"german":"Der heldenhafte Spion","english":"The Meister Spy","hoster":[]},
+                {"german":"Transvestit vom Dienst","english":"That&#039;s no Lady, that&#039;s my Spy","hoster":["YouTube"]},
+                {"german":"Pelz oder Leben!","english":"To Russia without Love","hoster":["YouTube"]},
+                {"german":"Der Verteidiger hat das Wort","english":"Klink for the Defense","hoster":["YouTube"]},
+                {"german":"Marya und die Superwaffe","english":"The Kamikazes are Coming","hoster":["YouTube"]},
+                {"german":"Achtung, Kommandant Linkmeyer","english":"Kommandant Gertrude","hoster":["YouTube"]},
+                {"german":"Der Mann auf dem Foto","english":"Hogan&#039;s double Life","hoster":["YouTube"]},
+                {"german":"Gesundheit, Herr Kommandant","english":"Look at the Pretty Snowflakes","hoster":["YouTube"]},
+                {"german":"Hogan, Lily und Raketen","english":"Rockets or Romance","hoster":["YouTube"]}
+         ]
+}

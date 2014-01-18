@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Ein Schock fürs Leben",
+         "titleen":"Take a Look at Me Now",
+         "description":"Der versehentliche Zusammenstoß Raquel Ochmoneks mit Alf hat beträchtliche Folgen. Die schockierte Dame alarmiert die Öffentlichkeit. Sie erntet aber so viel Spott, dass Alf sich zum Eingreifen gezwungen sieht.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6722172/ALF_Ein_Schock_fuers_Leben_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6722273/ALF_Ein_Schock_fuers_Leben_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6722378/ALF_Ein_Schock_fuers_Leben_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"F63B4C6310184787"
+                }
+       ]
+}

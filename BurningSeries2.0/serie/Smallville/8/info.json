@@ -1,0 +1,30 @@
+{
+        "series":"Smallville",
+        "seasons":10,
+        "cover":"Smallville_9b035bf1ed4971800a10af943bd17d18.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Odyssey","english":"Odyssey","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Feuerteufel","english":"Plastique","hoster":["PutLocker"]},
+                {"german":"Vergiftet","english":"Toxic","hoster":["PutLocker"]},
+                {"german":"Seelengefährten","english":"Instinct","hoster":["PutLocker"]},
+                {"german":"Liebesprüfung","english":"Committed","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schattenmörder","english":"Prey","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Identität","english":"Identity","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sohn des Zod","english":"Bloodline","hoster":["PutLocker"]},
+                {"german":"Amnesie","english":"Abyss","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Entführung der Braut","english":"Bride","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Legion","english":"Legion","hoster":["PutLocker"]},
+                {"german":"Selbstjustiz","english":"Bulletproof","hoster":["PutLocker"]},
+                {"german":"Macht","english":"Power","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Requiem","english":"Requiem","hoster":["PutLocker"]},
+                {"german":"Schatten des Ruhms","english":"Infamous","hoster":["PutLocker"]},
+                {"german":"Absturz","english":"Turbulence","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wenn Wünsche wahr werden...","english":"Hex","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Monster in mir","english":"Eternal","hoster":["PutLocker"]},
+                {"german":"Heldin in High-Heels","english":"Stiletto","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Chloes Entscheidung","english":"Beast","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Geheimarmee","english":"Injustice","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Doomsday","english":"Doomsday","hoster":["PutLocker"]}
+         ]
+}

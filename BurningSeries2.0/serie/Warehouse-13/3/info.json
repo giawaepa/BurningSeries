@@ -1,0 +1,20 @@
+{
+        "series":"Warehouse 13",
+        "seasons":3,
+        "cover":"Warehouse-13_93f78768ca2f8ae84eadc580f851f733.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"The New Guy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"","english":"Trials","hoster":["PutLocker","RapidVideo"]},
+                {"german":"","english":"Love Sick","hoster":["PutLocker","RapidVideo"]},
+                {"german":"","english":"Queen for a Day","hoster":["PutLocker"]},
+                {"german":"","english":"3...2...1","hoster":["PutLocker"]},
+                {"german":"","english":"Don&#039;t Hate the Player","hoster":["PutLocker"]},
+                {"german":"","english":"Past Imperfect","hoster":["PutLocker"]},
+                {"german":"","english":"The 40th Floor","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Shadows","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Insatiable","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Emily Lake / Stand","hoster":["PutLocker"]},
+                {"german":"","english":"The Greatest Gift","hoster":["PutLocker","DivxStage"]}
+         ]
+}

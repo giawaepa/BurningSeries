@@ -1,0 +1,22 @@
+{
+        "series":"Cosmo und Wanda ? Wenn Elfen helfen",
+        "seasons":8,
+        "cover":"Cosmo-und-Wanda-Wenn-Elfen-helfen_efab7858e8f9b95490bb33ca474e61ca.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Alle Tage Weihnachten","english":"Christmas Every Day","hoster":["YouTube","MyVideo"]},
+                {"german":"Vicky will heiraten / Duell mit Vicky","english":"Boys in the Band / Hex Games","hoster":["YouTube","MyVideo"]},
+                {"german":"Hilfe! Mädchen! / Prüfungen","english":"Boy Toy / Inspection Detection","hoster":["YouTube","MyVideo"]},
+                {"german":"Das Leben ist aufregend / Teamarbeit","english":"Action Packed / Smarty Pants","hoster":["YouTube","MyVideo"]},
+                {"german":"Ein Superrad für Timmy / Vertauschte Rollen","english":"Super Bike / A Mile in My Shoes","hoster":["YouTube","MyVideo"]},
+                {"german":"Der Unsichtbare Timmy / Anti-Elfen Alarm!","english":"Timvisible / That Old Black Magic","hoster":["YouTube","MyVideo"]},
+                {"german":"Der beste Spieler der Welt / Was Mädchen mögen","english":"Foul Balled / The Boy Who Would Be Queen","hoster":["YouTube","MyVideo"]},
+                {"german":"Der Ausserirdische Verehrer / Rache ist ... Sauer","english":"Totally Spaced Out / The Switch Glitch","hoster":[]},
+                {"german":"Die Super-Eltern / Ritterspiele","english":"Mighty Mom &amp; Dyno Dad / Knighty Knight","hoster":["YouTube"]},
+                {"german":"Duell der Elfen / Limonade! Limonade!","english":"Fairy Fairy Quite Contrary / Nectar of the Odds","hoster":["YouTube"]},
+                {"german":"Chefsache / Referat mit Hindernissen","english":"Hail to the Chief / Twistory","hoster":[]},
+                {"german":"April! April! / Alles auf Anfang","english":"Fool&#039;s Day Out / Deja Vu","hoster":[]},
+                {"german":"Mission Internet","english":"Information Stupor Highway","hoster":[]},
+                {"german":"Süsses oder Saures","english":"Scary Godparents","hoster":["MyVideo"]}
+         ]
+}

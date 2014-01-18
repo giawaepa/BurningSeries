@@ -1,0 +1,33 @@
+{
+        "series":"Scrubs ? Die Anfänger",
+        "seasons":9,
+        "cover":"Scrubs-Die-Anfaenger_bb19dab1f0d35358b688f3a4a8bac13e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Meine Psychiaterin","english":"My Old Friend&#039;s New Friend","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Beförderung","english":"My Office","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine Schmach","english":"My New Game","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine Begegnung mit dem Tod","english":"My First Kill","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Ihre Geschichte","english":"Her Story","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Trauer","english":"My Cake","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein hollywoodreifer Auftritt","english":"My Common Enemy","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine einmalige Chance","english":"My Last Chance","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Spiel mit dem Feuer","english":"My Malpractical Decision","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Hexe","english":"My Female Trouble","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Einhorn","english":"My Unicorn","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein bester Moment","english":"My Best Moment","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Absturz","english":"My Ocardial Infarction","hoster":["YouTube","MyVideo","Ecostream"]},
+                {"german":"Mein Partner","english":"My Lucky Charm","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Eid","english":"My Hypocritical Oath","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Lügen","english":"My Quarantine","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Sitcom","english":"My Life in Four Cameras","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Mitbewohner","english":"My Roommates","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Kuchen","english":"My Best Laid Plans","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Chef mal anders","english":"My Boss&#039;s Free Haircut","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Lippen sind versiegelt","english":"My Lips Are Sealed","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Maßnahme","english":"My Big Move","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Glaube an die Menschheit","english":"My Faith in Humanity","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Kollegen, die Egozentriker","english":"My Drive-By","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Schokobär","english":"My Changing Ways","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]}
+         ]
+}

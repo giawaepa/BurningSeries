@@ -1,0 +1,30 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Willkommen daheim, Dr. Carter","english":"Welcome Back, Carter!","hoster":["PutLocker","DivxStage"]},
+                {"german":"Frischer Wind","english":"Summer Run","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Tierfreund","english":"Do One, Teach One, Kill One","hoster":["PutLocker","DivxStage"]},
+                {"german":"Gift und Galle","english":"What Life?","hoster":["PutLocker","DivxStage"]},
+                {"german":"Und raus bist du","english":"And Baby Makes Two","hoster":["PutLocker","DivxStage"]},
+                {"german":"Quo vadis, Dr. Ross?","english":"Days Like This","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Held des Tages","english":"Hell and High Water","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Gunst der Stunde","english":"The Secret Sharer","hoster":["PutLocker","DivxStage"]},
+                {"german":"Luftschlösser","english":"Home","hoster":["PutLocker","DivxStage"]},
+                {"german":"Zeichen und Wunder","english":"A Miracle Happens Here","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die verlorenen Kinder","english":"Dead of Winter","hoster":["PutLocker","DivxStage"]},
+                {"german":"Barmherzige Lügen","english":"True Lies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wie man&#039;s macht, ist es verkehrt	","english":"It&#039;s Not Easy Being Greene","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Gerücht","english":"The Right Thing","hoster":["PutLocker","DivxStage"]},
+                {"german":"Babyboom","english":"Baby Shower","hoster":["PutLocker","DivxStage"]},
+                {"german":"Höllenfeuer","english":"The Healers","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der neue Dr. Greene","english":"The Match Game","hoster":["PutLocker","DivxStage"]},
+                {"german":"Medizin vom Fließband","english":"A Shift in the Night","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der zweite Versuch","english":"Fire in the Belly","hoster":["PutLocker","DivxStage"]},
+                {"german":"Fingerspitzengefühl","english":"Fevers of Unknown Origin","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die große Leere","english":"Take These Broken Wings","hoster":["PutLocker","DivxStage"]},
+                {"german":"Dr. John Carter","english":"John Carter, M.D.","hoster":["PutLocker","DivxStage"]}
+         ]
+}

@@ -1,0 +1,21 @@
+{
+        "series":"Pokémon",
+        "seasons":14,
+        "cover":"Pokémon_bbd02cd66a2abb70fbbc1ab2c25e82f9.html",
+        "movies":true,
+        "episodes":[
+                {"german":"Mewtwo vs Mew","english":"Movie 001","hoster":["MyVideo","PutLocker"]},
+                {"german":"Die Macht des Einzelnen","english":"Movie 002","hoster":["MyVideo"]},
+                {"german":"Im Bann der Icognito","english":"Movie 003","hoster":["YouTube","MyVideo"]},
+                {"german":"Die Stimme des Waldes","english":"Movie 004","hoster":["PutLocker"]},
+                {"german":"Pokemon Helden Latias und Latios","english":"Movie 005","hoster":["MyVideo"]},
+                {"german":"Jirachi Wishmaker","english":"Movie 006","hoster":["YouTube","MyVideo"]},
+                {"german":"Destiny Deoxys","english":"Movie 007","hoster":["PutLocker"]},
+                {"german":"Lucario und das Geheimnis von Mew","english":"Movie 008","hoster":["MyVideo"]},
+                {"german":"Pokemon Ranger und der Meerestempel","english":"Movie 009","hoster":["MyVideo"]},
+                {"german":"Der Aufstieg von Darkrai","english":"Movie 010","hoster":["MyVideo"]},
+                {"german":"Giratina und der Himmelsritter","english":"Movie 011","hoster":["MyVideo"]},
+                {"german":"Arceus und das Juwel des Lebens","english":"Movie 012","hoster":["MyVideo"]},
+                {"german":"Zoroark - Meister der Illusionen","english":"Movie 013","hoster":["MyVideo","PutLocker"]}
+         ]
+}

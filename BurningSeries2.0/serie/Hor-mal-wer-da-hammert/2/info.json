@@ -1,0 +1,33 @@
+{
+        "series":"Hör mal, wer da hämmert",
+        "seasons":8,
+        "cover":"Hoer-mal-wer-da-haemmert_b8fa4de126ccdd7ebe5087ef115e5452.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Überraschung","english":"Read My Hips","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Wahre Männer","english":"Rites And Wrongs Of Passage","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Einmal Mann, immer Mann","english":"Overactive Glance","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Schwellende Muskeln","english":"Groin Pulls","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Heimspiel","english":"Heavy Meddle","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Halloween","english":"The Haunting Of Taylor House","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Umzug","english":"Roomie For Improvement","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Zeiten ändern sich","english":"May The Best Man Win","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das Testament","english":"Where There&#039;s A Will, There&#039;s A Way","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Holzschnüffler","english":"Let&#039;s Did Lunch","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Hausmann","english":"Abandoned Family","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Sammeln für einen guten Zweck","english":"I&#039;m Scheming Of A White Christmas","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Ein Schrank mit Raffinesse","english":"Bell Bottom Blues","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Jill will es wissen","english":"Howard&#039;s End","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Gegensätze ziehen sich an","english":"Love Is A Many Splintered Thing","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Tanzstunde mit Hindernissen","english":"Dances With Tools","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Umleitung","english":"You&#039;re Driving Me Crazy, You&#039;re Driving Me Nuts","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Specht","english":"Bye Bye Birdie","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Agressionen","english":"Karate Or Not, Here I Come","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Ein genialer Plan","english":"Shooting Three Make Tutu","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Schwiegermutter-Alarm!","english":"Much Ado About Nana","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Ein peinliches Wiedersehen","english":"Ex Marks The Spot","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Muttertag","english":"To Build Or Not To Build","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Springt er an?","english":"Birth Of A Hot Rod","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das große Rennen, Teil 1","english":"The Great Race","hoster":["YouTube","PutLocker","DivxStage"]}
+         ]
+}

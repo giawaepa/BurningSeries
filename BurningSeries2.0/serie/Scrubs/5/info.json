@@ -1,0 +1,32 @@
+{
+        "series":"Scrubs ? Die Anfänger",
+        "seasons":9,
+        "cover":"Scrubs-Die-Anfaenger_bb19dab1f0d35358b688f3a4a8bac13e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mein Aufstieg","english":"My Intern&#039;s Eyes","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Sinn für Humor","english":"My Rite of Passage","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Triathlon","english":"My Day At The Races","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Laudatio","english":"My Jiggly Ball","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein neuer Gott","english":"My New God","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein falscher Rückschluss","english":"My Missed Perception","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Weg nach Hause","english":"My Way Home","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Recht auf ein Dankeschön","english":"My Big Bird","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein kleiner Tollpatsch","english":"My Half-Acre","hoster":["MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Therapie","english":"Her Story II","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Kummer","english":"My Buddy&#039;s Booty","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Schützling","english":"My Cabbage (1)","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Leidensgenosse","english":"My Five Stages (2)","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Walkie Talkie","english":"My Own Personal Hell","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine wunderschönen Haare","english":"My Extra Mile","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine clevere Idee","english":"My Bright Idea","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Bleistift","english":"My Chopped Liver","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Aufrichtigkeit","english":"My New Suit","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Freund der Hausmeister","english":"His Story III","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Mittagessen mit Cox","english":"My Lunch","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein gefallenes Idol","english":"My Fallen Idol","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Déjà Vu","english":"My Déjà Vu","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein neuer Schwarm","english":"My Urologist","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein perfektes Date","english":"My Transition (1)","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]}
+         ]
+}

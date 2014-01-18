@@ -1,0 +1,30 @@
+{
+        "series":"Die Nanny",
+        "seasons":6,
+        "cover":"Die-Nanny_cc93ba8c776dd8f55d732628b0ffc79c.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das neue Kindermädchen","english":"Pilot","hoster":["YouTube","PutLocker"]},
+                {"german":"Viel Rauch um Nichts","english":"Smoke Gets In Your Lies","hoster":["YouTube","PutLocker"]},
+                {"german":"Vom Kindermädchen zum Snob","english":"My Fair Nanny","hoster":["YouTube","PutLocker"]},
+                {"german":"Drei sind einer zuviel","english":"The Nuchslep","hoster":["YouTube","PutLocker"]},
+                {"german":"Ein tierischer Ausflug im Zoo","english":"Here Comes The Brood","hoster":["YouTube","PutLocker"]},
+                {"german":"Verkehrte Welt","english":"The Butler, The Husband, The Wife And Her Mother","hoster":["YouTube","PutLocker"]},
+                {"german":"Die eingebildete Freundin","english":"Imaginary Friend","hoster":["YouTube"]},
+                {"german":"Eine schöne Bescherung","english":"Christmas Episode","hoster":["YouTube"]},
+                {"german":"Privatgeschäfte","english":"Personal Business","hoster":["YouTube"]},
+                {"german":"Nachhilfe in Sachen Kindermädchen","english":"The Nanny-in-law","hoster":["YouTube"]},
+                {"german":"Eine gruftige Affäre","english":"A Plot For Nanny","hoster":["YouTube"]},
+                {"german":"Bretter, die die Welt bedeuten","english":"The Show Must Go On","hoster":["YouTube"]},
+                {"german":"Maggie, das Fotomodell","english":"Maggie, The Model","hoster":["YouTube"]},
+                {"german":"Doppelmoral","english":"The Family Plumbing","hoster":["YouTube"]},
+                {"german":"Abgründe","english":"Deep Throat","hoster":["YouTube"]},
+                {"german":"Abgeschleppt","english":"Schlepped Away","hoster":["YouTube"]},
+                {"german":"Die geplatzte Hochzeit","english":"Stop The Wedding, I Want To Get Off","hoster":["YouTube"]},
+                {"german":"Kritikerschelte","english":"Sunday In The Park With Fran","hoster":["YouTube"]},
+                {"german":"Die Turnlehrerin","english":"The Gym Teacher","hoster":["YouTube"]},
+                {"german":"Wenn der Vater mit der Tochter","english":"Ode To Barbara Joan","hoster":["YouTube"]},
+                {"german":"Alte Liebe rostet nicht","english":"Frannie´s Choice","hoster":["YouTube"]},
+                {"german":"Muttertag","english":"I Don?t Remember Mama","hoster":["YouTube"]}
+         ]
+}

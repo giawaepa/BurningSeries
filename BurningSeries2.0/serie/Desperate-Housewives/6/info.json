@@ -1,0 +1,31 @@
+{
+        "series":"Desperate Housewives",
+        "seasons":8,
+        "cover":"Desperate-Housewives_291bdfe287207faf11aaf9df229de65d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Sünde","english":"Nice Is Different Than Good","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"	Ein schrecklicher Tag","english":"Being Alive","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Alte Liebhaber","english":"Never judge a Lady by her Lover","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Blues der Verlassenen","english":"The God-Why-Don&#039;t-You-Love-Me Blues","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Die ewigen Kritiker","english":"Everybody Ought to Have a Maid","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Strafe muss sein","english":"Don&#039;t Walk on the Grass","hoster":["MyVideo","PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Die Hauslehrerin","english":"Careful the Things You Say","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Die Beförderung","english":"The Coffee Cup","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Selbstverteidigung","english":"Would I Think of Suicide?","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Der große Krach","english":"Boom Crunch","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Was wäre, wenn...","english":"If...","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Alles Fassade","english":"You Gotta Get a Gimmick","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Therapie","english":"How About a Friendly Shrink?","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Vorhang auf!","english":"The Glamorous Life","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Die Stripperin","english":"Lovely","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Verführung","english":"The Chase","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Souvenir","english":"Chromolume No. 7","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der perfekte Sohn","english":"My Two Young Men","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Böse","english":"We All Deserve to Die","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Entstehung eines Monsters","english":"Epiphany","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Geheimnisse","english":"A Little Night Music","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Entscheidungen","english":"The Ballad of Booth","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Die Bombe","english":"I Guess This Is Goodbye","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]}
+         ]
+}

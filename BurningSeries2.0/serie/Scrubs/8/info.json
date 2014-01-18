@@ -1,0 +1,27 @@
+{
+        "series":"Scrubs ? Die Anfänger",
+        "seasons":9,
+        "cover":"Scrubs-Die-Anfaenger_bb19dab1f0d35358b688f3a4a8bac13e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Meine Vollidioten","english":"My Jerks","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein bester Fall","english":"My Last Words","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Polizeistaat","english":"My Saving Grace","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine alte Flamme","english":"My Happy Place","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Sesamstraße","english":"My ABC?s","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine tolle Liebesnacht","english":"My Cookie Pants","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine neue Rolle","english":"My New Role","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein verliebter Anwalt","english":"My Lawyers In Love","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine Handy-Stimme","english":"My Absence","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Brusthaar","english":"My Comedy Show","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine sprechenden Hände","english":"My Nah Nah Nah","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine Beliebtheit","english":"Their Story II","hoster":["YouTube","Ecostream"]},
+                {"german":"Mein Vollmond","english":"My Full Moon","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Bahamas, Teil 1","english":"My Soul On Fire, Part 1","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Bahamas, Teil 2","english":"My Soul On Fire, Part 2","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Chefchirurg","english":"My Cuz","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine 37 Minuten","english":"My Chief Concern","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Finale, Teil 1","english":"My Finale, Part 1","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Finale, Teil 2","english":"My Finale, Part 2","hoster":["YouTube","PutLocker","Ecostream"]}
+         ]
+}

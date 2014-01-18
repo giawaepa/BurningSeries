@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der Mann im Schneemann",
+         "titleen":"Everybody loves a Snowman",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6202291/der_mann_im_schneemann_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6202364/der_mann_im_schneemann_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6202677/der_mann_im_schneemann_3_3"
+                }
+       ]
+}

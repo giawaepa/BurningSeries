@@ -1,0 +1,32 @@
+{
+        "series":"Navy CIS",
+        "seasons":9,
+        "cover":"Navy-CIS_141ca3e65244fc72f323f852248d3211.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Duell (Teil 1)","english":"Kill Ari (Part 1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Duell (Teil 2)","english":"Kill Ari (Part 2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Mann in der Todeszelle","english":"Mind Games","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Sarg aus Eisen","english":"Silver War","hoster":["PutLocker","Sockshare"]},
+                {"german":"Rollentausch","english":"Switch","hoster":["PutLocker","Sockshare"]},
+                {"german":"Voyeure im Netz","english":"The Voyeur&#039;s Web","hoster":["PutLocker","Sockshare"]},
+                {"german":"Projekt Honor","english":"Honor Code","hoster":["PutLocker","Sockshare"]},
+                {"german":"Goldherz","english":"Under Covers","hoster":["PutLocker","Sockshare"]},
+                {"german":"In der Falle","english":"Frame Up","hoster":["PutLocker","Sockshare"]},
+                {"german":"Drei Kugeln","english":"Probie","hoster":["PutLocker","Sockshare"]},
+                {"german":"Boot Camp Babes","english":"Model Behavior","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Spur des Geldes","english":"Boxed In","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein langer Sonntag","english":"Deception","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Schläfer","english":"Light Sleeper","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kopfsache","english":"Head Case","hoster":["PutLocker","Sockshare"]},
+                {"german":"Familiengeheimnis","english":"Family Secrets","hoster":["PutLocker","Sockshare"]},
+                {"german":"Bärenjäger","english":"Ravenous","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Der letzte Sonnenuntergang","english":"Bait","hoster":["PutLocker","Sockshare"]},
+                {"german":"Tot im Eis","english":"Iced","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Leck","english":"Untouchable","hoster":["PutLocker","Sockshare"]},
+                {"german":"Typisch Montag","english":"Bloodbath","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Brüder","english":"Jeopardy","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Fünfzehn Jahre","english":"Hiatus (Part I)","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Semper Fi","english":"Hiatus (Part II)","hoster":["MyVideo","PutLocker","Sockshare"]}
+         ]
+}

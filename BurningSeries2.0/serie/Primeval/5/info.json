@@ -1,0 +1,14 @@
+{
+        "series":"Primeval ? Rückkehr der Urzeitmonster",
+        "seasons":5,
+        "cover":"Primeval-Rueckkehr-der-Urzeitmonster_47ee7ae09f21f49ecbfcafc9c0d9edcc.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Matts Geheimnis","english":"Episode 1","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Boot","english":"Episode 2","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"In der guten alten Zeit","english":"Episode 3","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Prototyp","english":"Episode 4","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Ende der Zukunft (1)","english":"Episode 5","hoster":["YouTube","MyVideo","PutLocker","Sockshare"]},
+                {"german":"Das Ende der Zukunft (2)","english":"Episode 6","hoster":["YouTube","PutLocker","Sockshare"]}
+         ]
+}

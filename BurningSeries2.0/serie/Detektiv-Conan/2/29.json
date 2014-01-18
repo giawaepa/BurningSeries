@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der mysteriöse Scharfschütze (1)",
+         "titleen":"Episode 131",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=SHKsvVmtP3E"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5448601/Detektiv_Conan_Folge_131_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5448998/Detektiv_Conan_Folge_131_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5449365/Detektiv_Conan_Folge_131_3_3"
+                }
+       ]
+}

@@ -1,0 +1,32 @@
+{
+        "series":"M*A*S*H",
+        "seasons":11,
+        "cover":"M-A-S-H_ba9c37303b185e8c205e7b06cbc0acda.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Zerstritten stehen wir zusammen","english":"Divided We Stand","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das ist Fünf-Uhr-Charlie","english":"5 O&#039;Clock Charlie","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der wöchentliche Radarbericht","english":"Radar&#039;s Report","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Ding mit Tai- Dong","english":"For the Good of the Outfit","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zur lustigen Latrine","english":"Dr. Pierce and Mr. Hyde","hoster":["PutLocker","Sockshare"]},
+                {"german":"Alle lieben Kim","english":"Kim","hoster":["PutLocker","Sockshare"]},
+                {"german":"Immer einen Schritt voraus","english":"L.I.P. (Local Indigenous Personnel)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wirklich, katastrophale Umstände","english":"The Trial of Henry Blake","hoster":["PutLocker","Sockshare"]},
+                {"german":"Blut hat nur eine Farbe","english":"Dear Dad...Three","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die unter Beschuss liegen","english":"The Sniper","hoster":["PutLocker","Sockshare"]},
+                {"german":"Schwester Freund und prima Kerl","english":"Carry on, Hawkeye","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sie brauchen einen Inkubator","english":"The Incubator","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sex, Spiele und Anderes","english":"Deal Me Out","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hot Lips in Hochform","english":"Hot Lips And Empty Arm","hoster":["PutLocker","Sockshare"]},
+                {"german":"Aber nur für Offiziere","english":"Officers Only","hoster":["PutLocker","Sockshare"]},
+                {"german":"Affäre Nancy und Henry","english":"Henry In Love","hoster":["PutLocker","Sockshare"]},
+                {"german":"Alles für ein Paar Stiefel","english":"For Want Of A Boot","hoster":["PutLocker","Sockshare"]},
+                {"german":"Er hat die größte Nase","english":"Operation Noselift","hoster":["PutLocker","Sockshare"]},
+                {"german":"Andere Leute sind auch Menschen","english":"The Chosen People","hoster":["PutLocker","Sockshare"]},
+                {"german":"Spenden macht schwindelig","english":"As You Were","hoster":["PutLocker","Sockshare"]},
+                {"german":"Alle unter einer Decke","english":"Crisis","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der werfe den ersten Stein","english":"George","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Radar von der Post","english":"Mail Call","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der gemeinsame Geheimdienst","english":"A Smattering of Intelligence","hoster":["PutLocker","Sockshare"]}
+         ]
+}

@@ -1,0 +1,32 @@
+{
+        "series":"Airwolf",
+        "seasons":4,
+        "cover":"Airwolf_f48f2fca362cb732879901de9450548f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein tödlicher Anschlag","english":"Blackjack","hoster":[]},
+                {"german":"Das Frauengefängnis","english":"Escape","hoster":[]},
+                {"german":"Eine korrupte Stadt","english":"A Town for Hire","hoster":[]},
+                {"german":"Airwolf gegen Skorpion","english":"Salvage","hoster":[]},
+                {"german":"Gefährliche Mission","english":"Windows","hoster":[]},
+                {"german":"Die Stimme des Blutes","english":"A Piece of Cake","hoster":[]},
+                {"german":"Der Todeszug","english":"Deathtrain","hoster":[]},
+                {"german":"Zum Schweigen verurteilt","english":"Code of Silence","hoster":[]},
+                {"german":"Störfall in Stavograd, Teil 1","english":"Stavograd (a.k.a. The Stavograd Incident) (1)","hoster":[]},
+                {"german":"Störfall in Stavograd, Teil 2","english":"Stavograd (a.k.a. The Stavograd Incident) (2)","hoster":[]},
+                {"german":"Der Terroristenjäger","english":"Mime Troupe","hoster":[]},
+                {"german":"Ein tödlicher Virus","english":"X-Virus","hoster":[]},
+                {"german":"Der Doppelagent","english":"Rogue Warrior","hoster":[]},
+                {"german":"Späte Rache","english":"Ground Zero","hoster":[]},
+                {"german":"Ein übles Komplott","english":"Flowers of the Mountains","hoster":[]},
+                {"german":"Der Rattenfänger","english":"The Key","hoster":[]},
+                {"german":"Auf Messers Schneide","english":"On the Double","hoster":[]},
+                {"german":"Diamantenfieber","english":"Storm Warning","hoster":[]},
+                {"german":"Ein falsches Versprechen","english":"The Golden One","hoster":[]},
+                {"german":"Gehirnwäsche","english":"The Puppet Master","hoster":[]},
+                {"german":"Ein fast aussichtsloser Kampf","english":"Malduke","hoster":[]},
+                {"german":"Im Dschungel der Rauschgiftdealer","english":"Poppy Chain","hoster":[]},
+                {"german":"Geiselnahme","english":"Flying Home","hoster":[]},
+                {"german":"Insel der Drogen","english":"Welcome to Paradise","hoster":[]}
+         ]
+}

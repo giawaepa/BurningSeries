@@ -1,0 +1,33 @@
+{
+        "series":"iCarly",
+        "seasons":5,
+        "cover":"iCarly_7203625d55cfd3b4011def326c78e6e2.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Miss Briggs sagt No","english":"iPilot","hoster":["PutLocker"]},
+                {"german":"Ein liebes Lied","english":"iLike Jake","hoster":["PutLocker"]},
+                {"german":"Eine Leuchtende Idee","english":"iWant More Viewers","hoster":["PutLocker"]},
+                {"german":"Nevel Supernerd","english":"iNevel","hoster":["PutLocker"]},
+                {"german":"Das Großvaterdebakel","english":"iWanna Stay with Spencer","hoster":["PutLocker"]},
+                {"german":"Miss Briggs privat","english":"iSpy a Mean Teacher","hoster":["PutLocker"]},
+                {"german":"Länger gehts nicht","english":"iWant a World Record","hoster":["Sockshare"]},
+                {"german":"Ein Date für Freddie","english":"iWill Date Freddie","hoster":[]},
+                {"german":"Kunst und Krise","english":"iHeart Art","hoster":["PutLocker"]},
+                {"german":"Fan des Grauens","english":"iAm Your Biggest Fan","hoster":["PutLocker"]},
+                {"german":"Fang das Küken!","english":"iHatch Chicks","hoster":[]},
+                {"german":"Geschenkt ist geschenkt","english":"iDon&#039;t Want to Fight","hoster":["PutLocker"]},
+                {"german":"Ein Schotte kommt selten allein","english":"iDream of Dance","hoster":["PutLocker"]},
+                {"german":"Absolut halloweenös!","english":"iScream on Halloween","hoster":["PutLocker"]},
+                {"german":"Fühlst du die Reue?","english":"iRue the Day","hoster":["PutLocker"]},
+                {"german":"Nachsitzen für alle!","english":"iGot Detention","hoster":["PutLocker"]},
+                {"german":"Sponsorenglück","english":"iPromote Techfoots","hoster":["PutLocker"]},
+                {"german":"Der Knöchelschwur","english":"iPromise Not To Tell","hoster":[]},
+                {"german":"iCarly-TV","english":"iCarly Saves TV","hoster":[]},
+                {"german":"Zieh die Hose bis zum Hals","english":"iHate Sam&#039;s Boyfriend","hoster":["PutLocker"]},
+                {"german":"Räuber und Piraten","english":"iStakeout","hoster":["PutLocker"]},
+                {"german":"Ein schickes Angebot","english":"iiMight Switch Schools","hoster":["PutLocker"]},
+                {"german":"Fechten wir&#039;s aus!","english":"iFence","hoster":[]},
+                {"german":"Das Dreifach-Date","english":"iWin a Date","hoster":[]},
+                {"german":"Die liebe Liebe","english":"iHave a Lovesick Teacher","hoster":["PutLocker"]}
+         ]
+}

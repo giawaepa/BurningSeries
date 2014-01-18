@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Oh, oh, oh, Zauberei",
+         "titleen":"Oh Oh Oh?It?s Magic",
+         "description":"Neds Stiefbrüder, die Zwillinge Maurice und Ralston, laden ihn und seine Freunde zu einer Zaubershow ein. Dort trifft Ned auf &#039;The Great Hermann&#039;, den Ersatzvater der Jungs. Nach dem ersten Auftritt von Hermann findet er nur ein totes Kaninchen, nach der zweiten Aufführung ist der Zauberer selbst verschwunden. Das Team ermittelt sogleich und kommt einem Mord auf die Spur.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5986129/Pushing_Daisies_2x06_Part_1_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5986271/Pushing_Daisies_2x06_Part_2_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5986362/Pushing_Daisies_2x06_Part_3_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5986713/Pushing_Daisies_2x06_Part_4_4"
+                }
+       ]
+}

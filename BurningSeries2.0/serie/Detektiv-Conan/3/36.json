@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Flügel des Ikarus (1)",
+         "titleen":"Episode 218",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=CxG1whwDq74"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5788252/Detektiv_Conan_Folge_218_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5788742/Detektiv_Conan_Folge_218_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5789105/Detektiv_Conan_Folge_218_3_3"
+                }
+       ]
+}

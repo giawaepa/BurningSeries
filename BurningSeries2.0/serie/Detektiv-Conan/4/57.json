@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Mord in New York (3)",
+         "titleen":"Episode 310",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=Nmy9uC53wH4"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=zKHlWJB2N6M"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6187040/Detektiv_Conan_Folge_310_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6187208/Detektiv_Conan_Folge_310_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6187370/Detektiv_Conan_Folge_310_3_3"
+                }
+       ]
+}

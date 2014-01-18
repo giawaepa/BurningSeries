@@ -1,0 +1,32 @@
+{
+        "series":"Greys Anatomy",
+        "seasons":8,
+        "cover":"Greys-Anatomy_f235f0fb485b9c44061fc1bf7bd65edchtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"40 Tage (1)","english":"Good Mourning","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"40 Tage (2)","english":"Goodbye","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Paranoia","english":"I Always Feel Like Somebody&#039;s Watchin&#039; Me","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die verdammten Verpflichtungen","english":"Tainted Obligation","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Die Invasion","english":"Invasion","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ein einfacher Fehler","english":"I Saw What I Saw","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ein Moment des Friedens","english":"Give Peace A Chance","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Geschenk","english":"Invest In Love","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die neue Gegenwart","english":"New History","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Feiertagsblues","english":"Holidaze","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Entscheidung","english":"Blink","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Entweder-Oder-Falle","english":"I Like You So Much Better When You&#039;re Naked","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schweres Erbe","english":"State of Love and Trust","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Katastrophe am Valentinstag","english":"Valentine&#039;s Day Massacre","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Zeitschleife","english":"The Time Warp","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Perfekte kleine Zufälle","english":"Perfect Little Accident","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Bergsteiger","english":"Push","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Sterben ist nicht leicht","english":"Suicide is Painless","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Familienplanung","english":"Sympathy for the Parents","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ein dicker Fisch am Haken","english":"Hook, Line and Sinner","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Sensibilität","english":"How Insensitive","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Der Traum vom Glück","english":"Shiny Happy People","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Tod und seine Freunde (1)","english":"Sanctuary","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Tod und seine Freunde (2)","english":"Death And All His Friends","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]}
+         ]
+}

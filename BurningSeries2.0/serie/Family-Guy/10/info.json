@@ -1,0 +1,22 @@
+{
+        "series":"Family Guy",
+        "seasons":10,
+        "cover":"Family-Guy_1ef52f1420d3e2b6e6e4159f2a83c30a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Lottery Fever","hoster":["DivxStage"]},
+                {"german":"","english":"Seahorse Seashell Party","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Screams Of Silence: The Story of Brenda Q","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Stewie Goes for a Drive","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Road to the Pilot","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Thanksgiving","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Amish Guy","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Cool Hand Peter","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Grumpy Old Man","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Quagmire and Meg","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Blind Side","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Livin? On A Prayer","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Tom Tucker: The Man and his Dream","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"","english":"Be Careful What You Fish For","hoster":[]}
+         ]
+}

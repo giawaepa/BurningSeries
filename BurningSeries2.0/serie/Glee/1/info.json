@@ -1,0 +1,30 @@
+{
+        "series":"Glee",
+        "seasons":3,
+        "cover":"Glee_aa7bd911901dda80b0a6f0abaab8966e.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Overtüre","english":"Pilot","hoster":["PutLocker","Ecostream"]},
+                {"german":"Jenseits von Gut und Sue","english":"Showmance","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Acafellas","english":"Acafellas","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Kinder der Lüge","english":"Preggers","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"April, April","english":"The Rhodes Not Taken","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Angeregte Organismen","english":"Vitamin D","hoster":["PutLocker","Ecostream"]},
+                {"german":"Spielverderberspiele","english":"Throwdown","hoster":["PutLocker","Ecostream"]},
+                {"german":"Remix","english":"Mash-Up","hoster":["PutLocker","Ecostream"]},
+                {"german":"Furcht und Tadel","english":"Wheels","hoster":["PutLocker","Ecostream"]},
+                {"german":"Balladen","english":"Ballad","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Haarspaltereien","english":"Hairography","hoster":["PutLocker","Ecostream"]},
+                {"german":"Wer ist im Bilde?","english":"Mattress","hoster":["PutLocker","Ecostream"]},
+                {"german":"Alles steht auf dem Spiel","english":"Sectionals","hoster":["PutLocker","Ecostream"]},
+                {"german":"Hallo Hölle!","english":"Hell-O","hoster":["PutLocker","Ecostream"]},
+                {"german":"The Power of Madonna","english":"The Power of Madonna","hoster":["PutLocker","Ecostream"]},
+                {"german":"Liebe ist ein weiter Weg","english":"Home","hoster":["PutLocker","Ecostream"]},
+                {"german":"Schlechter Ruf","english":"Bad Reputation","hoster":["PutLocker","Ecostream"]},
+                {"german":"Guter Ruf","english":"Laryngitis","hoster":["PutLocker","Ecostream"]},
+                {"german":"Der Traum macht die Musik","english":"Dream On","hoster":["PutLocker","Ecostream"]},
+                {"german":"Viel Theater","english":"Theatricality","hoster":["PutLocker","Ecostream"]},
+                {"german":"Im Takt der Angst","english":"Funk","hoster":["PutLocker","Ecostream"]},
+                {"german":"Triumph oder Trauer?","english":"Journey to Regionals","hoster":["PutLocker","Ecostream"]}
+         ]
+}

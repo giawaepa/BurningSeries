@@ -1,0 +1,24 @@
+{
+        "series":"MythBusters ? Die Wissensjäger",
+        "seasons":9,
+        "cover":"MythBusters-Die-Wissensjaeger_cc60346d8cc8ecf4693d55ce07daf622.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Bekannte Mythen - Neu hinterfragt","english":"MythBusters Revisited","hoster":[]},
+                {"german":"Antikes Sonarsystem","english":"Chinese Invasion Alarm","hoster":[]},
+                {"german":"Konfödertierte Rakete","english":"Confederate Rocket","hoster":[]},
+                {"german":"Wodka Mythen","english":"Vodka Myths","hoster":[]},
+                {"german":"Stahlkappenamputation","english":"Steel Toe-Cap Amputation","hoster":[]},
+                {"german":"Seekrankheit - Ist dagegen ein Kraut gewachsen?","english":"Seasickness ? Kill or Cure","hoster":[]},
+                {"german":"Armbrust aus Papier","english":"Paper Crossbow","hoster":[]},
+                {"german":"Das in Scheiben geschnitte Flugzeug","english":"Shredded Plane","hoster":[]},
+                {"german":"Mailbag Special: Der zündende Funke des Archimedes","english":"Archimedes Death Ray","hoster":[]},
+                {"german":"Helium Football","english":"Helium Football","hoster":[]},
+                {"german":"Franklins Drachen","english":"Franklin&#039;s Kite","hoster":[]},
+                {"german":"Handys und Flugzeuge","english":"Cell Phones on Planes","hoster":[]},
+                {"german":"In die Luft gefeuerte Kugeln / Wodka Mythen","english":"Bullets Fired Up","hoster":[]},
+                {"german":"Kann ein Pfeil einen Pfeil spalten? - Neu hinterfragt / Konföderierte Rakete - Neu hinterfragt / Unterwasser-Geschoss - Neu hinterfragt","english":"Myths Revisited","hoster":[]},
+                {"german":"Streichen mit Sprengstoff","english":"Mind Control","hoster":[]},
+                {"german":"Explodierende Hosen","english":"Exploding Pants","hoster":[]}
+         ]
+}

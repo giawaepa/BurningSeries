@@ -1,0 +1,30 @@
+{
+        "series":"Terminator: The Sarah Connor Chronicles",
+        "seasons":2,
+        "cover":"Terminator-The-Sarah-Connor-Chronicles_4586181bf42dda91dac6874e6b175a4chtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Samson &amp; Delilah","english":"Samson &amp; Delilah","hoster":["PutLocker"]},
+                {"german":"Der Ingenieur","english":"Automatic for the people","hoster":["PutLocker"]},
+                {"german":"Mausefalle","english":"The Mousetrap","hoster":["PutLocker"]},
+                {"german":"Blackout","english":"Allison from Palmdale","hoster":["PutLocker"]},
+                {"german":"Martin Bedell","english":"Goodbye to All That","hoster":["PutLocker"]},
+                {"german":"Familientherapie","english":"The Tower Is Tall But the Fall Is Short","hoster":["PutLocker"]},
+                {"german":"Die Brüder von Nablus","english":"Brothers of Nablus","hoster":["PutLocker"]},
+                {"german":"Showdown","english":"Mr. Ferguson Is Ill Today","hoster":["PutLocker"]},
+                {"german":"Der Uhrmacher","english":"Complications","hoster":["PutLocker"]},
+                {"german":"Die zehn Gebote","english":"Strange Things Happen at the One Two Point","hoster":["PutLocker"]},
+                {"german":"Self Made Man","english":"Self Made Man","hoster":["PutLocker"]},
+                {"german":"Sydney","english":"Alpine Fields","hoster":["PutLocker"]},
+                {"german":"Die Abraham-Blogs","english":"Earthlings Welcome Here","hoster":["PutLocker"]},
+                {"german":"Die Wunde","english":"The Good Wound","hoster":["PutLocker"]},
+                {"german":"Wüstengesänge","english":"Desert Cantos","hoster":["PutLocker"]},
+                {"german":"Geisterstunde","english":"Some Must Watch, While Some Must Sleep","hoster":["PutLocker"]},
+                {"german":"Jeder für sich","english":"Ourselves Alone","hoster":["PutLocker"]},
+                {"german":"Heute ist der Tag, Teil 1","english":"Today Is The Day, Part I","hoster":["PutLocker"]},
+                {"german":"Heute ist der Tag, Teil 2","english":"Today Is The Day, Part II","hoster":["PutLocker"]},
+                {"german":"Der Leuchtturm","english":"To The Lighthouse","hoster":["PutLocker"]},
+                {"german":"Kain und Abel","english":"Adam Raised a Cain","hoster":["PutLocker"]},
+                {"german":"Flucht nach vorn","english":"Born to Run","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,27 @@
+{
+        "series":"American Dad",
+        "seasons":7,
+        "cover":"American-Dad_ff475b83acefe494dafbe34c812419d8.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1","english":"100 A.D.","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Episode 2","english":"Son of Stan","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Episode 3","english":"Best Little Horror House in Langley Falls","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Episode 4","english":"Stan?s Food Restaurant","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Episode 5","english":"White Rice","hoster":["PutLocker","Sockshare","UploadC"]},
+                {"german":"Episode 6","english":"There Will Be Bad Blood","hoster":["PutLocker","DivxStage","UploadC"]},
+                {"german":"Episode 7","english":"The People vs. Martin Sugar","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Episode 8","english":"For Whom the Sleigh Bell Tolls","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Episode 9","english":"Fart-break Hotel","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Episode 10","english":"Stanny Boy and Frantastic","hoster":["PutLocker","Sockshare","UploadC"]},
+                {"german":"Episode 11","english":"A Piñata Named Desire","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Episode 12","english":"You Debt Your Life","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Episode 13","english":"I Am the Walrus","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Episode 14","english":"School Lies","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Episode 15","english":"License to Till","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Episode 16","english":"Jenny Fromdabloc","hoster":["PutLocker","BitShare","UploadC"]},
+                {"german":"","english":"Home Wrecker","hoster":["PutLocker"]},
+                {"german":"","english":"Flirting With Disaster","hoster":["PutLocker"]},
+                {"german":"","english":"Gorillas in the Mist","hoster":["PutLocker"]}
+         ]
+}

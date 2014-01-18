@@ -1,0 +1,12 @@
+{ 
+         "titlede":"Prototyp",
+         "titleen":"Prototype",
+         "description":"Die Voyager findet einen fremden Roboter. Torres kann ihn wieder aktivieren. Doch der Roboter entführt sie auf sein Schiff. Dort zwingt er Torres, ein Energiemodul zu entwickeln. Mit Hilfe dieses Moduls wollen sich die Roboter vermehren.",
+         "links":[
+                {
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"D25C21C608D38F6C"
+                }
+       ]
+}

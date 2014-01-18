@@ -1,0 +1,24 @@
+{ 
+         "titlede":"El Diablo greift ein / Ein Flug in das Weltall",
+         "titleen":"Dodgeball City / Space Cadet",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=0396gWtP5j4"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=5syx9QOPLb4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6749804/Disneys_Grosse_Pause_Episode_70_El_Diabolo_greift_ein"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6696667/Disneys_Grosse_Pause_Episode_71_Ein_Flug_ins_Weltall"
+                }
+       ]
+}

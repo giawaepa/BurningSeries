@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Verlorene Notizen",
+         "titleen":"Episode 298",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=q6nPQ7Ipk4c"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=f_f_qFk9Ndk"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6156162/Detektiv_Conan_Folge_298_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6156465/Detektiv_Conan_Folge_298_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6156903/Detektiv_Conan_Folge_298_3_3"
+                }
+       ]
+}

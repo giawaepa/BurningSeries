@@ -1,0 +1,26 @@
+{
+        "series":"Ghost Whisperer",
+        "seasons":5,
+        "cover":"Ghost-Whisperer_f4bdf6134524bd348400224dd9816f55.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Erbe meiner Mutter","english":"The Underneath","hoster":["YouTube"]},
+                {"german":"Bloody Mary","english":"Don&#039;t Try This at Home","hoster":["YouTube"]},
+                {"german":"Die Veteranen","english":"Haunted Hero","hoster":[]},
+                {"german":"Kranke Liebe","english":"No Safe Place","hoster":["YouTube"]},
+                {"german":"Last der Vergangenheit","english":"Weight of What Was","hoster":["YouTube"]},
+                {"german":"Geisterbilder","english":"Double Exposure","hoster":["YouTube"]},
+                {"german":"Der Hellseher","english":"Unhappy Medium","hoster":["YouTube"]},
+                {"german":"Böses Blut","english":"Bad Blood","hoster":["YouTube"]},
+                {"german":"Hör mit deinem Herzen","english":"All Ghosts Lead to Grandview","hoster":["YouTube"]},
+                {"german":"Der Wunschzettel","english":"Holiday Spirit","hoster":["YouTube"]},
+                {"german":"Die Verehrerin","english":"Slam","hoster":["YouTube"]},
+                {"german":"Todesengel","english":"First Do No Harm","hoster":["YouTube"]},
+                {"german":"Das Familiengeheimnis","english":"Home But Not Alone","hoster":["YouTube"]},
+                {"german":"Der Grabwächter","english":"The Gravesitter","hoster":["YouTube"]},
+                {"german":"Horror-Show","english":"Horror Show","hoster":["YouTube"]},
+                {"german":"Die Andere","english":"Deadbeat Dads","hoster":["YouTube"]},
+                {"german":"Besessen","english":"Stranglehold","hoster":["YouTube"]},
+                {"german":"Melindas Vater","english":"Pater Familias","hoster":["YouTube"]}
+         ]
+}

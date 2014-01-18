@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Der Mann aus Chicago (2)",
+         "titleen":"Episode 278",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=5UuT6T6rmGE"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=IXHbrBT5I0k"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6079838/Detektiv_Conan_Folge_278_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6080228/Detektiv_Conan_Folge_278_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6080594/Detektiv_Conan_Folge_278_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"05BD74B7B1AC64CF"
+                }
+       ]
+}

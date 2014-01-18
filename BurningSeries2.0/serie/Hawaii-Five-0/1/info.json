@@ -1,0 +1,32 @@
+{
+        "series":"Hawaii Five-0",
+        "seasons":2,
+        "cover":"Hawaii-Five-0_685388dec5b820177ac6ecc497492275.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Aloha, Steve McGarrett","english":"Pilot","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Ein Sicherheitsrisiko","english":"Family","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"In den besten Familien","english":"Respect the Land","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Der Millionengewinn","english":"Victory","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Die Vertrauensfrage","english":"Forgotten/Missing","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Gefährliche Brandung","english":"North Shore of O&#039;ahu","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Der einzige Verdächtige","english":"Accept","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Wo Rauch ist","english":"Belief","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Die Schöne und das Biest","english":"The Siege","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Auf die Plätze, fertig, Mord!","english":"Race","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Tödliche Flitterwochen","english":"Paradise","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Die Bombe","english":"Desperate Measures","hoster":["PutLocker","DivxStage"]},
+                {"german":"Strichmännchen","english":"The Beginning","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Die Straßen von Honolulu","english":"An Innocent Man","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Alarm im Pazifik","english":"Tidal Wave","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Hart am Wind","english":"To Protect","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Piraten","english":"Pirate","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Der lange Abschied","english":"Loa Aloha","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Von Helden und Schurken","english":"Na Me?e Laua Na Paio","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Fischschuppen","english":"Ma Ke Kahakai","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Wolframstahl","english":"Ho&#039; opa&#039; i","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Das Ende der Lügen","english":"Ho?ohuli Na?au","hoster":["PutLocker","Ecostream"]},
+                {"german":"Der Hauch des Todes","english":"Ua Hiki Mai Kapalena Pau","hoster":["PutLocker","Ecostream"]},
+                {"german":"Verdächtig","english":"Oia?i?o (1)","hoster":["PutLocker","DivxStage","Ecostream"]}
+         ]
+}

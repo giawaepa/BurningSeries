@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Episode 5",
+         "titleen":"",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5195055/Switch_Reloaded_Staffel_3_Folge_5_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5195216/Switch_Reloaded_Staffel_3_Folge_5_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5195284/Switch_Reloaded_Staffel_3_Folge_5_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"9A57C84A83724A0F"
+                }
+       ]
+}

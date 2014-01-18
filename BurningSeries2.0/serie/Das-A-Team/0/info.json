@@ -1,0 +1,9 @@
+{
+        "series":"Das A-Team",
+        "seasons":5,
+        "cover":"Das-A-Team_326982f33c15520fd5d58216d5ecfd79.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Das A-Team - Der Film","english":"","hoster":["PutLocker","Sockshare"]}
+         ]
+}

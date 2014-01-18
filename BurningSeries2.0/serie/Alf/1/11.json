@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Fröhliche Ferien",
+         "titleen":"On The Road Again",
+         "description":"Die Tanners schmieden Ferienpläne. Aus denen wird jedoch nichts, weil sie Alf weder mitnehmen noch zuhause lassen können. So fahren sie mit dem Wohnwagen in eine einsame Gegend. Keine gute Idee, wie sich schnell herausstellt.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6640677/ALF_Froehliche_Ferien_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6640822/ALF_Froehliche_Ferien_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6641092/ALF_Froehliche_Ferien_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"CA25DA6D1FB3078A"
+                }
+       ]
+}

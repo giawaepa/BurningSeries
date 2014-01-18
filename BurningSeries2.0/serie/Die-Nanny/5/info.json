@@ -1,0 +1,31 @@
+{
+        "series":"Die Nanny",
+        "seasons":6,
+        "cover":"Die-Nanny_cc93ba8c776dd8f55d732628b0ffc79c.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Am Morgen danach...","english":"The Morning After","hoster":["YouTube"]},
+                {"german":"Mein Date mit Elton John","english":"First Date","hoster":["YouTube"]},
+                {"german":"Fran x 2 = $","english":"The Bobbie Fleckman Story","hoster":["YouTube"]},
+                {"german":"Tausche Gangster gegen Hund","english":"Fransom","hoster":["YouTube"]},
+                {"german":"Akte Niles","english":"The Ex-Niles","hoster":["YouTube"]},
+                {"german":"Chevy Chase will alles!","english":"A Decent Proposal","hoster":["YouTube"]},
+                {"german":"Mutter gesucht","english":"Mommy And Mai","hoster":["YouTube"]},
+                {"german":"Wetterfee Fran","english":"Fair Weather Fran","hoster":["YouTube"]},
+                {"german":"Heirate niemals eine Jüngere!","english":"Educating Fran","hoster":["YouTube"]},
+                {"german":"Liebesgrüße aus Flushing","english":"From Flushing With Love","hoster":["YouTube"]},
+                {"german":"Allergieschock!","english":"Rash To Judgment","hoster":["YouTube"]},
+                {"german":"Unter der Sonne des Schönheitsmakels","english":"One False Mole And You?re Dead","hoster":["YouTube"]},
+                {"german":"Nennen Sie mich Fran","english":"Call Me Fran","hoster":["YouTube"]},
+                {"german":"Nicht ohne meine Nanny","english":"Not Without My Nanny","hoster":["YouTube"]},
+                {"german":"Willst du...?","english":"The Engagement","hoster":["YouTube"]},
+                {"german":"Verliebt, verlobt, verängstigt","english":"The Dinner Party","hoster":["YouTube"]},
+                {"german":"Coolio... Superstar?","english":"Homie-Work","hoster":["YouTube"]},
+                {"german":"Die dunkle Seite der Romantik","english":"The Reunion Show","hoster":["YouTube"]},
+                {"german":"Der fleischgewordene Fehltritt","english":"Immaculate Conception","hoster":["YouTube"]},
+                {"german":"Der Ehevertrag","english":"The Pre-nup","hoster":["YouTube"]},
+                {"german":"Marla Maples, Ex-Ex-Freundin?","english":"The Best Man","hoster":["YouTube"]},
+                {"german":"Kalte Füße","english":"The Wedding [1]","hoster":["YouTube"]},
+                {"german":"Zu zweit vorm Altar","english":"The Wedding [2]","hoster":["YouTube"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Notruf von oben",
+         "titleen":"Episode 196",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=Y9JRT-1rcWI"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5657081/Detektiv_Conan_Folge_196_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5657455/Detektiv_Conan_Folge_196_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5657782/Detektiv_Conan_Folge_196_3_3"
+                }
+       ]
+}

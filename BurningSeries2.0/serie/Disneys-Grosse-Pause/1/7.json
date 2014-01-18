@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Versager / Die Klette",
+         "titleen":"I Will Kick Not Forever / The Kid Came Back",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=zN9FM1NT0yI"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=b_qtm7nDg2M"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6118341/Disneys_Grosse_Pause_Episode_13_Der_Versager"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6118351/Disneys_Grosse_Pause_Episode_14_Die_Klette"
+                }
+       ]
+}

@@ -1,0 +1,28 @@
+{
+        "series":"Drake &amp; Josh",
+        "seasons":4,
+        "cover":"Drake-Josh_4641eaa9bacd6e8baff66898514f6ae3.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Racheakt um Hamster Hervay","english":"Megan&#039;s Revenge","hoster":[]},
+                {"german":"Josh überfährt Oprah","english":"Josh runs into Oprah","hoster":[]},
+                {"german":"Tiberius, der Schreckliche","english":"Vicious Tiberius","hoster":[]},
+                {"german":"Die Hochzeit","english":"The Wedding","hoster":[]},
+                {"german":"Mindy liebt Josh","english":"Mindy loves Josh","hoster":[]},
+                {"german":"Wer macht das Rennen","english":"Who&#039;s got Game?","hoster":[]},
+                {"german":"Der große Doheny","english":"The great Doheny","hoster":[]},
+                {"german":"I love Sushi","english":"I Love Sushi","hoster":[]},
+                {"german":"Der Sturm","english":"The Storm","hoster":[]},
+                {"german":"Abendessen mit Bobo","english":"My Dinner With Bobo","hoster":[]},
+                {"german":"Das Baumhaus","english":"The Treehouse","hoster":[]},
+                {"german":"Josh ist fertig mit Drake","english":"Josh is Done","hoster":[]},
+                {"german":"Das blaue Auge","english":"Eric punshes Drake","hoster":[]},
+                {"german":"Schwere Jungs","english":"Steered Straight","hoster":[]},
+                {"german":"Megans erster Kuss","english":"Megan&#039;s First Kiss","hoster":[]},
+                {"german":"Cool, ich werde sechzehn","english":"Battle of Panthatar","hoster":[]},
+                {"german":"Helikopter","english":"Helicopter","hoster":[]},
+                {"german":"Der Tanzwettbewerb","english":"The Dance Contest","hoster":[]},
+                {"german":"Die Riesengarnele, Teil 1","english":"The Really Big Shrimp, Part 1","hoster":["YouTube"]},
+                {"german":"Die Riesengarnele, Teil 2","english":"The Really Big Shrimp, Part 2","hoster":[]}
+         ]
+}

@@ -1,0 +1,20 @@
+{
+        "series":"Entourage",
+        "seasons":8,
+        "cover":"Entourage_bf0bdac8ab078439059a825957b1c9b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Große Gatsby kehrt zurück","english":"Drive","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Allein unter Freunden","english":"Amongst Friends","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Turtle wird 30","english":"One Car, Two Car, Red Car, Blue Car","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Mühen der Freizeit","english":"Running on E","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Golfturnier","english":"Fore!","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Küsse und Lügen","english":"Murphy&#039;s Lie","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Aus für Drama","english":"No More Drama","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Sorkin-Notizen","english":"The Sorkin Notes","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schmutzige Wäsche","english":"Security Briefs","hoster":["PutLocker","RapidVideo"]},
+                {"german":"&#039;Melrose 2009&#039;","english":"Berried Alive","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Panik und andere Attacken","english":"Scared Straight","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Alle Wege führen nach Rom","english":"Give a Little Bit","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

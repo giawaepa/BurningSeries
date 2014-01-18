@@ -1,0 +1,26 @@
+{
+        "series":"Reaper ? Ein teuflischer Job",
+        "seasons":2,
+        "cover":"Reaper-Ein-teuflischer-Job_a66556aac6936f79109a774e72ef3890.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die verkaufte Seele","english":"Pilot","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Blitz und Donner","english":"Charged","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das große Krabbeln","english":"All Mine","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Taube Winston","english":"Magic","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Schleimspuren","english":"What About Blob","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Leon","english":"Leon","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Liebe, Kugeln und Asphalt","english":"Love, Bullets And Blacktop","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Superbulle","english":"The Cop","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Asche zu Asche","english":"Ashes to Ashes","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Teufels Tochter","english":"Cash Out","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Kannibale","english":"Hungry for Fame","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Nette Nachbarn","english":"Unseen","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Höllenparty","english":"Acid Queen","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Revolution","english":"Rebellion","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Tag der Wahrheit","english":"Coming to Grips","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Unwiderstehlich","english":"Greg, Schmeg","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Teufels Sohn","english":"The Leak","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Salomos Käfig","english":"Cancun","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

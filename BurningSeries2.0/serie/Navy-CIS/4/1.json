@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Schalom",
+         "titleen":"Shalom",
+         "description":"Ziva beobachtet eine Explosion mitten in Washington. Dabei meint sie einen ehemaligen Mossadagenten zu erkennen, der schon lange tot ist. Sofort ist sie die Hauptverdächtige und taucht unter. Als sie nicht weiß, ob sie dem NCIS trauen kann, wendet sie sich an Gibbs, der noch immer in Mexiko im Ruhestand ist ?",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4029444/Part1_Shalom"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4029829/Part2_Shalom"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4030188/Part3_Shalom"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"4030656/Part4_Shalom"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"F84C0A4C3956DC68"
+                }
+       ]
+}

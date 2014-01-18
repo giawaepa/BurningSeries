@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Episode 1",
+         "titleen":"Episode 1",
+         "description":"Geschichte 1 : Die Frau im Spiegel,Geschichte 2 : Der Elektrische Stuhl,Geschichte 3 : Die Bluessängerin,Geschichte 4 : Der Hochzeitstag,Geschichte 5 : Das Traumhaus,Welche dieser Geschichten wahr ist, entscheiden sie. Am Ende der Sendung, wird es ihnen gezeigt.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=gcnQWfS8v2c"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=0OvAeI17v0c"
+                },{
+                        "hoster":"YouTube",
+                        "part":3,
+                        "link":"=j08Uuq2P784"
+                }
+       ]
+}

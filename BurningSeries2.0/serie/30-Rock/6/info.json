@@ -1,0 +1,13 @@
+{
+        "series":"30 Rock",
+        "seasons":6,
+        "cover":"30-Rock_b940447e54c3e6b55d29c9ff4abd16a4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Dance Like Nobody&#039;s Watching","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Idiots Are People Two!","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Idiots Are People Three!","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Ballad of Kenneth Parcell","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Today You Are a Man","hoster":["PutLocker"]}
+         ]
+}

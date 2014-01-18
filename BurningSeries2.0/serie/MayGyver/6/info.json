@@ -1,0 +1,29 @@
+{
+        "series":"MacGyver",
+        "seasons":7,
+        "cover":"MacGyver_32b13a08c0cdaa31b722c1f6cf3618cd.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Gewalt gegen Gewalt","english":"Tough Boys","hoster":[]},
+                {"german":"Ein Akt der Menschlichkeit","english":"Humanity","hoster":[]},
+                {"german":"Eine Waffe mit Vergangenheit","english":"The Gun","hoster":[]},
+                {"german":"Falsche Freunde","english":"Twenty Questions","hoster":[]},
+                {"german":"Die Mauer","english":"The Wall","hoster":[]},
+                {"german":"Die Lehre des Bösen","english":"Lesson in Evil","hoster":[]},
+                {"german":"Folge 7","english":"Harry&#039;s Will","hoster":[]},
+                {"german":"MacGyvers Traumfrauen","english":"MacGyver&#039;s Women","hoster":[]},
+                {"german":"Im Wein liegt die Wahrheit","english":"Bitter Harvest","hoster":[]},
+                {"german":"Besuch vom anderen Stern","english":"The Visitor","hoster":[]},
+                {"german":"Ein schöner Treffer","english":"Squeeze Play","hoster":[]},
+                {"german":"Heiße Liebe","english":"Jerico Games","hoster":[]},
+                {"german":"Das tote Land","english":"The Wasteland","hoster":[]},
+                {"german":"Das Auge des Osiris","english":"Eye of Osiris","hoster":[]},
+                {"german":"Schöne Freunde","english":"High Control","hoster":[]},
+                {"german":"Der stumme Zeuge","english":"There but For the Grace","hoster":[]},
+                {"german":"Blindes Vertrauen","english":"Blind Faith","hoster":[]},
+                {"german":"Die Lacey-Sisters","english":"Faith, Hope &amp; Charity","hoster":[]},
+                {"german":"Geschäft ist Geschäft","english":"Strictly Business","hoster":[]},
+                {"german":"Der schwarze Strom","english":"Trail of Tears","hoster":[]},
+                {"german":"Lektion in Sachen Freundschaft","english":"Hind-Sight","hoster":[]}
+         ]
+}

@@ -1,0 +1,21 @@
+{
+        "series":"CSI: NY",
+        "seasons":8,
+        "cover":"CSI-NY_01987587a2ebb5130440caece7c6127b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Indelible","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Keep It Real","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Cavallino Rampante","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Officer Involved","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Air Apparent","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Get Me Out of Here!","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Crushed","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Crossroads","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Means to an End","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Clean Sweep","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Who&#039;s There?","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Brooklyn &#039;Til I Die","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Ripple Effect","hoster":["PutLocker","Sockshare"]}
+         ]
+}

@@ -1,0 +1,27 @@
+{
+        "series":"Futurama",
+        "seasons":6,
+        "cover":"Futurama_979ef846f0c79ee83e7d3bcc3912fa2a.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Gefühls-Clip gefällig","english":"I Second That Emotion","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Brannigan, fang wieder an","english":"Brannigan Begin Again","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Getrennt von Kopf und Körper","english":"A Head in the Polls","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Xmas Story","english":"Xmas Story","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Das merkwürdige Verhalten geschlechtsreifer Krustentiere","english":"Why Must I Be A Crustacean In Love ?","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Valentinstag 3000","english":"Put your Head on my Shoulder","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Die Wahl zur Miss Universum","english":"Lesser of two Evils","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Wie ein wilder Bender","english":"Raging Bender","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Hochzeitstag auf Cyclopia","english":"A Bicyclopes Built for Two","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Die Rhytmus Rückerstattung","english":"How Hermes Requisitioned His Groove Back","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Wie der Vater so der Klon","english":"A Clone of My Own","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Tief im Süden","english":"The Deep South","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Allein gegen die Roboter-Mafia","english":"Bender Gets Made","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Kennen sie Popplers","english":"The Problem with Popplers","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Muttertag","english":"Mother&#039;s day","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Geschichte von Interesse Nr.1","english":"Anthology of Interest I","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Dieses unheimliche Hupen","english":"The Honking","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Krieg auf Spheron Eins","english":"War is the H-Word","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Die Frau, die aus der Kälte kam","english":"The Cryonic Woman","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]}
+         ]
+}

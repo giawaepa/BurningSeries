@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Oma verzweifelt gesucht",
+         "titleen":"Episode 295",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=TD1Ws8dL3sU"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=1js29bI2Nzo"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6137546/Detektiv_Conan_Folge_295_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6137835/Detektiv_Conan_Folge_295_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6138106/Detektiv_Conan_Folge_295_3_3"
+                }
+       ]
+}

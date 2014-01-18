@@ -1,0 +1,30 @@
+{
+        "series":"Smallville",
+        "seasons":10,
+        "cover":"Smallville_9b035bf1ed4971800a10af943bd17d18.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Lazarus","hoster":["PutLocker"]},
+                {"german":"","english":"Shield","hoster":["PutLocker"]},
+                {"german":"","english":"Supergirl","hoster":["PutLocker"]},
+                {"german":"","english":"Homecoming","hoster":["PutLocker"]},
+                {"german":"","english":"Isis","hoster":["PutLocker"]},
+                {"german":"","english":"Harvest","hoster":["PutLocker"]},
+                {"german":"","english":"Ambush","hoster":["PutLocker"]},
+                {"german":"","english":"Abandoned","hoster":["PutLocker"]},
+                {"german":"","english":"Patriot","hoster":["PutLocker"]},
+                {"german":"","english":"Luthor","hoster":["PutLocker"]},
+                {"german":"","english":"Icarus","hoster":["PutLocker"]},
+                {"german":"","english":"Collateral","hoster":["PutLocker"]},
+                {"german":"","english":"Beacon","hoster":["PutLocker"]},
+                {"german":"","english":"Masquerade","hoster":["PutLocker"]},
+                {"german":"","english":"Fortune","hoster":["PutLocker"]},
+                {"german":"","english":"Scion","hoster":["PutLocker"]},
+                {"german":"","english":"Kent","hoster":["PutLocker"]},
+                {"german":"","english":"Booster","hoster":["PutLocker"]},
+                {"german":"","english":"Dominion","hoster":["PutLocker"]},
+                {"german":"","english":"Prophecy","hoster":["PutLocker"]},
+                {"german":"","english":"Finale (1)","hoster":["PutLocker"]},
+                {"german":"","english":"Finale (2)","hoster":[]}
+         ]
+}

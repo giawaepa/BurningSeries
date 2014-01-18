@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Eine neue Herausforderung",
+         "titleen":"Episode 20",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=eb2EZyjOGwI"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=Qn77XZzTZxk"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6257469/Naruto_Folge_20_part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6257470/Naruto_Folge_20_part_2"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"4FACDB37C370061E"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"5754302C1AA181AA"
+                }
+       ]
+}

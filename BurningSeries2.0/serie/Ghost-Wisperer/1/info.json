@@ -1,0 +1,30 @@
+{
+        "series":"Ghost Whisperer",
+        "seasons":5,
+        "cover":"Ghost-Whisperer_f4bdf6134524bd348400224dd9816f55.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Gabe","english":"Pilot","hoster":["YouTube","MyVideo"]},
+                {"german":"Der unsichtbare Freund","english":"The Crossing","hoster":["YouTube"]},
+                {"german":"Schicksalsnacht","english":"Ghost, Interrupted","hoster":["YouTube"]},
+                {"german":"Ein zweites Leben","english":"Mended Hearts","hoster":["YouTube"]},
+                {"german":"Die verlorenen Kinder","english":"Lost Boys","hoster":["YouTube"]},
+                {"german":"Die Heimkehr","english":"Homecoming","hoster":["YouTube"]},
+                {"german":"Kosmische Gesetze","english":"Hope and Mercy","hoster":["YouTube"]},
+                {"german":"Vergebung","english":"On the Wings of a Dove","hoster":["YouTube"]},
+                {"german":"Der rote Handschuh","english":"Voices","hoster":["YouTube","MyVideo"]},
+                {"german":"Die Geisterbraut","english":"Ghost Bride","hoster":["YouTube"]},
+                {"german":"Schattenboxer","english":"Shadow Boxer","hoster":["YouTube"]},
+                {"german":"Der letzte Vorhang","english":"Undead Comic","hoster":["YouTube"]},
+                {"german":"Der Geist von gegenüber","english":"Friendly Neighborhood Ghost","hoster":["YouTube"]},
+                {"german":"Die letzte Hinrichtung","english":"Last Execution","hoster":["YouTube"]},
+                {"german":"Die erste Begegnung","english":"Melinda&#039;s First Ghost","hoster":["YouTube"]},
+                {"german":"Gegen die Zeit","english":"Dead Man&#039;s Ridge","hoster":["YouTube"]},
+                {"german":"Das Dämonenkind","english":"Demon Child","hoster":["YouTube"]},
+                {"german":"Tod eines Magiers","english":"Miss Fortune","hoster":["YouTube"]},
+                {"german":"Zeit des Zorns","english":"Fury","hoster":["YouTube"]},
+                {"german":"Ihr letzter Tanz","english":"The Vanishing","hoster":[]},
+                {"german":"Freier Fall","english":"Free Fall (1)","hoster":["YouTube"]},
+                {"german":"Die Auserwählte","english":"The One (2)","hoster":["YouTube"]}
+         ]
+}

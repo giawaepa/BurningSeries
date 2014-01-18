@@ -1,0 +1,28 @@
+{
+        "series":"Cosmo und Wanda ? Wenn Elfen helfen",
+        "seasons":8,
+        "cover":"Cosmo-und-Wanda-Wenn-Elfen-helfen_efab7858e8f9b95490bb33ca474e61ca.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Wunsch mit Folgen (II) / So ist das Leben","english":"Ruled Out / That&#039;s Life!","hoster":[]},
+                {"german":"Stahlende Zähne / Der wilde, wilde Westen","english":"Shiny Teeth / Odd, Odd West","hoster":["MyVideo"]},
+                {"german":"Timmys Radio Show / Die Spezial-Überraschung","english":"Mircophony / So Totally Spaced Out","hoster":["MyVideo"]},
+                {"german":"Der Valentinstag","english":"Love Struck!","hoster":["MyVideo"]},
+                {"german":"Eins Plus / Wandas freier Tag","english":"Cosmo Con / Wanda&#039;s Day Off!","hoster":["YouTube"]},
+                {"german":"Der Bleistiftschubser / Und der Gewinner ist ...","english":"Odd Jobs / Movie Magic","hoster":["YouTube"]},
+                {"german":"Abra Katastropha, Teil 1","english":"Abra-Catastrophe!, Part 1","hoster":[]},
+                {"german":"Abra Katastropha, Teil 2","english":"Abra-Catastrophe!, Part 2","hoster":[]},
+                {"german":"Abra Katastropha, Teil 3","english":"Abra-Catastrophe!, Part 3","hoster":[]},
+                {"german":"Die Übernachtungsfete / Mutter Natur","english":"Sleep Over and Over / Mother Nature","hoster":[]},
+                {"german":"Der böse Zwillingsbruder / Das Traumauto","english":"The Crimson Chin Meets Mighty Mom &amp; Dyno Dad! / Engine Blocked","hoster":[]},
+                {"german":"Alle lieben Timmy / Die Entscheidung","english":"Most Wanted Wish / This Is Your Wish!","hoster":[]},
+                {"german":"Ein Bett wär&#039; Nett / Timmy reisst aus","english":"Beddy Bye / The Grass Is Greener","hoster":[]},
+                {"german":"Der 15. März","english":"The Secret Origin of Denzel Crocker!","hoster":[]},
+                {"german":"Kung Fu Timmy / Wer ist hier die Hexe?","english":"Kung Timmy / Which Witch Is Which","hoster":[]},
+                {"german":"Lärmschutz total / Der grosse Wurf","english":"Pipe Down / The Big Scoop!","hoster":[]},
+                {"german":"Kinn Crimson kehrt zurück / Teilen statt keilen","english":"Crime Wave / Odd Ball","hoster":[]},
+                {"german":"Wo ist Wanda? / Der ausgedachte Freund","english":"Where&#039;s Wanda? / Imaginary Gary","hoster":[]},
+                {"german":"Der Teeny-Schwarm / Wintersport","english":"Chip Off the Old Chip / Snow Bound","hoster":[]},
+                {"german":"Mit fairen Mitteln / Der Gedankenleser","english":"Miss Dimmsdale / Mind Over Magic","hoster":[]}
+         ]
+}

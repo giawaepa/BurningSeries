@@ -1,0 +1,26 @@
+{
+        "series":"Flashpoint",
+        "seasons":4,
+        "cover":"Flashpoint_225fb8aaa8e751d1303dcd74792433e7.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Bedingungslose Liebe","english":"Personal Effects","hoster":["PutLocker","DivxStage"]},
+                {"german":"Durchtrennte Bande","english":"Good Cop","hoster":["PutLocker"]},
+                {"german":"Die falschen Freunde","english":"Run, Jaime, Run","hoster":["PutLocker"]},
+                {"german":"Mit allen Mitteln","english":"Through A Glass Darkly","hoster":["PutLocker"]},
+                {"german":"Allein unter Wölfen","english":"The Better Man","hoster":["PutLocker"]},
+                {"german":"Auf der Flucht","english":"A Day in the Life","hoster":["PutLocker"]},
+                {"german":"Persönliche Motive","english":"Shockwave","hoster":["PutLocker"]},
+                {"german":"Eine zweite Meinung","english":"Grounded","hoster":["PutLocker"]},
+                {"german":"Dicker als Blut","english":"The War Within","hoster":["PutLocker"]},
+                {"german":"Terror","english":"The Cost Of Doing Business","hoster":["PutLocker"]},
+                {"german":"Keine Versprechungen","english":"Wild Card","hoster":["PutLocker"]},
+                {"german":"Die Informanten","english":"A New Life","hoster":["PutLocker"]},
+                {"german":"Schwachstellen","english":"Call To Arms","hoster":["Sockshare"]},
+                {"german":"","english":"Day Game","hoster":["PutLocker"]},
+                {"german":"","english":"Blue on Blue","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Team Player","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Priority on Life","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Slow Burn","hoster":["PutLocker","DivxStage"]}
+         ]
+}

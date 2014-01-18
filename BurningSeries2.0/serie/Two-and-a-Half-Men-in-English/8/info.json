@@ -1,0 +1,23 @@
+{
+        "series":"Two and a Half Men (English)",
+        "seasons":9,
+        "cover":"Two-and-a-Half-Men-English_ebc8320f754ed410607aecbe9f08f8c4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Three Girls and a Guy Named Bud","hoster":["PutLocker"]},
+                {"german":"","english":"A Bottle of Wine and a Jackhammer","hoster":["PutLocker"]},
+                {"german":"","english":"A Pudding-Filled Cactus","hoster":["PutLocker"]},
+                {"german":"","english":"Hookers, Hookers, Hookers","hoster":["PutLocker"]},
+                {"german":"","english":"The Immortal Mr. Billy Joel","hoster":["PutLocker"]},
+                {"german":"","english":"Twanging Your Magic Clanger","hoster":["PutLocker"]},
+                {"german":"","english":"The Crazy Bitch Gazette","hoster":["PutLocker"]},
+                {"german":"","english":"Springtime On A Stick","hoster":["PutLocker"]},
+                {"german":"","english":"A Good Time in Central Africa","hoster":["PutLocker"]},
+                {"german":"","english":"Ow, Ow, Don&#039;t Stop","hoster":["PutLocker"]},
+                {"german":"","english":"Dead From The Waist Down","hoster":["PutLocker"]},
+                {"german":"","english":"Chocolate Diddlers Or My Puppy&#039;s Dead","hoster":["PutLocker"]},
+                {"german":"","english":"Skunk, Dog, Crap and Ketchup","hoster":["PutLocker"]},
+                {"german":"","english":"Lookin&#039; for Japanese Subs","hoster":["PutLocker"]},
+                {"german":"","english":"Three Hookers and a Philly Cheesesteak","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,12 @@
+{
+        "series":"Cosmo und Wanda ? Wenn Elfen helfen",
+        "seasons":8,
+        "cover":"Cosmo-und-Wanda-Wenn-Elfen-helfen_efab7858e8f9b95490bb33ca474e61ca.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Viel Lärm um Foop","english":"Love Triangle","hoster":[]},
+                {"german":"","english":"A Fairly Odd Movie: Grow Up, Timmy Turner!","hoster":[]},
+                {"german":"","english":"Poof&#039;s First Wand / How I Met Your GodParents","hoster":[]},
+                {"german":"","english":"Timmy Duaeaeaeaeaeaea Do Ya / Cosmo Overboard","hoster":[]}
+         ]
+}

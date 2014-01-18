@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Mein Triathlon",
+         "titleen":"My Day At The Races",
+         "description":"Bevor er 30 wird, was ihm bald bevorsteht, hat J.D. das Gefühl, noch etwas Großes leisten zu müssen. Dafür aber sucht er sich ausgerechnet den Triathlon aus, der am nächsten Tag stattfindet. Völlig untrainiert und eigentlich ohne jede Chance, die Strecke zu schaffen, treibt sein Stursinn ihn Schritt für Schritt weiter, aber erst mit Elliotts Hilfe erreicht er spätnachts das Ziel. Diese extreme gemeinsame Erfahrung schweißt zusammen - und bringt die beiden zu einem Entschluss.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=PPu_ZutTzN4"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=EzFk4FfhbkI"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4110041/Scrubs_Die_Anfaenger_Folge_24_Teil_1_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4116481/Scrubs_Die_Anfaenger_Folge_24_Teil_2_2"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"52335F0C5054DE8C"
+                },{
+                        "hoster":"Ecostream",
+                        "part":1,
+                        "link":"f3598cb826d0ce49ea3ffe395f91c3ca.html"
+                }
+       ]
+}

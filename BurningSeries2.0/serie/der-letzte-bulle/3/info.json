@@ -1,0 +1,14 @@
+{
+        "series":"Der letzte Bulle",
+        "seasons":3,
+        "cover":"Der-letzte-Bulle_fb9934d518c58b52b3fa28930338da0d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein echter Held","english":"","hoster":["PutLocker","Sockshare"]},
+                {"german":"Und raus bist du!","english":"","hoster":["PutLocker","Sockshare"]},
+                {"german":"Aller guten Dinge sind drei","english":"","hoster":[]},
+                {"german":"Vater Mutter Kind","english":"","hoster":[]},
+                {"german":"Nymphen und Don Juans","english":"","hoster":[]},
+                {"german":"Es lebe der Sport","english":"","hoster":[]}
+         ]
+}

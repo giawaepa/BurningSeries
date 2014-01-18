@@ -1,0 +1,33 @@
+{
+        "series":"Die wilden Siebziger",
+        "seasons":8,
+        "cover":"Die-wilden-Siebziger_62c095abab6c57409310f06720d63299.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Unter der Sonne Kaliforniens","english":"Going To California","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verbotene Liebe","english":"I Can&#039;t Quit You Baby","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Nachwuchs","english":"What Is and What Should Never Be (1) (a.k.a. Kitty&#039;s Pregnant)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Wechseljahre","english":"Heartbreaker (2) (a.k.a. Kitty&#039;s Parents Come to Visit)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Herr der Ringe","english":"Ramble On (a.k.a. Promise Ring Redux)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Blitz und Donner","english":"Over the Hills and Far Away","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Verlobung","english":"Hot Dog (a.k.a. The Gifts)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Truthahn-Terror","english":"Thank You","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Korruptions-Skandal","english":"Black Dog (a.k.a. Ow, My Eye)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Dumm gelaufen","english":"The Crunge (a.k.a. The S.A.T.s)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein Opfer der Liebe","english":"The Girl I Love","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein aufgeräumtes Wochenende","english":"Misty Mountain Hop (a.k.a. Jackie&#039;s Cabin)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der letzte Besuch","english":"Your Time Is Gonna Come (a.k.a. Get Off My Boyfriend)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Finger weg von meinem Freund","english":"Babe I&#039;m Gonna Leave You (a.k.a. Valentine&#039;s Day)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Versteck spielen","english":"When the Levee Breaks (a.k.a. Eric and Donna Play House)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verliebt, verlobt, verdonnert","english":"Whole Lotta Love (a.k.a. The Silent Treatment)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Männer wie wir","english":"The Battle of Evermore (a.k.a. Pioneer Days)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Jobbörse","english":"Hey Hey What Can I Do (a.k.a. Job Fair)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Mister Nackt","english":"Bring It On Home (a.k.a. Jackie&#039;s in the House)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Peinlich, peinlich","english":"No Quarter (a.k.a. Jackie Moves In)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein Laufpass für Fez","english":"Trampled Under Foot (a.k.a. Fez Gets Dumped)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sexträume","english":"You Shook Me (1) (a.k.a. The Nurses Are Coming)","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Kalte Füße","english":"Nobody&#039;s Fault But Mine (2) (a.k.a. Hyde Loves Jackie)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kampf um Jackie","english":"The Immigrant Song (a.k.a. Fez Gets Busted)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Ausweisung","english":"Celebration Day (a.k.a. Graduation)","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

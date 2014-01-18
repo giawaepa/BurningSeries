@@ -1,0 +1,29 @@
+{
+        "series":"Battlestar Galactica",
+        "seasons":4,
+        "cover":"Battlestar-Galactica_19e85954f3a2b7522194ce3f0b1a0c8d.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Auferstehung","english":"He That Believeth in Me","hoster":[]},
+                {"german":"Die letzten Fünf","english":"Six of One","hoster":[]},
+                {"german":"Die Verblendeten","english":"The Ties That Bind","hoster":["PutLocker"]},
+                {"german":"Perfekter Schmerz","english":"Escape Velocity","hoster":["PutLocker"]},
+                {"german":"Meuterei im All","english":"The Road Less Traveled (1)","hoster":["PutLocker"]},
+                {"german":"Ans andere Ufer","english":"Faith (2)","hoster":["PutLocker"]},
+                {"german":"Rate mal, was zum Essen kommt","english":"Guess What&#039;s Coming to Dinner?","hoster":["PutLocker"]},
+                {"german":"Sine Qua Non","english":"Sine Qua Non","hoster":["PutLocker"]},
+                {"german":"Wir alle sind sterblich","english":"The Hub","hoster":["PutLocker"]},
+                {"german":"Zur Erde!","english":"Revelations","hoster":["PutLocker"]},
+                {"german":"Die Strömung erledigt den Rest","english":"Sometimes a Great Notion","hoster":[]},
+                {"german":"Erschöpfung","english":"A Disquiet Follows My Soul","hoster":["PutLocker"]},
+                {"german":"Die Lunte brennt","english":"The Oath (1)","hoster":["PutLocker"]},
+                {"german":"Blut in der Waagschale","english":"Blood on the Scales (2)","hoster":["PutLocker"]},
+                {"german":"Das verlorene Paradies","english":"No Exit","hoster":["PutLocker"]},
+                {"german":"Systemblockade","english":"Deadlock","hoster":["PutLocker"]},
+                {"german":"Der Pianomann","english":"Someone to Watch Over Me","hoster":["PutLocker"]},
+                {"german":"Gestrandet in den Sternen","english":"Islanded in a Stream of Stars","hoster":[]},
+                {"german":"Götterdämmerung - Teil 1","english":"Daybreak (1)","hoster":[]},
+                {"german":"Götterdämmerung - Teil 2","english":"Daybreak (2)","hoster":[]},
+                {"german":"Götterdämmerung - Teil 3","english":"Daybreak (3)","hoster":["PutLocker"]}
+         ]
+}

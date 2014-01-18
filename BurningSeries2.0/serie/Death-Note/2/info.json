@@ -1,0 +1,26 @@
+{
+        "series":"Death Note",
+        "seasons":2,
+        "cover":"Death-Note_0dc02974e4fb3a64abc70a9581ff40fbhtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Notlösung","english":"Successor","hoster":["PutLocker","Sockshare"]},
+                {"german":"Aktivität","english":"Activity","hoster":["PutLocker","Sockshare"]},
+                {"german":"Führung","english":"Guidance","hoster":["PutLocker","Sockshare"]},
+                {"german":"Raserei","english":"Mania","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wiedervereinigung","english":"Revival","hoster":["PutLocker","Sockshare"]},
+                {"german":"Stille","english":"Silence","hoster":["PutLocker","Sockshare"]},
+                {"german":"Erneuerung","english":"Regeneration","hoster":["PutLocker","Sockshare"]},
+                {"german":"Entführung","english":"Abduction","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ungeduld","english":"Impatience","hoster":["PutLocker","Sockshare"]},
+                {"german":"Vater","english":"Father","hoster":["PutLocker","Sockshare"]},
+                {"german":"Gerechtigkeit","english":"Justice","hoster":["PutLocker","Sockshare"]},
+                {"german":"Übertragung","english":"Transfer","hoster":["PutLocker","Sockshare"]},
+                {"german":"Auslese","english":"Choice","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hohn","english":"Ridicule","hoster":["PutLocker","Sockshare"]},
+                {"german":"Selbstjustiz","english":"Glare","hoster":["PutLocker","Sockshare"]},
+                {"german":"Mordabsicht","english":"Murderous Intent","hoster":["PutLocker","Sockshare"]},
+                {"german":"28. Januar","english":"1.28","hoster":["PutLocker","Sockshare"]},
+                {"german":"Neue Welt","english":"New World","hoster":["PutLocker","Sockshare"]}
+         ]
+}

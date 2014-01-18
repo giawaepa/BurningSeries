@@ -1,0 +1,30 @@
+{
+        "series":"Buffy ? Im Bann der Dämonen",
+        "seasons":7,
+        "cover":"Buffy-Im-Bann-der-Daemonen_2390181eb7a9fad2f38e699ee61e40e3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Buffy vs. Dracula","english":"Buffy Vs. Dracula","hoster":["RapidVideo"]},
+                {"german":"Lieb Schwesterlein mein","english":"Real Me","hoster":["RapidVideo"]},
+                {"german":"Der doppelte Xander","english":"The Replacement","hoster":["RapidVideo"]},
+                {"german":"Die Initiative läßt grüßen","english":"Out of My Mind","hoster":["RapidVideo"]},
+                {"german":"Sein und Schein","english":"No Place Like Home","hoster":["RapidVideo"]},
+                {"german":"Familienbande","english":"Family","hoster":["RapidVideo"]},
+                {"german":"Eine Lektion fürs Leben","english":"Fool For Love","hoster":["RapidVideo"]},
+                {"german":"Schatten","english":"Shadow","hoster":["RapidVideo"]},
+                {"german":"Alles Böse kommt von oben","english":"Listening to Fear","hoster":["RapidVideo"]},
+                {"german":"Das Ultimatum","english":"Into the Woods","hoster":["RapidVideo"]},
+                {"german":"Der Hammer der Zerstörung","english":"Triangle","hoster":["RapidVideo"]},
+                {"german":"Der Rat der Wächter","english":"Checkpoint","hoster":["RapidVideo"]},
+                {"german":"Blutsbande","english":"Blood Ties","hoster":["RapidVideo"]},
+                {"german":"Auf liebe Liebe","english":"Crush","hoster":["RapidVideo"]},
+                {"german":"Auf Liebe Programmiert","english":"I Was Made to Love You","hoster":["RapidVideo"]},
+                {"german":"Tod einer Mutter","english":"The Body","hoster":["RapidVideo"]},
+                {"german":"Gefährlicher Zauber","english":"Forever","hoster":["RapidVideo"]},
+                {"german":"Der Zorn der Göttin","english":"Intervention","hoster":["RapidVideo"]},
+                {"german":"Götterdämmerung","english":"Tough Love","hoster":["RapidVideo"]},
+                {"german":"Auf der Flucht","english":"Spiral","hoster":["RapidVideo"]},
+                {"german":"Die Last der Welt","english":"The Weight of the World","hoster":["RapidVideo"]},
+                {"german":"Der Preis der Freiheit","english":"The Gift","hoster":["RapidVideo"]}
+         ]
+}

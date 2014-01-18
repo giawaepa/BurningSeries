@@ -1,0 +1,21 @@
+{
+        "series":"Das A-Team",
+        "seasons":5,
+        "cover":"Das-A-Team_326982f33c15520fd5d58216d5ecfd79.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Hoffnung in Barcelona","english":"Dishpan Man","hoster":[]},
+                {"german":"Helden vor Gericht","english":"Trial By Fire","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Man stirbt nie zweimal","english":"Firing Line","hoster":["PutLocker"]},
+                {"german":"Touch-Down","english":"Quarterback Sneak","hoster":[]},
+                {"german":"Es lebe die Revolution","english":"The Theory Of Revolution","hoster":[]},
+                {"german":"Codename Brown Fox","english":"The Say Uncle Affair","hoster":[]},
+                {"german":"B.A.s goldener Schuss","english":"Alive At Five","hoster":[]},
+                {"german":"Glückstreffer","english":"Family Reunion","hoster":[]},
+                {"german":"Countdown in Hong Kong","english":"Point Of No Return","hoster":[]},
+                {"german":"Unter Kanibalen","english":"The Crystal Skull","hoster":[]},
+                {"german":"Man liebt nur zweimal","english":"The Spy Who Mugged Me","hoster":[]},
+                {"german":"Landesverrat","english":"The Grey Team","hoster":[]},
+                {"german":"Mord à la carte","english":"Without Reservations","hoster":[]}
+         ]
+}

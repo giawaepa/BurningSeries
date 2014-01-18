@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Dim Sum-Poker",
+         "titleen":"Dim Sum Lose Some",
+         "description":"Ein mysteriöser Mann namens Dwight taucht im Piehole auf, er möchte sich gemeinsam mit Ned auf die Suche nach dessen Vater machen. Währenddessen bekommt Emerson den Auftrag, den Mord an La Di, dem chinesischen Dim-Sum-Koch, aufzuklären. Das Team findet heraus, dass in La Dis Restaurant illegale Glücksspiele betrieben wurden. Zu allem Übel taucht auch noch Emersons Ex-Freundin Simone auf, die er von einem früheren Fall kennt ...",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5947069/Pushing_Daisies_2x05_Part_1_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5947181/Pushing_Daisies_2x05_Part_2_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5947350/Pushing_Daisies_2x05_Part_3_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5947496/Pushing_Daisies_2x05_Part_4_4"
+                }
+       ]
+}

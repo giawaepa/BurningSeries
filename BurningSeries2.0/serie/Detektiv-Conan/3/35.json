@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der 10. Passagier (2)",
+         "titleen":"Episode 217",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=5AWlrSWFMfA"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5785351/Detektiv_Conan_Folge_217_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5785792/Detektiv_Conan_Folge_217_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5786008/Detektiv_Conan_Folge_217_3_3"
+                }
+       ]
+}

@@ -1,0 +1,21 @@
+{
+        "series":"Blue Mountain State",
+        "seasons":3,
+        "cover":"Blue-Mountain-State_9223c93aa944279e06567927c7c7a49d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Folge 1","english":"Controversy","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Fingeransatz","english":"The Fingering","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wiedergeboren","english":"Born Again","hoster":["PutLocker","Sockshare"]},
+                {"german":"Folge 4","english":"Pay for Play","hoster":["PutLocker","Sockshare"]},
+                {"german":"Folge 5","english":"Pregnant","hoster":["PutLocker","Sockshare"]},
+                {"german":"Folge 6","english":"Nerds","hoster":["PutLocker","Sockshare"]},
+                {"german":"Folge 7","english":"Debra","hoster":["PutLocker","Sockshare"]},
+                {"german":"Folge 8","english":"Vision Quest","hoster":["PutLocker"]},
+                {"german":"Folge 9","english":"The Badger","hoster":["PutLocker"]},
+                {"german":"Folge 10","english":"Hockey","hoster":["PutLocker"]},
+                {"german":"Folge 11","english":"Drunk Tank","hoster":["PutLocker"]},
+                {"german":"Folge 12","english":"Trap Game","hoster":["PutLocker"]},
+                {"german":"Folge 13","english":"Riot","hoster":["PutLocker"]}
+         ]
+}

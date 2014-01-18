@@ -1,0 +1,32 @@
+{
+        "series":"Castle",
+        "seasons":4,
+        "cover":"Castle_7bc4559eb18712efdb6eb86c1e858f8a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Eine tödliche Affäre","english":"A Deadly Affair","hoster":["PutLocker","DivxStage"]},
+                {"german":"Er ist tot, sie ist tot","english":"He&#039;s Dead, She&#039;s Dead","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Schatzkarte","english":"Under The Gun","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ein Mörder auf Zeitreise","english":"Punked","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Anatomie eines Mordes","english":"Anatomy of a Murder","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Dreifachmörder","english":"3XK","hoster":["PutLocker","DivxStage"]},
+                {"german":"Fast berühmt","english":"Almost Famous","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Glühbirnen-Held","english":"Murder Most Fowl","hoster":["PutLocker","DivxStage"]},
+                {"german":"Akte X","english":"Close Encounters of the Murderous Kind","hoster":["PutLocker","DivxStage"]},
+                {"german":"Speakeasy","english":"Last Call","hoster":["PutLocker","DivxStage"]},
+                {"german":"Nikki Heat","english":"Nikki Heat","hoster":["PutLocker","DivxStage"]},
+                {"german":"Puff, du bist tot","english":"Proof, You&#039;re Dead","hoster":["PutLocker","DivxStage"]},
+                {"german":"Johanna Beckett","english":"Knockdown","hoster":["PutLocker","DivxStage"]},
+                {"german":"Todsicheres Glück","english":"Lucky Stiff","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der letzte Nagel","english":"The Final Nail","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die schmutzige Bombe ? Teil 1","english":"Setup - Teil 1","hoster":["PutLocker","DivxStage"]},
+                {"german":"Countdown ? Teil 2","english":"Countdown - Teil 2","hoster":["PutLocker","DivxStage"]},
+                {"german":"Mörderische Seifenoper","english":"One Life to Lose","hoster":["PutLocker","DivxStage"]},
+                {"german":"Tod eines Geschworenen","english":"Law &amp; Murder","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Pizza-Connection","english":"Slice of Death","hoster":["PutLocker","DivxStage"]},
+                {"german":"Tod im Pool","english":"The Dead Pool","hoster":["PutLocker","DivxStage"]},
+                {"german":"Lieben und Sterben in L.A.","english":"To Love and Die in L.A.","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ganz schön tot","english":"Pretty Dead","hoster":["PutLocker","DivxStage"]},
+                {"german":"Knockout","english":"Knockout","hoster":["PutLocker","DivxStage"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{
+        "series":"Stargate Atlantis",
+        "seasons":5,
+        "cover":"Stargate-Atlantis_ee999920628865c8e0efe0eced7ee852html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Niemandsland","english":"No Man&#039;s Land (2)","hoster":["MyVideo","PutLocker"]},
+                {"german":"Ein Schlechter Plan","english":"Misbegotten (3)","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Zaubertrank","english":"Irresistible","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Sateda","english":"Sateda","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Bruderstreit","english":"Progeny","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Atlantis ruft","english":"The Real World","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Ein Ungewöhnlicher Verbündeter","english":"Common Ground","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Doppelte Rodney","english":"McKay and Mrs. Miller","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Phantome","english":"Phantoms","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Rückkehr, Teil 1","english":"The Return (1)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Rückkehr, Teil 2","english":"The Return (2)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Warnung","english":"Echoes","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Koylas Ende","english":"Irresponsible","hoster":["MyVideo","PutLocker"]},
+                {"german":"Rodneys Tao","english":"Tao of Rodney","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Das Spiel","english":"The Game","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Arche","english":"The Ark","hoster":["MyVideo","PutLocker"]},
+                {"german":"Ein freier Tag","english":"Sunday","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Untergetaucht","english":"Submersion","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Rache","english":"Vengeance","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Angriff","english":"First Strike (1)","hoster":["MyVideo","PutLocker","DivxStage"]}
+         ]
+}

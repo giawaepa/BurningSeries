@@ -1,0 +1,32 @@
+{
+        "series":"Alle unter einem Dach",
+        "seasons":9,
+        "cover":"Alle-unter-einem-Dach_2db8eb16cd5d05a61805adfcf8c1d513.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Dicker Mann ganz klein","english":"Little Big Guy","hoster":[]},
+                {"german":"Adam und Eva in der Dusche","english":"The Naked and the Nerdy","hoster":[]},
+                {"german":"Die schöne Käferfreundin","english":"Bugged","hoster":[]},
+                {"german":"Lehrers Liebling","english":"Teacher&#039;s Pet","hoster":[]},
+                {"german":"Gespräche mit dem Steuerprüfer","english":"Walking My Baby Back Home","hoster":[]},
+                {"german":"Allein auf der Insel","english":"She&#039;s Back","hoster":[]},
+                {"german":"Die rasende Isetta","english":"Hot Rods to Heck","hoster":[]},
+                {"german":"Blabla bei Tiffany","english":"Talk&#039;s Cheap","hoster":[]},
+                {"german":"Dreimal hat&#039;s gekracht!","english":"Struck By Lightning","hoster":[]},
+                {"german":"84 und kein bisschen alt","english":"Best Years of Our Lives","hoster":[]},
+                {"german":"Die Weihnachtslüge","english":"Fa La La La Laagghh!","hoster":[]},
+                {"german":"Kommt Zeit, kommt Rad","english":"Friendship Cycles","hoster":[]},
+                {"german":"Der Gefangene von Porto Santo","english":"South of the Border","hoster":[]},
+                {"german":"Schlaflos in Chicago","english":"Life in the Fast Lane","hoster":[]},
+                {"german":"Welcher Bruce, bitte?","english":"Random Acts of Science","hoster":[]},
+                {"german":"Eddies Sackgasse","english":"Tips For a Better Life","hoster":[]},
+                {"german":"Wer ist hier die Oma?","english":"Swine Lake","hoster":[]},
+                {"german":"Großer Bruder Steve","english":"My Big Brother","hoster":[]},
+                {"german":"Der Liebeszauber","english":"Eau de love","hoster":[]},
+                {"german":"Post aus Harvard","english":"Twinkle Toes Faldo","hoster":[]},
+                {"german":"Schampus für die Rose","english":"Scammed","hoster":[]},
+                {"german":"Die Nacht der Nächte","english":"Dream Date","hoster":[]},
+                {"german":"Wir basteln einen Wirbelsturm","english":"A Ham is Born","hoster":[]},
+                {"german":"Der doppelte Steve","english":"Send in the Clone","hoster":[]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Teufelsbraten","english":"Trials","hoster":[]},
+                {"german":"Angeboren","english":"Confession","hoster":[]},
+                {"german":"Rückschlag","english":"Swing","hoster":[]},
+                {"german":"Mondsüchtig","english":"Lunacy","hoster":[]},
+                {"german":"Retrovirus","english":"Retro","hoster":[]},
+                {"german":"Babies","english":"Babes","hoster":[]},
+                {"german":"Tiger","english":"Wildlife","hoster":[]},
+                {"german":"Unbekannt","english":"Persona","hoster":[]},
+                {"german":"Hoheit","english":"PTSD","hoster":[]},
+                {"german":"Beschmutzt","english":"Smut","hoster":[]},
+                {"german":"Fremd","english":"Stranger","hoster":[]},
+                {"german":"Treibhaus","english":"Hothouse","hoster":[]},
+                {"german":"Demenz","english":"Snatched","hoster":[]},
+                {"german":"Transsexuell","english":"Transitions","hoster":[]},
+                {"german":"Blei","english":"Lead","hoster":[]},
+                {"german":"Ballerina","english":"Ballerina","hoster":[]},
+                {"german":"Kindersoldaten","english":"Hell","hoster":[]},
+                {"german":"Höllenqual","english":"Baggage","hoster":[]},
+                {"german":"Egoistisch","english":"Selfish","hoster":[]},
+                {"german":"Bestechlich","english":"Crush","hoster":[]},
+                {"german":"Wahrheit","english":"Liberties","hoster":[]},
+                {"german":"Zebras","english":"Zebras","hoster":[]}
+         ]
+}

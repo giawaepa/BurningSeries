@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der fünffarbige See (1)",
+         "titleen":"Episode 226",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=9UozlxBvnO4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5822315/Detektiv_Conan_Folge_226_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5823022/Detektiv_Conan_Folge_226_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5823477/Detektiv_Conan_Folge_226_3_3"
+                }
+       ]
+}

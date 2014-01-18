@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Test",
+         "titleen":"The Rescue",
+         "description":"Ryan soll auf die noble Pacific Harbor Highschool, muss vorher aber einen Einstufungstest bestehen. Marissa erfährt unterdessen, dass ihre Mutter sie in eine psychiatrische Klinik außerhalb von Newport einweisen lassen möchte. Auch versucht Julie, jeglichen Kontakt zwischen Ryan und Marissa zu unterbinden und droht Jimmy, das alleinige Sorgerecht zu beantragen. Marissa macht ihr aber klar, dass sie lieber bei ihrem Vater leben will ...",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6999976/O_C_California_s01e08_Der_Test_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7000003/O_C_California_s01e08_Der_Test_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7000048/O_C_California_s01e08_Der_Test_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7000073/O_C_California_s01e08_Der_Test_Part_4"
+                }
+       ]
+}

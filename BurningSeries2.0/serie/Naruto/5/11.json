@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Spinnen-Spieler",
+         "titleen":"Episode 115",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4813354/Naruto_Folge_115_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4815089/Naruto_Folge_115_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4815290/Naruto_Folge_115_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"FAE4EA2F904C72D0"
+                }
+       ]
+}

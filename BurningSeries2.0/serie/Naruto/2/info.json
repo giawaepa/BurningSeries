@@ -1,0 +1,33 @@
+{
+        "series":"Naruto",
+        "seasons":9,
+        "cover":"Naruto_bc08bccee16fcb18ce4ca169bcfe96af.png",
+        "movies":false,
+        "episodes":[
+                {"german":"Naruto der Schlangenbeschwörer","english":"Episode 28","hoster":["YouTube","MyVideo"]},
+                {"german":"Narutos Gegenangriff. Gib niemals auf!","english":"Episode 29","hoster":["YouTube","MyVideo"]},
+                {"german":"Das Mal des Fluches","english":"Episode 30","hoster":["MyVideo"]},
+                {"german":"Schwur der buschigen Augenbraue. Ewige Liebe und Schutz!","english":"Episode 31","hoster":["YouTube","MyVideo"]},
+                {"german":"Allein gegen alle","english":"Episode 32","hoster":["YouTube","MyVideo"]},
+                {"german":"Team 10 greift ein","english":"Episode 33","hoster":["YouTube","MyVideo"]},
+                {"german":"Gaaras unglaubliche Kraft","english":"Episode 34","hoster":["YouTube","MyVideo"]},
+                {"german":"Das Geheimnis der Schriftrolle: Reinsehen verboten!","english":"Episode 35","hoster":["YouTube","MyVideo"]},
+                {"german":"Wer sind die besseren Doppelgänger?","english":"Episode 36","hoster":["YouTube","MyVideo"]},
+                {"german":"Freundschaft, ein großes Wort!","english":"Episode 37","hoster":["YouTube","MyVideo"]},
+                {"german":"Viel zu viele Prüfungsteilnehmer!","english":"Episode 38","hoster":["YouTube","MyVideo"]},
+                {"german":"Sasuke Uchiha gegen Yoroi Akad? - das Duell","english":"Episode 39","hoster":["MyVideo"]},
+                {"german":"Kakashi und Orochimaru: Von Angesicht zu Angesicht","english":"Episode 40","hoster":["MyVideo"]},
+                {"german":"Erinnerung","english":"Episode 41","hoster":["YouTube","MyVideo"]},
+                {"german":"Ganz entschieden ein Unentschieden","english":"Episode 42","hoster":["YouTube","MyVideo"]},
+                {"german":"Shikamarus Schatten","english":"Episode 43","hoster":["YouTube","MyVideo"]},
+                {"german":"Akamaru ohne Leine - Wer ist jetzt der Superhund?","english":"Episode 44","hoster":["YouTube","MyVideo"]},
+                {"german":"Die Überraschung kommt zum Schluss...","english":"Episode 45","hoster":["YouTube","MyVideo"]},
+                {"german":"Ein Stammbaum, eine Fehde","english":"Episode 46","hoster":["MyVideo"]},
+                {"german":"Kleines Mädchen ganz groß","english":"Episode 47","hoster":["MyVideo"]},
+                {"german":"Gaara gegen Rock Lee: Die Kraft der Jugend explodiert","english":"Episode 48","hoster":["YouTube","MyVideo"]},
+                {"german":"Die Acht inneren Tore","english":"Episode 49","hoster":["YouTube","MyVideo"]},
+                {"german":"Das Fünfte Tor: Ein großartiger Ninja ist geboren!","english":"Episode 50","hoster":["YouTube","MyVideo"]},
+                {"german":"Dunkle Schatten","english":"Episode 51","hoster":["MyVideo"]},
+                {"german":"Starker Schüler, schwacher Trainer","english":"Episode 52","hoster":["YouTube","MyVideo"]}
+         ]
+}

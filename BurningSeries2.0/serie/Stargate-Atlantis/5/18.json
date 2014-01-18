@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Identität",
+         "titleen":"Identity",
+         "description":"Es kommt zu verwirrenden Verwechselungen, nachdem eine Diebin Dr. Kellers Körper als Wirt übernommen hat.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7106412/Stargate_Atlantis_S05E18_Identitaet_1_7"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7106467/Stargate_Atlantis_S05E18_Identitaet_2_7"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7106517/Stargate_Atlantis_S05E18_Identitaet_3_7"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7106581/Stargate_Atlantis_S05E18_Identitaet_4_7"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"E38447EAC12EAA53"
+                }
+       ]
+}

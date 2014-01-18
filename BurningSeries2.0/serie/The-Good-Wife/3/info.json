@@ -1,0 +1,22 @@
+{
+        "series":"The Good Wife",
+        "seasons":3,
+        "cover":"The-Good-Wife_68a0b0f06b57d5a5a182c9ba3db0d5f7.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Bad Bad Thing","hoster":["PutLocker"]},
+                {"german":"","english":"The Death Zone","hoster":["PutLocker"]},
+                {"german":"","english":"Get a Room","hoster":["PutLocker"]},
+                {"german":"","english":"Feeding the Rat","hoster":["PutLocker"]},
+                {"german":"","english":"Colin Sweeney Agonistes","hoster":["PutLocker"]},
+                {"german":"","english":"Affairs of State","hoster":["PutLocker"]},
+                {"german":"","english":"Executive Order 13224","hoster":["PutLocker"]},
+                {"german":"","english":"Here Comes Santa","hoster":["PutLocker"]},
+                {"german":"","english":"Whiskey Tango Foxtrot","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Parenting Made Easy","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"What Went Wrong","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Alienation Of Affection","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Bitcoin For Dummies","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Another Ham Sandwich","hoster":["PutLocker","DivxStage"]}
+         ]
+}

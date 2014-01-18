@@ -1,0 +1,36 @@
+{ 
+         "titlede":"Hinter dem Spiegel - Teil 1",
+         "titleen":"Through the Looking Glass (1)",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"2109910/Lost_Staffel_3_Folge_22_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"2110132/Lost_Staffel_3_Folge_22_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"2110390/Lost_Staffel_3_Folge_22_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"2110559/Lost_Staffel_3_Folge_22_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"1CBF39776FAFB330"
+                },{
+                        "hoster":"DivxStage",
+                        "part":1,
+                        "link":"vrr41t2ogypdp"
+                },{
+                        "hoster":"RapidVideo",
+                        "part":1,
+                        "link":"clw3l5hm"
+                }
+       ]
+}

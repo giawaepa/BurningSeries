@@ -1,0 +1,16 @@
+{
+        "series":"Ausgesetzt in der Wildnis",
+        "seasons":7,
+        "cover":"Ausgesetzt-in-der-Wildnis_df6212bf0ba49f03423dae4acfbfae23.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Allein in der Wüste / In der Moabwüste","english":"Moab Desert in Utah","hoster":["PutLocker"]},
+                {"german":"Allein in der grünen Hölle","english":"Costa Rican Rain Forest","hoster":["PutLocker"]},
+                {"german":"Allein in Fels und Eis / Trügerische Gletscher","english":"European Alps","hoster":["PutLocker"]},
+                {"german":"Allein durch die Wildnis Alaskas","english":"Alaskan Mountain Range","hoster":["PutLocker"]},
+                {"german":"Allein auf den Vulkanbergen Hawaiis / Am Krater des Mount Kilauea","english":"Hawaii ? Mount Kilauea","hoster":["PutLocker"]},
+                {"german":"Allein in der Sierra Nevada","english":"Sierra Nevada","hoster":["PutLocker"]},
+                {"german":"Allein in der Savanne / Gnadenlose Savanne","english":"African Savanna ? Kenya","hoster":["PutLocker"]},
+                {"german":"Mitten im Pazifik","english":"Desert Island","hoster":["PutLocker"]}
+         ]
+}

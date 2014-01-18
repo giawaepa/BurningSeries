@@ -1,0 +1,24 @@
+{
+        "series":"Psych",
+        "seasons":6,
+        "cover":"Psych_a6900fd3ffbe74c30b48832b726da02b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Geister","english":"Ghosts","hoster":[]},
+                {"german":"Ein Shawn für alle Fälle","english":"Murder?? Anyone?? Anyone?? Bueller?","hoster":["PutLocker"]},
+                {"german":"Wann und wie gehen Draufgänger drauf?","english":"Daredevils!","hoster":["PutLocker"]},
+                {"german":"Das größte Abenteuer in der Geschichte des Farbfernsehens","english":"The Greatest Adventure in the History of Basic Cable","hoster":["PutLocker"]},
+                {"german":"Schwamm drunter und drüber?","english":"Disco Didn&#039;t Die. It Was Murdered!","hoster":["PutLocker"]},
+                {"german":"Verwerfliche Verwerfungen","english":"There Might Be Blood","hoster":[]},
+                {"german":"Derby Talk","english":"Talk Derby to Me","hoster":[]},
+                {"german":"Als Gus eine Bank betritt ?","english":"Gus Walks Into a Bank","hoster":["PutLocker"]},
+                {"german":"Es begab sich aber zu der Zeit ? viel zu viel!","english":"Christmas Joy","hoster":["PutLocker"]},
+                {"german":"Gemordet wird immer","english":"Six Feet Under the Sea","hoster":["PutLocker"]},
+                {"german":"Böser, böser Lassie","english":"Lassie Did a Bad, Bad Thing","hoster":["PutLocker"]},
+                {"german":"Feuer mit Feuer","english":"Earth, Wind and? Wait for It","hoster":["PutLocker"]},
+                {"german":"Wofür braucht ein Toter auch zwei Füße?","english":"Any Given Friday Night","hoster":["PutLocker"]},
+                {"german":"Wahrere Lügen","english":"Truer Lies","hoster":[]},
+                {"german":"Dienstag, der 17","english":"Tuesday the 17th","hoster":["PutLocker"]},
+                {"german":"Ein Abend mit dem geheimnisvollen Mr. Yang","english":"An Evening with Mr. Yang","hoster":["PutLocker"]}
+         ]
+}

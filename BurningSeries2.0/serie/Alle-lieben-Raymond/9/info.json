@@ -1,0 +1,24 @@
+{
+        "series":"Alle lieben Raymond",
+        "seasons":9,
+        "cover":"Alle-lieben-Raymond_fc686af2b853c140fb5eda67e16ef9c7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Das neue Zuhause","english":"The Home","hoster":["PutLocker"]},
+                {"german":"Zu früh gefreut","english":"Not So Fast","hoster":["PutLocker"]},
+                {"german":"Wut und Sex","english":"Angry Sex","hoster":["PutLocker"]},
+                {"german":"Sexbombe","english":"P.T. &amp; A","hoster":["PutLocker"]},
+                {"german":"Der fiese Lehrer","english":"Ally&#039;s F","hoster":["PutLocker"]},
+                {"german":"Die Männertherapie","english":"Boys&#039; Therapy","hoster":["PutLocker"]},
+                {"german":"Sex mit dem Ex","english":"Debra&#039;s Parents","hoster":["PutLocker"]},
+                {"german":"Seid fruchtbar und mehret euch","english":"A job for Robert","hoster":["PutLocker"]},
+                {"german":"Ein Date für Peter","english":"A Date for Peter","hoster":["PutLocker"]},
+                {"german":"Eine Hand beißt die andere","english":"Favors","hoster":["PutLocker"]},
+                {"german":"Das Fettnäpfchen","english":"The Faux Pas","hoster":["PutLocker"]},
+                {"german":"Der dritte Fuß","english":"Tasteless Frank","hoster":["PutLocker"]},
+                {"german":"Die Schnattergans","english":"Sister-In-Law","hoster":["PutLocker"]},
+                {"german":"Wer fragt verliert","english":"The Power of No","hoster":["PutLocker"]},
+                {"german":"Viel Rauch um Nichts","english":"Pat&#039;s Secret","hoster":["PutLocker"]},
+                {"german":"Finale","english":"Finale","hoster":["PutLocker"]}
+         ]
+}

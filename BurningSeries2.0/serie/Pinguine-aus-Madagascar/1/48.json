@@ -1,0 +1,16 @@
+{ 
+         "titlede":"Abgetaucht",
+         "titleen":"Snakehead",
+         "description":"Eine Entenfamilie bittet die Pinguine um Hilfe: Eine riesige Forelle hat die Enten aus ihrem Teich vertrieben. Das lässt sich Skipper nicht zwei Mal sagen, er will den Kampf gegen den Fisch aufnehmen. Unter Kowalskis Anleitung bauen die Pinguine ein U-Boot und nehmen die Verfolgung des Fischs auf.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7670407/Abgetaucht_Teil_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7670424/Abgetaucht_Teil_2"
+                }
+       ]
+}

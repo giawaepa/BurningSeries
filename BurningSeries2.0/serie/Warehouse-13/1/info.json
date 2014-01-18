@@ -1,0 +1,21 @@
+{
+        "series":"Warehouse 13",
+        "seasons":3,
+        "cover":"Warehouse-13_93f78768ca2f8ae84eadc580f851f733.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Kamm der Borgia (1)","english":"Pilot (1)","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Kamm der Borgia (2)","english":"Pilot (2)","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Klang der Musik","english":"Resonance","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Unterbewusstes Verlangen","english":"Magnetism","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Das Rheticus-Experiment","english":"Claudia","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Die Elemente der Macht","english":"Elements","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Das Rückgrat des Sarazenen","english":"Burnout","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Das Schwert des Samurai","english":"Implosion","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Gefangen im Spiegel","english":"Duped","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die Visionen der Reue","english":"Regrets","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Das Tribunal der Räte","english":"Breakdown","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Die Macht der Worte","english":"Nevermore","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Ein Ende mit Schrecken","english":"MacPherson","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]}
+         ]
+}

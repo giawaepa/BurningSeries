@@ -1,0 +1,24 @@
+{
+        "series":"Monk",
+        "seasons":8,
+        "cover":"Monk_bfa22242c5b58dd205872102d92eeed7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"	Mr. Monks Lieblingsserie","english":"Mr. Monk&#039;s Favorite Show","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der Fremde","english":"Mr. Monk and The Foreign Man","hoster":["PutLocker"]},
+                {"german":"Mr. Monk kann kein Mensch sein","english":"Mr. Monk and the UFO","hoster":["PutLocker"]},
+                {"german":"Mr. Monk verliebt sich in sein neues Spiegelbild","english":"Mr. Monk is Someone Else","hoster":["PutLocker"]},
+                {"german":"Mr. Monk in der Krise","english":"Mr. Monk Takes the Stand","hoster":["PutLocker"]},
+                {"german":"Mr. Monk, die Schönen und das Biest","english":"Mr. Monk and the Critic","hoster":["PutLocker"]},
+                {"german":"Mr. Monk im Unheil des Voodoos","english":"Mr. Monk and the Voodoo Curse","hoster":["PutLocker"]},
+                {"german":"Mr. Monk muss zur Gruppentherapie","english":"Mr. Monk Goes to Group Therapy","hoster":["PutLocker"]},
+                {"german":"Mr. Monk feiert nicht freiwillig Geburtstag","english":"Happy Birthday, Mr. Monk","hoster":["PutLocker"]},
+                {"german":"Mr. Monk mit Natalie - und Sharona?","english":"Mr. Monk and Sharona","hoster":["PutLocker"]},
+                {"german":"Mr. Monk kommt auf den Hund","english":"Mr. Monk and the Dog","hoster":["PutLocker"]},
+                {"german":"Mr. Monk riskiert seine Wiedereinstellung","english":"Mr. Monk Goes Camping","hoster":["PutLocker"]},
+                {"german":"Mr. Monk ermittelt als Trauzeuge","english":"Mr. Monk Is the Best Man","hoster":["PutLocker"]},
+                {"german":"Mr. Monks Freude endet am Schreibtisch","english":"Mr. Monk and the Badge","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und Trudys Erbe ? Teil 1","english":"Mr. Monk and the End (Part One)","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und Trudys Erbe - Teil 2","english":"Mr. Monk and the End (Part Two)","hoster":["PutLocker"]}
+         ]
+}

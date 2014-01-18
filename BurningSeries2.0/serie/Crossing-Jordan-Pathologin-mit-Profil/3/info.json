@@ -1,0 +1,21 @@
+{
+        "series":"Crossing Jordan ? Pathologin mit Profil",
+        "seasons":6,
+        "cover":"Crossing-Jordan-Pathologin-mit-Profil_6dac90ade86fd217c84a73877cbf765b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Blutsbande","english":"Oh, Brother Where Art Thou?","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Sündenfall","english":"&#039;Til Death Do Us Part","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kalte Spuren","english":"Slam Dunk","hoster":["PutLocker","Sockshare"]},
+                {"german":"Eiskalt","english":"Devil May Care","hoster":["PutLocker","Sockshare"]},
+                {"german":"Entführt","english":"Missing Pieces","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Plutonium-Deal","english":"&quot;Is That Plutonium In Your Pocket. Or Are You Just...?&quot;","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Handschrift des Mörders","english":"Dead Or Alive","hoster":["PutLocker","Sockshare"]},
+                {"german":"Eine zweite Chance","english":"Second Chances","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein harter Schlag","english":"Most Likely","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Todesengel","english":"All The News Fit To","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Blutsauger","english":"Revealed","hoster":["PutLocker","Sockshare"]},
+                {"german":"Rattengift","english":"He Said, She Said","hoster":["PutLocker","Sockshare"]},
+                {"german":"Tod in den Fluten","english":"Dead In The Water","hoster":["PutLocker","Sockshare"]}
+         ]
+}

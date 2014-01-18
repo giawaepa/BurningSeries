@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Plan B",
+         "titleen":"Episode 118",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4972820/Naruto_Folge_118_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4972837/Naruto_Folge_118_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4972873/Naruto_Folge_118_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"A5D443F03777A68B"
+                }
+       ]
+}

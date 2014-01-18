@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Die Entscheidung",
+         "titleen":"Consider Me Gone",
+         "description":"Endlich hat Alf Funkkontakt mit einem Raumschiff von Melmac. Seine Freunde Skip und Ronda wollen ihn abholen. Alf nimmt Abschied von den Tanners und begibt sich zum Treffpunkt.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7026881/ALF_Die_Entscheidung_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7026928/ALF_Die_Entscheidung_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7027089/ALF_Die_Entscheidung_3_3"
+                }
+       ]
+}

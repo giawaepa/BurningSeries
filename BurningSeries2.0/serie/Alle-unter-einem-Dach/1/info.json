@@ -1,0 +1,30 @@
+{
+        "series":"Alle unter einem Dach",
+        "seasons":9,
+        "cover":"Alle-unter-einem-Dach_2db8eb16cd5d05a61805adfcf8c1d513.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Hilfe, Mama kommt!","english":"The Mama Who Came to Dinner","hoster":["PutLocker"]},
+                {"german":"Die Manager-Mutter","english":"Two-Income Family","hoster":[]},
+                {"german":"Alles frei erfunden!","english":"Short Story","hoster":[]},
+                {"german":"Romantik zu dritt","english":"Rachel&#039;s First Date","hoster":[]},
+                {"german":"Der Einserschüler","english":"Straight A&#039;s","hoster":[]},
+                {"german":"Kein Bock auf Basketball","english":"Basketball Blues","hoster":[]},
+                {"german":"Prachtstück mit Beule","english":"Body Damage","hoster":[]},
+                {"german":"Sag Mama!","english":"Mr. Badwrench","hoster":[]},
+                {"german":"Die Kung Fu-Oma","english":"Stake-Out","hoster":[]},
+                {"german":"Handschellen für den Star","english":"False Arrest","hoster":[]},
+                {"german":"Omas Decke","english":"The Quilt","hoster":[]},
+                {"german":"Rendezvous mit drei Verehrern","english":"Laura&#039;s First Date","hoster":[]},
+                {"german":"Der Hund muss weg!","english":"Man&#039;s Best Friend","hoster":[]},
+                {"german":"Der König der Törtchen","english":"Baker&#039;s Dozens","hoster":[]},
+                {"german":"Dicke Freunde","english":"The Big Reunion","hoster":[]},
+                {"german":"Die Party des Jahres","english":"The Party","hoster":[]},
+                {"german":"Ein unvergesslicher Abend","english":"The Big Fix","hoster":[]},
+                {"german":"Nur fünfzehn Kinder!","english":"Sitting Pretty","hoster":[]},
+                {"german":"Der berühmte Winslow-Schlag","english":"In a Jam","hoster":[]},
+                {"german":"Der Kandidat hat keine Ahnung","english":"The Candidate","hoster":[]},
+                {"german":"Kurzschluss auf der Bowlingbahn","english":"Bowl Me Over","hoster":[]},
+                {"german":"Der Winslow-Rap","english":"Rock Video","hoster":[]}
+         ]
+}

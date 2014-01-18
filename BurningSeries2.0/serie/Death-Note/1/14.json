@@ -1,0 +1,16 @@
+{ 
+         "titlede":"Freund",
+         "titleen":"Friend",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"01FB82E5F7C82CB9"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"BA0B05971D601657"
+                }
+       ]
+}

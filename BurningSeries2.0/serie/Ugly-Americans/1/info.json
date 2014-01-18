@@ -1,0 +1,22 @@
+{
+        "series":"Ugly Americans",
+        "seasons":2,
+        "cover":"Ugly-Americans_44da35a8a58c78e1dd87271eb9ea31a6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Pilot - Date in der Hölle","english":"Pilot","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Es war einmal ein American Werewolf","english":"An American Werewolf in America","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Das Dämonen-Baby","english":"Demon Baby","hoster":["PutLocker","MySpass"]},
+                {"german":"Ein Job für den Blob","english":"Blob Gets Job","hoster":["PutLocker","MySpass"]},
+                {"german":"Höhepunkte der Natur","english":"Treegasm","hoster":["PutLocker","MySpass"]},
+                {"german":"Du willst also Vampir werden?","english":"So, You Want To Be A Vampire","hoster":["PutLocker","MySpass"]},
+                {"german":"Kong of Queens","english":"Kong of Queens","hoster":["PutLocker","MySpass"]},
+                {"german":"Untote haben&#039;s besser","english":"Better Off Undead","hoster":["PutLocker","MySpass"]},
+                {"german":"Leonard muss sterben!","english":"Kill, Mark, Kill!","hoster":["MySpass"]},
+                {"german":"","english":"Sympathy for the Devil","hoster":["MySpass"]},
+                {"german":"Familienfest in der Hölle","english":"Hell for the Holidays","hoster":["MySpass"]},
+                {"german":"Das wahre Leben","english":"Trolling for Terror","hoster":["MySpass"]},
+                {"german":"Die Puzzle-Box","english":"Soulsucker","hoster":["MySpass"]},
+                {"german":"Die Manbirds","english":"The Man Birds","hoster":["MySpass"]}
+         ]
+}

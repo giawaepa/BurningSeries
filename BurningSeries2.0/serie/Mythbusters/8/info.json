@@ -1,0 +1,33 @@
+{
+        "series":"MythBusters ? Die Wissensjäger",
+        "seasons":9,
+        "cover":"MythBusters-Die-Wissensjaeger_cc60346d8cc8ecf4693d55ce07daf622.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Bumerang Kugeln","english":"Boomerang Bullet","hoster":[]},
+                {"german":"Limo Geschoss","english":"Soda Cup Killer","hoster":[]},
+                {"german":"Fertig zum Abtauchen","english":"Dive to Survive","hoster":[]},
+                {"german":"Verfolgungsjagd Special","english":"Spy Car Escape","hoster":[]},
+                {"german":"Scherben bringen Glück","english":"Bottle Bash","hoster":[]},
+                {"german":"","english":"No Pain, No Gain","hoster":[]},
+                {"german":"","english":"Mythssion Control","hoster":[]},
+                {"german":"","english":"Duct Tape Hour 2","hoster":[]},
+                {"german":"","english":"Waterslide Wipeout","hoster":[]},
+                {"german":"","english":"Fireball Stun Gun","hoster":[]},
+                {"german":"Der Nasen-Tornado","english":"Flu Fiction","hoster":["PutLocker"]},
+                {"german":"","english":"MythBusters Top 25 Moments","hoster":[]},
+                {"german":"","english":"Car Conundrum","hoster":[]},
+                {"german":"","english":"Hair of the Dog","hoster":[]},
+                {"german":"","english":"Storm Chasing Myths","hoster":[]},
+                {"german":"","english":"Cold Feet","hoster":[]},
+                {"german":"","english":"Tablecloth Chaos","hoster":[]},
+                {"german":"","english":"Arrow Machine Gun","hoster":[]},
+                {"german":"","english":"Mini Myth Madness","hoster":[]},
+                {"german":"","english":"Reverse Engineering","hoster":[]},
+                {"german":"","english":"Inverted Underwater Car","hoster":[]},
+                {"german":"","english":"Bug Special","hoster":[]},
+                {"german":"","english":"President&#039;s Challenge","hoster":[]},
+                {"german":"","english":"Green Hornet Special","hoster":[]},
+                {"german":"","english":"Operation Valkyrie","hoster":[]}
+         ]
+}

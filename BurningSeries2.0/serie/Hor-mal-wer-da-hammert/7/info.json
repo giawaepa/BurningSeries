@@ -1,0 +1,33 @@
+{
+        "series":"Hör mal, wer da hämmert",
+        "seasons":8,
+        "cover":"Hoer-mal-wer-da-haemmert_b8fa4de126ccdd7ebe5087ef115e5452.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Midlife-Crisis","english":"Quest For Fire","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Im Namen der Wahrheit","english":"Clash Of The Taylors","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Tim im Arbeitsrausch","english":"Room At The Top","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Wunderkind Brad","english":"Pump You Up","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"In Angst und Schrecken","english":"A Night To Dismember","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Wilsons Nichte","english":"The Niece","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Heimliche Leidenschaft","english":"Jill&#039;s Passion","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der ungläubige Sohn","english":"Losing My Religion","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Thanksgiving einmal anders","english":"Thanksgiving","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Lohn der Angst","english":"The Dating Game","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Strahlende Weihnacht","english":"Bright Christmas","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Zurück im College","english":"The Old College Try","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Brads neue Freundin","english":"An Older Woman","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der perfekte Mieter","english":"Tim &#039;the Landlord&#039; Taylor","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Vater werden ist nicht schwer?","english":"Say Goodnight, Gracie","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Brad auf Abwegen","english":"What A Drag","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Szenen einer Ehe","english":"Taking Jill For Granite","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Schöne und der Bär","english":"Futile Attraction","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Willow verzweifelt gesucht","english":"Desperately Seeking Willow","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Reporterkampf","english":"The Write Stuff","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Bruderzwist","english":"The Son Also Mooches","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Glaub&#039; es oder glaub&#039; es nicht","english":"Believe It Or Not","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das Nachtfahrverbot","english":"Rebel Without Night Driving Privileges","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das Weltall ruft an","english":"Tool-thousand-one: A Space Odyssey","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Frauen ganz oben","english":"From Top To Bottom","hoster":["YouTube","PutLocker","DivxStage"]}
+         ]
+}

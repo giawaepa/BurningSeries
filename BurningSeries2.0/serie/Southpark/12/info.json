@@ -1,0 +1,22 @@
+{
+        "series":"South Park",
+        "seasons":15,
+        "cover":"South-Park_5a9e7a27200896c407a230a91f9bc93c.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Ärger mit den Mandeln","english":"Tonsil Trouble","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Britney&#039;s neuer Look","english":"Britney&#039;s New Look","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Katerstimmung","english":"Major Boobage","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Kanada im Streik","english":"Canada on Strike","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Huch, ein Penis!","english":"Eek, A Penis!","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Keine Verbindung","english":"Over Logging","hoster":["PutLocker","BitShare","MySpass"]},
+                {"german":"Super Phun Thyme","english":"Super Fun Time","hoster":["PutLocker","MySpass"]},
+                {"german":"Das China-Problem","english":"The China Problem","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Busenfeinde","english":"Breast Cancer Show Ever","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Pandemic","english":"Pandemic (1)","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Pandemic 2 - The Startling","english":"Pandemic 2 - The Startling (2)","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Obama&#039;s Eleven","english":"About Last Night...","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Elementary School Musical","english":"Elementary School Musical","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Butters im Bann der Dämonen","english":"The Ungroundable","hoster":["PutLocker","Sockshare","MySpass"]}
+         ]
+}

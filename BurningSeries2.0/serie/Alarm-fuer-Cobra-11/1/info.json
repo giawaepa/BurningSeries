@@ -1,0 +1,17 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Bomben bei Kilometer 92","english":"","hoster":[]},
+                {"german":"Rote Rosen, schwarzer Tod","english":"","hoster":["PutLocker"]},
+                {"german":"Der neue Partner","english":"","hoster":["PutLocker"]},
+                {"german":"Mord und Totschlag","english":"","hoster":["PutLocker"]},
+                {"german":"Tod bei Tempo 100","english":"","hoster":["PutLocker"]},
+                {"german":"Der Alte und der Junge","english":"","hoster":["PutLocker"]},
+                {"german":"Falsches Blaulicht","english":"","hoster":["PutLocker"]},
+                {"german":"Der Samurai","english":"","hoster":["PutLocker"]},
+                {"german":"Endstation für alle","english":"","hoster":["PutLocker"]}
+         ]
+}

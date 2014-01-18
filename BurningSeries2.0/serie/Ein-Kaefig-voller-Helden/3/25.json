@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Die schöne Wilhelmina",
+         "titleen":"LeBeau and the little old Lady",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6506815/Die_schoene_Wilhelmina_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6506979/Die_schoene_Wilhelmina_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6511970/Die_schoene_Wilhelmina_3_3"
+                }
+       ]
+}

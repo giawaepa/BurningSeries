@@ -1,0 +1,31 @@
+{
+        "series":"Das A-Team",
+        "seasons":5,
+        "cover":"Das-A-Team_326982f33c15520fd5d58216d5ecfd79.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Eine Seefahrt, die ist lustig (1)","english":"Judgement Day (1)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eine Seefahrt, die ist lustig (2)","english":"Judgement Day (2)","hoster":["PutLocker"]},
+                {"german":"Wo ist das Monster, wenn man es braucht?","english":"Where Is The Monster When You Need Him?","hoster":["PutLocker"]},
+                {"german":"Mutter in Not","english":"Lease With An Option To Die","hoster":["PutLocker"]},
+                {"german":"Der Pennbruder","english":"The Road To Hope","hoster":["PutLocker"]},
+                {"german":"Hinter Gittern","english":"The Heart Of Rock","hoster":["PutLocker"]},
+                {"german":"Das FBI ist immer dabei","english":"Body SlamBody Slam","hoster":["PutLocker"]},
+                {"german":"Blood, Sweat And Cheers","english":"Blood, Sweat And Cheers","hoster":["PutLocker"]},
+                {"german":"Der rote Tod und seine Tochter","english":"Mind Games","hoster":["PutLocker"]},
+                {"german":"Die lieben Nachbarn","english":"There Goes The Neighborhood","hoster":["PutLocker"]},
+                {"german":"Diagnose: Größenwahn","english":"The Doctor Is Out","hoster":["PutLocker"]},
+                {"german":"Ein Bärendienst","english":"Uncle Buckle-up","hoster":["PutLocker"]},
+                {"german":"Glücksrad","english":"Wheel Of Fortune","hoster":["PutLocker"]},
+                {"german":"Feinde unter sich","english":"The A-team Is Coming, The A-team Is Coming","hoster":["PutLocker"]},
+                {"german":"Nur für Mitglieder","english":"Members Only","hoster":["PutLocker"]},
+                {"german":"George, der Cowboy","english":"Cowboy George","hoster":["PutLocker"]},
+                {"german":"Der Schein trügt","english":"Waiting For Insane Wayne","hoster":["PutLocker"]},
+                {"german":"Hannibals rettender Plan","english":"The Duke Of Whispering Pines","hoster":["PutLocker"]},
+                {"german":"Ein Jugendfreund in Nöten","english":"Beneath The Surface","hoster":["PutLocker"]},
+                {"german":"Lederstrumpf reitet weiter","english":"Mission Of Peace","hoster":["PutLocker"]},
+                {"german":"Ärger mit Harry","english":"The Trouble With Harry","hoster":[]},
+                {"german":"Der Boss ist gar nicht tot","english":"A Little Town With An Accent","hoster":["PutLocker"]},
+                {"german":"Zurück in Vietnam","english":"The Sound Of Thunder","hoster":["PutLocker"]}
+         ]
+}

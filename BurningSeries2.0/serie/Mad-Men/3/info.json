@@ -1,0 +1,21 @@
+{
+        "series":"Mad Men",
+        "seasons":4,
+        "cover":"Mad-Men_281facf042e84d97cba1d07f887cbd79.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Nichts wie raus hier","english":"Out of Town","hoster":[]},
+                {"german":"Liebe und andere Baustellen","english":"Love Among the Ruins","hoster":[]},
+                {"german":"Im Rausch","english":"My Old Kentucky Home","hoster":[]},
+                {"german":"Mein Wille geschehe","english":"The Arrangements","hoster":[]},
+                {"german":"Im Nebel","english":"The Fog","hoster":[]},
+                {"german":"Hereinspaziert","english":"Guy Walks Into an Advertising Agency","hoster":[]},
+                {"german":"Seven Twenty Three","english":"Seven Twenty Three","hoster":[]},
+                {"german":"Damals in Rom","english":"Souvenir","hoster":[]},
+                {"german":"Wee Small Hours","english":"Wee Small Hours","hoster":[]},
+                {"german":"The Color Blue","english":"The Color Blue","hoster":[]},
+                {"german":"Von Zigeunern und Landstreichern","english":"The Gypsy and the Hobo","hoster":[]},
+                {"german":"Trauerspiel","english":"The Grown-Ups","hoster":[]},
+                {"german":"Shut the Door. Have a Seat","english":"Shut the Door, Have a Seat","hoster":[]}
+         ]
+}

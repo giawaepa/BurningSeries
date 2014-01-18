@@ -1,0 +1,26 @@
+{
+        "series":"American Dad",
+        "seasons":7,
+        "cover":"American-Dad_ff475b83acefe494dafbe34c812419d8.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Soldat Steve Smith","english":"In Country... Club","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Der Diktator von Isla Island","english":"Moon over Isla Island","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Steve allein zu Haus","english":"Home Adrone","hoster":["PutLocker","Sockshare"]},
+                {"german":"Meine Frau, mein Alien und ich","english":"Brains, Brains and Automobiles","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Das Kind im Manne","english":"Man in the Moonbounce","hoster":["PutLocker","BitShare"]},
+                {"german":"Mehr Schein als Sein","english":"Shallow Vows","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Mein persönlicher Rockstar","english":"My Morning Straitjacket","hoster":["PutLocker","BitShare"]},
+                {"german":"Der Leoparden-Tanga","english":"G-String Circus","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Die verrückte Entrückung","english":"Rapture&#039;s Delight","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Episode 10","english":"Don&#039;t look a Smith Horse in the Mouth","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Episode 11","english":"A Jones for a Smith","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Episode 12","english":"May the best Stan win","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Episode 13","english":"The Return of the Bling","hoster":["PutLocker","Sockshare"]},
+                {"german":"Episode 14","english":"Cops and Roger","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Episode 15","english":"Merlot Down Dirty Shame","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Episode 16","english":"Bully for Steve","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Episode 17","english":"An Incident at Owl Creek","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Episode 18","english":"Great Space Roaster","hoster":["PutLocker","Sockshare","UploadC"]}
+         ]
+}

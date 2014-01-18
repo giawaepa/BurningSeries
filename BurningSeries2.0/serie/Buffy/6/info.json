@@ -1,0 +1,30 @@
+{
+        "series":"Buffy ? Im Bann der Dämonen",
+        "seasons":7,
+        "cover":"Buffy-Im-Bann-der-Daemonen_2390181eb7a9fad2f38e699ee61e40e3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Auferstehung - Teil 1","english":"Bargaining (1)","hoster":["RapidVideo"]},
+                {"german":"Die Auferstehung - Teil 2","english":"Bargaining (2)","hoster":[]},
+                {"german":"Gruß aus der Hölle","english":"After Life","hoster":["RapidVideo"]},
+                {"german":"Geld und andere Sorgen","english":"Flooded","hoster":["RapidVideo"]},
+                {"german":"Die Zeitschleife","english":"Life Serial","hoster":["RapidVideo"]},
+                {"german":"Halloween - Die Nacht der Überraschungen","english":"All the Way","hoster":["RapidVideo"]},
+                {"german":"Noch einmal mit Gefühl","english":"Once More, with Feeling","hoster":["RapidVideo"]},
+                {"german":"Tabula Rasa","english":"Tabula Rasa","hoster":["RapidVideo"]},
+                {"german":"Alte Feinde, neue Freunde?","english":"Smashed","hoster":["RapidVideo"]},
+                {"german":"Der Fluch der Zauberei","english":"Wrecked","hoster":["RapidVideo"]},
+                {"german":"Verschwunden","english":"Gone","hoster":["RapidVideo"]},
+                {"german":"Geheimnisvolle Zutaten","english":"Doublemeat Palace","hoster":["RapidVideo"]},
+                {"german":"Manipulationen","english":"Dead Things","hoster":["RapidVideo"]},
+                {"german":"Ein verfluchter Geburtstag","english":"Older and Far Away","hoster":["RapidVideo"]},
+                {"german":"Überraschender Besuch","english":"As You Were","hoster":["RapidVideo"]},
+                {"german":"Höllische Hochzeit","english":"Hell&#039;s Bells","hoster":["RapidVideo"]},
+                {"german":"Zwei Welten","english":"Normal Again","hoster":["RapidVideo"]},
+                {"german":"Im Chaos der Gefühle","english":"Entropy","hoster":["RapidVideo"]},
+                {"german":"Warrens Rache","english":"Seeing Red","hoster":["RapidVideo"]},
+                {"german":"Wut","english":"Villains","hoster":["RapidVideo"]},
+                {"german":"Da waren&#039;s nur noch zwei","english":"Two to Go","hoster":["RapidVideo"]},
+                {"german":"Der Retter","english":"Grave","hoster":["RapidVideo"]}
+         ]
+}

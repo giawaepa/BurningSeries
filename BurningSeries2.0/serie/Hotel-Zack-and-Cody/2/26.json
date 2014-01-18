@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Gruselfilm",
+         "titleen":"Scary Movie",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=sgn-Ds5EYPc"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=LGomUjFNuug"
+                },{
+                        "hoster":"YouTube",
+                        "part":3,
+                        "link":"=EyGkpXIqS1s"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7265487/Hotel_Zack_Cody_Episode_52_Der_Gruselfilm_1_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7265509/Hotel_Zack_Cody_Episode_52_Der_Gruselfilm_2_2"
+                }
+       ]
+}

@@ -1,0 +1,22 @@
+{
+        "series":"MacGyver",
+        "seasons":7,
+        "cover":"MacGyver_32b13a08c0cdaa31b722c1f6cf3618cd.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Agenten in der Karibik","english":"Honest Abe","hoster":[]},
+                {"german":"Mörderische Absichten","english":"The &#039;Hood","hoster":[]},
+                {"german":"Aber die Leiche fehlte!","english":"Obsessed","hoster":[]},
+                {"german":"Der Feuerteufel","english":"The Prometheus Syndrome","hoster":[]},
+                {"german":"Die Coltons","english":"The Coltons","hoster":[]},
+                {"german":"Die Gärten des Todesbarons","english":"Walking Dead","hoster":[]},
+                {"german":"Ritter MacGyver - Teil 1","english":"Good Knight MacGyver (1)","hoster":[]},
+                {"german":"Ritter MacGyver - Teil 2","english":"Good Knight MacGyver (2)","hoster":[]},
+                {"german":"Tödlicher Hass","english":"Deadly Silents","hoster":[]},
+                {"german":"Der letzte Boxkampf","english":"Split Decision","hoster":[]},
+                {"german":"Der Bandenkrieg","english":"Gunz &#039;N Boyz","hoster":[]},
+                {"german":"Kampf den Spekulanten","english":"Off the Wall","hoster":[]},
+                {"german":"Tod in China","english":"The Stringer","hoster":[]},
+                {"german":"Schweres Wasser","english":"The Mountain of Youth","hoster":[]}
+         ]
+}

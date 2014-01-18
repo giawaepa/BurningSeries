@@ -1,0 +1,14 @@
+{
+        "series":"Ausgesetzt in der Wildnis",
+        "seasons":7,
+        "cover":"Ausgesetzt-in-der-Wildnis_df6212bf0ba49f03423dae4acfbfae23.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Allein in den Sümpfen der Everglades","english":"Everglades","hoster":["PutLocker"]},
+                {"german":"Auf den Gletschern Islands","english":"Iceland","hoster":["YouTube","PutLocker"]},
+                {"german":"In den Canyons von Mexiko","english":"Mexico","hoster":["PutLocker"]},
+                {"german":"In der Hitze Australiens / Allein im Australischen Outback","english":"Kimberly, Australia","hoster":["YouTube","PutLocker"]},
+                {"german":"Allein im Dschungel / Im Dschungel von Ecuador","english":"Ecuador","hoster":["PutLocker"]},
+                {"german":"In den schottischen Highlands","english":"Scotland","hoster":["PutLocker"]}
+         ]
+}

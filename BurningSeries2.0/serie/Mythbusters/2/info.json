@@ -1,0 +1,32 @@
+{
+        "series":"MythBusters ? Die Wissensjäger",
+        "seasons":9,
+        "cover":"MythBusters-Die-Wissensjaeger_cc60346d8cc8ecf4693d55ce07daf622.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Mythen auf dem Prüfstand","english":"Myths Revisited","hoster":[]},
+                {"german":"Tauchgang ins Feuer","english":"Scuba Diver and Car Capers","hoster":["Sockshare"]},
+                {"german":"Die Laserwaffe aus der Römerzeit","english":"Ancient Death Ray","hoster":["Sockshare"]},
+                {"german":"Der abstürzende Aufzug","english":"Elevator of Death, Levitation Machine","hoster":["Sockshare"]},
+                {"german":"Der Sperrholz-Flug","english":"Beat the Radar Detector","hoster":["Sockshare"]},
+                {"german":"Todesangst im Treibsand","english":"Quicksand","hoster":["Sockshare"]},
+                {"german":"Die explodierende Kalorienbombe","english":"Exploding Jawbreaker","hoster":["Sockshare"]},
+                {"german":"Schiffsbergung mit Tischtennisbällen","english":"Pingpong Rescue","hoster":["Sockshare"]},
+                {"german":"Das Mega-Katapult","english":"Boom-Lift Catapult","hoster":["Sockshare"]},
+                {"german":"Killergase unterm Dach","english":"Exploding House","hoster":["Sockshare"]},
+                {"german":"Der Astronaut aus der Vergangenheit","english":"Ming Dynasty Astronaut","hoster":["Sockshare"]},
+                {"german":"Der braune Ton","english":"Brown Note","hoster":[]},
+                {"german":"Gefängnis-Ausbrüche","english":"Salsa Escape","hoster":[]},
+                {"german":"Autohochsprung","english":"Exploding Port-a-Potty","hoster":[]},
+                {"german":"Toastfalltest","english":"Is Yawning Contagious?","hoster":[]},
+                {"german":"Sixpack kühlen","english":"Cooling a Six-Pack","hoster":[]},
+                {"german":"Kugelempfängnis","english":"Son of a Gun","hoster":[]},
+                {"german":"Glasbruch durch Stimme","english":"Breaking Glass","hoster":[]},
+                {"german":"Raketenrucksack","english":"Jet Pack","hoster":[]},
+                {"german":"Richtige Haltung bei einem Flugzeugabsturz","english":"Killer Brace Position","hoster":[]},
+                {"german":"Wasser als Kugelschutz","english":"Bulletproof Water","hoster":[]},
+                {"german":"Die gigantische Menschenschleuder","english":"Border Slingshot","hoster":[]},
+                {"german":"Papiertaschentuch-Hutablagentest","english":"Killer Tissue Box","hoster":[]},
+                {"german":"Gummiboot als Fallschirm","english":"Escape Slide Parachute","hoster":[]}
+         ]
+}

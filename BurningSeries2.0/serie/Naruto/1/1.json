@@ -1,0 +1,36 @@
+{ 
+         "titlede":"Wer ist Naruto?",
+         "titleen":"Episode 1",
+         "description":"Naruto, ein Waisenjunge aus dem Dorf, trägt ohne es zu wissen, ein schreckliches Geheimnis buchstäblich in sich - nämlich den Geist des neunschwänzigen Fuchses, der Unheil bringen soll. Alle im Dorf wissen davon, nur Naruto nicht, und so wird er von den meisten gemieden, ohne zu verstehen, warum.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=lmyCeKcvp58"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=85Ua1rsU36U"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"2836603/Naruto_Folge_1_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"2836653/Naruto_Folge_1_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"2837991/Naruto_Folge_1_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"2DF5CA7F85B2AC06"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"9362BAA6164E12AD"
+                }
+       ]
+}

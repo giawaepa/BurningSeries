@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Bei Anruf Mord (1)",
+         "titleen":"Episode 156",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=EvDDKFV9GZo"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5530928/Detektiv_Conan_Folge_156_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5531253/Detektiv_Conan_Folge_156_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5531490/Detektiv_Conan_Folge_156_3_3"
+                }
+       ]
+}

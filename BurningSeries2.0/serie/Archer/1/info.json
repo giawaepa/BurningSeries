@@ -1,0 +1,18 @@
+{
+        "series":"Archer",
+        "seasons":3,
+        "cover":"Archer_316f77981f4415e0e78c3fc42862687b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Maulwurf","english":"Mole Hunt","hoster":[]},
+                {"german":"Tote Nutten leben länger","english":"Training Day","hoster":[]},
+                {"german":"Das Minderheiten-Programm","english":"Diversity Hire","hoster":[]},
+                {"german":"Utne zu Gast","english":"Killing Utne","hoster":[]},
+                {"german":"Der Honeypot","english":"Honeypot","hoster":[]},
+                {"german":"Skorpio","english":"Skorpio","hoster":[]},
+                {"german":"Skytanic","english":"Skytanic","hoster":["PutLocker"]},
+                {"german":"Der Diamant","english":"The Rock","hoster":[]},
+                {"german":"Das Jobangebot","english":"Job Offer","hoster":[]},
+                {"german":"Bei Anruf Mutter","english":"Dial M for Mother","hoster":[]}
+         ]
+}

@@ -1,0 +1,33 @@
+{
+        "series":"H2O ? Plötzlich Meerjungfrau",
+        "seasons":3,
+        "cover":"H2O-Ploetzlich-Meerjungfrau_a42443685e94e128129cddc0a8dbf5ff.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Eine folgenschwere Bootstour","english":"Metamorphosis","hoster":["PutLocker"]},
+                {"german":"Die Poolparty","english":"Pool Party","hoster":["PutLocker"]},
+                {"german":"Im Netz","english":"Catch of the Day","hoster":["PutLocker"]},
+                {"german":"Übernachtung bei Emma","english":"Party Girls","hoster":["YouTube","PutLocker"]},
+                {"german":"Miss Meereskönigin","english":"Something Fishy","hoster":["YouTube","PutLocker"]},
+                {"german":"Elliots geliebte Retterin","english":"Young Love","hoster":["YouTube","PutLocker"]},
+                {"german":"Emma und der Vollmond","english":"Moon Spell","hoster":["YouTube","PutLocker"]},
+                {"german":"Dr. Baywatch","english":"The Denman Affair","hoster":["PutLocker"]},
+                {"german":"Rikki macht fette Beute","english":"Dangerous Waters","hoster":["PutLocker"]},
+                {"german":"Der Filmpreis","english":"The Camera Never Lies","hoster":["PutLocker"]},
+                {"german":"Duell im Wasser","english":"Sink or Swim","hoster":["PutLocker"]},
+                {"german":"Zanes Untergang","english":"Shipwrecked","hoster":["PutLocker"]},
+                {"german":"Kindergeburtstag und Seeungeheuer","english":"Surprise!","hoster":["PutLocker"]},
+                {"german":"Miriam eiskalt","english":"The Big Chill","hoster":["YouTube","PutLocker"]},
+                {"german":"Cleos geheimer Freund","english":"Lovesick","hoster":["PutLocker"]},
+                {"german":"Das Virus","english":"Under the Weather","hoster":["PutLocker"]},
+                {"german":"Rikkis Vollmondnacht","english":"Bad Moon Rising","hoster":["PutLocker"]},
+                {"german":"Nerviger Besuch","english":"Hurricane Angela","hoster":["PutLocker"]},
+                {"german":"Der perfekte Köder","english":"Hook, Line and Sinker","hoster":["YouTube","PutLocker"]},
+                {"german":"Zane auf heißer Spur","english":"Red Herring","hoster":["PutLocker"]},
+                {"german":"Rikkis Geheimnis","english":"Fish Out of Water","hoster":["PutLocker"]},
+                {"german":"Der Anhänger","english":"In Too Deep","hoster":["PutLocker"]},
+                {"german":"Lewis? Spezialdeo","english":"Love Potion #9","hoster":["PutLocker"]},
+                {"german":"Dicht auf der Spur","english":"Dr. Danger","hoster":["PutLocker"]},
+                {"german":"In der Falle","english":"A Twist in the Tail","hoster":["YouTube","PutLocker"]}
+         ]
+}

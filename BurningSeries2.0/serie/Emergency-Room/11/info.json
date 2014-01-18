@@ -1,0 +1,30 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Am Abgrund","english":"One for the Road","hoster":[]},
+                {"german":"Prügelkind","english":"Damaged","hoster":[]},
+                {"german":"Unabhängigkeitstag","english":"Try Carter","hoster":[]},
+                {"german":"Angst","english":"Fear","hoster":[]},
+                {"german":"Als Assistenzarzt durch die Galaxis","english":"An Intern&#039;s Guide to the Galaxy","hoster":[]},
+                {"german":"Todesstunde","english":"Time of Death","hoster":[]},
+                {"german":"Ein Weißer, dunkelhaarig","english":"White Guy, Dark Hair","hoster":[]},
+                {"german":"Ein Schuss im Dunkeln","english":"A Shot in the Dark","hoster":[]},
+                {"german":"Stille Nacht","english":"Twas the Night","hoster":[]},
+                {"german":"Unter die Haut","english":"Skin","hoster":[]},
+                {"german":"Berührungspunkte","english":"Only Connect","hoster":[]},
+                {"german":"Nebenwirkungen","english":"The Providers","hoster":[]},
+                {"german":"Zwischen den Stühlen","english":"Middleman","hoster":[]},
+                {"german":"Ich bin wie ich bin","english":"Just As I Am","hoster":[]},
+                {"german":"Allein unter vielen","english":"Alone in a Crowd","hoster":[]},
+                {"german":"Hier und dort","english":"Here and There","hoster":[]},
+                {"german":"Zurück im Leben","english":"Back in the World","hoster":[]},
+                {"german":"Rettung wird abgelehnt","english":"Refusal of Care","hoster":[]},
+                {"german":"Nennen Sie mich Ruby","english":"Ruby Redux","hoster":[]},
+                {"german":"Positionen","english":"You Are Here","hoster":[]},
+                {"german":"Carter est amoureux","english":"Carter Est Amoureux","hoster":[]},
+                {"german":"The Show Must Go On","english":"The Show Must Go On","hoster":[]}
+         ]
+}

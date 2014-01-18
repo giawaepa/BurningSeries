@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Eine ungewöhnliche Nachricht (2)",
+         "titleen":"Episode 294",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=SbH1t4eRKVE"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=XvnInV7eKQM"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6134224/Detektiv_Conan_Folge_294_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6134701/Detektiv_Conan_Folge_294_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6135064/Detektiv_Conan_Folge_294_3_3"
+                }
+       ]
+}

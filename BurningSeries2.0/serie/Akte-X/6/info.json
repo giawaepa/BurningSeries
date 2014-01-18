@@ -1,0 +1,30 @@
+{
+        "series":"Akte X",
+        "seasons":9,
+        "cover":"Akte-X_81ab1803846af5b33207b81b56a64620html.html",
+        "movies":true,
+        "episodes":[
+                {"german":"Der Anfang","english":"The Beggining","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Fahrt","english":"Drive","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Im Bermuda-Dreieck","english":"Triangle","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Dreamland (1)","english":"Dreamland","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Dreamland (2)","english":"Dreamland II","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Geister, die ich rief","english":"How the Ghosts Stole Christmas","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zeit der Zärtlichkeit","english":"Terms of Endearment","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Regenmacher","english":"The Rain King","hoster":["PutLocker","RapidVideo"]},
+                {"german":"S.R. 819","english":"S.R. 819","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tithonus","english":"Tithonus","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zwei Väter","english":"Two Fathers","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein Sohn","english":"One Son","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Aqua Mala","english":"Aqua Mala","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Montag","english":"Monday","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Arkadien","english":"Arcadia","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Alpha","english":"Alpha","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Trevor","english":"Trevor","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Milagro","english":"Milagro","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ex","english":"The Unnatural","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Suzanne","english":"Three of a Kind","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sporen","english":"Field Trip","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Artefakte","english":"Biogenesis","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

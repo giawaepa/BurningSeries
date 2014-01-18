@@ -1,0 +1,30 @@
+{
+        "series":"My Name is Earl",
+        "seasons":4,
+        "cover":"My-Name-is-Earl_453b444f097435e95810623c0175f3ab.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mein Name ist bloß noch eine Nummer (1)","english":"My Name Is Inmate 28301 - 016, Part 1","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Mein Name ist bloß noch eine Nummer (2)","english":"My Name Is Inmate 28301 - 016, Part 2","hoster":["PutLocker","Sockshare"]},
+                {"german":"Was sich liebt, macht Krieg","english":"The Gangs of Camden County","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Freund oder Frank?","english":"The Frank Factor","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Knastliteratur","english":"Creative Writing","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Gangsterbraut Billie","english":"Frank&#039;s Girl","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wieder ist es fein, kriminell gewesen zu sein (1)","english":"Our Other COPS is On, Part 1","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Wieder ist es fein, kriminell gewesen zu sein (2)","english":"Our Other COPS is On, Part 2","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Flucht ist erst der Anfang (1)","english":"Randy In Charge","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Die Flucht ist erst der Anfang (2)","english":"Midnight Bun","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Tanz der Knasties","english":"Burn Victim","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Freiheit vor der Nase","english":"Early Release","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Besser wieder böse","english":"Bad Earl","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Was diese Hickeys so alles treiben (1)","english":"I Won&#039;t Die With A Little Help From My Friends, Part 1","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Was diese Hickeys so alles treiben (2)","english":"I Won&#039;t Die With A Little Help From My Friends, Part 2","hoster":["PutLocker","Sockshare"]},
+                {"german":"Filmriss","english":"Stole a Motorcycle","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Kein Gras ist über die Sache mit dem Gras gewachsen","english":"No Heads and a Duffel Bag","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Karma, Koma, Killerball","english":"Killerball","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zukunftsbraut Billie","english":"Love Octagon","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Noch eine Liste","english":"Girl Earl","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Verführung der sieben Jungfrauen (1)","english":"Camdenites, Part 1","hoster":["Sockshare"]},
+                {"german":"Die Verführung der sieben Jungfrauen (2)","english":"Camdenites, Part 2","hoster":["Sockshare"]}
+         ]
+}

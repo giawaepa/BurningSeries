@@ -1,0 +1,32 @@
+{
+        "series":"Numb3rs ? Die Logik des Verbrechens",
+        "seasons":6,
+        "cover":"Numb3rs-Die-Logik-des-Verbrechens_8e3e17c52a0c53602826e85ab5fe4c15.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Nach eigenem Ermessen","english":"Judgment Call","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Spiel des Lebens","english":"Better or Worse","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Stalker","english":"Obsession","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kalkuliertes Risiko","english":"Calculated Risk","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Attentat","english":"Assassin","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Weiches Ziel","english":"Soft Target","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Konvergenz","english":"Convergence","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vor aller Augen","english":"In Plain Sight","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Giftig","english":"Toxin","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Knochen des Anstoßes","english":"Bones of Contention","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Brandstiftung","english":"Scorched","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Dominoprinzip","english":"The OG","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Doppelter Einsatz","english":"Double Down","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Blutige Ernte","english":"Harvest","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Läufer","english":"The Running Man","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Protest","english":"Protest","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das zweite Gesicht","english":"Mind Games","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Im Krieg und in der Liebe","english":"All´s Fair","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Dunkle Materie","english":"Dark Matter","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Guns´n´Roses","english":"Guns and Roses","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die vierte Dimension","english":"Rampage","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Backscatter","english":"Backscatter","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vogelgrippe","english":"Undercurrents","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein Teufelskerl","english":"Hot Shot","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

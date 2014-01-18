@@ -1,0 +1,20 @@
+{
+        "series":"Naruto",
+        "seasons":9,
+        "cover":"Naruto_bc08bccee16fcb18ce4ca169bcfe96af.png",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Bande der Ninja - Aussteiger","english":"Episode 209","hoster":["MyVideo"]},
+                {"german":"Überall Täuschungen","english":"Episode 210","hoster":["MyVideo"]},
+                {"german":"Ausgestiegen bei den Aussteigern","english":"Episode 211","hoster":[]},
+                {"german":"König der Banditen","english":"Episode 212","hoster":["MyVideo"]},
+                {"german":"Der Junge ohne Namen","english":"Episode 213","hoster":["MyVideo"]},
+                {"german":"Im Niemandsland","english":"Episode 214","hoster":["MyVideo"]},
+                {"german":"Gegen die Zeit","english":"Episode 215","hoster":["MyVideo"]},
+                {"german":"Die Himmlischen Vier","english":"Episode 216","hoster":[]},
+                {"german":"Operation Revanche","english":"Episode 217","hoster":[]},
+                {"german":"Schlechtes Timing","english":"Episode 218","hoster":[]},
+                {"german":"Die Rückkehr des Seimei","english":"Episode 219","hoster":[]},
+                {"german":"Die Mission Zukunft beginnt!","english":"Episode 220","hoster":[]}
+         ]
+}

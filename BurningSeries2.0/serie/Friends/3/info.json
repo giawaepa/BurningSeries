@@ -1,0 +1,33 @@
+{
+        "series":"Friends",
+        "seasons":10,
+        "cover":"Friends_ecd9c11d4588bc6ea50e8829954d980f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Phantasien","english":"The One With The Princess Leia Fantasy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Eile mit Weile!","english":"The One Where No One&#039;s Ready","hoster":["DivxStage"]},
+                {"german":"Süße Gelüste","english":"The One With The Jam","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die andere Seite des Tunnels","english":"The One With The Metaphorical Tunnel","hoster":["PutLocker","DivxStage"]},
+                {"german":"Erotische Pläne","english":"The One With Frank Jr.","hoster":["PutLocker","DivxStage"]},
+                {"german":"Zurück in die Vergangenheit","english":"The One With The Flashback","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rasende Träume","english":"The One With The Race Car Bed (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hurra, sie leben noch","english":"The One With The Giant Poking Device (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die mit dem Ball spielen","english":"The One With The Football","hoster":["PutLocker","DivxStage"]},
+                {"german":"Knabbereien","english":"The One Where Rachel Quits","hoster":["PutLocker","DivxStage"]},
+                {"german":"Welche Schwester war&#039;s doch gleich?","english":"The One Where Chandler Can&#039;t Remember Which Sister","hoster":["PutLocker","DivxStage"]},
+                {"german":"Lästige Eifersucht","english":"The One With All The Jealousy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Nichts als Freunde?","english":"The One Where Monica And Richard Are Just Friends","hoster":["PutLocker","DivxStage"]},
+                {"german":"Geld oder Freundschaft","english":"The One With Phoebe&#039;s Ex-Partner","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kurzschluss","english":"The One Where Ross And Rachel Take A Break (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Seitensprung","english":"The One The Morning After (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Einsam und verlassen","english":"The One Without The Ski Trip","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wie angle ich mir keinen Millionär","english":"The One With The Hypnosis Tape","hoster":["PutLocker","DivxStage"]},
+                {"german":"Männer ohne Chance","english":"The One With The Tiny T-Shirt","hoster":["PutLocker","DivxStage"]},
+                {"german":"Feuer gefangen","english":"The One With The Dollhouse","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein Huhn und eine Ente","english":"The One With A Chick And A Duck","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Choleriker","english":"The One With The Screamer","hoster":["DivxStage"]},
+                {"german":"Zuviel des Guten","english":"The One With Ross&#039;s Thing","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kampfspiele","english":"The One With The Ultimate Fighting Champion","hoster":["PutLocker","DivxStage"]},
+                {"german":"Entscheidung am Strand","english":"The One At The Beach","hoster":["PutLocker","DivxStage"]}
+         ]
+}

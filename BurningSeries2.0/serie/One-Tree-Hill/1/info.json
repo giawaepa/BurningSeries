@@ -1,0 +1,30 @@
+{
+        "series":"One Tree Hill",
+        "seasons":9,
+        "cover":"One-Tree-Hill_2fa03b219e492507d3b23615a456128d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Brüder","english":"Pilot","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Quälende Angst","english":"The Places You Have Come to Fear the Most","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Gefährliche Nachhilfe","english":"Are You True?","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Ein Schritt zu weit","english":"Crash into You","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Vater gegen Sohn","english":"All That You Can?t Leave Behind","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Geschichten einer Nacht","english":"Every Night Is Another Story","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Leben im Glashaus","english":"Life in a Glass House","hoster":["MyVideo","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Die Suche nach mehr","english":"The Search for Something More","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Unter Druck","english":"With Arms Outstretched","hoster":["MyVideo","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Männerwochenende","english":"You Gotta Go There to Come Back","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Familientherapie","english":"The Living Years","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Crashkurs in Höflichkeit","english":"Crash Course in Polite Conversations","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Tragische Zusammenstöße","english":"Hanging by a Moment","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Glaube versetzt Berge","english":"I Shall Believe","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Plötzlich ist alles anders","english":"Suddenly Everything Has Changed","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Erklärungsversuche","english":"The First Cut Is the Deepest","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Nächtliches Treiben","english":"Spirit in the Night","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Die guten alten Zeiten","english":"To Wish Impossible Things","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Schwanger oder nicht?","english":"How Can You Be Sure?","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Party mit Folgen","english":"What Is and What Should Never Be","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Abschiedsschmerz","english":"The Leaving Song","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Die richtige Entscheidung","english":"The Games That Play Us","hoster":["PutLocker","Sockshare","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{
+        "series":"Stargate Atlantis",
+        "seasons":5,
+        "cover":"Stargate-Atlantis_ee999920628865c8e0efe0eced7ee852html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Such- und Rettungsaktion","english":"Search and Rescue (2)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Keim","english":"The Seed","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Gelöste Fesseln","english":"Broken Ties","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Daedalus Variationen","english":"The Daedalus Variations","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Geist in der Maschine","english":"Ghost in the Machine","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Schrein","english":"The Shrine","hoster":["MyVideo","PutLocker"]},
+                {"german":"Geflüster","english":"Whispers","hoster":["MyVideo","PutLocker"]},
+                {"german":"Die Königin","english":"The Queen","hoster":["MyVideo","PutLocker"]},
+                {"german":"Fährtensucher","english":"Tracker","hoster":["MyVideo","PutLocker"]},
+                {"german":"Erster Kontakt","english":"First Contact (1)","hoster":["MyVideo","PutLocker"]},
+                {"german":"Der Verlorene Stamm","english":"The Lost Tribe (2)","hoster":["MyVideo","PutLocker"]},
+                {"german":"Aussenseiter","english":"Outsiders","hoster":["MyVideo","PutLocker"]},
+                {"german":"Inquisition","english":"Inquisition","hoster":["MyVideo","PutLocker"]},
+                {"german":"Mutterliebe","english":"The Prodigal","hoster":["MyVideo","PutLocker"]},
+                {"german":"Überreste","english":"Remnants","hoster":["MyVideo","PutLocker"]},
+                {"german":"Eiszeit","english":"Brain Storm","hoster":["MyVideo","PutLocker"]},
+                {"german":"Infektion","english":"Infection","hoster":["MyVideo","PutLocker"]},
+                {"german":"Identität","english":"Identity","hoster":["MyVideo","PutLocker"]},
+                {"german":"Vegas","english":"Vegas","hoster":["MyVideo","PutLocker"]},
+                {"german":"Feind in Sicht","english":"Enemy at the Gate","hoster":["MyVideo","PutLocker"]}
+         ]
+}

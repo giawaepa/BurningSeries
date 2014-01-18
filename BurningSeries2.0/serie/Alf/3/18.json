@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der Liebesdiener",
+         "titleen":"Standing in the Shadows of Love",
+         "description":"Jake Ochmonek hat sich in eine Schulkameradin verliebt. Er wagt aber nicht, sie anzusprechen. Alf will ein bisschen nachhelfen. Er macht das so gründlich, dass er einige Turbulenzen heraufbeschwört.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6824664/ALF_Der_Liebesdiener_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6824768/ALF_Der_Liebesdiener_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6824698/ALF_Der_Liebesdiener_3_3"
+                }
+       ]
+}

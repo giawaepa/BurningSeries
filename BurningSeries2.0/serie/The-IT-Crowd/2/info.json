@@ -1,0 +1,14 @@
+{
+        "series":"The IT Crowd",
+        "seasons":4,
+        "cover":"The-IT-Crowd_18ba26fab4f72050ce30de428ce1e031.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Betriebsausflug","english":"The Work Outing","hoster":[]},
+                {"german":"Wem die Stunde schlägt","english":"Return of the Golden Child","hoster":[]},
+                {"german":"Moss und der Deutsche","english":"Moss And The German","hoster":[]},
+                {"german":"Kein perfektes Dinner","english":"The Dinner Party","hoster":[]},
+                {"german":"Der Super-BH","english":"Smoke and Mirrors","hoster":[]},
+                {"german":"Der Zaubertrank","english":"Men Without Women","hoster":[]}
+         ]
+}

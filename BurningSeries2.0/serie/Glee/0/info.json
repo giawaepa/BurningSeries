@@ -1,0 +1,9 @@
+{
+        "series":"Glee",
+        "seasons":3,
+        "cover":"Glee_aa7bd911901dda80b0a6f0abaab8966e.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Glee on Tour - Der 3D Film","english":"","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,22 @@
+{
+        "series":"South Park",
+        "seasons":15,
+        "cover":"South-Park_5a9e7a27200896c407a230a91f9bc93c.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Sexual Healing","english":"Sexual Healing","hoster":["PutLocker","BitShare","UploadC","MySpass"]},
+                {"german":"Als die Kacke Pipi musste","english":"The Tale of Scrotie McBoogerballs","hoster":["PutLocker","DivxStage","RapidVideo","BitShare","MySpass"]},
+                {"german":"THC versus KFC","english":"Medicinal Fried Chicken","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","MySpass"]},
+                {"german":"Du hast 0 Freunde","english":"You Have 0 Friends","hoster":["PutLocker","Sockshare","RapidVideo","MySpass"]},
+                {"german":"","english":"200","hoster":["PutLocker","MySpass"]},
+                {"german":"","english":"201","hoster":["MySpass"]},
+                {"german":"Krüppel Camp","english":"Crippled Summer","hoster":["PutLocker","DivxStage","RapidVideo","BitShare"]},
+                {"german":"Arm aber dämlich","english":"Poor And Stupid","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"So&#039;n Jersey Ding","english":"It?s a Jersey Thing","hoster":["PutLocker","DivxStage","MySpass"]},
+                {"german":"Messie-Syndrom","english":"Insheeption","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Der Coon 2","english":"Coon 2: Hindsight","hoster":["PutLocker","Sockshare","BitShare","MySpass"]},
+                {"german":"Mysterion schlägt zurück","english":"Mysterion Rises","hoster":["PutLocker","DivxStage","RapidVideo","BitShare","MySpass"]},
+                {"german":"Der Coon vs. der Coon and Friends","english":"Coon vs. Coon and Friends","hoster":["PutLocker","RapidVideo","MySpass"]},
+                {"german":"Creme Fraiche","english":"Crème Fraiche","hoster":["PutLocker","Sockshare","BitShare","MySpass"]}
+         ]
+}

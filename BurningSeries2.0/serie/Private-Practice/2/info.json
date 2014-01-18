@@ -1,0 +1,30 @@
+{
+        "series":"Private Practice",
+        "seasons":5,
+        "cover":"Private-Practice_555c7752a33670b8601c85d49ac9e79a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Hinter der Fassade","english":"A Family Thing","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lieben und Sterben","english":"Equal and Opposite","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Kunst des Redens","english":"Nothing to Talk About","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Es ist, wie es ist","english":"Past Tense","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Machtspiele","english":"Let It Go","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vom Lügen und Betrügen","english":"Serving Two Masters","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Eine Frage des Glaubens","english":"Tempting Faith","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schuld und Sühne","english":"Crime and Punishment","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Patientenjagd","english":"Know When to Fold","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Fremde Welten","english":"Worlds Apart","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ausnahmezustand","english":"Contamination","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Auf der Heimreise","english":"Homeward Bound","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Angst","english":"Nothing to Fear","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die zweite Chance","english":"Second Chances","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Akzeptanz","english":"Acceptance","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ex-Leben","english":"Ex-Life","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Veränderungen","english":"Wait and See","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Anfang oder Ende?","english":"Finishing","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Was Frauen wollen","english":"What Women Want","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Spiel mit dem Feuer","english":"Do the Right Thing","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Alles aus Liebe","english":"What You Do For Love","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Freundinnen","english":"Yours, Mine and Ours","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

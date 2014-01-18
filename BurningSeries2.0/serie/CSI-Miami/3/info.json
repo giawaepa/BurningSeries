@@ -1,0 +1,32 @@
+{
+        "series":"CSI: Miami",
+        "seasons":10,
+        "cover":"CSI-Miami_b05c65690e21963e0626d83346766b0ahtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Der verlorene Sohn","english":"Lost Son","hoster":["PutLocker"]},
+                {"german":"Der letzte Zeuge","english":"Pro Per","hoster":[]},
+                {"german":"Verstärkung","english":"Under the Influence","hoster":["PutLocker"]},
+                {"german":"Der Sündenpfuhl","english":"Murder in a Flash","hoster":[]},
+                {"german":"Lippenbekenntnisse","english":"Legal","hoster":["PutLocker"]},
+                {"german":"Ein glasklarer Fall","english":"Hell Night","hoster":[]},
+                {"german":"Die Todeswelle","english":"Crime Wave","hoster":["PutLocker"]},
+                {"german":"Ein tödliches Date","english":"Speed Kills","hoster":["PutLocker"]},
+                {"german":"Piraten","english":"Pirated","hoster":["PutLocker"]},
+                {"german":"Tiefer Fall","english":"After the Fall","hoster":["PutLocker"]},
+                {"german":"Süchtig","english":"Addiction","hoster":[]},
+                {"german":"Bandenkrieg","english":"Shootout","hoster":["PutLocker"]},
+                {"german":"Stolz &amp; Urteil","english":"Cop Killer","hoster":[]},
+                {"german":"Der fünfte Koffer","english":"One Night Stand","hoster":["PutLocker"]},
+                {"german":"Würgeschlange","english":"Identity","hoster":["PutLocker"]},
+                {"german":"In Flammen","english":"Nothing to Lose","hoster":["PutLocker"]},
+                {"german":"Aus heiterem Himmel","english":"Money Plane","hoster":[]},
+                {"german":"Game Over","english":"Game Over","hoster":["PutLocker"]},
+                {"german":"Kinder des Zorns","english":"Sex &amp; Taxes","hoster":["PutLocker"]},
+                {"german":"Killer-Date","english":"Killer Date","hoster":["PutLocker"]},
+                {"german":"Abgründe","english":"Recoil","hoster":[]},
+                {"german":"Verstrahlt","english":"Vengeance","hoster":["PutLocker"]},
+                {"german":"Henkersmahlzeit","english":"Whacked","hoster":["PutLocker"]},
+                {"german":"Bomben-Alarm","english":"40004","hoster":["PutLocker"]}
+         ]
+}

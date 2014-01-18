@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Mord im Theater (2)",
+         "titleen":"Episode 134",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=r_qM0k3y39I"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5463226/Detektiv_Conan_Folge_134_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5463608/Detektiv_Conan_Folge_134_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5463915/Detektiv_Conan_Folge_134_3_3"
+                }
+       ]
+}

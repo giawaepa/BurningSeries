@@ -1,0 +1,32 @@
+{
+        "series":"Akte X",
+        "seasons":9,
+        "cover":"Akte-X_81ab1803846af5b33207b81b56a64620html.html",
+        "movies":true,
+        "episodes":[
+                {"german":"Das Ritual","english":"The Blessing Way","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verschwörung des Schweigens","english":"Paper Clip","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Blitschlag","english":"D.P.O.","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Hellseher","english":"Clyde Bruckman&#039;s Final Repose","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Liste","english":"The List","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Fett","english":"2Shy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der zweite Körper","english":"The Walk","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Parallele","english":"Oubliette","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Autopsie","english":"Nisei","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Zug","english":"731","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Offenbarung","english":"Revelations","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Krieg der Koprophagen","english":"War of the Coprophages","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Energie","english":"Syzygy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Grotesk","english":"Grotesque","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Feind (1)","english":"Piper Maru","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Feind (2)","english":"Apocrypha","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Mein Wille sei Dein Wille","english":"Pusher","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Fluch","english":"Teso Dos Bichos","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Höllengeld","english":"Hell Money","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Andere Warheiten","english":"Jose Chung&#039;s &#039;From Outer Space&#039;","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Heimsuchung","english":"Avatar","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der See","english":"Quagmire","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ferngesteuert","english":"Wetwired","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Tag steht schon fest","english":"Talitha Cumi","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

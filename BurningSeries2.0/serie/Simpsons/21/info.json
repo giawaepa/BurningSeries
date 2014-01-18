@@ -1,0 +1,31 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Everyman Begins","english":"Homer the Whopper","hoster":["YouTube","PutLocker","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Die Antwort","english":"Bart Gets a &#039;Z&#039;","hoster":["YouTube","PutLocker","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Marge macht Mobil","english":"The Great Wife Hope","hoster":["PutLocker","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Mörder, Zombies und Musik","english":"Treehouse of Horror XX","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Teufel trägt Nada","english":"The Devil Wears Nada","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"L wie Looser","english":"Pranks and Greens","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Hexen von Springfield","english":"Rednecks and Broomsticks","hoster":["PutLocker","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Lebe lieber unbebrudert","english":"O Brother, Where Bart Thou?","hoster":["YouTube","PutLocker","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Donnerstags bei Abe","english":"Thursdays with Abie","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Es war einmal in Springfield","english":"Once Upon a Time in Springfield","hoster":["PutLocker","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Million Dollar Homie","english":"Million Dollar Maybe","hoster":["PutLocker","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Curling Queen","english":"Boy Meets Curl","hoster":["PutLocker","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Die Farbe Gelb","english":"The Color Yellow","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Grand Theft U-Bahn","english":"Postcards From the Wedge","hoster":["YouTube","PutLocker","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Der gestohlene Kuss","english":"Stealing First Base","hoster":["PutLocker","DivxStage","RapidVideo","Ecostream"]},
+                {"german":"Simpson und Gomorrha","english":"The Greatest Story Ever D&#039;ohed","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Jailhouse Blues","english":"American History X-cellent","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Chief der Herzen","english":"Chief of Hearts","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Walverwandtschaft","english":"The Squirt and the Whale","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Nedtropolis","english":"To Surveil With Love","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Der weinende Dritte","english":"Moe Letter Blues","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Bob von nebenan","english":"The Bob Next Door","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Richte Deinen Nächsten","english":"Judge Me Tender","hoster":["PutLocker","DivxStage","Ecostream"]}
+         ]
+}

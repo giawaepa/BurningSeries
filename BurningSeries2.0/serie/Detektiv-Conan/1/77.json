@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Kredithai",
+         "titleen":"Episode 077",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=OUSzxJ8w-yg"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=iM76Yz1-Fos"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6264893/Detektiv_Conan_Folge_77_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6265035/Detektiv_Conan_Folge_77_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6265112/Detektiv_Conan_Folge_77_3_3"
+                }
+       ]
+}

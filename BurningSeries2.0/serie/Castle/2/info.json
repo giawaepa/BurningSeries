@@ -1,0 +1,32 @@
+{
+        "series":"Castle",
+        "seasons":4,
+        "cover":"Castle_7bc4559eb18712efdb6eb86c1e858f8a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Tödliche Schulden","english":"Deep in Death","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wettfieber","english":"The Double Down","hoster":["PutLocker"]},
+                {"german":"Das neue Gesicht","english":"Inventing the Girl","hoster":["PutLocker"]},
+                {"german":"Wer einmal lügt","english":"Fool Me Once","hoster":["PutLocker"]},
+                {"german":"Wenn der Ast bricht","english":"When the Bough Breaks","hoster":["PutLocker"]},
+                {"german":"Vampir Wochenende","english":"Vampire Weekend","hoster":["PutLocker"]},
+                {"german":"Berühmte letzte Worte","english":"Famous Last Words","hoster":["PutLocker"]},
+                {"german":"Tod eines Kuriers","english":"Kill the Messenger","hoster":["PutLocker"]},
+                {"german":"Käufliche Liebe","english":"Love Me Dead","hoster":["PutLocker"]},
+                {"german":"Aus Liebe zur Umwelt","english":"One Man&#039;s Treasure","hoster":["PutLocker"]},
+                {"german":"Die fünfte Kugel","english":"The Fifth Bullet","hoster":["PutLocker"]},
+                {"german":"Eine Rose für immer und ewig","english":"A Rose for Everafter","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Unverhofft","english":"Sucker Punch","hoster":["PutLocker"]},
+                {"german":"Der dritte Mann","english":"The Third Man","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Cuba Libre","english":"Suicide Squeeze","hoster":["PutLocker"]},
+                {"german":"Die Domina schlägt immer zweimal zu","english":"The Mistress Always Spanks Twice","hoster":["PutLocker"]},
+                {"german":"Tick, Tick, Tick ","english":"Tick, Tick, Tick ","hoster":["PutLocker"]},
+                {"german":"Bumm!","english":"Boom!","hoster":["PutLocker"]},
+                {"german":"Der Fluch der Mumie","english":"Wrapped Up in Death","hoster":["PutLocker"]},
+                {"german":"Die Late-Night Jungs","english":"The Late Shaft","hoster":["PutLocker"]},
+                {"german":"Keine Ganovenehre","english":"Den of Thieves","hoster":["PutLocker"]},
+                {"german":"Leiche am Stiel","english":"Food to Die For","hoster":["PutLocker"]},
+                {"german":"Zu viel des Guten","english":"Overkill","hoster":["PutLocker"]},
+                {"german":"Der tote Spion","english":"A Deadly Game","hoster":["PutLocker"]}
+         ]
+}

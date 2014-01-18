@@ -1,0 +1,27 @@
+{
+        "series":"Heroes",
+        "seasons":4,
+        "cover":"Heroes_e41f6f87c707d19cd6da7ea27fdf0a1b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Neubeginn","english":"Orientation","hoster":["PutLocker"]},
+                {"german":"Kompass","english":"Jump, Push, Fall","hoster":["PutLocker"]},
+                {"german":"Tinte","english":"Ink","hoster":["PutLocker"]},
+                {"german":"Innerer Frieden","english":"Acceptance","hoster":["PutLocker"]},
+                {"german":"Besessen","english":"Hysterical Blindness","hoster":["PutLocker"]},
+                {"german":"Tabula Rasa","english":"Tabula Rasa","hoster":["PutLocker"]},
+                {"german":"Seltsame Attraktoren","english":"Strange Attractors","hoster":["PutLocker"]},
+                {"german":"Es war einmal in Texas","english":"Once Upon a Time in Texas","hoster":["PutLocker"]},
+                {"german":"Schattenboxen","english":"Shadowboxing","hoster":["PutLocker"]},
+                {"german":"Meines Bruders Hüter	","english":"Brother?s Keeper","hoster":["PutLocker"]},
+                {"german":"Familienfest","english":"Thanksgiving","hoster":["PutLocker"]},
+                {"german":"Die fünfte Phase","english":"The Fifth Stage","hoster":["PutLocker"]},
+                {"german":"Das Tal der Hoffnung","english":"Upon This Rock","hoster":["PutLocker"]},
+                {"german":"Zerstörte Brücken","english":"Let It Bleed","hoster":["PutLocker"]},
+                {"german":"Rettungsmission","english":"Close to You","hoster":["PutLocker"]},
+                {"german":"Verlorene Liebe	","english":"Pass/Fail","hoster":["PutLocker"]},
+                {"german":"Die Kunst der Täuschung","english":"The Art of Deception","hoster":["PutLocker"]},
+                {"german":"Die Mauer","english":"The Wall","hoster":["PutLocker"]},
+                {"german":"Der letzte Vorhang","english":"Brave New World","hoster":["PutLocker"]}
+         ]
+}

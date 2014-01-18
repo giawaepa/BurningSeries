@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Rache verjährt nicht (2)",
+         "titleen":"Episode 186",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=z7HEKNDq3Do"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5628701/Detektiv_Conan_Folge_186_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5629007/Detektiv_Conan_Folge_186_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5629381/Detektiv_Conan_Folge_186_3_3"
+                }
+       ]
+}

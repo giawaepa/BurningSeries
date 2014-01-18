@@ -1,0 +1,30 @@
+{
+        "series":"Akte X",
+        "seasons":9,
+        "cover":"Akte-X_81ab1803846af5b33207b81b56a64620html.html",
+        "movies":true,
+        "episodes":[
+                {"german":"Böse Zeichen","english":"The Sixth Extinction","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tausend Stimmen","english":"The Sixth Extinction II: Armor Fati","hoster":["PutLocker"]},
+                {"german":"Hunger","english":"Hungry","hoster":["PutLocker"]},
+                {"german":"Millenium","english":"Millenium","hoster":["PutLocker"]},
+                {"german":"Masse mal Beschleunigung","english":"Rush","hoster":["PutLocker"]},
+                {"german":"Das Glück des Henry Weems","english":"The Goldberg Variation","hoster":["PutLocker"]},
+                {"german":"Tor zur Hölle","english":"Orison","hoster":["PutLocker"]},
+                {"german":"Der unglaubliche Maleeni","english":"The Amazing Maleeni","hoster":["PutLocker"]},
+                {"german":"Schlangen","english":"Signs and Wonders","hoster":["PutLocker"]},
+                {"german":"Alte Seelen","english":"Sein Und Zeit","hoster":["PutLocker"]},
+                {"german":"Sternenlicht","english":"Closure","hoster":["PutLocker"]},
+                {"german":"Vollmond","english":"X-Cops","hoster":["PutLocker"]},
+                {"german":"Game Over","english":"First Person Shooter","hoster":["PutLocker"]},
+                {"german":"Zauberstab","english":"Theef","hoster":["PutLocker"]},
+                {"german":"Cobra","english":"En Ami","hoster":["PutLocker"]},
+                {"german":"Zerbrochene Spiegel","english":"Chimera","hoster":["PutLocker"]},
+                {"german":"Augenblicke","english":"all things","hoster":["PutLocker"]},
+                {"german":"Nikotin","english":"Brand X","hoster":["PutLocker"]},
+                {"german":"Hollywood","english":"Hollywood A.D.","hoster":["PutLocker"]},
+                {"german":"27.000.000:1","english":"Fight Club","hoster":["PutLocker"]},
+                {"german":"Drei Wünsche","english":"Je Souhaite","hoster":["PutLocker"]},
+                {"german":"Alles beginnt in Oregon","english":"Requiem","hoster":["PutLocker"]}
+         ]
+}

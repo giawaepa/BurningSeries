@@ -1,0 +1,30 @@
+{
+        "series":"The King of Queens",
+        "seasons":9,
+        "cover":"The-King-of-Queens_bbc35c6d9ebd3e1bdb5e304bbb42d956.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Bonuspunkte","english":"Lost Vegas","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Carrie auf dem Weg nach oben","english":"Dugan Groupie","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der misshandelte Mann","english":"Furious Gorge","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Pausenclown","english":"Entertainment Weakly","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Schall und Rauch","english":"Name Dropper","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Auf Freiersfüßen","english":"Offtrack... Bedding","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Klein, aber gemein","english":"Silent Mite","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Einsames Paar sucht Freunde","english":"Awed Couple","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Duftnoten","english":"Cologne Ranger","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Spanische Dörfer","english":"Domestic Disturbance","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Barkeeper","english":"Pour Judgment","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Ein ganz spezielles Training","english":"Gym Neighbors","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Kein Mann der großen Worte","english":"Gorilla Warfare","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Endlich wieder Schule!","english":"Hi, School","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Zickenalarm","english":"Deconstructing Carrie","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Schwarz-Weiß-Malerei","english":"Black List","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Leb wohl, St. Louis!","english":"Wish Boned","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Schlechte Karten","english":"Van, Go","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Lausige Ratschläge","english":"Ice Cubed","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Elvis und sein Friseur","english":"Catching Hell","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Alles umsonst","english":"Slippery Slope","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die Immobilienhaie","english":"Buy Curious","hoster":["YouTube","MyVideo","PutLocker"]}
+         ]
+}

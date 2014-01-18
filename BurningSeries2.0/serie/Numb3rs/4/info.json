@@ -1,0 +1,26 @@
+{
+        "series":"Numb3rs ? Die Logik des Verbrechens",
+        "seasons":6,
+        "cover":"Numb3rs-Die-Logik-des-Verbrechens_8e3e17c52a0c53602826e85ab5fe4c15.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Vertrauen gegen Vertrauen","english":"Trust Metric","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Falsche Zwillinge","english":"Hollywood Homicide","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Raser","english":"Velocity","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kreuzweg","english":"Thirteen","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Robin Hood in L.A.","english":"Robin Hood","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zeugenschutz","english":"In Security","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Primacy","english":"Primacy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Reich und schön","english":"Tabu","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Comic-Helden","english":"Graphic","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Abwärts","english":"Chinese Box","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Entführt, verfolgt","english":"Breaking Point","hoster":["PutLocker","RapidVideo"]},
+                {"german":"In Uniform","english":"Power","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der schwarze Schwan","english":"Black Swan","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schachmatt","english":"Checkmate","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Endspiel","english":"End Game","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Sekte","english":"Atomic No. 33","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Todesmelodie","english":"Pay to Play","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Auf eigenes Risiko","english":"When Worlds Collide","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

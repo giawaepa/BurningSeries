@@ -1,0 +1,32 @@
+{
+        "series":"Navy CIS",
+        "seasons":9,
+        "cover":"Navy-CIS_141ca3e65244fc72f323f852248d3211.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die tapferste Stunde","english":"Spider and the Fly","hoster":[]},
+                {"german":"Der alte Fuchs","english":"Worst Nightmare","hoster":["PutLocker"]},
+                {"german":"Rache ist bitter","english":"Short Fuse","hoster":["PutLocker"]},
+                {"german":"Schmutzige Millionen","english":"Royals and Loyals","hoster":["PutLocker"]},
+                {"german":"Feld der Alptäume","english":"Dead Air","hoster":[]},
+                {"german":"Genie und Wahnsinn","english":"Cracked","hoster":[]},
+                {"german":"Mark 15","english":"Broken Arrow","hoster":[]},
+                {"german":"Fremde Feinde","english":"Enemies Foreign (1)","hoster":[]},
+                {"german":"Vertraute Feinde","english":"Enemies Domestic (2)","hoster":["PutLocker"]},
+                {"german":"Der Zeuge","english":"False Witness","hoster":["PutLocker"]},
+                {"german":"Schiffe in der Nacht","english":"Ships in the Night","hoster":["PutLocker"]},
+                {"german":"Nichts fragen, nichts sagen","english":"Recruited","hoster":[]},
+                {"german":"Die Kunst des Überlebens","english":"Freedom","hoster":["PutLocker"]},
+                {"german":"Schlussstrich","english":"A Man Walks Into a Bar?","hoster":["PutLocker"]},
+                {"german":"Die schöne Tochter","english":"Defiance","hoster":[]},
+                {"german":"Max Destructo","english":"Kill Screen","hoster":["PutLocker","DivxStage"]},
+                {"german":"One Last Score","english":"One Last Score","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Geständnis","english":"Out of the Frying Pan?","hoster":["PutLocker"]},
+                {"german":"Ein offenes Buch","english":"Tell-All","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Hafenmörder","english":"Two Faced","hoster":["PutLocker","DivxStage"]},
+                {"german":"Spiel der Masken","english":"Dead Reflection","hoster":["PutLocker","DivxStage"]},
+                {"german":"Besser spät als nie","english":"Baltimore","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schwanengesang","english":"Swan Song (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Operation Frankenstein","english":"Pyramid (2)","hoster":["PutLocker","DivxStage"]}
+         ]
+}

@@ -1,0 +1,27 @@
+{
+        "series":"Death Note",
+        "seasons":2,
+        "cover":"Death-Note_0dc02974e4fb3a64abc70a9581ff40fbhtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Wiedergeburt","english":"Rebirth","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kampf","english":"Confrontation","hoster":["PutLocker","Sockshare"]},
+                {"german":"Handel","english":"Transaction","hoster":["PutLocker","Sockshare"]},
+                {"german":"Jagd","english":"Pursuit","hoster":["PutLocker","Sockshare"]},
+                {"german":"Diplomatie","english":"Diplomacy","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kluft","english":"Open Seam","hoster":["PutLocker","Sockshare"]},
+                {"german":"Versuchung","english":"Cloudy Days","hoster":["PutLocker","Sockshare"]},
+                {"german":"Blick","english":"Gaze","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kontakt","english":"Contact","hoster":["PutLocker","Sockshare"]},
+                {"german":"Zweifel","english":"Suspicion","hoster":["PutLocker","Sockshare"]},
+                {"german":"Verantwortung","english":"Thrust","hoster":["PutLocker","Sockshare"]},
+                {"german":"Liebe","english":"Love","hoster":["PutLocker","Sockshare"]},
+                {"german":"Geständnis","english":"Confession","hoster":["PutLocker","Sockshare"]},
+                {"german":"Freund","english":"Friend","hoster":["PutLocker","Sockshare"]},
+                {"german":"Glücksspiel","english":"Gamble","hoster":["PutLocker","Sockshare"]},
+                {"german":"Entscheidung","english":"Decision","hoster":["PutLocker","Sockshare"]},
+                {"german":"Vollstreckung","english":"Execution","hoster":["PutLocker","Sockshare"]},
+                {"german":"Team","english":"Comrade","hoster":["PutLocker","Sockshare"]},
+                {"german":"Matsuda","english":"Matsuda","hoster":["PutLocker","Sockshare"]}
+         ]
+}

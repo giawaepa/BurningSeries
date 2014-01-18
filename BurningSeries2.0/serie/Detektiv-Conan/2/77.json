@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Spinnenkönigin (3)",
+         "titleen":"Episode 179",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=enuM42QFdaE"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5611483/Detektiv_Conan_Folge_179_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5611774/Detektiv_Conan_Folge_179_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5612089/Detektiv_Conan_Folge_179_3_3"
+                }
+       ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Des Widerspenstigen Zähmun","english":"Dr. Carter, I Presume","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Jagd ist eröffnet","english":"Let The Games Begin","hoster":["PutLocker","DivxStage"]},
+                {"german":"Frag nichts, sag nichts","english":"Don&#039;t Ask, Don&#039;t Tell","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kein Trost für Dr. Ross","english":"Last Call","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der eiskalte Atem","english":"Ghosts","hoster":["PutLocker","DivxStage"]},
+                {"german":"Flugangst","english":"Fear of Flying","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der eigenmächtige Dr. Benton	","english":"No Brain, No Gain","hoster":["PutLocker","DivxStage"]},
+                {"german":"Abschied","english":"Union Station","hoster":["PutLocker","DivxStage"]},
+                {"german":"Streng vertraulich","english":"Ask Me No Questions, I&#039;ll Tell You No Lies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Mitarbeiter X","english":"Homeless for the Holidays","hoster":["PutLocker","DivxStage"]},
+                {"german":"In den Tod getrieben","english":"Night Shift","hoster":["PutLocker","DivxStage"]},
+                {"german":"Post Mortem","english":"Post Mortem","hoster":["PutLocker","DivxStage"]},
+                {"german":"Suspendiert","english":"Fortune&#039;s Fools","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ladykiller Dr. Greene","english":"Whose Appy Now?","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wer Gewalt sät","english":"The Long Way Around","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Wert des Lebens","english":"Faith","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schwarz und weiß","english":"Tribes","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein Skalpell zum Frühstück","english":"You Bet Your Life","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die wahre Berufung","english":"Calling Dr. Hathaway","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bittere Rache","english":"Random Acts","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wünsch&#039; dir was","english":"Make a Wish","hoster":["PutLocker","DivxStage"]},
+                {"german":"Beruf und Berufung","english":"One More for the Road","hoster":["PutLocker","DivxStage"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Seelenfutter",
+         "titleen":"Comfort Food",
+         "description":"Während Ned und Olive an einem Kochwettbewerb teilnehmen, wird Colonel Likkin ermordet, und nun liegt es an Ned und Emerson rauszufinden, wer ihn ermordet und sein Geheimrezept gestohlen hat. Vivian wiederum ist verzweifelt, dass Dwight sich nicht mehr bei ihr meldet, und Olive merkt, dass sie immer noch in Ned verliebt ist. Unterdessen erfährt Ned, dass Chuck ihn hintergangen hat ...",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6030320/Pushing_Daisies_2x08_Part_1_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6030448/Pushing_Daisies_2x08_Part_2_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6030567/Pushing_Daisies_2x08_Part_3_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"6030694/Pushing_Daisies_2x08_Part_4_4"
+                }
+       ]
+}

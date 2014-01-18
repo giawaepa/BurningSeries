@@ -1,0 +1,22 @@
+{
+        "series":"Desperate Housewives",
+        "seasons":8,
+        "cover":"Desperate-Housewives_291bdfe287207faf11aaf9df229de65d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Geheimnisse die ich nie erfahren will","english":"Secrets That I Never Want to Know","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Gefährliche Verbindungen","english":"Making the Connection","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Falsche Vorstellungen","english":"Watch While I Revise the World","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die harte Schule des Lebens","english":"School Of Hard Knocks","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Sex erlaubt","english":"The Art Of Making Art","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Paranoia","english":"Witch&#039;s Lament","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Leiche","english":"Always In Control","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"Bilder einer Ausstellung","english":"Suspicion Song","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Putting It Together","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"What&#039;s to Discuss, Old Friend?","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"Who Can Say What&#039;s True?","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"What&#039;s The Good Of Being Good?","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Is This What You Call Love?","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Get Out of My Life","hoster":[]}
+         ]
+}

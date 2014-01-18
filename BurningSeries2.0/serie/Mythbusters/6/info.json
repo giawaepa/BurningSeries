@@ -1,0 +1,26 @@
+{
+        "series":"MythBusters ? Die Wissensjäger",
+        "seasons":9,
+        "cover":"MythBusters-Die-Wissensjaeger_cc60346d8cc8ecf4693d55ce07daf622.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Baseball Special","english":"Baseball Myths","hoster":[]},
+                {"german":"Das Zuschauer Special","english":"Viewer&#039;s Special","hoster":[]},
+                {"german":"Rotes Tuch für einen Bullen / Ein Bulle im Porzellanladen / Heiße Patronen","english":"Red Rag to a Bull","hoster":[]},
+                {"german":"Das Superhelden Special","english":"Superhero Hour","hoster":[]},
+                {"german":"Ninjas lenken Kugeln ab / Im Auto unter Wasser / Airbags / Explodierende RFID","english":"Myth Revolution","hoster":[]},
+                {"german":"Hollywood-Mythen auf der Benzinspur / Brennende Lunten / Defibrillator des Todes","english":"Trailblazers","hoster":[]},
+                {"german":"Die Wasserbeuler-Rakete / Jeans in Flammen / Tödliches Bad in Jeans","english":"Exploding Water Heater","hoster":[]},
+                {"german":"Supersized Myths","english":"Special Supersized Myths","hoster":[]},
+                {"german":"Zombies im Fass / Chilifeuer / Große Angst vor kleinen Tieren","english":"Shooting Fish in a Barrel","hoster":[]},
+                {"german":"Piraten Special 2","english":"Pirates2","hoster":[]},
+                {"german":"Das Dampf-Maschinengewehr ? Belüg den Lügendetektor","english":"Confederate Steam Gun","hoster":[]},
+                {"german":"Flieger Special","english":"Airplane Hour","hoster":[]},
+                {"german":"James Bond Special 1","english":"James Bond, Part 1","hoster":[]},
+                {"german":"Blei-Ballon / Surfen mit Dynamit","english":"Lead Balloon","hoster":[]},
+                {"german":"Flugzeug auf einem Laufband / Kakerlaken überleben / Rasierschaum-Spielereien","english":"Airplane on a Conveyor Belt","hoster":[]},
+                {"german":"James Bond Special 2","english":"James Bond, Part 2","hoster":[]},
+                {"german":"Zuschauer Spezial 2","english":"Viewer&#039;s Special 2","hoster":[]},
+                {"german":"MacGyver Special","english":"MacGyver Myths","hoster":["PutLocker"]}
+         ]
+}

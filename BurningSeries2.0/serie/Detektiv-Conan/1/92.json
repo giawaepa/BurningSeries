@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Tanz der Vampire (2)",
+         "titleen":"Episode 092",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=hEY2oTgifp8"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5300619/Detektiv_Conan_Folge_92_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5300944/Detektiv_Conan_Folge_92_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5301219/Detektiv_Conan_Folge_92_3_3"
+                }
+       ]
+}

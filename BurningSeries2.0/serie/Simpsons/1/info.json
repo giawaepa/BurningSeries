@@ -1,0 +1,21 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Es Weihnachtet Schwer","english":"Simpsons Roasting on an Open Fire","hoster":["YouTube","PutLocker","Sockshare","DivxStage","RapidVideo","BitShare"]},
+                {"german":"Bart wird ein Genie","english":"Bart The Genius","hoster":["YouTube","PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Der Versager","english":"Homers Oddysey","hoster":["YouTube","PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Eine Ganz normale Familie","english":"There&#039;s No Disgrace Like Home","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare"]},
+                {"german":"Bart Schlägt eine Schlacht","english":"Bart the General","hoster":["YouTube","PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Lisa bläst Trübsal","english":"Moaning Lisa","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Vorsicht, wilder Homer","english":"The Call of the Simpsons","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Bart köpft Oberhaupt","english":"The Telltale Head","hoster":["YouTube","PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Der schöne Jacques","english":"Life on the Fast Lane (Jacques to be Wild)","hoster":["YouTube","PutLocker","Sockshare","DivxStage"]},
+                {"german":"Homer der Frauenheld","english":"Homer&#039;s Night Out","hoster":["YouTube","PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Tauschgeschäfte und Spione","english":"The Crepes of Wrath","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Der Clown mit der Biedermaske","english":"Krusty Gets Busted","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Der Babysitter ist los","english":"Some Enchanted Evening","hoster":["PutLocker","Sockshare","UploadC"]}
+         ]
+}

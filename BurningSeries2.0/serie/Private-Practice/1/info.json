@@ -1,0 +1,17 @@
+{
+        "series":"Private Practice",
+        "seasons":5,
+        "cover":"Private-Practice_555c7752a33670b8601c85d49ac9e79a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Addison fängt neu an","english":"In Which We Meet Addison, A Nice Girl From Somewhere Else","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sam hat einen unerwarteten Gast","english":"In Which Sam Receives An Unexpected Visitor","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Addison findet Magie","english":"In Which Addison Finds The Magic","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Addison gibt eine Party","english":"In Which Addison Has A Very Casual Get Together","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Addison entdeckt einen Duschkopf","english":"In Which Addison Finds A Showerhead","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Charlotte kann nicht schlafen","english":"In Which Charlotte Goes Down The Rabbit Hole","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sam gerät in Gefahr","english":"In Which Sam Gets Taken For A Ride","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Cooper steigt wieder aufs Pferd","english":"In Which Cooper Finds A Port In His Storm","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Dell lernt zu kämpfen","english":"In Which Dell Finds His Fight","hoster":["PutLocker"]}
+         ]
+}

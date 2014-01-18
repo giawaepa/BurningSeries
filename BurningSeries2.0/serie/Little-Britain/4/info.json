@@ -1,0 +1,14 @@
+{
+        "series":"Little Britain",
+        "seasons":4,
+        "cover":"Little-Britain_6f873aebd3cb2b0ae2b81726e58d1657.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Little Britain USA (1)","english":"Little Britain USA (1)","hoster":[]},
+                {"german":"Little Britain USA (2)","english":"Little Britain USA (2)","hoster":["YouTube"]},
+                {"german":"Little Britain USA (3)","english":"Little Britain USA (3)","hoster":["YouTube"]},
+                {"german":"Little Britain USA (4)","english":"Little Britain USA (4)","hoster":["YouTube"]},
+                {"german":"Little Britain USA (5)","english":"Little Britain USA (5)","hoster":["YouTube"]},
+                {"german":"Little Britain USA (6)","english":"Little Britain USA (6)","hoster":["YouTube"]}
+         ]
+}

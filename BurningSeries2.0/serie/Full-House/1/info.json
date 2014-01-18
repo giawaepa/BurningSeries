@@ -1,0 +1,30 @@
+{
+        "series":"Full House",
+        "seasons":8,
+        "cover":"Full-House_20bd56938965807a7c4bdb8c45cd6edb.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Aller Anfang ist schwer","english":"Our Very First Show","hoster":["YouTube"]},
+                {"german":"Unsere allererste Nacht","english":"Our Very First Night","hoster":[]},
+                {"german":"Der Erste Schultag","english":"The First Day of School","hoster":[]},
+                {"german":"Omas Rückkehr","english":"The Return of Grandma","hoster":[]},
+                {"german":"Drei flotte Angler","english":"Sea Cruise","hoster":[]},
+                {"german":"Vatersorgen, Vaterfreuden","english":"Daddy&#039;s Home","hoster":[]},
+                {"german":"Danny geht k.o.","english":"Knock Yourself Out","hoster":[]},
+                {"german":"Jesses neue Flamme","english":"Jesse&#039;s Girl","hoster":[]},
+                {"german":"Das Wunder des Thanksgiving","english":"The Miracle of Thanksgiving","hoster":[]},
+                {"german":"Joey braucht ein Zimmer","english":"Joey&#039;s Place","hoster":[]},
+                {"german":"Die Geburtstagsüberraschung","english":"The Big Three-O","hoster":[]},
+                {"german":"Werbung ist alles","english":"Our Very First Promo","hoster":[]},
+                {"german":"Der Werbespot","english":"Sister Love","hoster":[]},
+                {"german":"Fast eine Liebesgeschichte","english":"Half A Love Story","hoster":[]},
+                {"german":"Die Windpocken","english":"A Pox in Our House","hoster":[]},
+                {"german":"Einmal Komiker, immer Komiker","english":"But Seriously, Folks","hoster":[]},
+                {"german":"Danny und Linda","english":"Danny&#039;s Very First Date","hoster":[]},
+                {"german":"Der Vetter aus Baltimore","english":"Just One of the Guys","hoster":[]},
+                {"german":"Jesses Alptraum","english":"The Seven-Month Itch (1)","hoster":[]},
+                {"german":"Jesse kehrt zurück","english":"The Seven-Month Itch (2)","hoster":[]},
+                {"german":"Alte Schulden","english":"Mad Money","hoster":[]},
+                {"german":"Das Autogramm","english":"D.J. Tanners&#039;s Day Off","hoster":[]}
+         ]
+}

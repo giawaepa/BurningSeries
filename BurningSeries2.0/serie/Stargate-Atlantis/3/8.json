@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Der Doppelte Rodney",
+         "titleen":"McKay and Mrs. Miller",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7292821/Stargate_Atlantis_S03E08_Der_doppelte_Rodney_1_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7294573/Stargate_Atlantis_S03E08_Der_doppelte_Rodney_2_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7294623/Stargate_Atlantis_S03E08_Der_doppelte_Rodney_3_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7294682/Stargate_Atlantis_S03E08_Der_doppelte_Rodney_4_5"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"B4A9CDB03B1DE789"
+                },{
+                        "hoster":"DivxStage",
+                        "part":1,
+                        "link":"2g9t4zet188hl"
+                }
+       ]
+}

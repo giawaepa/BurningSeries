@@ -1,0 +1,32 @@
+{
+        "series":"Sabrina - total verhext",
+        "seasons":7,
+        "cover":"Sabrina-total-verhext_9bc45f9f48032b5509b0215502c2ce17.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Eine Hexe wird flügge","english":"Pilot","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ganze Wahrheit, halbes Glück","english":"Bundt Friday","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Wer hat Angst vor Rudy Kazootie","english":"The True Adventures of Rudy Kazootie","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Magie liegt in der Luft","english":"Terrible Things","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Ein Double auf Abwegen","english":"A Halloween Story","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Ein Mann wird gebacken","english":"Dream Date","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Aus dem Reich der Sinne","english":"Third Aunt From the Sun","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Ein wahres Wunder","english":"Magic Joel","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Streberglück","english":"Geek Like Me","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Der Weg ist das Ziel","english":"Sweet and Sour Victory","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Salem auf Abwegen","english":"A Girl and Her Cat","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Der tiefgekühlte Richter","english":"Trial by Fury","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Träume lügen nicht","english":"Jenny&#039;s Non-Dream","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Der Zauberspiegel","english":"Sabrina Through the Looking Glass","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Dritter Frühling","english":"Hilda and Zelda: the Teenage Years","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Dr. Cyclop","english":"Mars Attracts","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Der erste Kuss","english":"First Kiss","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Auch Hexen habens schwer","english":"Sweet Charity","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Katzenjammer","english":"Cat Showdown","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Besuch aus dem Jenseits","english":"Meeting Dad&#039;s Girlfriend","hoster":["YouTube","Sockshare"]},
+                {"german":"Ausser Rand und Band","english":"As Westbridge Turns","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Auch Hexen machen Fehler","english":"The Great Mistake","hoster":["YouTube","PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Hexenjagd","english":"The Crucible","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Die Schöne und der Zwerg","english":"Troll Bride","hoster":["YouTube","PutLocker","Sockshare"]}
+         ]
+}

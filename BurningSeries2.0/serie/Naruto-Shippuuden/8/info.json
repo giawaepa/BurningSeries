@@ -1,0 +1,25 @@
+{
+        "series":"Naruto Shippuuden",
+        "seasons":8,
+        "cover":"Naruto-Shippuuden_198c1ffe8cb76e7ea7d21734cae9e6e3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Düstere Neuigkeiten","english":"Episode 152","hoster":[]},
+                {"german":"Folge dem Schatten deines Lehrers","english":"Episode 153","hoster":[]},
+                {"german":"Die Entschlüsselung","english":"Episode 154","hoster":[]},
+                {"german":"Der Weg zum Jutsu der Weisen","english":"Episode 155","hoster":[]},
+                {"german":"Übertriff deinen Meister","english":"Episode 156","hoster":[]},
+                {"german":"Angriff auf Konoha","english":"Episode 157","hoster":[]},
+                {"german":"Die Kraft, zu glauben","english":"Episode 158","hoster":[]},
+                {"german":"Pain gegen Kakashi","english":"Episode 159","hoster":[]},
+                {"german":"Das Rätsel um Pain","english":"Episode 160","hoster":[]},
+                {"german":"Ein kleiner Held mit großem Mut","english":"Episode 161","hoster":[]},
+                {"german":"Naruto, wo bleibst du?","english":"Episode 162","hoster":[]},
+                {"german":"Die Rückkehr des Auserwählten","english":"Episode 163","hoster":[]},
+                {"german":"Im Modus der Weisen","english":"Episode 164","hoster":[]},
+                {"german":"Eine Sache des Herzens","english":"Episode 165","hoster":[]},
+                {"german":"Die Macht des Neunschwänzigen","english":"Episode 166","hoster":[]},
+                {"german":"Der Hokage der vierten Generation","english":"Episode 167","hoster":[]},
+                {"german":"Begegnung zweier Schüler","english":"Episode 168","hoster":["YouTube"]}
+         ]
+}

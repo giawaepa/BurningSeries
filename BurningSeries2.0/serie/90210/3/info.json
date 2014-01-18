@@ -1,0 +1,30 @@
+{
+        "series":"90210",
+        "seasons":4,
+        "cover":"90210_2a5a4ebb1395e5a42463de0594f6801e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Abschlußjahrgang-Baby","english":"Senior Year Baby","hoster":["PutLocker","DivxStage"]},
+                {"german":"Naomis Erbe","english":"Age Of Inheritance","hoster":["PutLocker","DivxStage"]},
+                {"german":"2021 Vision","english":"2021 Vision","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der verhasste Stiefbruder","english":"The Bachelors","hoster":["PutLocker","DivxStage"]},
+                {"german":"Krieg mich, wenn du kannst!","english":"Catch Me If You Cannon","hoster":["PutLocker","DivxStage"]},
+                {"german":"Oscars Rache","english":"How Much Is That Liam In The Window","hoster":["PutLocker","DivxStage"]},
+                {"german":"Awards &amp; Drogen","english":"I See London, I See France ?","hoster":["PutLocker","DivxStage"]},
+                {"german":"Vorbilder","english":"Mother Dearest","hoster":["PutLocker","DivxStage"]},
+                {"german":"Adrianna Superstar","english":"They?re Playing Her Song","hoster":["PutLocker","DivxStage"]},
+                {"german":"Pläne","english":"Best Lei?d Plans","hoster":["PutLocker"]},
+                {"german":"Geoutet","english":"Holiday Madness","hoster":["PutLocker","DivxStage"]},
+                {"german":"Lügner","english":"Liars","hoster":["PutLocker","DivxStage"]},
+                {"german":"Guru Sona","english":"It&#039;s Getting Hot in Here","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Erpressung","english":"All about a Boy","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Rachefeldzug mit Streber","english":"Revenge with the Nerd","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"","english":"It?s High Time","hoster":["PutLocker"]},
+                {"german":"","english":"Blue Naomi","hoster":["PutLocker"]},
+                {"german":"","english":"The Enchanted Donkey","hoster":["PutLocker"]},
+                {"german":"","english":"Nerdy Little Secrets","hoster":["PutLocker"]},
+                {"german":"","english":"Women On The Verge","hoster":["PutLocker"]},
+                {"german":"","english":"The Prom Before the Storm","hoster":["PutLocker"]},
+                {"german":"","english":"To the Future!","hoster":["PutLocker"]}
+         ]
+}

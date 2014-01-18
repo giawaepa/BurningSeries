@@ -1,0 +1,21 @@
+{
+        "series":"Archer",
+        "seasons":3,
+        "cover":"Archer_316f77981f4415e0e78c3fc42862687b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Swiss Miss","hoster":[]},
+                {"german":"","english":"A Going Concern","hoster":[]},
+                {"german":"","english":"Blood Test","hoster":[]},
+                {"german":"","english":"Pipeline Fever","hoster":[]},
+                {"german":"","english":"The Double Deuce","hoster":[]},
+                {"german":"","english":"Tragical History","hoster":["PutLocker"]},
+                {"german":"","english":"Movie Star","hoster":["PutLocker"]},
+                {"german":"","english":"Stage Two","hoster":[]},
+                {"german":"","english":"Placebo Effect","hoster":["PutLocker"]},
+                {"german":"","english":"El Secuestro","hoster":["PutLocker"]},
+                {"german":"","english":"Jeu Monegasque","hoster":[]},
+                {"german":"","english":"White Nights","hoster":[]},
+                {"german":"","english":"Double Trouble","hoster":["PutLocker"]}
+         ]
+}

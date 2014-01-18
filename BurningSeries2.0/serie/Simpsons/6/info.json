@@ -1,0 +1,33 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Ein grausiger Verdacht","english":"Bart of Darkness","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Lisas Rivalin","english":"Lisa&#039;s Rival","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Romantik ist überall!","english":"Another Simpsons Clip Show","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Der unheimliche Vergnügungspark","english":"Itchy &amp; Scratchy Land","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Tingeltangel-Bob","english":"Sideshow Bob Roberts","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Furcht und Grauen ohne Ende","english":"Treehouse of Horror V","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Barts Freundin","english":"Bart&#039;s Girlfriend","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Lisa auf dem Eise","english":"Lisa on Ice","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Babysitterin und das Biest","english":"Homer Badman","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Grandpa gegen sexuelles Versagen","english":"Grampa vs. Sexual Inadequacy","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Angst vorm Fliegen","english":"Fear of Flying","hoster":["PutLocker","DivxStage"]},
+                {"german":"Homer der Auserwählte","english":"Homer the Great","hoster":["Sockshare","DivxStage","BitShare"]},
+                {"german":"Und Maggie macht drei","english":"And Maggie Makes Three","hoster":["PutLocker","DivxStage"]},
+                {"german":"Barts Komet","english":"Bart&#039;s Comet","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Homie der Clown","english":"Homie the Clown","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bart gegen Australien","english":"Bart vs. Australia","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Homer gegen Patty und Selma","english":"Homer vs. Patty and Selma","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Springfield-Film-Festival","english":"A Star Is Burns","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Lisas Hochzeit","english":"Lisa&#039;s Wedding","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"25 Windhundwelpen","english":"Two Dozen and One Greyhounds","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Der Lehrerstreik","english":"The PTA Disbands","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Zu Ehren von Murphy","english":"Round Springfield","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Springfield Connection","english":"Springfield Connection","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Auf zum Zitronenbaum!","english":"Lemon of Troy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wer erschoss Mr. Burns? - Teil 1","english":"Who Shot Mr. Burns? (Part One)","hoster":["PutLocker","Sockshare","DivxStage"]}
+         ]
+}

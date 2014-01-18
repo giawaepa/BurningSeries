@@ -1,0 +1,26 @@
+{
+        "series":"Dragonball GT",
+        "seasons":4,
+        "cover":"Dragonball-GT_334250f81fdcbc3f3190d351b880da26.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Junge mit den grünen Haaren","english":"Episode 23","hoster":["PutLocker"]},
+                {"german":"Der Schein trügt!","english":"Episode 24","hoster":["PutLocker"]},
+                {"german":"Besuch auf der Erde","english":"Episode 25","hoster":["PutLocker"]},
+                {"german":"Zwei Brüder","english":"Episode 26","hoster":["PutLocker"]},
+                {"german":"Baby am Ziel?","english":"Episode 27","hoster":["PutLocker"]},
+                {"german":"Willkommen daheim, Son Goku!","english":"Episode 28","hoster":["PutLocker"]},
+                {"german":"Das ist sehr schlecht!? Super-Saiyajin 3 geschlagen!!","english":"Episode 29","hoster":[]},
+                {"german":"Wiedersehen, Erde!","english":"Episode 30","hoster":["PutLocker"]},
+                {"german":"Flucht aus der Zwischendimension","english":"Episode 31","hoster":["PutLocker"]},
+                {"german":"Ein Alter Freund","english":"Episode 32","hoster":["PutLocker"]},
+                {"german":"Beeil dich Son-Goku!","english":"Episode 33","hoster":["PutLocker"]},
+                {"german":"Großvater, erinnerst du dich?","english":"Episode 34","hoster":["PutLocker"]},
+                {"german":"Der Vierfache Super Sayajin","english":"Episode 35","hoster":["PutLocker"]},
+                {"german":"Kampf der Giganten","english":"Episode 36","hoster":["PutLocker"]},
+                {"german":"Das Heilige Wasser","english":"Episode 37","hoster":["PutLocker"]},
+                {"german":"Mit der Kraft von jedem... Vierfacher Super-Saiyajin kehrt zurück","english":"Episode 38","hoster":["PutLocker"]},
+                {"german":"Son-Goku gibt alles","english":"Episode 39","hoster":["PutLocker"]},
+                {"german":"Rettung in letzter Sekunde","english":"Episode 40","hoster":["PutLocker"]}
+         ]
+}

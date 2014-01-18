@@ -1,0 +1,13 @@
+{
+        "series":"Futurama",
+        "seasons":6,
+        "cover":"Futurama_979ef846f0c79ee83e7d3bcc3912fa2a.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Absolut fabelhaft","english":"Obsoletely Fabulous","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Farnsworth Parabox","english":"The Farnsworth Parabox","hoster":["PutLocker","DivxStage"]},
+                {"german":"Dreihundert dicke Dinger","english":"Three Hundred Big Boys","hoster":["PutLocker","DivxStage"]},
+                {"german":"Lustkrise auf Omicron Persei Acht","english":"Spanish Fry","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Hände des Teufels","english":"The Devil&#039;s Hands Are Idle Playthings","hoster":["PutLocker","DivxStage"]}
+         ]
+}

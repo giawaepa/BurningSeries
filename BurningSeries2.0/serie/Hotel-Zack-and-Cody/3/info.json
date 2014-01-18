@@ -1,0 +1,30 @@
+{
+        "series":"Hotel Zack &amp; Cody",
+        "seasons":3,
+        "cover":"Hotel-Zack-Cody_a75fd1af53b6879cdf4ee3b4456548f5.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Sommerschule","english":"Graduation","hoster":["YouTube","MyVideo"]},
+                {"german":"Ein missvergnüglicher Sommer","english":"Summer of Our Discontent","hoster":["YouTube","MyVideo"]},
+                {"german":"Job und Flop","english":"Sink or Swim","hoster":["YouTube"]},
+                {"german":"Die Superzwillinge","english":"Super Twins","hoster":["MyVideo"]},
+                {"german":"Wer ist der Boss","english":"Who?s the Boss","hoster":["YouTube","MyVideo"]},
+                {"german":"Mosebys Benimmkurs","english":"Baggage","hoster":["MyVideo"]},
+                {"german":"Vielstimmiger Liebesgesang","english":"Sleepover Suite","hoster":["MyVideo"]},
+                {"german":"Arwin das Muttersöhnchen","english":"The Arwin That Came to Dinner","hoster":["YouTube"]},
+                {"german":"Musical-Fieber","english":"Lip Syncin&#039; in the Rain","hoster":["YouTube","MyVideo"]},
+                {"german":"Der erste Tag auf der Highschool","english":"First Day of High School","hoster":["YouTube"]},
+                {"german":"Zack, der Manager","english":"Of Clocks and Contracts","hoster":["YouTube"]},
+                {"german":"Halloween mit Arwinstein","english":"Arwinstein","hoster":[]},
+                {"german":"Teamarbeit","english":"Team Tipton","hoster":["YouTube","MyVideo"]},
+                {"german":"Eifersucht","english":"Orchestra","hoster":[]},
+                {"german":"Prinz Esteban","english":"A Tale of Two Houses","hoster":["YouTube"]},
+                {"german":"Tiptonline","english":"Tiptonline","hoster":["YouTube","MyVideo"]},
+                {"german":"En garde, Bakterien!","english":"Foiled Again","hoster":[]},
+                {"german":"Nachhilfe für Herzensbrecher","english":"Romancing the Phone","hoster":["YouTube"]},
+                {"german":"Bankdrücker","english":"Benchwarmers","hoster":[]},
+                {"german":"Die Cheetah Girls zu Gast im Tipton","english":"Doin&#039; Time in Suite 2330","hoster":[]},
+                {"german":"Eine Kreuzfahrt mit Zack und Cody","english":"Let Us Entertain You","hoster":[]},
+                {"german":"Die Feuerprobe","english":"Mr. Tipton Comes to Visit","hoster":["YouTube"]}
+         ]
+}

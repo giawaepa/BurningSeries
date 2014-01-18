@@ -1,0 +1,32 @@
+{
+        "series":"How I Met Your Mother",
+        "seasons":7,
+        "cover":"How-I-Met-Your-Mother_470f96f81545d60a203d278bb3b9b0a1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Zuckerbrot und Peitsche","english":"Definitions","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Doppelgänger","english":"Double Date","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Robin-Grundkurs","english":"Robin 101","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der sexlose Gastgeber","english":"The Sexless Innkeeper","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Koffein-Trip","english":"Duel Citizenship","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das perfekte Paar","english":"Bagpipes","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Durchhänger","english":"The Rough Patch","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Sporttaucher","english":"The Playbook","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Klapsgiving 2 - Die Rache der Ohrfeige","english":"Slapsgiving 2: Revenge of the Slap","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Fenster","english":"The Window","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die letzte Zigarette","english":"Last Cigarette Ever","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Anzug aus!","english":"Girls Versus Suits","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Jenkins","english":"Jenkins","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die perfekte Woche","english":"The Perfect Week","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ente oder Kaninchen","english":"Rabbit or Duck","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Am Haken","english":"Hooked","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Sag einfach nein","english":"Of Course","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Bitte lächeln!","english":"Say Cheese","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Zum Affen gemacht","english":"Zoo or False","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Heimvorteil","english":"Home Wreckers","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wie man sich bettet","english":"Twin Beds","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Roboter gegen Wrestler","english":"Robots Versus Wrestlers","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ballast-Stoff","english":"The Wedding Bride","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Weisheit des Universums","english":"Doppelgangers","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]}
+         ]
+}

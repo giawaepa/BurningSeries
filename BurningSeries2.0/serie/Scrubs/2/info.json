@@ -1,0 +1,30 @@
+{
+        "series":"Scrubs ? Die Anfänger",
+        "seasons":9,
+        "cover":"Scrubs-Die-Anfaenger_bb19dab1f0d35358b688f3a4a8bac13e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mein Rundumschlag","english":"My Overkill","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Nachtdienst","english":"My Nightingale","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Ticket nach Reno","english":"My Case Study","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine große Klappe","english":"My Big Mouth","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Kittel","english":"My New Coat","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein großer Bruder","english":"My Big Brother","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein erster Schritt","english":"My First Step","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Pudding","english":"My Fruit Cups","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Glückstag","english":"My Lucky Day","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Monster","english":"My Monster","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Bettbeziehung","english":"My Sex Buddy","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine neue alte Freundin","english":"My New Old Friend","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Theorie","english":"My Philosophy","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein modernes Wissen","english":"My Brother, My Keeper","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Seine Geschichte","english":"His Story","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Mein Karma","english":"My Karma","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Coach","english":"My Own Private Practice Guy","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine scharfe Koma-Braut","english":"My T.C.W.","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Größenwahn","english":"My Kingdom","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine Interpretation","english":"My Interpretation","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Drama","english":"My Drama Queen","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Traumjob","english":"My Dream Job","hoster":["YouTube","PutLocker","Ecostream"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Zuflucht",
+         "titleen":"Into Asylum",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7258743/Heroes_Staffel_3_Folge_21_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7258796/Heroes_Staffel_3_Folge_21_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7258847/Heroes_Staffel_3_Folge_21_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7258936/Heroes_Staffel_3_Folge_21_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"AD75D527B6098A5A"
+                }
+       ]
+}

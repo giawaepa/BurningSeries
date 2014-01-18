@@ -1,0 +1,21 @@
+{
+        "series":"MythBusters ? Die Wissensjäger",
+        "seasons":9,
+        "cover":"MythBusters-Die-Wissensjaeger_cc60346d8cc8ecf4693d55ce07daf622.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Explodierende Toilette","english":"Exploding Toilet","hoster":["PutLocker","Sockshare"]},
+                {"german":"Explosionen durch Handys","english":"Cell Phone Destroys Gas Station","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Lastenaufzug","english":"Barrel of Bricks","hoster":["PutLocker","Sockshare"]},
+                {"german":"Münzwurf vom Hochhaus","english":"Penny Drop","hoster":["Sockshare"]},
+                {"german":"Überleben im Sarg","english":"Buried Alive","hoster":["Sockshare"]},
+                {"german":"Blitzeinschlag im Piercing","english":"Lightning Strikes / Tongue Piercings","hoster":[]},
+                {"german":"Der stinkende Sportwagen","english":"Stinky Car","hoster":["Sockshare"]},
+                {"german":"Flucht aus Alcatraz","english":"Alcatraz Escape","hoster":["Sockshare"]},
+                {"german":"Die Hühnerkanone","english":"Chicken Gun","hoster":[]},
+                {"german":"Druckabfall","english":"Explosive Decompression","hoster":["Sockshare"]},
+                {"german":"Die sinkende Titanic","english":"Sinking Titanic","hoster":["Sockshare"]},
+                {"german":"Marsch auf die Brücke","english":"Break Step Bridge","hoster":["Sockshare"]},
+                {"german":"Eingemauert!","english":"Buried in Concrete","hoster":["Sockshare"]}
+         ]
+}

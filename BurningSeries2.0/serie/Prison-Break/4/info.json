@@ -1,0 +1,32 @@
+{
+        "series":"Prison Break",
+        "seasons":4,
+        "cover":"Prison-Break_1f2df02c26805c40ef09a6df7b5115b6.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Rückkehrer und Rächer","english":"Scylla","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Datendiebe","english":"Breaking and Entering","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Frontenverschiebung","english":"Shut down","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Adler und Engel","english":"Eagles and Angels","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gretchenfragen","english":"Safe and Sound","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sackgassen","english":"Blow Out","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vier in Las Vegas","english":"Five The Hard Way","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Krieg ohne Frieden","english":"The Price","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Opfergang","english":"Greatness Achieved","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Auslöser","english":"The Legend","hoster":["PutLocker","RapidVideo"]},
+                {"german":"In aller Stille","english":"Quiet Riot","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Self-Service","english":"Selfless","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wer verkauft hier was und wen?","english":"Deal Or No Deal","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Angebote des Feindes","english":"Just Business","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Plötzliche Erkenntnis","english":"Going Under","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Dame im Schachspiel?","english":"The Sunshine State","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Mutter aller Schlachten","english":"The Mother Lode","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Plan mit Unbekannten","english":"VS.","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hurensohn","english":"Son of a Bitch","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wieder in den Schlagzeilen","english":"Cowboys and Indians","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Endspurt","english":"Rate of Exchange","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sei du selbst die Veränderung, die du dir wünschst für diese Welt","english":"Killing Your Number","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein letzter Schritt zur Freiheit - Teil 1","english":"The Old Ball and Chain","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein letzter Schritt zur Freiheit - Teil 2","english":"Free","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

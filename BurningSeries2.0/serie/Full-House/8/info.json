@@ -1,0 +1,31 @@
+{
+        "series":"Full House",
+        "seasons":8,
+        "cover":"Full-House_20bd56938965807a7c4bdb8c45cd6edb.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Comet&#039;s Excellent Adventure","hoster":[]},
+                {"german":"","english":"Breaking Away","hoster":[]},
+                {"german":"","english":"Making out is Hard to Do","hoster":[]},
+                {"german":"","english":"I&#039;ve Got a Secret","hoster":[]},
+                {"german":"","english":"To Joey, With Love","hoster":[]},
+                {"german":"","english":"You Pet It, You Bought It","hoster":[]},
+                {"german":"","english":"On the Road Again","hoster":[]},
+                {"german":"","english":"Claire and Present Danger","hoster":[]},
+                {"german":"","english":"Stephanie&#039;s Wild Ride","hoster":[]},
+                {"german":"","english":"Under the Influence","hoster":[]},
+                {"german":"","english":"Arrest Ye Merry Gentlemen","hoster":[]},
+                {"german":"","english":"D.J.&#039;s Choice","hoster":[]},
+                {"german":"","english":"The Producer","hoster":[]},
+                {"german":"","english":"Super Bowl Fun Day","hoster":[]},
+                {"german":"","english":"My Left and Right Foot","hoster":[]},
+                {"german":"","english":"Dateless in San Francisco","hoster":[]},
+                {"german":"","english":"We Got the Beat","hoster":[]},
+                {"german":"","english":"Taking the Plunge","hoster":[]},
+                {"german":"","english":"Up on the Roof","hoster":[]},
+                {"german":"","english":"Leap of Faith","hoster":[]},
+                {"german":"","english":"All Stood Up","hoster":[]},
+                {"german":"","english":"Michelle Rides Again (1)","hoster":[]},
+                {"german":"","english":"Michelle Rides Again (2)","hoster":[]}
+         ]
+}

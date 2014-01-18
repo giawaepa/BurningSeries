@@ -1,0 +1,32 @@
+{
+        "series":"Alle lieben Raymond",
+        "seasons":9,
+        "cover":"Alle-lieben-Raymond_fc686af2b853c140fb5eda67e16ef9c7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Eine schrecklich wütende Familie","english":"The Angry Family","hoster":["PutLocker"]},
+                {"german":"Das erotische Brettspiel","english":"No Roll!","hoster":["PutLocker"]},
+                {"german":"Der Hausfreund","english":"Odd Man Out","hoster":["PutLocker"]},
+                {"german":"Frei und ungebunden","english":"Ray&#039;s Ring","hoster":["PutLocker"]},
+                {"german":"Die Skulptur","english":"Marie&#039;s Sculpture","hoster":["PutLocker"]},
+                {"german":"Abwärts","english":"Frank Goes Downstairs","hoster":["PutLocker"]},
+                {"german":"Hexenzauber","english":"Jealous Robert","hoster":["PutLocker"]},
+                {"german":"Der Coach","english":"It&#039;s Supposed to Be Fun","hoster":["PutLocker"]},
+                {"german":"Aus alt wird älter","english":"Older Women","hoster":["PutLocker"]},
+                {"german":"Raybert","english":"Raybert","hoster":["PutLocker"]},
+                {"german":"Fang den Ball!","english":"The Kicker","hoster":["PutLocker"]},
+                {"german":"Fröhliche Weihnachten","english":"Season&#039;s Greetings","hoster":["PutLocker"]},
+                {"german":"Der Hausmann","english":"Tissues","hoster":["PutLocker"]},
+                {"german":"Leise rieselt der Schnee ...","english":"Snow Day","hoster":["PutLocker"]},
+                {"german":"Kekse! Kekse! Kekse!","english":"Cookies","hoster":["PutLocker"]},
+                {"german":"Agent Barone","english":"Lucky Suit","hoster":["PutLocker"]},
+                {"german":"Selten so gelacht ...","english":"The Skit","hoster":["PutLocker"]},
+                {"german":"Hoch lebe die Ex!","english":"The Breakup Tape","hoster":["PutLocker"]},
+                {"german":"Allys Welt","english":"Talk to Your Daughter","hoster":["PutLocker"]},
+                {"german":"Nieder mit dem Wähler!","english":"A Vote for Debra","hoster":["PutLocker"]},
+                {"german":"Meine Mutter, deine Mutter","english":"Call Me Mom","hoster":["PutLocker"]},
+                {"german":"Das groáe Schweigen","english":"Mother&#039;s Day (1)","hoster":["PutLocker"]},
+                {"german":"Krieg!","english":"The Bigger Person (2)","hoster":["PutLocker"]},
+                {"german":"Eheliche Pflichten","english":"The First Time (3)","hoster":["PutLocker"]}
+         ]
+}

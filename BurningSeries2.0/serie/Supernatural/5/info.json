@@ -1,0 +1,30 @@
+{
+        "series":"Supernatural",
+        "seasons":7,
+        "cover":"Supernatural_a74050852c0b23409201cbcc3b25787e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mein Name ist Luzifer","english":"Sympathy for the Devil","hoster":["PutLocker"]},
+                {"german":"Der Krieg","english":"Good God, Y&#039;all","hoster":["PutLocker","Ecostream"]},
+                {"german":"Sei Du selbst","english":"Free to Be You and Me","hoster":["PutLocker","Ecostream"]},
+                {"german":"Endspiel","english":"The End","hoster":["PutLocker","Ecostream"]},
+                {"german":"Die falschen Götter","english":"Fallen Idols","hoster":["PutLocker","Ecostream"]},
+                {"german":"Die Kinder sind unsere Zukunft","english":"I Believe the Children Are Our Future","hoster":["Ecostream"]},
+                {"german":"Der seltsame Fall des Dean Winchester","english":"The Curious Case Of Dean Winchester","hoster":["PutLocker","Ecostream"]},
+                {"german":"Wie im Himmel, so auf Erden","english":"Changing Channels","hoster":["PutLocker","Ecostream"]},
+                {"german":"Die echten Geisterjäger","english":"The Real Ghostbusters","hoster":["PutLocker","Ecostream"]},
+                {"german":"Die Hoffnung stirbt...","english":"Abandon All Hope...","hoster":["PutLocker","Ecostream"]},
+                {"german":"Sam, durchgeknallt","english":"Sam, Interrupted","hoster":["PutLocker","Ecostream"]},
+                {"german":"Körpertausch","english":"Swap Meat","hoster":["Ecostream"]},
+                {"german":"Die Engel wachen über Dich","english":"The Song Remains The Same","hoster":["PutLocker","Ecostream"]},
+                {"german":"Blutiger Valentinstag","english":"My Bloody Valentine","hoster":["PutLocker","Ecostream"]},
+                {"german":"Tote tragen kein Karo","english":"Dead Men Don&#039;t Wear Plaid","hoster":["PutLocker","Ecostream"]},
+                {"german":"Sonnenfinsternis","english":"Dark Side Of The Moon","hoster":["PutLocker","Ecostream"]},
+                {"german":"99 Probleme","english":"99 Problems","hoster":["PutLocker","Ecostream"]},
+                {"german":"Kein Weg zurück","english":"Point of No Return","hoster":["PutLocker","Ecostream"]},
+                {"german":"Sein letzter Trick","english":"Hammer of the Gods","hoster":["PutLocker","Ecostream"]},
+                {"german":"Der Teufel steckt im Detail","english":"The Devil You Know","hoster":["PutLocker","Ecostream"]},
+                {"german":"Das Ende ist nah","english":"Two Minutes To Midnight","hoster":["PutLocker","Ecostream"]},
+                {"german":"Schwanenlied","english":"Swan Song","hoster":["YouTube","PutLocker","Ecostream"]}
+         ]
+}

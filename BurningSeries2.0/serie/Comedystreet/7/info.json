@@ -1,0 +1,16 @@
+{
+        "series":"Comedystreet",
+        "seasons":7,
+        "cover":"Comedystreet_8e9c135c0bdc97b57afc6558597b9dd5.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1 XXL","english":"","hoster":["PutLocker"]},
+                {"german":"Episode 2 XXL","english":"","hoster":["PutLocker"]},
+                {"german":"Episode 3 XXL","english":"","hoster":["MyVideo","PutLocker"]},
+                {"german":"Episode 4 XXL","english":"","hoster":["PutLocker"]},
+                {"german":"Episode 5 XXL","english":"","hoster":["PutLocker"]},
+                {"german":"Episode 6 XXL","english":"","hoster":["PutLocker"]},
+                {"german":"Episode 7 XXL","english":"","hoster":["PutLocker"]},
+                {"german":"Episode 8 XXL","english":"","hoster":["PutLocker"]}
+         ]
+}

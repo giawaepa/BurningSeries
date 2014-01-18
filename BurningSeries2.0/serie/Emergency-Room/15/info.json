@@ -1,0 +1,30 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Leben nach dem Tod","english":"Life After Death","hoster":[]},
+                {"german":"Ein ganz normaler Donnerstag","english":"Another Thursday at County","hoster":[]},
+                {"german":"Das Buch Abby","english":"The Book of Abby","hoster":[]},
+                {"german":"Nur ein kleines Mädchen","english":"Parental Guidance","hoster":[]},
+                {"german":"Geister der Vergangenheit","english":"Haunted","hoster":[]},
+                {"german":"Bruderliebe","english":"Oh, Brother","hoster":[]},
+                {"german":"Arzt, heile Dich selbst","english":"Heal Thyself","hoster":[]},
+                {"german":"Das Alter der Unschuld","english":"Age of Innocence","hoster":[]},
+                {"german":"Schneetreiben","english":"Let It Snow","hoster":[]},
+                {"german":"Geschenke","english":"The High Holiday","hoster":[]},
+                {"german":"Neue Wege","english":"Separation Anxiety","hoster":[]},
+                {"german":"Im Schlaf","english":"Dream Runner","hoster":[]},
+                {"german":"Schlechte Chancen","english":"Love Is a Battlefield","hoster":[]},
+                {"german":"Am Ende einer langen Reise","english":"A Long, Strange Trip","hoster":[]},
+                {"german":"Der Mann in der Familie","english":"The Family Man","hoster":[]},
+                {"german":"Der Anfang vom Ende","english":"The Beginning of the End","hoster":[]},
+                {"german":"T Minus 6","english":"T-minus-6","hoster":[]},
+                {"german":"Was wir tun","english":"What We Do","hoster":[]},
+                {"german":"Alte Zeiten","english":"Old Times","hoster":[]},
+                {"german":"Das Gleichgewicht verschiebt sich","english":"Shifting Equilibrium","hoster":[]},
+                {"german":"Herzensangelegenheiten","english":"I Feel Good","hoster":[]},
+                {"german":"Zu guter Letzt ...","english":"And In the End...","hoster":[]}
+         ]
+}

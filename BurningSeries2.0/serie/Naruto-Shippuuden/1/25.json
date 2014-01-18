@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Drei entscheidende Minuten",
+         "titleen":"Episode 25",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6507133/Naruto_Shippuuden_UNCUT_Folge_25_Deutsch_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6507497/Naruto_Shippuuden_UNCUT_Folge_25_Deutsch_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6507735/Naruto_Shippuuden_UNCUT_Folge_25_Deutsch_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"3760925DF8D47C11"
+                }
+       ]
+}

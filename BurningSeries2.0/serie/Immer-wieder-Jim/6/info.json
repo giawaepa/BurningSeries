@@ -1,0 +1,26 @@
+{
+        "series":"Immer wieder Jim",
+        "seasons":8,
+        "cover":"Immer-wieder-Jim_e97064bc1cd1f073436d59cb3f2bf1fa.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Kyle boxt sich durch","english":"The Punch","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Jim als Beziehungsexperte","english":"The Flannelsexual","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Alle lieben Fluffy","english":"Guinea Pygmalion","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Hochzeitstag","english":"Hoosier Daddy","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Kummer","english":"Good Grief","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die ganze Wut","english":"All the Rage","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Video","english":"Cheryl Gone Wild","hoster":["PutLocker","DivxStage"]},
+                {"german":"Jim als Hebamme","english":"Deliverance","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Nachts im Museum","english":"Dino-Mite","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Getrennte Wege","english":"Separate Ways","hoster":["PutLocker","DivxStage"]},
+                {"german":"Jimergency","english":"In Case of Jimergency","hoster":["PutLocker","DivxStage"]},
+                {"german":"Trainer Jim","english":"Coach Jim","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Alptraum","english":"The At-Bat","hoster":["PutLocker","DivxStage"]},
+                {"german":"Welche Lügen","english":"What Lies Beneath","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Grill II","english":"The Grill II","hoster":["PutLocker","DivxStage"]},
+                {"german":"Devlins und kein Ende","english":"Devlin in Disguise","hoster":["PutLocker","DivxStage"]},
+                {"german":"Jeder Mann von mir","english":"Any Man of Mine","hoster":["PutLocker","DivxStage"]},
+                {"german":"Jims Geburtstag","english":"Jim&#039;s Birthday","hoster":["PutLocker","DivxStage"]}
+         ]
+}

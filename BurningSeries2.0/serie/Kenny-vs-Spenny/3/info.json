@@ -1,0 +1,21 @@
+{
+        "series":"Kenny vs. Spenny",
+        "seasons":6,
+        "cover":"Kenny-vs-Spenny_b242cb25f204a30c0cf52db43ae9de9f.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Wer zuerst lacht verliert.","english":"First One to Laugh Loses.","hoster":["YouTube"]},
+                {"german":"Wer wird von Schwulen mehr gemocht?","english":"Who Do Gay Guys Like More?","hoster":["YouTube"]},
+                {"german":"Wer kann länger einen toten Oktopus auf dem Kopf tragen?","english":"Who Can Wear a Dead Octopus on Their Head the Longest?","hoster":["YouTube"]},
+                {"german":"Wer gewinnt ein 10-Meilen-Rennen?","english":"Who Can Win a Ten Mile Race?","hoster":[]},
+                {"german":"Wer kann den besseren Porno machen?","english":"Who Can Make a Better Porno?","hoster":[]},
+                {"german":"Wer kann mehr Gewicht mit seinem Genital heben?","english":"Who Can Lift More Weight with Their Genitals?","hoster":[]},
+                {"german":"Wer ist Cooler?","english":"Who Is Cooler?","hoster":["YouTube"]},
+                {"german":"Wer kann mehr Sperma produzieren?","english":"Who Can Produce More Semen?","hoster":["YouTube"]},
+                {"german":"Wer kann länger in einem Spuk-Haus leben?","english":"Who Can Live in a Haunted House the Longest?","hoster":["YouTube"]},
+                {"german":"Wer fängt den größeren Fisch?","english":"Who Can Catch the Bigger Fish?","hoster":["YouTube"]},
+                {"german":"Wer kann den jeweils anderen besser imitieren?","english":"Who Can Imitate the Other Guy Better?","hoster":["YouTube"]},
+                {"german":"Wer kann länger obdachlos bleiben?","english":"Who Can Stay Homeless the Longest?","hoster":["YouTube"]},
+                {"german":"Wettkampf im Armdrücken.","english":"Arm Wrestling Competition.","hoster":["YouTube","MyVideo"]}
+         ]
+}

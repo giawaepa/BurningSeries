@@ -1,0 +1,21 @@
+{
+        "series":"Chuck",
+        "seasons":5,
+        "cover":"Chuck_e64842e7889ebfe9486715b4c589901b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Pilot","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Helikopter","english":"Chuck Versus the Helicopter","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Tango","english":"Chuck Versus the Tango","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Yeti","english":"Chuck Versus the Wookiee","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die Shrimps","english":"Chuck Versus the Sizzling Shrimp","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Sandwurm","english":"Chuck Versus the Sandworm","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die Vergangenheit","english":"Chuck Versus the Alma Mater","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die Wahrheit","english":"Chuck Versus the Truth","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die Salami","english":"Chuck Versus the Imported Hard Salami","hoster":["PutLocker","Sockshare"]},
+                {"german":"Chuck gegen den schwarzen Freitag","english":"Chuck Versus the Nemesis","hoster":["PutLocker"]},
+                {"german":"Chuck gegen das Falschgeld","english":"Chuck Versus the Crown Vic","hoster":["PutLocker"]},
+                {"german":"Chuck gegen die Undercover-Liebe","english":"Chuck Versus the Undercover Lover","hoster":["PutLocker"]},
+                {"german":"Chuck gegen den Fisch","english":"Chuck Versus the Marlin","hoster":["PutLocker"]}
+         ]
+}

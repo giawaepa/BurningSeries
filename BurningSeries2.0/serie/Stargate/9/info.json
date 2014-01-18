@@ -1,0 +1,28 @@
+{
+        "series":"Stargate SG-1",
+        "seasons":10,
+        "cover":"Stargate-SG-1_6b5b9978ee26b1880a53c96bc53f8c10.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Avalon, Teil 1","english":"Avalon (1)","hoster":[]},
+                {"german":"Avalon, Teil 2","english":"Avalon (2)","hoster":[]},
+                {"german":"Die Herkunft","english":"Origin (3)","hoster":[]},
+                {"german":"Unsichtbare Fesseln","english":"The Ties That Bind","hoster":[]},
+                {"german":"Höhere Mächte","english":"The Powers That Be","hoster":[]},
+                {"german":"Das Schutzschild","english":"Beachhead","hoster":[]},
+                {"german":"Ex Deus Machina","english":"Ex Deus Machina","hoster":[]},
+                {"german":"Babylon","english":"Babylon","hoster":[]},
+                {"german":"Der Prototyp","english":"Prototype","hoster":[]},
+                {"german":"Der apokalyptische Reiter, Teil 1","english":"The Fourth Horseman (1)","hoster":[]},
+                {"german":"Der apokalyptische Reiter, Teil 2","english":"The Fourth Horseman (2)","hoster":[]},
+                {"german":"Kollateralschaden","english":"Collateral Damage","hoster":[]},
+                {"german":"Der Ripple-Effekt","english":"Ripple Effect","hoster":[]},
+                {"german":"Die Festung","english":"Stronghold","hoster":[]},
+                {"german":"Ethon","english":"Ethon","hoster":[]},
+                {"german":"Ohne Netz","english":"Off the Grid","hoster":[]},
+                {"german":"Die Plage","english":"The Scourge","hoster":[]},
+                {"german":"Arthur&#039;s Umhang","english":"Arthur&#039;s Mantle","hoster":[]},
+                {"german":"Der Kreuzzug","english":"Crusade","hoster":[]},
+                {"german":"Camelot","english":"Camelot","hoster":[]}
+         ]
+}

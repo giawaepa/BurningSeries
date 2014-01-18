@@ -1,0 +1,32 @@
+{
+        "series":"Meine Wilden Töchter",
+        "seasons":3,
+        "cover":"Meine-Wilden-Toechter_6957c8bc36f931e3e97b8f334379f55b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Duschen mit den Jungs","english":"First Day Of School","hoster":["YouTube"]},
+                {"german":"Sein Name ist Bruno","english":"Changes","hoster":["YouTube"]},
+                {"german":"Ein Wort mit &quot;J&quot;","english":"School Nurse","hoster":["YouTube"]},
+                {"german":"Frau im Kasten","english":"Out Of The Box","hoster":["YouTube"]},
+                {"german":"Die Süße von der Tankstelle","english":"Car Trouble","hoster":["YouTube"]},
+                {"german":"Rory und die Village People","english":"Halloween","hoster":["YouTube"]},
+                {"german":"Mutter, nicht Frau!","english":"Tennis Coach","hoster":["YouTube"]},
+                {"german":"Apfel mit Käsekuchen","english":"Secrets","hoster":["YouTube"]},
+                {"german":"Wie war das eigentlich?","english":"Thanksgiving Guest","hoster":["YouTube"]},
+                {"german":"Der falsche Look","english":"Vanity Unfair","hoster":["YouTube"]},
+                {"german":"Tennisschläger und schlechte Noten","english":"Princetown Girl","hoster":["YouTube"]},
+                {"german":"Weihnachten in Vegas","english":"A Very C.J. Christmas","hoster":["YouTube"]},
+                {"german":"Girlie mit Gipsbein","english":"The Sub","hoster":["YouTube"]},
+                {"german":"Alles ganz natürlich","english":"C.J.&#039;s Temptation","hoster":["YouTube"]},
+                {"german":"Wilde Zeiten","english":"Old Flame","hoster":["YouTube"]},
+                {"german":"Ich ruf dich an!","english":"Closure","hoster":["YouTube"]},
+                {"german":"Volley-Balla-Balla","english":"Volleybrawl","hoster":["YouTube"]},
+                {"german":"Ein voll verrückter Freitag","english":"Freaky Friday","hoster":["YouTube"]},
+                {"german":"Total moralisch","english":"Torn Between Two Lovers","hoster":["YouTube"]},
+                {"german":"Wahre Größe","english":"C.J.&#039;s Real Dad","hoster":["YouTube"]},
+                {"german":"Die Party danach","english":"The After Party","hoster":["YouTube"]},
+                {"german":"Immer auf die Kleinen","english":"The Teachers Lounge","hoster":["YouTube"]},
+                {"german":"Nichts passiert!","english":"The Sleepover","hoster":["YouTube"]},
+                {"german":"Der Tag der Ziege","english":"Ditch Day","hoster":["YouTube"]}
+         ]
+}

@@ -1,0 +1,26 @@
+{
+        "series":"Sex and the City",
+        "seasons":6,
+        "cover":"Sex-and-the-City_fd70f136f1be8ed1389274454005ddf0.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Agonie und Ex-tase","english":"the agony and the &#039;ex&#039;tasy","hoster":[]},
+                {"german":"Das wahre Ich","english":"the real me","hoster":[]},
+                {"german":"Grenzgänger","english":"defining moments","hoster":[]},
+                {"german":"Das Huhn oder der Sex?","english":"what&#039;s sex got to do with it?","hoster":[]},
+                {"german":"Stadt der Geister","english":"ghost town","hoster":[]},
+                {"german":"Taten oder Worte","english":"baby, talk is cheap","hoster":[]},
+                {"german":"Vergeben und vergessen","english":"time and punishment","hoster":[]},
+                {"german":"Der große Absturz","english":"my motherboard, my self","hoster":[]},
+                {"german":"Sex and the Country","english":"sex and the country","hoster":[]},
+                {"german":"Eiertanz","english":"belles of the balls","hoster":[]},
+                {"german":"Hätte, würde, sollte","english":"coulda, woulda, shoulda","hoster":[]},
+                {"german":"Sag einfach ja","english":"just say yes","hoster":[]},
+                {"german":"Ein harter Kampf","english":"the good fight","hoster":[]},
+                {"german":"Der beste Freund der Frau","english":"all that glitters","hoster":[]},
+                {"german":"Schwarz und weiss","english":"change of a dress","hoster":[]},
+                {"german":"Geschuldet, geliehen, geschenkt","english":"ring a ding ding","hoster":[]},
+                {"german":"Nicht davonlaufen","english":"a vogue idea","hoster":[]},
+                {"german":"Ich liebe New York","english":"i heart ny","hoster":[]}
+         ]
+}

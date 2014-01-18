@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Das Badezimmer-Experiment",
+         "titleen":"Bohemian Rhapsody",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7083505/Die_wilden_70er_das_Badezimmer_Experiment_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7083552/Die_wilden_70er_das_Badezimmer_Experiment_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7083571/Die_wilden_70er_das_Badezimmer_Experiment_3_3"
+                }
+       ]
+}

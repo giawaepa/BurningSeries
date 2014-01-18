@@ -1,0 +1,32 @@
+{
+        "series":"Alle unter einem Dach",
+        "seasons":9,
+        "cover":"Alle-unter-einem-Dach_2db8eb16cd5d05a61805adfcf8c1d513.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein breiter Scheitel","english":"Hell Toupee","hoster":[]},
+                {"german":"Die Nacht im Doppelbett","english":"It Didn&#039;t Happen One Night","hoster":[]},
+                {"german":"Der Lebensretter","english":"Saved by the Urkel","hoster":[]},
+                {"german":"Küss mich, Dummkopf!","english":"A Matter of Principle","hoster":[]},
+                {"german":"Der Wettkönig","english":"Money Out the Window","hoster":[]},
+                {"german":"Freund in Not","english":"Best Friends","hoster":[]},
+                {"german":"Die Basketball-Oma","english":"Grandmama","hoster":[]},
+                {"german":"Alle lieben Stephane!","english":"Dr. Urkel and Mr. Cool","hoster":[]},
+                {"german":"Mit den Waffen einer Frau","english":"Car Wars","hoster":[]},
+                {"german":"Autokino für Anfänger","english":"All the Wrong Moves","hoster":[]},
+                {"german":"Das Weihnachtsgefühl","english":"Christmas is Where the Heart Is","hoster":[]},
+                {"german":"Der Sofa-Dinosaurier","english":"Scenes from a Mall","hoster":[]},
+                {"german":"College oder Karriere?","english":"Rock Enroll","hoster":[]},
+                {"german":"Die männliche Jungfrau","english":"Like a Virgin","hoster":[]},
+                {"german":"Der Zorn des Eddie Winslow","english":"Good Cop, Bad Cop","hoster":[]},
+                {"german":"Steve vor Gericht","english":"Presumed Urkel","hoster":[]},
+                {"german":"Es geschah beim Bowling","english":"Father of the Bride","hoster":[]},
+                {"german":"Die schrecklichen Zwei","english":"Psycho Twins","hoster":[]},
+                {"german":"Trau dich, Carl!","english":"That&#039;s What Friends Are For","hoster":[]},
+                {"german":"Gegensätze ziehen sich an","english":"Opposites Attract","hoster":[]},
+                {"german":"Vier Männer im Zelt","english":"A-Camping We Will Go","hoster":[]},
+                {"german":"Unter Schwestern","english":"Nunsense","hoster":[]},
+                {"german":"Tante Oona aus Altoona","english":"Aunt Oona","hoster":[]},
+                {"german":"Zu schön um wahr zu sein","english":"Stefan Returns","hoster":[]}
+         ]
+}

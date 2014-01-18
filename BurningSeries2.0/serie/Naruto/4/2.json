@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Gewonnen und doch verloren",
+         "titleen":"Episode 80",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6242656/Naruto_Folge_80_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6242746/Naruto_Folge_80_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6242791/Naruto_Folge_80_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"4A1FCE9147CAFE69"
+                }
+       ]
+}

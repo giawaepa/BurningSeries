@@ -1,0 +1,20 @@
+{
+        "series":"Entourage",
+        "seasons":8,
+        "cover":"Entourage_bf0bdac8ab078439059a825957b1c9b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Fantasy Island","english":"Fantasy Island","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wie geht&#039;s weiter?","english":"Unlike A Virgin","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bankrott","english":"The All Out Fall Out","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Feuer und Flamme","english":"Fire Sale","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Reise ins Ich","english":"Tree Trippers","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Alles oder nichts","english":"ReDOMption","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Höhenflug","english":"Gotta Look Up To Get Down","hoster":["PutLocker","RapidVideo"]},
+                {"german":"First Class Jerk","english":"First Class Jerk","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Tortenstück","english":"Pie","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Im Haifischbecken","english":"Seth Green Day","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Spiel mit dem Feuer","english":"Play&#039;n With Fire","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Prinz von Queens","english":"Return To Queens Blvd","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

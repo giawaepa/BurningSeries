@@ -1,0 +1,20 @@
+{
+        "series":"True Blood",
+        "seasons":4,
+        "cover":"True-Blood_56b6d15f0252ad8a86476d77313c2347html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Nichts als Blut","english":"Nothing But the Blood","hoster":["PutLocker"]},
+                {"german":"Die Party geht weiter","english":"Keep This Party Going","hoster":["PutLocker","Ecostream"]},
+                {"german":"Kratzer","english":"Scratches","hoster":["PutLocker"]},
+                {"german":"Überraschung","english":"Shake and Fingerpop","hoster":["PutLocker"]},
+                {"german":"Verflucht","english":"Never Let Me Go","hoster":["PutLocker","Ecostream"]},
+                {"german":"Hartherzige Hannah","english":"Hard-Hearted Hannah","hoster":["PutLocker","Ecostream"]},
+                {"german":"Lass mich frei","english":"Release Me","hoster":["PutLocker"]},
+                {"german":"Zeitbombe","english":"Time Bomb","hoster":["PutLocker","Ecostream"]},
+                {"german":"Auferstehung","english":"I Will Rise Up","hoster":["PutLocker","Ecostream"]},
+                {"german":"Neue Welt","english":"New World In My View","hoster":["PutLocker","Ecostream"]},
+                {"german":"Ekstase","english":"Frenzy","hoster":["PutLocker","Ecostream"]},
+                {"german":"Das Ende des Horizonts","english":"Beyond Here Lies Nothing","hoster":["PutLocker","Ecostream"]}
+         ]
+}

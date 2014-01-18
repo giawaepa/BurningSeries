@@ -1,0 +1,15 @@
+{
+        "series":"Lipstick Jungle",
+        "seasons":2,
+        "cover":"Lipstick-Jungle_93e8cbeaafc0f6928d50ed1b8650fb7e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Turbulenzen","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Nichts ist Heilig","english":"Chapter Two: Nothing Sacred","hoster":["PutLocker"]},
+                {"german":"Pink Poison","english":"Chapter Three: Pink Poison","hoster":["PutLocker"]},
+                {"german":"Bombay Highway","english":"Chapter Four: Bombay Highway","hoster":["PutLocker"]},
+                {"german":"Schein oder Sein","english":"Chapter Five: Dressed To Kill","hoster":["PutLocker"]},
+                {"german":"Auf Umwegen","english":"Chapter Six: Take the High Road","hoster":["PutLocker"]},
+                {"german":"Dreiecksbeziehung","english":"Chapter Seven: Carpe Threesome","hoster":["PutLocker"]}
+         ]
+}

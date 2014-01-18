@@ -1,0 +1,21 @@
+{
+        "series":"Danni Lowinski",
+        "seasons":3,
+        "cover":"Danni-Lowinski_fcffaab29229e3ec57adb108901be8c6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Um die Wurst","english":"","hoster":["PutLocker"]},
+                {"german":"Endstation","english":"","hoster":["PutLocker"]},
+                {"german":"Waisenkind","english":"","hoster":["PutLocker"]},
+                {"german":"Träume","english":"","hoster":[]},
+                {"german":"Komaheirat","english":"","hoster":["PutLocker"]},
+                {"german":"Tabu","english":"","hoster":["PutLocker"]},
+                {"german":"Colonia","english":"","hoster":[]},
+                {"german":"Alles muss raus","english":"","hoster":["PutLocker"]},
+                {"german":"Monster","english":"","hoster":["PutLocker"]},
+                {"german":"Wintermärchen","english":"","hoster":[]},
+                {"german":"Mutterkind","english":"","hoster":["PutLocker"]},
+                {"german":"Falsche Wahl","english":"","hoster":["PutLocker"]},
+                {"german":"Endspiel","english":"","hoster":["PutLocker"]}
+         ]
+}

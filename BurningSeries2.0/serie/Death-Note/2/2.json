@@ -1,0 +1,16 @@
+{ 
+         "titlede":"Aktivität",
+         "titleen":"Activity",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"E135417CB303CF11"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"A0AEB709B749524F"
+                }
+       ]
+}

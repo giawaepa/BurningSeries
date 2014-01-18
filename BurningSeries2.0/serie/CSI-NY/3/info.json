@@ -1,0 +1,32 @@
+{
+        "series":"CSI: NY",
+        "seasons":8,
+        "cover":"CSI-NY_01987587a2ebb5130440caece7c6127b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Freier Fall","english":"People with Money","hoster":["PutLocker"]},
+                {"german":"Blutige Diamanten","english":"Not What It Looks Like","hoster":["PutLocker"]},
+                {"german":"Eiskalt","english":"Love Run Cold","hoster":["PutLocker"]},
+                {"german":"Blutige Botschaft","english":"Hung Out to Dry","hoster":["PutLocker"]},
+                {"german":"Kopfwunden","english":"Oedipus Hex","hoster":["PutLocker"]},
+                {"german":"Mord im Hotel","english":"Open and Shut","hoster":["PutLocker"]},
+                {"german":"Blau vor Neid","english":"Murder Sings the Blues","hoster":["PutLocker"]},
+                {"german":"Außerirdisch!","english":"Consequences","hoster":["PutLocker"]},
+                {"german":"Verwechslungsopfer","english":"And Here&#039;s to You, Mrs. Azrael","hoster":["PutLocker"]},
+                {"german":"Die Vögel","english":"Sweet Sixteen","hoster":["PutLocker"]},
+                {"german":"Bauernopfer","english":"Raising Shane","hoster":["PutLocker"]},
+                {"german":"Taube Ohren","english":"Silent Night","hoster":["PutLocker"]},
+                {"german":"Um Haaresbreite","english":"Obsession","hoster":["PutLocker"]},
+                {"german":"Alibi auf Rechnung","english":"The Lying Game","hoster":["PutLocker"]},
+                {"german":"Blutiges Labyrinth","english":"Some Buried Bones","hoster":["PutLocker"]},
+                {"german":"Tod in der Badewanne","english":"Heart of Glass","hoster":[]},
+                {"german":"Asche zu Asche","english":"The Ride-In","hoster":["PutLocker"]},
+                {"german":"Die zersägte Jungfrau","english":"Sleight Out of Hand","hoster":[]},
+                {"german":"Tod auf dem Schafott","english":"A Daze of Wine and Roaches","hoster":[]},
+                {"german":"Der Todespakt","english":"What Schemes May Come","hoster":[]},
+                {"german":"Blutige Handschrift","english":"Past Imperfect","hoster":[]},
+                {"german":"Gefallener Engel","english":"Cold Reveal","hoster":[]},
+                {"german":"Nachspiel","english":"Comes Around","hoster":[]},
+                {"german":"Ausnahmezustand","english":"Snow Day","hoster":[]}
+         ]
+}

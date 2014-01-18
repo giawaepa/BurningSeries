@@ -1,0 +1,21 @@
+{
+        "series":"Eine schrecklich nette Familie",
+        "seasons":11,
+        "cover":"Eine-schrecklich-nette-Familie_c1fd2e1979181b45a7c4bb6c755e10b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"So hat alles angefangen","english":"Pilot","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Lieben macht schlank","english":"Thinnergy","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Warum hast Du meinen Hund erschossen?","english":"But I Didn&#039;t Shoot the Deputy","hoster":["MyVideo","Sockshare"]},
+                {"german":"Billard oder Fitness","english":"Whose Room is It Anyway?","hoster":["YouTube","MyVideo"]},
+                {"german":"Mustang &#039;65","english":"Have You Driven a Ford Lately?","hoster":["YouTube","MyVideo"]},
+                {"german":"Der Hochzeitstag","english":"Sixteen Years and What Do You Get","hoster":["YouTube","MyVideo"]},
+                {"german":"Die Babysitter","english":"Married ... without Children","hoster":["MyVideo"]},
+                {"german":"Der Gewinn","english":"The Poker Game","hoster":["MyVideo"]},
+                {"german":"...dann arbeite ich eben","english":"Peggy Sue Got Work","hoster":["MyVideo"]},
+                {"german":"Mit Stewardessen spaßt man nicht","english":"Al Loses His Cherry","hoster":["MyVideo"]},
+                {"german":"Der Alptraum","english":"Nightmare on Al&#039;s Street","hoster":["MyVideo"]},
+                {"german":"Der Boß","english":"Where&#039;s the Boss","hoster":["MyVideo"]},
+                {"german":"Johnnys Hamburgerbude","english":"Johnny Be Gone","hoster":["MyVideo"]}
+         ]
+}

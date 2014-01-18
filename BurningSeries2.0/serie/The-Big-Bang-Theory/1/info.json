@@ -1,0 +1,25 @@
+{
+        "series":"The Big Bang Theory",
+        "seasons":5,
+        "cover":"The-Big-Bang-Theory_e2e0d054b42e7310babc02f3d12b2fb7.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Penny und die Physiker","english":"Pilot","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Chaos-Theorie","english":"The Big Bran Hypothesis","hoster":["YouTube","PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Erregungsfaktor Null","english":"The Fuzzy Boots Corollary","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Leuchtfisch-Idee","english":"The Luminous Fish Effect","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die andere Seite der Krawatte","english":"The Hamburger Postulate","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Mittelerde-Paradigma","english":"The Middle-Earth Paradigm","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Vorspeisen Dilemma","english":"The Dumpling Paradox","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Lalita-Problem","english":"The Grasshopper Experiment","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Cooper-Hofstadter-Antagonismus","english":"The Cooper-Hofstadter Polarization","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Loobenfelds Netz der Lügen","english":"The Loobenfeld Decay","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Alles fließt","english":"The Pancake Batter Anomaly","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Jerusalem-Projekt","english":"The Jerusalem Duality","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Superbowl für Physiker","english":"The Bat Jar Conjecture","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Zeitmaschine","english":"The Nerdvana Annihilation","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Sheldon 2.0","english":"The Porkchop Indeterminacy","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Erdnuss-Reaktion","english":"The Peanut Reaction","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schrödingers Katze","english":"The Tangerine Factor","hoster":["PutLocker","Sockshare","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]}
+         ]
+}

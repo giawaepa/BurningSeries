@@ -1,0 +1,30 @@
+{
+        "series":"Smallville",
+        "seasons":10,
+        "cover":"Smallville_9b035bf1ed4971800a10af943bd17d18.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Verschollen - Teil 1","english":"Exile (1)","hoster":["PutLocker"]},
+                {"german":"Phoenix - Teil 2","english":"Phoenix (2)","hoster":["PutLocker"]},
+                {"german":"Gejagt!","english":"Extinction","hoster":["PutLocker"]},
+                {"german":"Nur geträumt?","english":"Slumber","hoster":["PutLocker"]},
+                {"german":"Perry White","english":"Perry","hoster":["Sockshare"]},
+                {"german":"Smallville 1961","english":"Relic","hoster":["PutLocker"]},
+                {"german":"Anziehend ...","english":"Magnetic","hoster":["PutLocker"]},
+                {"german":"Schizophren!","english":"Shattered","hoster":["PutLocker"]},
+                {"german":"Irrsinn!","english":"Asylum","hoster":["PutLocker"]},
+                {"german":"Flüstern","english":"Whisper","hoster":["PutLocker"]},
+                {"german":"Befehle","english":"Delete","hoster":["PutLocker"]},
+                {"german":"Todesvision","english":"Hereafter","hoster":["PutLocker"]},
+                {"german":"Limit","english":"Velocity","hoster":["PutLocker"]},
+                {"german":"So wie ich?","english":"Obsession","hoster":["PutLocker"]},
+                {"german":"Lebenselixier","english":"Resurrection","hoster":["Sockshare"]},
+                {"german":"Amok","english":"Crisis","hoster":["Sockshare"]},
+                {"german":"Schlüsselmomente","english":"Legacy","hoster":["PutLocker"]},
+                {"german":"Sag die Wahrheit","english":"Truth","hoster":["PutLocker"]},
+                {"german":"Lara &amp; Lillian","english":"Memoria","hoster":["PutLocker"]},
+                {"german":"Der Mann, der einst vom Himmel fiel?","english":"Talisman","hoster":["PutLocker"]},
+                {"german":"Der Anfang ...","english":"Forsaken (1)","hoster":["PutLocker"]},
+                {"german":"... vom Ende","english":"Covenant (2)","hoster":["PutLocker"]}
+         ]
+}

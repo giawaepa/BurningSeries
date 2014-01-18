@@ -1,0 +1,30 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Krise im Kamp Krusty","english":"Kamp Krusty","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Bühne frei für Marge","english":"A Streetcar Named Marge","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Ein gotteslästerliches Leben","english":"Homer the Heretic","hoster":["PutLocker","DivxStage"]},
+                {"german":"Lisa, die Schönheitskönigin","english":"Lisa the Beauty Queen","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Bösartige Spiele","english":"Treehouse of Horror III","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Bart wird bestraft","english":"Itchy &amp; Scratchy: The Movie","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Marge muss jobben","english":"Marge Gets a Job","hoster":["Sockshare","DivxStage"]},
+                {"german":"Laura, die neue Nachbarin","english":"New Kid on the Block","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Einmal als Schneekönig!","english":"Mr. Plow","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Am Anfang war das Wort","english":"Lisa´s First Word","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Oh Schmerz, das Herz!","english":"Homer´s Triple Bypass","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Homer kommt in Fahrt","english":"Marge vs. the Monorail","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Selma will ein Baby","english":"Selma?s Choice","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Großer Bruder - kleiner Bruder","english":"Brother from the Same Planet","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ralph liebt Lisa","english":"I Love Lisa","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Keine Experimente","english":"Duffless","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Prinzessin von Zahnstein","english":"Last Exit to Springfield","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Nur ein Aprilscherz","english":"So It´s Come to This: A Simpsons Clip Show","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Wir vom Trickfilm","english":"The Front","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Das Schlangennest","english":"Whacking Day","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Marge wird verhaftet","english":"Marge in Chains","hoster":["PutLocker","DivxStage"]},
+                {"german":"Krusty, der TV-Star","english":"Krusty Gets Kancelled","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]}
+         ]
+}

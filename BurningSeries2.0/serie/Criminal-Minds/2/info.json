@@ -1,0 +1,32 @@
+{
+        "series":"Criminal Minds",
+        "seasons":7,
+        "cover":"Criminal-Minds_b57c4c9433b36cce49ad96d3ca0a8cc4html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Suche - Teil 2","english":"The Fisher King (2)","hoster":["PutLocker"]},
+                {"german":"Menschenkind","english":"P911","hoster":["PutLocker"]},
+                {"german":"Der Ring","english":"The Perfect Storm","hoster":["PutLocker"]},
+                {"german":"Psychodrama","english":"Psychodrama","hoster":["PutLocker"]},
+                {"german":"Der Lockvogel","english":"Aftermath","hoster":["PutLocker"]},
+                {"german":"Das Haus auf dem Berg","english":"The Boogeyman","hoster":["PutLocker"]},
+                {"german":"Zwei von Drei","english":"North Mammon","hoster":["PutLocker"]},
+                {"german":"Der leere Planet","english":"Empty Planet","hoster":["PutLocker"]},
+                {"german":"Rivalen","english":"The Last Word","hoster":["PutLocker"]},
+                {"german":"Halbmondnacht","english":"Lessons Learned","hoster":["PutLocker"]},
+                {"german":"Bilder im Kopf","english":"Sex, Birth, Death","hoster":["PutLocker"]},
+                {"german":"Die verlorenen Kinder","english":"Profiler, Profiled","hoster":["PutLocker"]},
+                {"german":"Golconda","english":"No Way Out (1)","hoster":["PutLocker"]},
+                {"german":"Das Zeichen","english":"The Big Game","hoster":["PutLocker"]},
+                {"german":"Gottesurteil","english":"Revelations","hoster":["PutLocker"]},
+                {"german":"Der letzte Song","english":"Fear and Loathing","hoster":["PutLocker"]},
+                {"german":"Mogadischu","english":"Distress","hoster":["PutLocker"]},
+                {"german":"Jones","english":"Jones","hoster":["PutLocker"]},
+                {"german":"Asche und Staub","english":"Ashes and Dust","hoster":["PutLocker"]},
+                {"german":"Das Gesetz der Diebe","english":"Honor Among Thieves","hoster":["PutLocker"]},
+                {"german":"Freiwild","english":"Open Season","hoster":["PutLocker"]},
+                {"german":"Dreiundsechzig","english":"Legacy","hoster":["PutLocker"]},
+                {"german":"Die Liste","english":"No Way Out (2): The Evilution of Frank","hoster":["PutLocker"]},
+                {"german":"","english":"No Way Out, Part II: The Evilution Of Frank","hoster":[]}
+         ]
+}

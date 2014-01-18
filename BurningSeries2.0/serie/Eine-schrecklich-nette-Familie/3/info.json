@@ -1,0 +1,30 @@
+{
+        "series":"Eine schrecklich nette Familie",
+        "seasons":11,
+        "cover":"Eine-schrecklich-nette-Familie_c1fd2e1979181b45a7c4bb6c755e10b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Reise in die Vergangenheit","english":"He thought he could","hoster":[]},
+                {"german":"Die Erscheinung","english":"I´m going to sweatland","hoster":[]},
+                {"german":"Der Rekord","english":"Poke High","hoster":[]},
+                {"german":"Männerurlaub","english":"A period piece","hoster":["YouTube"]},
+                {"german":"Der König der Klos","english":"A dump of my own","hoster":["YouTube"]},
+                {"german":"Das Geburtstagsgeschenk","english":"Her cups runneth over","hoster":["YouTube"]},
+                {"german":"Haar und Haar","english":"The bald and the beautiful","hoster":[]},
+                {"german":"Warum ausgerechnet mein Friseur?","english":"Requiem for a dead barber","hoster":["YouTube"]},
+                {"german":"Die Wahrsagerin","english":"The Gypsy cried","hoster":[]},
+                {"german":"Sex, Video, Al und Peggy","english":"I´ll see you in court","hoster":["YouTube"]},
+                {"german":"Im Drei-Sterne-Restaurant","english":"Eatin´out","hoster":["YouTube"]},
+                {"german":"Wie werde ich eine gute Hausfrau?","english":"My Mom, the Mom","hoster":[]},
+                {"german":"Die beste Schülerin","english":"Can´t dance, don´t ask me","hoster":[]},
+                {"german":"Ich bin mein bester Kunde","english":"A three job, no income family","hoster":[]},
+                {"german":"Der Verfolger","english":"The harder they fall","hoster":["YouTube"]},
+                {"german":"Es war einmal ein Haus","english":"The house that Peg lost","hoster":["YouTube"]},
+                {"german":"Meine Frau, die Königin (1)","english":"Married ... with Queen (1)","hoster":["YouTube"]},
+                {"german":"Meine Frau, die Königin (2)","english":"Married ... with Queen (2)","hoster":["YouTube"]},
+                {"german":"Der Held der modernen Welt","english":"The dateless Amigo","hoster":[]},
+                {"german":"Ein Computer würde helfen","english":"The Computer Show","hoster":[]},
+                {"german":"Tage am Strand","english":"Life´s a beach","hoster":["YouTube"]},
+                {"german":"Warum nicht bei mir?","english":"Here´s lookin´ at you kid","hoster":["YouTube"]}
+         ]
+}

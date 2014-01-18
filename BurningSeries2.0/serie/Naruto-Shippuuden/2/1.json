@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Eine Mission, aber kein Team!",
+         "titleen":"Episode 33",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6574159/Naruto_Shippuuden_UNCUT_Folge_33_Deutsch_1_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6574576/Naruto_Shippuuden_UNCUT_Folge_33_Deutsch_2_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6574986/Naruto_Shippuuden_UNCUT_Folge_33_Deutsch_3_3_HQ"
+                }
+       ]
+}

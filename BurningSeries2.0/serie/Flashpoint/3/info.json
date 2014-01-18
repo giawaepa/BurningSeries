@@ -1,0 +1,30 @@
+{
+        "series":"Flashpoint",
+        "seasons":4,
+        "cover":"Flashpoint_225fb8aaa8e751d1303dcd74792433e7.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Eine falsche Bewegung","english":"One Wrong Move","hoster":["PutLocker"]},
+                {"german":"Trauer und Schmerz","english":"Never Let You Down","hoster":["PutLocker"]},
+                {"german":"Der Aufstand","english":"Just a Man","hoster":["PutLocker"]},
+                {"german":"Sorgerecht","english":"Custody","hoster":["PutLocker"]},
+                {"german":"Auf Sendung","english":"Coming to You Live","hoster":["PutLocker"]},
+                {"german":"Die Farm","english":"The Farm","hoster":["PutLocker"]},
+                {"german":"Der Beschützer","english":"You Think You Know Someone","hoster":["PutLocker"]},
+                {"german":"Der Samariter","english":"The Good Citizen","hoster":["PutLocker"]},
+                {"german":"Hinter feindlichen Linien","english":"Behind the Blue Line","hoster":["PutLocker"]},
+                {"german":"Bedingungslose Liebe","english":"Unconditional Love","hoster":["PutLocker"]},
+                {"german":"Durchtrennte Bande","english":"Severed Ties","hoster":["PutLocker"]},
+                {"german":"Die falschen Freunde","english":"Follow the Leader","hoster":["PutLocker"]},
+                {"german":"Mit allen Mitteln","english":"Whatever It Takes","hoster":["PutLocker"]},
+                {"german":"Allein unter Wölfen","english":"The Other Lane","hoster":["PutLocker"]},
+                {"german":"Auf der Flucht","english":"Jumping at Shadows","hoster":["PutLocker"]},
+                {"german":"Persönliche Motive","english":"Acceptable Risk","hoster":["PutLocker"]},
+                {"german":"Eine zweite Meinung","english":"Collateral Damage","hoster":["PutLocker"]},
+                {"german":"Dicker als Blut","english":"Thicker Than Blood","hoster":["PutLocker"]},
+                {"german":"Terror","english":"Terror","hoster":["PutLocker"]},
+                {"german":"Keine Versprechungen","english":"No Promises","hoster":["PutLocker"]},
+                {"german":"Die Informantin","english":"I?d Do Anything","hoster":["PutLocker"]},
+                {"german":"Schwachstellen","english":"Fault Lines","hoster":["PutLocker"]}
+         ]
+}

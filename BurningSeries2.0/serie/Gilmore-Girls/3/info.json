@@ -1,0 +1,30 @@
+{
+        "series":"Gilmore Girls",
+        "seasons":7,
+        "cover":"Gilmore-Girls_7f16155ca12e6b38d5c40963a00e8818.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Schwere Entscheidungen","english":"Those Lazy-Hazy-Crazy Days","hoster":[]},
+                {"german":"Gebrochene Herzen","english":"Haunted Leg","hoster":[]},
+                {"german":"College Fieber","english":"Application Anxiety","hoster":[]},
+                {"german":"Jugendsünden","english":"One&#039;s Got Class and the Other One Dyes","hoster":[]},
+                {"german":"Ein verpatztes Date","english":"Eight O&#039;Clock at the Oasis","hoster":[]},
+                {"german":"Faule Eier","english":"Take the Deviled Eggs...","hoster":[]},
+                {"german":"Tanzmarathon","english":"They Shoot Gilmores, Don&#039;t They?","hoster":[]},
+                {"german":"Mit List und Tücke","english":"Let the Games Begin","hoster":[]},
+                {"german":"Stress hoch vier","english":"A Deep-Fried Korean Thanksgiving","hoster":[]},
+                {"german":"Das Winterfest","english":"That&#039;ll Do, Pig","hoster":[]},
+                {"german":"Wahrheit oder Pflicht","english":"I Solemnly Swear","hoster":[]},
+                {"german":"Am Haken","english":"Lorelai Out of Water","hoster":[]},
+                {"german":"Babyalarm!","english":"Dear Emily and Richard","hoster":[]},
+                {"german":"Blauäugig","english":"Swan Song","hoster":[]},
+                {"german":"Auf glattem Eis","english":"Face-Off","hoster":[]},
+                {"german":"Aus der Traum","english":"The Big One","hoster":[]},
+                {"german":"In Schutt und Asche","english":"A Tale of Poes and Fire","hoster":[]},
+                {"german":"Das liebe Geld","english":"Happy Birthday, Baby","hoster":[]},
+                {"german":"Eine wilde Nacht","english":"Keg! Max!","hoster":[]},
+                {"german":"Erben gesucht","english":"Say Goodnight, Gracie","hoster":[]},
+                {"german":"Vatertag","english":"Here Comes the Son","hoster":[]},
+                {"german":"Ein starker Abgang","english":"Those Are Strings, Pinocchio","hoster":[]}
+         ]
+}

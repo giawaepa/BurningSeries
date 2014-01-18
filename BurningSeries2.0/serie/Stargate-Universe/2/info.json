@@ -1,0 +1,28 @@
+{
+        "series":"Stargate Universe",
+        "seasons":2,
+        "cover":"Stargate-Universe_a04a2c36a05b5b4d0fcd1eb5184f1219.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Intervention (3)","english":"Intervention (3)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Nachwirkungen","english":"Aftermath","hoster":["PutLocker","DivxStage"]},
+                {"german":"Angedockt","english":"Awakening","hoster":["PutLocker","DivxStage"]},
+                {"german":"Pathogener Keim","english":"Pathogen","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wucherungen","english":"Cloverdale","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Test","english":"Trial and Error","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das große Ganze","english":"The Greater Good","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hass","english":"Malice","hoster":["PutLocker","DivxStage"]},
+                {"german":"Visitation","english":"Visitation","hoster":["PutLocker","DivxStage"]},
+                {"german":"Resurgence","english":"Resurgence (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Erlösung","english":"Deliverance (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Zwillingsschicksale","english":"Twin Destinies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bündnisse","english":"Alliances","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hoffnung","english":"Hope","hoster":["PutLocker","DivxStage"]},
+                {"german":"Trojanische List","english":"Seizure","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Jagd","english":"The Hunt","hoster":["PutLocker","DivxStage"]},
+                {"german":"Verwandtschaft","english":"Common Descent","hoster":["PutLocker","DivxStage"]},
+                {"german":"Epilog","english":"Epilogue","hoster":["PutLocker","DivxStage"]},
+                {"german":"Blockade","english":"Blockade","hoster":["PutLocker","DivxStage"]},
+                {"german":"Im Ruhezustand","english":"Gauntlet","hoster":["PutLocker","DivxStage"]}
+         ]
+}

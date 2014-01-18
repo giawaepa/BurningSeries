@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Auf eigene Faust!",
+         "titleen":"Episode 101",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=f5f_g3ziCRs"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=ZhoGSNHw8ZI"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6185579/Naruto_Shippuuden_101_ger_sub_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6705062/Naruto_shippuuden_folge_101_2_3_ger_subQPdwQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6185818/Naruto_Shippuuden_101_ger_sub_3_3_Vorschau_auf_102_Extra"
+                }
+       ]
+}

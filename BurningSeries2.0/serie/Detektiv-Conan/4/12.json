@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Gefangen im Netz (1)",
+         "titleen":"Episode 265",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=nkuRcshSpb4"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=ugFHKXMYc1k"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6022146/Detektiv_Conan_Folge_265_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6022512/Detektiv_Conan_Folge_265_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6022779/Detektiv_Conan_Folge_265_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"11FED78B276B175F"
+                }
+       ]
+}

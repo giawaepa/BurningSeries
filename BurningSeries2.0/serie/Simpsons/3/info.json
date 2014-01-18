@@ -1,0 +1,32 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Die Geburtstagsüberraschung","english":"Stark Raving Dad","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Einmal Washington und zurück","english":"Mr. Lisa Goes to Washington","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Ein Fluch auf Flanders","english":"When Flanders Failed","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Verbrechen lohnt sich nicht","english":"Bart the Murderer","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Der Ernstfall","english":"Homer Defined","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Der Vater eines Clowns","english":"Like Father, Like Clown","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Alpträume","english":"Treehouse of Horror II","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Lisas Pony","english":"Lisa´s Pony","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Das Seifenkistenrennen","english":"Saturdays of Thunder","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Das Erfolgsrezept","english":"Flaming Moe´s","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Kraftwerk zu verkaufen","english":"Burns Verkaufen der Kraftwerk","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Blick zurück aufs Eheglück","english":"I Married Marge","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Wer anderen einen Brunnen gräbt","english":"Radio Bart","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Wettkönig","english":"Lisa the Greek","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Wenn Mutter streikt","english":"Homer Alone","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Die Kontaktanzeige","english":"Bart the Lover","hoster":["YouTube","PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Wunderschläger","english":"Homer at the Bat","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Der Eignungstest","english":"Separate Vocations","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Auf den Hund gekommen","english":"Dog of Death","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Homer auf Abwegen","english":"Colonel Homer","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Bis dass der Tod euch scheidet","english":"Black Widower","hoster":["PutLocker","DivxStage","BitShare","UploadC"]},
+                {"german":"Der Fahrschüler","english":"The Otto Show","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Liebe und Intrige","english":"Barts Friend Falls in Love","hoster":["PutLocker","DivxStage","BitShare"]},
+                {"german":"Der vermisste Halbbruder","english":"Brother Can You Spare Two Dimes?","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]}
+         ]
+}

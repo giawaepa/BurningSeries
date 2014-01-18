@@ -1,0 +1,33 @@
+{
+        "series":"Alle lieben Raymond",
+        "seasons":9,
+        "cover":"Alle-lieben-Raymond_fc686af2b853c140fb5eda67e16ef9c7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Italien - Teil 1","english":"Italy (1)","hoster":["PutLocker"]},
+                {"german":"Italien - Teil 2","english":"Italy (2)","hoster":[]},
+                {"german":"Pechmarie","english":"The Wallpaper","hoster":["PutLocker"]},
+                {"german":"Es hat nicht sollen sein","english":"Meant to Be","hoster":["PutLocker"]},
+                {"german":"Hamsterfriedhof","english":"Pet Cemetery","hoster":["PutLocker"]},
+                {"german":"Der Autor","english":"The Author","hoster":["PutLocker"]},
+                {"german":"Der Kavalier","english":"The Walk to the Door","hoster":["PutLocker"]},
+                {"german":"Junge Leute","english":"Young Girl","hoster":["PutLocker"]},
+                {"german":"Ehestreitigkeiten","english":"Fighting In-Laws","hoster":["PutLocker"]},
+                {"german":"Wetterfühlig","english":"The Sneeze","hoster":["PutLocker"]},
+                {"german":"Weihnachtsgeschenke","english":"Christmas Present","hoster":["PutLocker"]},
+                {"german":"Unterlassene Hilfeleistung","english":"What Good Are You?","hoster":["PutLocker"]},
+                {"german":"Super Bowl","english":"Super Bowl","hoster":["PutLocker"]},
+                {"german":"Rays Tagebuch","english":"Ray&#039;s Journal","hoster":["PutLocker"]},
+                {"german":"Dinner am Valentinstag","english":"Silent Partners","hoster":["PutLocker"]},
+                {"german":"Feenmärchen","english":"Fairies","hoster":["PutLocker"]},
+                {"german":"Stefanias Ankunft","english":"Stefania Arrives","hoster":["PutLocker"]},
+                {"german":"Der brandneue Staubsauger","english":"Humm Vac","hoster":["PutLocker"]},
+                {"german":"Von sentimentalem Wert","english":"The Canister","hoster":["PutLocker"]},
+                {"german":"Wenn&#039;s um Geld geht","english":"Net Worth","hoster":["PutLocker"]},
+                {"german":"Die Negativliste","english":"Let&#039;s Fix Robert","hoster":["PutLocker"]},
+                {"german":"Onkel Robert ist der Beste","english":"Say Uncle","hoster":["PutLocker"]},
+                {"german":"Trennung","english":"Separation","hoster":["PutLocker"]},
+                {"german":"Frank streicht das Haus","english":"Frank Paints the House","hoster":["PutLocker"]},
+                {"german":"Wie schnell die Zeit vergeht","english":"Ally&#039;s Birth","hoster":["PutLocker"]}
+         ]
+}

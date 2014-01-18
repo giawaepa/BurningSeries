@@ -1,0 +1,33 @@
+{
+        "series":"Die wilden Siebziger",
+        "seasons":8,
+        "cover":"Die-wilden-Siebziger_62c095abab6c57409310f06720d63299.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Keine Macht den Drogen","english":"Reefer Madness (2)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vertrauen ist gut, Kontrolle ist besser","english":"Red Sees Red","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hydes Vater","english":"Hyde&#039;s Father","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hitchcock lässt grüßen","english":"Too Old to Trick or Treat, Too Young to Die","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Kittys Lach-Therapie","english":"Roller Disco","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Höschen-Alarm","english":"Eric&#039;s Panties","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Im Baby-Fieber","english":"Baby Fever","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Veteranentag","english":"Jackie Bags Hyde","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Feuchtfröhliche Weihnachten","english":"Hyde&#039;s Christmas Rager","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wer erobert Jackie?","english":"Ice Shack","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Red, die Leiche des Jahres","english":"Who Wants It More?","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Blondine bevorzugt","english":"Fez Gets the Girl","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das große Fressen","english":"Dine and Dash","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sex &amp; Drugs &amp; Rock &#039;n&#039; Roll","english":"Radio Daze","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Frauen sind verrückt","english":"Donna&#039;s Panties","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das romantische Wochenende","english":"Romantic Weekend","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Geschenkestress","english":"Kitty&#039;s Birthday (Is That Today!?)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Nudisten unter sich","english":"The Trials Of Michael Kelso","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Kelsos Liste","english":"Eric&#039;s Naughty No-No","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Schizzobraut","english":"Holy Craps!","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Fez und Donna","english":"Fez Dates Donna","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Erics Tätowierung","english":"Eric&#039;s Drunken Tattoo","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kleiner Grenzverkehr","english":"Canadian Road Trip","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Donna macht Karriere","english":"Backstage Pass","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Freundschaftsring","english":"The Promise Ring","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

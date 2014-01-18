@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der falsche Klon",
+         "titleen":"Fragile Balance",
+         "description":"Ein 13-jähriger Junge sorgt im Stargate Center für Aufregung: Er behauptet Jack O&#039;Neill zu sein und kann sich nicht nur an Details aus dessen Leben erinnern, sondern verhält sich auch genau wie dieser. Dr. Fraiser stellt fest, dass die DNS des Kleinen tatsächlich mit der von O&#039;Neill übereinstimmt. Doch dann entdeckt die Ärztin eine Anomalie: offenbar handelt es sich bei dem Jungen um einen Klon.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6863355/Stargate_SG_1_Staffel_7_Folge_3_teil1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6863377/Stargate_SG1_Staffel_7_Folge_3_teil2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6863389/Stargate_SG1_Staffel_7_Folge_3_teil3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"6863406/Stargate_SG1_Staffel_7_Folge_3_teil4"
+                }
+       ]
+}

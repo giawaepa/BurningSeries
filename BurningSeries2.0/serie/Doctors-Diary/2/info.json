@@ -1,0 +1,16 @@
+{
+        "series":"Doctors Diary",
+        "seasons":3,
+        "cover":"Doctors-Diary_2e4f5105e2c180960d2ae718b9034d3d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Hurra - Endlich wieder Liebeskummer","english":"","hoster":["PutLocker"]},
+                {"german":"Einmal - Cinderella und zurück","english":"","hoster":[]},
+                {"german":"Yippie - Noch mehr Arsch, noch weniger Sex","english":"","hoster":["PutLocker"]},
+                {"german":"Na toll - Ohne Marc ist alles doof!","english":"","hoster":["PutLocker"]},
+                {"german":"Huch - Wachse über mich hinaus!","english":"","hoster":["PutLocker"]},
+                {"german":"Sauerei - Millionär will mein Herz stehlen","english":"","hoster":[]},
+                {"german":"Romantisch - Drei Männer auf Haasenjagd","english":"","hoster":["PutLocker"]},
+                {"german":"Ja, ich will - Aber wer will mich?","english":"","hoster":["PutLocker"]}
+         ]
+}

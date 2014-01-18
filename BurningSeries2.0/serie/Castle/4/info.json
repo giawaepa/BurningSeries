@@ -1,0 +1,25 @@
+{
+        "series":"Castle",
+        "seasons":4,
+        "cover":"Castle_7bc4559eb18712efdb6eb86c1e858f8a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Rise","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Heroes &amp; Villains","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Head Case","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Kick the Ballistics","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Eye of the Beholder","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Demons","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Cops and Robbers","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Heartbeak Hotel","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Kill Shot","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Cuffed","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Till Death Do Us Part","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Dial M for Mayor","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"An Embarrassment of Bitches","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Blue Butterfly","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Pandora","hoster":[]},
+                {"german":"","english":"Linchpin","hoster":[]},
+                {"german":"","english":"Once Upon a Crime","hoster":[]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Episode 1",
+         "titleen":"Episode 1",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7103437/X_Factor_Das_Unfassbare_S04E01_1_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7103482/X_Factor_Das_Unfassbare_S04E01_2_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7103516/X_Factor_Das_Unfassbare_S04E01_3_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7103555/X_Factor_Das_Unfassbare_S04E01_4_5"
+                }
+       ]
+}

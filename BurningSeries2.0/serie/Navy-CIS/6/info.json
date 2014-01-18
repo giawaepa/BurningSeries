@@ -1,0 +1,33 @@
+{
+        "series":"Navy CIS",
+        "seasons":9,
+        "cover":"Navy-CIS_141ca3e65244fc72f323f852248d3211.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Aus den Augen...","english":"Last Man Standing","hoster":["PutLocker"]},
+                {"german":"Agent zur See","english":"Agent Afloat","hoster":["PutLocker"]},
+                {"german":"Ein ehrenweter Mann","english":"Capitol Offense","hoster":["PutLocker"]},
+                {"german":"Vater und Sohn","english":"Heartland","hoster":["PutLocker"]},
+                {"german":"Der falsche Zeuge","english":"Nine Lives","hoster":["PutLocker"]},
+                {"german":"Der Traum vom Ruhm","english":"Murder 2.0","hoster":["PutLocker"]},
+                {"german":"Kollateralschaden","english":"Collateral Damage","hoster":["PutLocker"]},
+                {"german":"Verraten","english":"Cloak","hoster":["PutLocker"]},
+                {"german":"Domino","english":"Dagger","hoster":["PutLocker"]},
+                {"german":"Fight Club","english":"Road Kill","hoster":["PutLocker"]},
+                {"german":"Stille Nacht","english":"Silent Night","hoster":["PutLocker"]},
+                {"german":"Hinter Gittern","english":"Caged","hoster":["PutLocker"]},
+                {"german":"Schatten der Vergangenheit","english":"Broken Bird","hoster":["PutLocker"]},
+                {"german":"Der verschwundene Ring","english":"Love &amp; War","hoster":["PutLocker"]},
+                {"german":"Abschreckung","english":"Deliverance","hoster":["PutLocker"]},
+                {"german":"Der Sündenbock","english":"Bounce","hoster":["PutLocker"]},
+                {"german":"Paket von einem Toten","english":"South by Southwest","hoster":["PutLocker"]},
+                {"german":"Alleingang","english":"Knockout","hoster":["PutLocker"]},
+                {"german":"Der Fluch der Waffe","english":"Hide and Seek","hoster":["PutLocker"]},
+                {"german":"Der Schatz des Piraten","english":"Dead Reckoning","hoster":["PutLocker"]},
+                {"german":"Schach matt","english":"Toxic","hoster":["PutLocker"]},
+                {"german":"Legende (1)","english":"Legend (1)","hoster":["PutLocker"]},
+                {"german":"Legende (2)","english":"Legend (2)","hoster":["PutLocker"]},
+                {"german":"Geheimpoker","english":"Semper Fidelis","hoster":["PutLocker"]},
+                {"german":"Heimkehr","english":"Aliyah","hoster":["PutLocker"]}
+         ]
+}

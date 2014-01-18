@@ -1,0 +1,28 @@
+{
+        "series":"M*A*S*H",
+        "seasons":11,
+        "cover":"M-A-S-H_ba9c37303b185e8c205e7b06cbc0acda.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Feind spielt mit","english":"The Best of Enemies","hoster":[]},
+                {"german":"Kleine Brieffreunde","english":"Letters","hoster":[]},
+                {"german":"Bakterien und Beton","english":"Cementing Relationships","hoster":[]},
+                {"german":"Die nackte Kuh","english":"Father&#039;s Day","hoster":[]},
+                {"german":"Man lebt - man ist tot","english":"Death Takes a Holiday","hoster":[]},
+                {"german":"Notieren Sie, Max!","english":"A War for all Seasons","hoster":[]},
+                {"german":"Auf die Army!","english":"Your Retention Please","hoster":[]},
+                {"german":"Ein göttlicher Segen","english":"Tell it to the Marines","hoster":[]},
+                {"german":"Der große Reinfall","english":"Taking the Fifth","hoster":[]},
+                {"german":"Operation Freundschaft","english":"Operation Friendship","hoster":[]},
+                {"german":"Bei Hitze nicht schlafen","english":"No Sweat","hoster":[]},
+                {"german":"Kühne Träume","english":"Depressing News","hoster":[]},
+                {"german":"Doch nicht prostituieren","english":"No Laughing Matter","hoster":[]},
+                {"german":"Harmonika und Hochzeitstag","english":"Oh, How We Danced","hoster":[]},
+                {"german":"Zuviel des Guten","english":"Bottoms Up","hoster":[]},
+                {"german":"Mit unangenehmer Wirkung","english":"The Red / White Blues","hoster":[]},
+                {"german":"Gesundheit, Hawkeye","english":"Bless You, Hawkeye","hoster":[]},
+                {"german":"Weiter so, Hochwürden","english":"Blood Brothers","hoster":[]},
+                {"german":"Ein fabelhafter Gedanke","english":"The Foresight Saga","hoster":[]},
+                {"german":"Die härteste Realität","english":"The Life You Save","hoster":[]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Genie und Wahnsinn",
+         "titleen":"True Colors",
+         "description":"Alf schmuggelt ein von ihm gestaltetes Kunstwerk, ein Bild aus Pasta und Soße, unter die kritischen Augen von Lynns Zeichenlehrer. Dieser ist begeistert. Das löst eine reiche Schaffensperiode bei Alf aus.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7012924/ALF_Genie_und_Wahnsinn_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7012979/ALF_Genie_und_Wahnsinn_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7013012/ALF_Genie_und_Wahnsinn_3_3"
+                }
+       ]
+}

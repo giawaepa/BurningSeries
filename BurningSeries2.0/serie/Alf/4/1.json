@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Eric, wo bist Du?",
+         "titleen":"Baby, Come Back",
+         "description":"Alf ist zum Babysitter avanciert, obwohl die Tanners zuerst große Bedenken hatten. Auch wenn er hin und wieder einschläft, macht der Außerirdische seine Sache ganz gut. Bis das Baby plötzlich verschwunden ist.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6882758/ALF_Eric_wo_bist_du_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6886237/ALF_Eric_wo_bist_du_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6890339/ALF_Eric_wo_bist_du_3_3"
+                }
+       ]
+}

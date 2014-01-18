@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Meisterdieb 1412 (2)",
+         "titleen":"Episode 079",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=_5TWyDbijK8"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=3dB4MbbMRfs"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6267360/Detektiv_Conan_Folge_79_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6267509/Detektiv_Conan_Folge_79_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6267634/Detektiv_Conan_Folge_79_3_3"
+                }
+       ]
+}

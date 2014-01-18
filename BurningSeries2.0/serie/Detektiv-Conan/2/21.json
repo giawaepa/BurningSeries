@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Wo ist Nintaro Shinmei (2)",
+         "titleen":"Episode 123",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=DgBGM6s1IbA"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5427638/Detektiv_Conan_Folge_123_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5428225/Detektiv_Conan_Folge_123_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5428859/Detektiv_Conan_Folge_123_3_3"
+                }
+       ]
+}

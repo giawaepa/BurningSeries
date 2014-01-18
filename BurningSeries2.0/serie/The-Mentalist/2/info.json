@@ -1,0 +1,31 @@
+{
+        "series":"The Mentalist",
+        "seasons":4,
+        "cover":"The-Mentalist_b499d969570af95071715644774fe7fc.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Schmerz und Geld","english":"Redemption","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Problemlöser","english":"The Scarlet Letter","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Türen im Kopf","english":"Red Badge","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der einzige Mandant","english":"Red Menace","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Peppers Geist","english":"Red Scare","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Boscos Rache","english":"Black Gold and Red Blood","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ernie und Bert","english":"Red Bulls","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Grüße von Red John","english":"His Red Right Hand","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gepresste Kohle","english":"A Price Above Rubies","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sport ist Mord","english":"Throwing Fire","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die schönsten Jahre","english":"Rose-Colored Glasses","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der blaue Topas","english":"Bleeding Heart","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Krieg der Wölfe","english":"Redline","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der beste Freund","english":"Blood In, Blood Out","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Geschmack des Todes","english":"Red Herring","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Code Red","english":"Code Red","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kleopatras Ring","english":"The Red Box","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Giftiges Wasser","english":"Aingavite Baa","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Auftragsmord","english":"Blood Money","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gemischtes Doppel","english":"Red All Over","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schachmatt","english":"18-5-4","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Menschenfreund","english":"Red Letter","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kein einziges Wort","english":"Red Sky in the Morning","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

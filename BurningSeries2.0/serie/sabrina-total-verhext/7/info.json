@@ -1,0 +1,30 @@
+{
+        "series":"Sabrina - total verhext",
+        "seasons":7,
+        "cover":"Sabrina-total-verhext_9bc45f9f48032b5509b0215502c2ce17.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Auf Jobsuche","english":"Total Sabrina Live! (2)","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Interview mit einem Hohlkopf","english":"The Big Head","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Was ist schon normal?","english":"Call Me Crazy","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Das Biest","english":"Shift Happens","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Die Ladendiebin","english":"Free Sabrina","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Sabrina unplugged","english":"Sabrina Unplugged","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Sammelleidenschaft","english":"Witch Way Out","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Avril, Avril","english":"Bada-Ping!","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Wiedersehen in Miami","english":"It&#039;s a Hot, Hot, Hot, Hot Christmas","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Lampenfieber","english":"Ping, Ping A Song","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Lügen und Klamotten","english":"The Lyin&#039;, the Witch and the Wardrobe","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Blindes Vertrauen","english":"In Sabrina We Trust","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Sabrina im Wunderland","english":"Sabrina in Wonderland","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Perfekt!","english":"Present Perfect","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Cirque du Sabrina","english":"Cirque du Sabrina","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Cyrano und Sabrina","english":"Getting To Nose You","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Romanzen-Alarm","english":"Romance Looming","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Ein böser Versprecher","english":"Spellmanian Slip","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Cinderellas Märchenhochzeit","english":"You Slay Me","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Ein Fisch namens Aaron","english":"A Fish Tale","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Was Hexen wünschen","english":"What a Witch Wants (1)","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Seelenverwandte","english":"Soul Mates (2)","hoster":["Sockshare"]}
+         ]
+}

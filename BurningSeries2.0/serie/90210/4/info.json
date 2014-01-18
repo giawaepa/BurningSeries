@@ -1,0 +1,25 @@
+{
+        "series":"90210",
+        "seasons":4,
+        "cover":"90210_2a5a4ebb1395e5a42463de0594f6801e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Up in Smoke","hoster":["PutLocker"]},
+                {"german":"","english":"Rush Hour","hoster":["PutLocker"]},
+                {"german":"","english":"Greek Tragedy","hoster":["PutLocker"]},
+                {"german":"","english":"Let the Games Begin","hoster":["PutLocker"]},
+                {"german":"","english":"Party Politics","hoster":["PutLocker"]},
+                {"german":"","english":"Benefit of the Doubt","hoster":["PutLocker"]},
+                {"german":"","english":"It&#039;s The Great Masquerade, Naomi Clark","hoster":["PutLocker"]},
+                {"german":"","english":"Vegas, Maybe?","hoster":["PutLocker"]},
+                {"german":"","english":"A Thousand Words","hoster":["PutLocker"]},
+                {"german":"","english":"Smoked Turkey","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Project Runaway","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"A Holly Night","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Should Old Acquaintance Be Forgot?","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Mama Can You Hear Me?","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Trust, Truth and Traffic","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"No Good Deed","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"","english":"Babes in Toyland","hoster":[]}
+         ]
+}

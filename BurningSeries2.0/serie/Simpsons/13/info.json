@@ -1,0 +1,30 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Hex und the City","english":"Treehouse of Horror XII","hoster":["DivxStage","RapidVideo"]},
+                {"german":"Ich bin bei Dir mein Sohn","english":"The Parent Rap","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Homer und Moe St. Cool","english":"Homer the Moe","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Gloria und die wahre Liebe","english":"A Hunka Hunka Burns in Love","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Aus dunklen Zeiten","english":"The Blunder Years","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Allein, Ihr fehlt der Glaube","english":"She of Little Faith","hoster":["DivxStage","RapidVideo"]},
+                {"german":"Familienkrawall - Maggie verhaftet","english":"Brawl in the Family","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die süßsaure Marge","english":"Sweets and Sour Marge","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Sein Kiefer ist verdrahtet","english":"Jaws Wired Shut","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ein halbanständiges Angebot","english":"Half-Decent Proposal","hoster":["DivxStage","RapidVideo"]},
+                {"german":"Nach Kanada der Liebe wegen","english":"The Bart Wants What It Wants","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Bart und sein Westernheld","english":"The Lastest Gun in the West","hoster":["PutLocker","DivxStage"]},
+                {"german":"Abraham und Zelda","english":"The Old Man and the Key","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Drei uralte Geschichten","english":"Tales From the Public Domain","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das ist alles nur Lisas Schuld","english":"Blame it on Lisa","hoster":["DivxStage","RapidVideo"]},
+                {"german":"Homer einmal ganz woanders","english":"Weekend at Burnsie&#039;s","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Forrest Plump und die Clip-Show","english":"Gump Roast","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der rasende Wüterich","english":"I Am Furious (Yellow)","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Apu- und Manjula-Krise","english":"The Sweetest Apu","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Meisterin des Doppellebens","english":"Little Girl in the Big Ten","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Am Anfang war die Schreiraupe","english":"The Frying Game","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sicherheitsdienst Springshield","english":"Poppas Got a Brand New Badge","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

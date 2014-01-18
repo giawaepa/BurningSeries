@@ -1,0 +1,25 @@
+{
+        "series":"Naruto Shippuuden",
+        "seasons":8,
+        "cover":"Naruto-Shippuuden_198c1ffe8cb76e7ea7d21734cae9e6e3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Geisterkatze","english":"Episode 72","hoster":["YouTube"]},
+                {"german":"Eile geboten!","english":"Episode 73","hoster":["YouTube"]},
+                {"german":"Unter dem Sternenhimmel","english":"Episode 74","hoster":["YouTube"]},
+                {"german":"Das Gebet des alten Mönches","english":"Episode 75","hoster":["YouTube"]},
+                {"german":"Der Nächste Schritt","english":"Episode 76","hoster":["YouTube"]},
+                {"german":"Der Silberne General","english":"Episode 77","hoster":["YouTube"]},
+                {"german":"Der Magische Kreis","english":"Episode 78","hoster":["YouTube"]},
+                {"german":"Asumas letzter Kampf","english":"Episode 79","hoster":["YouTube"]},
+                {"german":"Wertvolle Erinnerungen","english":"Episode 80","hoster":["YouTube"]},
+                {"german":"Traurige Nachrichten","english":"Episode 81","hoster":["YouTube"]},
+                {"german":"Team Nummer zehn","english":"Episode 82","hoster":["YouTube"]},
+                {"german":"Asumas Vermächtnis","english":"Episode 83","hoster":["YouTube"]},
+                {"german":"Nur 24 Stunden!","english":"Episode 84","hoster":["YouTube"]},
+                {"german":"Der Herzdieb","english":"Episode 85","hoster":["YouTube"]},
+                {"german":"Shikamarus genialer Schachzug","english":"Episode 86","hoster":["YouTube"]},
+                {"german":"Ein besonderer Teil des Waldes","english":"Episode 87","hoster":["YouTube"]},
+                {"german":"Windversteck: Rasen-Shuriken","english":"Episode 88","hoster":["YouTube"]}
+         ]
+}

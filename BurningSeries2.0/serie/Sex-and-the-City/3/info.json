@@ -1,0 +1,26 @@
+{
+        "series":"Sex and the City",
+        "seasons":6,
+        "cover":"Sex-and-the-City_fd70f136f1be8ed1389274454005ddf0.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Wo Rauch ist...","english":"where there&#039;s smoke","hoster":[]},
+                {"german":"Sex und Politik","english":"politically erect","hoster":[]},
+                {"german":"Die Superfrau","english":"attack of the five foot ten woman","hoster":[]},
+                {"german":"Junge, Mädchen, Junge, Mädchen","english":"boy, girl, boy, girl","hoster":[]},
+                {"german":"Hindernislauf","english":"no ifs, ands or butts","hoster":[]},
+                {"german":"Sind wir Schlampen?","english":"are we sluts?","hoster":[]},
+                {"german":"Zu schön, um Wahr zu sein","english":"drama queens","hoster":[]},
+                {"german":"Schlechtes Timing","english":"the big time","hoster":[]},
+                {"german":"Die große Frage","english":"easy come, easy go","hoster":[]},
+                {"german":"Alles oder Nichts","english":"all or nothing","hoster":[]},
+                {"german":"Spiel mit dem Feuer","english":"running with scissors","hoster":[]},
+                {"german":"Tag der Entscheidungen","english":"don&#039;t ask, don&#039;t tell","hoster":[]},
+                {"german":"Flucht aus New York","english":"escape from new york","hoster":[]},
+                {"german":"Sex and Another City","english":"sex and another city","hoster":[]},
+                {"german":"Kinder, Kinder","english":"hot child in the city","hoster":[]},
+                {"german":"Freindinnen","english":"frenemies","hoster":[]},
+                {"german":"Alles Karma","english":"what goes around comes around","hoster":[]},
+                {"german":"Gute Nachbarschaft","english":"cock-a-doodle-do","hoster":[]}
+         ]
+}

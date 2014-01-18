@@ -1,0 +1,30 @@
+{
+        "series":"Lie to Me",
+        "seasons":3,
+        "cover":"Lie-to-Me_50cd757916126ece2ae4905c554e8c77.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Gespalten","english":"The Core of It","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Sex, Lügen und Video","english":"Truth or Consequences","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Ferienjob","english":"Control Factor","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Geiselnahme","english":"Honey","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Pokerface","english":"Grievous Bodily Harm","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Leiche im Keller","english":"Lack Of Candor","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Kettenreaktion","english":"Black Friday","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Der Überläufer","english":"Secret Santa","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Viva Las Vegas","english":"Fold Equity","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Bauernopfer","english":"Tractor Man","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Duell mit dem Teufel","english":"Beat the Devil","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Späte Rache","english":"Sweet Sixteen","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Schmutzige Wahrheit","english":"The Whole Truth","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Trauma","english":"React to Contact","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Finanzspritze","english":"Teacher and Pupils","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Die Anstalt","english":"Delinquent","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Wahlkampf","english":"Bullet Bump","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Fight Club","english":"Headlock","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Der Rattenfänger","english":"Pied Piper","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Enttarnt","english":"Exposed","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Stolperfalle","english":"Darkness","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Offene Rechnung","english":"Black &amp; White","hoster":["PutLocker","Sockshare","DivxStage"]}
+         ]
+}

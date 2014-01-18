@@ -1,0 +1,31 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Fehlerinnerung","english":"Repression","hoster":[]},
+                {"german":"Zorn","english":"Wrath","hoster":[]},
+                {"german":"Der verlorene Sohn","english":"Stolen","hoster":[]},
+                {"german":"Der falsche Mann","english":"Rooftop","hoster":[]},
+                {"german":"Die Frauen des Dr. Kleberg","english":"Tangled","hoster":[]},
+                {"german":"Der Steuerprüfer","english":"Redemption","hoster":[]},
+                {"german":"Das Opfer","english":"Sacrifice","hoster":[]},
+                {"german":"Erbgut","english":"Inheritance","hoster":[]},
+                {"german":"Pflegekinder","english":"Care","hoster":[]},
+                {"german":"Gefährliche Spiele","english":"Ridicule","hoster":[]},
+                {"german":"Kontrollzwang","english":"Monogamy","hoster":[]},
+                {"german":"Selbstschutz","english":"Protection","hoster":[]},
+                {"german":"Hochbegabt","english":"Prodigy","hoster":[]},
+                {"german":"Plagiate","english":"Counterfeit","hoster":[]},
+                {"german":"Matt Brodus","english":"Execution","hoster":[]},
+                {"german":"Verlierer","english":"Popular","hoster":[]},
+                {"german":"Überwachung","english":"Surveillance","hoster":[]},
+                {"german":"Schuldig","english":"Guilt","hoster":[]},
+                {"german":"Recht und Gerechtigkeit","english":"Justice","hoster":[]},
+                {"german":"Gier","english":"Greed","hoster":[]},
+                {"german":"Verleugnet","english":"Denial","hoster":[]},
+                {"german":"Aufgeklärt","english":"Competence","hoster":[]},
+                {"german":"Im Namen des Vaters","english":"Silence","hoster":[]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Fernsehfamilie",
+         "titleen":"Little Bit Of Soap",
+         "description":"Großmutter Dorothy hat immer wieder einen Grund gefunden, ihre Abreise zu verschieben. Da muss Alf ein wenig nachhelfen. Er schreibt ein Fernsehspiel mit einer Dorothy im Mittelpunkt.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6696419/ALF_Die_Fernsehfamilie_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6696529/ALF_Die_Fernsehfamilie_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6696621/ALF_Die_Fernsehfamilie_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"97B0557D88AF232C"
+                }
+       ]
+}

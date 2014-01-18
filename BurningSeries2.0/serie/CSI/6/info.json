@@ -1,0 +1,32 @@
+{
+        "series":"CSI: Den Tätern auf der Spur",
+        "seasons":12,
+        "cover":"CSI-Den-Taetern-auf-der-Spur_a5a70731c9e7b0fd031284dab691f885.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Feuer und Flamme","english":"Bodies in Motion","hoster":[]},
+                {"german":"Spiel mit dem Tod","english":"Room Service","hoster":[]},
+                {"german":"Beiß Mich!","english":"Bite Me","hoster":[]},
+                {"german":"Todesjünger","english":"Shooting Stars","hoster":[]},
+                {"german":"Blutiges Gras","english":"Gum Drops","hoster":[]},
+                {"german":"Herr der Fliegen","english":"Secrets and Flies","hoster":[]},
+                {"german":"Im Kugelhagel, Teil 1","english":"A Bullet Runs Through It (1)","hoster":[]},
+                {"german":"Im Kugelhagel, Teil 2","english":"A Bullet Runs Through It (2)","hoster":[]},
+                {"german":"Das große Fressen","english":"Dog Eat Dog","hoster":[]},
+                {"german":"Vermisst","english":"Still Life","hoster":[]},
+                {"german":"Der Wolfsmann","english":"Werewolves","hoster":[]},
+                {"german":"Späte Rache","english":"Daddy&#039;s Little Girl","hoster":[]},
+                {"german":"Der letzte Vorhang","english":"Kiss-Kiss, Bye-Bye","hoster":[]},
+                {"german":"Hass verjährt nie","english":"Killer","hoster":[]},
+                {"german":"Das kalte Grauen","english":"Pirates of the Third Reich","hoster":[]},
+                {"german":"Rauchzeichen","english":"Up in Smoke","hoster":[]},
+                {"german":"Brandgefährlich","english":"I Like to Watch","hoster":[]},
+                {"german":"Geschwisterbande","english":"The Unusual Suspect","hoster":[]},
+                {"german":"Die Gabe","english":"Spellbound","hoster":[]},
+                {"german":"Falsches Motiv","english":"Poppin&#039;","hoster":[]},
+                {"german":"Teamwork","english":"Rashomama","hoster":[]},
+                {"german":"Tödliches Spiel","english":"Time of Your Death","hoster":[]},
+                {"german":"Um Leben und Tod (1)","english":"Bang Bang","hoster":[]},
+                {"german":"Um Leben und Tod (2)","english":"Way To Go","hoster":[]}
+         ]
+}

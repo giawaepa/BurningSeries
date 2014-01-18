@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der falsche Fan (1)",
+         "titleen":"Episode 301",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=5O8LP6twJ0w"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=ZQ6P3d4H6j0"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6165558/Detektiv_Conan_Folge_301_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6165694/Detektiv_Conan_Folge_301_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6165892/Detektiv_Conan_Folge_301_3_3"
+                }
+       ]
+}

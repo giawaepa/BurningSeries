@@ -1,0 +1,30 @@
+{
+        "series":"Stargate SG-1",
+        "seasons":10,
+        "cover":"Stargate-SG-1_6b5b9978ee26b1880a53c96bc53f8c10.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Alles auf eine Karte, Teil 1","english":"Fallen (1)","hoster":[]},
+                {"german":"Alles auf eine Karte, Teil 2","english":"Homecoming (2)","hoster":[]},
+                {"german":"Der falsche Klon","english":"Fragile Balance","hoster":["MyVideo"]},
+                {"german":"Orpheus","english":"Orpheus","hoster":[]},
+                {"german":"Die Macht des Speichers","english":"Revisions","hoster":[]},
+                {"german":"Das Rettungsboot","english":"Lifeboat","hoster":[]},
+                {"german":"Die Naquadah-Mine","english":"Enemy Mine","hoster":[]},
+                {"german":"Space-Rennen","english":"Space Race","hoster":[]},
+                {"german":"Avenger 2.0","english":"Avenger 2.0","hoster":[]},
+                {"german":"Die Hak&#039;tyl","english":"Birthright","hoster":[]},
+                {"german":"Evolution, Teil 1","english":"Evolution (1)","hoster":[]},
+                {"german":"Evolution, Teil 2","english":"Evolution (2)","hoster":[]},
+                {"german":"Grace","english":"Grace","hoster":[]},
+                {"german":"Kiannas Symbiont","english":"Fallout","hoster":[]},
+                {"german":"Daniel&#039;s Träume","english":"Chimera","hoster":[]},
+                {"german":"Bote des Todes","english":"Death Knell","hoster":[]},
+                {"german":"Helden - Teil 1","english":"Heroes (1)","hoster":[]},
+                {"german":"Helden - Teil 2","english":"Heroes (2)","hoster":[]},
+                {"german":"Anna","english":"Resurrection","hoster":[]},
+                {"german":"Der neue Präsident","english":"Inauguration","hoster":[]},
+                {"german":"Die verlorene Stadt - Teil 1","english":"Lost City (1)","hoster":[]},
+                {"german":"Die verlorene Stadt - Teil 2","english":"Lost City (2)","hoster":[]}
+         ]
+}

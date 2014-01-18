@@ -1,0 +1,15 @@
+{
+        "series":"Elton vs. Simon",
+        "seasons":4,
+        "cover":"Elton-vs-Simon_02d319e1e346b725baa5690ee6ee8160.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Wer bleibt länger angekettet?","english":"","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Wer bleibt länger auf einer Kuh sitzen?","english":"","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Wer bleibt länger auf allen Vieren?","english":"","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Wer kann länger nicht reden?","english":"","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Wer kann in drei Tagen mehr Geld verdienen?","english":"","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Wer kann in drei Tagen mehr zunehmen?","english":"","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Wer gewinnt die meisten Mini-Wettbewerbe?","english":"","hoster":["MySpass"]}
+         ]
+}

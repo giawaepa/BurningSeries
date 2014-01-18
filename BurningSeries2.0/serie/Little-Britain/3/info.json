@@ -1,0 +1,14 @@
+{
+        "series":"Little Britain",
+        "seasons":4,
+        "cover":"Little-Britain_6f873aebd3cb2b0ae2b81726e58d1657.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1","english":"Episode 1","hoster":[]},
+                {"german":"Episode 2","english":"Episode 2","hoster":[]},
+                {"german":"Episode 3","english":"Episode 3","hoster":[]},
+                {"german":"Episode 4","english":"Episode 4","hoster":[]},
+                {"german":"Episode 5","english":"Episode 5","hoster":[]},
+                {"german":"Episode 6","english":"Episode 6","hoster":[]}
+         ]
+}

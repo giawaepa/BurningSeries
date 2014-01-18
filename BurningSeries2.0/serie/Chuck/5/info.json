@@ -1,0 +1,21 @@
+{
+        "series":"Chuck",
+        "seasons":5,
+        "cover":"Chuck_e64842e7889ebfe9486715b4c589901b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Chuck Versus the Zoom","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Chuck Versus the Bearded Bandit","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Chuck Versus The Frosted Tips","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Chuck Versus the Business Trip","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Chuck vs. the Hack-Off","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Chuck Versus the Curse","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Chuck Versus The Santa Suit","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Chuck Versus the Baby","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Kept Man","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Chuck Versus Bo","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Chuck Versus the Bullet Train","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Chuck Versus Sarah","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Goodbye","hoster":["PutLocker","DivxStage"]}
+         ]
+}

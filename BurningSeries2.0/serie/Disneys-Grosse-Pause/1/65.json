@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Immer wenn sie Chips aß / Wenn Fahrräder angreifen / Die Nacht der lebenden Finsters",
+         "titleen":"Terrifying Tales of Recess",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=86h1dJUQaCw"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=D71qs2-a5WQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6485229/Disneys_Grosse_Pause_Episode_127_Immer_wenn_sie_Chips_ass"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6485116/Disneys_Grosse_Pause_Episode_128_Wenn_Fahrraeder_angreifen"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6485049/Disneys_Grosse_Pause_Episode_129_Die_Nacht_der_lebenden_Finsters"
+                }
+       ]
+}

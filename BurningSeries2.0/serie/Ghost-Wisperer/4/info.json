@@ -1,0 +1,31 @@
+{
+        "series":"Ghost Whisperer",
+        "seasons":5,
+        "cover":"Ghost-Whisperer_f4bdf6134524bd348400224dd9816f55.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Feuerteufel","english":"Firestarter","hoster":["YouTube"]},
+                {"german":"Tödliches Gewissen","english":"Big Chills","hoster":["YouTube"]},
+                {"german":"Der Avatar","english":"Ghost in the Machine","hoster":["YouTube"]},
+                {"german":"Das Geisterschiff","english":"Save Our Souls","hoster":["YouTube"]},
+                {"german":"Blutsverwandt","english":"Bloodline","hoster":["YouTube"]},
+                {"german":"Der Verlust","english":"Imaginary Friends","hoster":["YouTube"]},
+                {"german":"Schwelle zum Jenseits","english":"Treshold","hoster":["YouTube"]},
+                {"german":"Herz &amp; Seele","english":"Heart &amp; Soul","hoster":["YouTube"]},
+                {"german":"Schicksalhafte Wünsche","english":"Pieces of Me","hoster":[]},
+                {"german":"Verloren in der Dunkelheit","english":"Ball &amp; Chain","hoster":["YouTube"]},
+                {"german":"Notruf aus dem Jenseits","english":"Life on the Line","hoster":["YouTube"]},
+                {"german":"Wilde Zeiten","english":"This Joint?s Haunted","hoster":["YouTube"]},
+                {"german":"Das feuchte Grab","english":"Body of Water","hoster":["YouTube"]},
+                {"german":"Der kleine Prinz","english":"Slow Burn","hoster":["YouTube"]},
+                {"german":"Die Schwesternschaft","english":"Greek Tragedy","hoster":["YouTube"]},
+                {"german":"Geisterjäger","english":"Ghost Busted","hoster":["YouTube"]},
+                {"german":"Sanatorium","english":"Delusions of Grandview","hoster":["YouTube"]},
+                {"german":"Experimente","english":"Leap of Faith","hoster":["YouTube"]},
+                {"german":"Schwarze Witwe","english":"Thrilled to Death","hoster":["YouTube"]},
+                {"german":"Lampenfieber","english":"Stage Fright","hoster":["YouTube"]},
+                {"german":"Das Puppenhaus","english":"Cursed","hoster":["YouTube"]},
+                {"german":"Vampire","english":"Endless Love","hoster":["YouTube"]},
+                {"german":"Das Buch der Veränderungen","english":"The Book Of Changes","hoster":["YouTube"]}
+         ]
+}

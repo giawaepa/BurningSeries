@@ -1,0 +1,22 @@
+{
+        "series":"Victorious",
+        "seasons":3,
+        "cover":"Victorious_9ba78937ee288a97b90c447986b5520b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Beggin? on Your Knees","hoster":["PutLocker"]},
+                {"german":"","english":"Beck falls for Tori","hoster":["PutLocker"]},
+                {"german":"","english":"Ice Cream for Ke$ha","hoster":["PutLocker"]},
+                {"german":"","english":"Tori Gets Stuck","hoster":["PutLocker"]},
+                {"german":"","english":"Prom Wrecker","hoster":["PutLocker"]},
+                {"german":"","english":"Locked Up (1)","hoster":[]},
+                {"german":"","english":"Locked Up (2)","hoster":[]},
+                {"german":"","english":"Helen Back Again","hoster":["PutLocker"]},
+                {"german":"","english":"Who Did It to Trina?","hoster":["PutLocker"]},
+                {"german":"","english":"Tori Tortures Teacher","hoster":["PutLocker"]},
+                {"german":"","english":"Jade Gets Crushed","hoster":["PutLocker"]},
+                {"german":"","english":"Terror on Cupcake Street","hoster":["PutLocker"]},
+                {"german":"","english":"A Christmas Tori","hoster":["PutLocker"]},
+                {"german":"","english":"Blooptorious","hoster":["PutLocker"]}
+         ]
+}

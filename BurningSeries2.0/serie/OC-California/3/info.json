@@ -1,0 +1,33 @@
+{
+        "series":"O.C., California",
+        "seasons":4,
+        "cover":"O-C-California_8b3c53dedf27a72c47dbf7746c9ffd1d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Plan B","english":"The Aftermath","hoster":["PutLocker"]},
+                {"german":"Ende und Anfang","english":"The Shape of Things to Come","hoster":["PutLocker"]},
+                {"german":"Das Testament","english":"The End of Innocence","hoster":["PutLocker"]},
+                {"german":"Die neue Schule","english":"The Last Waltz","hoster":["PutLocker"]},
+                {"german":"Summers Trick","english":"The Perfect Storm","hoster":["PutLocker"]},
+                {"german":"Hohe Wellen","english":"The Swells","hoster":["PutLocker"]},
+                {"german":"Volchoks Revanche","english":"The Anger Management","hoster":["PutLocker"]},
+                {"german":"Erste Wahl: Berkely","english":"The Game Plan","hoster":["PutLocker"]},
+                {"german":"Konkurrenten","english":"The Disconnect","hoster":["PutLocker"]},
+                {"german":"Die Weihnukkah-Bar-Mitzwakkah","english":"The Chrismukkah Bar Mitz-vahkkah","hoster":["PutLocker"]},
+                {"german":"Die letzte Chance","english":"The Safe Harbor","hoster":["PutLocker"]},
+                {"german":"Schwestern","english":"The Sister Act","hoster":["PutLocker"]},
+                {"german":"Am Scheideweg","english":"The Pot Stirrer","hoster":["PutLocker"]},
+                {"german":"Cliffhanger","english":"The Cliffhanger","hoster":["PutLocker"]},
+                {"german":"Abschied am Strand","english":"The Heavy Lifting","hoster":["PutLocker"]},
+                {"german":"Unterwegs","english":"The Road Warrior","hoster":["PutLocker"]},
+                {"german":"Endlich erwachsen","english":"The Journey","hoster":["PutLocker"]},
+                {"german":"Kamasutra für Anfänger","english":"The Undertow","hoster":["PutLocker"]},
+                {"german":"Der andere Ryan","english":"The Secrets and Lies","hoster":["PutLocker"]},
+                {"german":"Was die Zukunft bringt","english":"The Day After Tomorrow","hoster":["PutLocker"]},
+                {"german":"Der Schmerz","english":"The Dawn Patrol","hoster":["PutLocker"]},
+                {"german":"Alte Bekannte","english":"The College Try","hoster":["PutLocker"]},
+                {"german":"Der Abschlussball","english":"The Party Favor","hoster":["PutLocker"]},
+                {"german":"Der Mann des Jahres","english":"The Man of The Year","hoster":["PutLocker"]},
+                {"german":"Goodbye, Harbor","english":"The Graduates","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,23 @@
+{
+        "series":"Hannah Montana",
+        "seasons":4,
+        "cover":"Hannah-Montana_bdd18800b77fa223224ed85b46624495.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Neues Haus, altes Zimmer","english":"Sweet Home Hannah Montana","hoster":["YouTube","PutLocker"]},
+                {"german":"Hannah Montana, bitte zum Schulleiter!","english":"Hannah Montana to the Principal&#039;s Office","hoster":["PutLocker"]},
+                {"german":"Hannah, die Kupplerin","english":"California Screamin","hoster":["PutLocker"]},
+                {"german":"Hannahs Geheimnis","english":"De-Do-De-Don&#039;t-Don&#039;t Tell My Secret","hoster":["PutLocker"]},
+                {"german":"Ein verhängnisvolles Foto","english":"It&#039;s the End of the Jake As We Know It","hoster":["PutLocker"]},
+                {"german":"Der Vater-Tochter-Tag","english":"Been Here All Along","hoster":["PutLocker"]},
+                {"german":"Angst um Blue Jeans","english":"Love That Let&#039;s Go","hoster":["PutLocker"]},
+                {"german":"Der Bonustrack","english":"Hannah&#039;s Gonna Get This","hoster":["PutLocker"]},
+                {"german":"Die große Enthüllung ? Teil 1","english":"I&#039;ll Always Remember You, Part 1","hoster":["PutLocker"]},
+                {"german":"Die große Enthüllung ? Teil 2","english":"I&#039;ll Always Remember You, Part 2","hoster":[]},
+                {"german":"Wie alles wirklich war","english":"Can you see the real me?","hoster":["PutLocker"]},
+                {"german":"Miley, der Superstar","english":"Kiss It Goodbye","hoster":["PutLocker"]},
+                {"german":"Neues Leben, neue Probleme","english":"I Am Mamaw, Hear Me Roar","hoster":["PutLocker"]},
+                {"german":"Ende gut, alles gut?, Teil 1","english":"Wherever I Go, Part 1","hoster":["YouTube"]},
+                {"german":"Ende gut, alles gut?, Teil 2","english":"Wherever I Go, Part 2","hoster":[]}
+         ]
+}

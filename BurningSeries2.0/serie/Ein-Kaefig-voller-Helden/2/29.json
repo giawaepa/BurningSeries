@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Unternehmen Wasserjungfer",
+         "titleen":"The Top Secret Top Coat",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7665649/Ein_Kaefig_voller_Helden_Folge_61_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7665652/Ein_Kaefig_voller_Helden_Folge_61_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7665629/Ein_Kaefig_voller_Helden_Folge_61_3_3"
+                }
+       ]
+}

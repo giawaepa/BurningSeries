@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Die Affäre",
+         "titleen":"Good Company",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7112977/Die_wilden_70er_die_Affaere_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7113154/Die_wilden_70er_die_Affaere_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7113271/Die_wilden_70er_die_Affaere_3_3"
+                }
+       ]
+}

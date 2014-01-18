@@ -1,0 +1,18 @@
+{
+        "series":"Primeval ? Rückkehr der Urzeitmonster",
+        "seasons":5,
+        "cover":"Primeval-Rueckkehr-der-Urzeitmonster_47ee7ae09f21f49ecbfcafc9c0d9edcc.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Nachts im Museum","english":"Episode 14","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Spurlos Verschwunden","english":"Episode 15","hoster":["YouTube","PutLocker"]},
+                {"german":"Im Namen der Zukunft","english":"Episode 16","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Der größte von allen","english":"Episode 17","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Der Pilz","english":"Episode 18","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Alle Vögel sind schon da","english":"Episode 19","hoster":["YouTube","MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Der Drachenjäger","english":"Episode 20","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Die Welt von morgen","english":"Episode 21","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Eve","english":"Episode 22","hoster":["YouTube","PutLocker"]},
+                {"german":"Gefangen","english":"Episode 23","hoster":["YouTube","PutLocker","RapidVideo"]}
+         ]
+}

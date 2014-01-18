@@ -1,0 +1,21 @@
+{
+        "series":"Oggy und die Kakerlaken",
+        "seasons":3,
+        "cover":"Oggy-und-die-Kakerlaken_c36b78400604ebe5fe1601bd3746d476.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Tintenfisch / Schäferkatze / Nachtwache","english":"","hoster":[]},
+                {"german":"Reisefieber / VIP Party / Der Tauchurlaub","english":"","hoster":["YouTube"]},
+                {"german":"Oggys magische Tanzschuhe / Wie gewonnen, so zerronnen / Oggy, der Weihnachtsmann","english":"","hoster":["YouTube"]},
+                {"german":"Hochzeitsglück? / Das Dschungel-Abenteuer / Flugversuche","english":"","hoster":["YouTube"]},
+                {"german":"Oggy, der Superheld / Das lebende Gemüse / Gestrandet","english":"","hoster":[]},
+                {"german":"Verkehrte Verhältnisse / Goldene Eier / Verdächtigt","english":"","hoster":["YouTube"]},
+                {"german":"Undankbare Kakerlaken / Gefangen in der Unterwelt / Termitnator","english":"","hoster":["YouTube"]},
+                {"german":"Oggy in Hollywood / Minigolf / Besuch aus der Vergangenheit","english":"","hoster":["YouTube"]},
+                {"german":"Das Glück der Erde ... / Die perfekte Welle / Der Schein trügt","english":"","hoster":["YouTube"]},
+                {"german":"Pizzalieferdienst / Auf die Krabbe gekommen / Oggys Oma","english":"","hoster":[]},
+                {"german":"Ausgesperrt / Trautes Heim ... / Cartoon Unterricht","english":"","hoster":["YouTube"]},
+                {"german":"Oggys Double / Für Recht und Ordnung / Amnesie","english":"","hoster":["YouTube"]},
+                {"german":"Formel 1 / Auf zur Marine! / Süße Klänge","english":"","hoster":["YouTube"]}
+         ]
+}

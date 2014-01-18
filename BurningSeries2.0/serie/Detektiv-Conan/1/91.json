@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Tanz der Vampire (1)",
+         "titleen":"Episode 091",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=ATGDED44v-w"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5299506/Detektiv_Conan_Folge_91_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5299861/Detektiv_Conan_Folge_91_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5300142/Detektiv_Conan_Folge_91_3_3"
+                }
+       ]
+}

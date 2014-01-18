@@ -1,0 +1,24 @@
+{
+        "series":"American Dad",
+        "seasons":7,
+        "cover":"American-Dad_ff475b83acefe494dafbe34c812419d8.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Schleim verbindet","english":"The Vacation Goo","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Politessen an die Macht","english":"Meter Made","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Die Magie Gottes","english":"Dope &amp; Faith","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Meine Frau, ihre Chinaeltern und ich","english":"Big Trouble in Little Langley","hoster":["PutLocker","Sockshare"]},
+                {"german":"Haylias - Die Agentin","english":"Haylias","hoster":["PutLocker","BitShare"]},
+                {"german":"Jungfrau (42), männlich, killt","english":"The 42-Year-Old Virgin","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Schwule Schwangerschaft","english":"Surro-Gate","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Von Natur aus böse","english":"The Most Adequate Christmas Ever","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Von Entführung und anderen Schwierigkeiten","english":"Franny 911","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Weinen und Sterben lassen","english":"Tearjerker","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Ödipussi","english":"Oedipal Panties","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"In Behandlung","english":"Widowmaker","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Wolf von Leningrad","english":"Red October Sky","hoster":["PutLocker","Sockshare"]},
+                {"german":"Gefahr aus dem Weltall","english":"Office Spaceman","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Ein Schatz zum Verlieben","english":"Stanny Slickers II: The Legend of Ollie&#039;s Gold","hoster":["PutLocker","BitShare"]},
+                {"german":"Semesterferien","english":"Spring Breakup","hoster":["PutLocker","Sockshare","BitShare"]}
+         ]
+}

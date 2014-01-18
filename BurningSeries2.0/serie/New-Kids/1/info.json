@@ -1,0 +1,27 @@
+{
+        "series":"New Kids",
+        "seasons":1,
+        "cover":"New-Kids_8334ce81b804111f35136ffb98854541.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Campingplatz","english":"Camping","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Strand","english":"Strand","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Rot ist tot","english":"Die Rooie","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Boxsack","english":"Boksbal","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Polizeifreund","english":"Politievriend","hoster":["MyVideo","PutLocker"]},
+                {"german":"2-Liter-Muschi","english":"Knoepert","hoster":["YouTube"]},
+                {"german":"Pistole","english":"Pistool","hoster":["YouTube","PutLocker"]},
+                {"german":"Fak Tag","english":"Kutdag","hoster":["YouTube","PutLocker"]},
+                {"german":"Betrunken","english":"Dronken","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Rubbellose","english":"Krasloten","hoster":["MyVideo","PutLocker"]},
+                {"german":"Hasten","english":"Haasten","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Supermarkt","english":"Supermarkt","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Chinese","english":"Chinees","hoster":["YouTube","MyVideo"]},
+                {"german":"SWAT","english":"SWAT","hoster":["YouTube","MyVideo"]},
+                {"german":"Bushaltestelle","english":"Bushalte","hoster":["YouTube","MyVideo"]},
+                {"german":"Beziehungsprobleme","english":"Relatieproblemen","hoster":["YouTube"]},
+                {"german":"Jungfrau","english":"Versieren","hoster":["YouTube"]},
+                {"german":"Babysitter","english":"Oppas","hoster":["YouTube"]},
+                {"german":"Feuerwerk","english":"Vuurwerk","hoster":["YouTube","MyVideo"]}
+         ]
+}

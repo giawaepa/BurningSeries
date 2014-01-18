@@ -1,0 +1,17 @@
+{
+        "series":"Pastewka",
+        "seasons":5,
+        "cover":"Pastewka_c14d0f557e43bef7f93fb672271d3ab9.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Schönheits-OP","english":"","hoster":["PutLocker","MySpass"]},
+                {"german":"Der Wecker","english":"","hoster":["PutLocker","MySpass"]},
+                {"german":"Die Saunabürste","english":"","hoster":["PutLocker","MySpass"]},
+                {"german":"Die rätselhafte Elsa","english":"","hoster":["PutLocker","MySpass"]},
+                {"german":"Mein Freund Jo","english":"","hoster":["PutLocker","MySpass"]},
+                {"german":"Der Tricorder","english":"","hoster":["MySpass"]},
+                {"german":"Das Wunder von München","english":"","hoster":["MySpass"]},
+                {"german":"Der Kochkurs","english":"","hoster":["MySpass"]},
+                {"german":"Ein Tag mit Frau Bruck","english":"","hoster":["MySpass"]}
+         ]
+}

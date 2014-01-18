@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Schlimme Tage",
+         "titleen":"Judgement Day (2)",
+         "description":"Nachdem Jenny die Ereignisse aus Judgement Day (Part 1) nicht überlebt hat, plagt sich das Team mit Zweifeln und versucht, die Auftraggeber zu schnappen. Doch der neue Direktor kann mit den Hauruckaktionen von Gibbs nichts anfangen und trennt das Team prompt ?",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6250764/Part1_Schlimme_Tage"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6251040/Part2_Schlimme_Tage"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6251431/Part3_Schlimme_Tage"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"6251576/Part4_Schlimme_Tage"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"CEC16B6363292E7E"
+                }
+       ]
+}

@@ -1,0 +1,21 @@
+{
+        "series":"The King of Queens",
+        "seasons":9,
+        "cover":"The-King-of-Queens_bbc35c6d9ebd3e1bdb5e304bbb42d956.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die neue Familie","english":"Mama Cast","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Jessica","english":"Affair Trade","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Mut zur Dummheit","english":"Moxie Moron","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Ein Onkel zum Fürchten","english":"Major Disturbance","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Hund zu verschenken","english":"Ruff Goin&#039;","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Wer schön sein will ...","english":"Brace Yourself","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Das Haus am See","english":"Home Cheapo","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der andere Doug Heffernan","english":"Offensive Fowl","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Wild und gefährlich","english":"Mild Bunch","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Das Manhattan Projekt","english":"Manhattan Project","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Getrennte Wege","english":"Single Spaced","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Das China-Syndrom 1","english":"China Syndrome, Part 1","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Das China-Syndrom 2","english":"China Syndrome, Part 2","hoster":["YouTube","MyVideo","PutLocker"]}
+         ]
+}

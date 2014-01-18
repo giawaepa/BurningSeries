@@ -1,0 +1,15 @@
+{
+        "series":"Dragonball GT",
+        "seasons":4,
+        "cover":"Dragonball-GT_334250f81fdcbc3f3190d351b880da26.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Meister aller Klassen","english":"Episode 41","hoster":["PutLocker"]},
+                {"german":"Gesucht und gefunden","english":"Episode 42","hoster":["PutLocker"]},
+                {"german":"Die Falle schnappt zu","english":"Episode 43","hoster":["PutLocker"]},
+                {"german":"Ausbruch aus dem Paradies","english":"Episode 44","hoster":["PutLocker"]},
+                {"german":"Piccolos Plan","english":"Episode 45","hoster":["PutLocker"]},
+                {"german":"Zusammenstoß!! Vierfacher Super-Saiyajin vs. Super C-17","english":"Episode 46","hoster":["PutLocker"]},
+                {"german":"Gegenangriff! Son Gokus und C-18s gemeinsame Attacke","english":"Episode 47","hoster":["PutLocker"]}
+         ]
+}

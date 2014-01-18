@@ -1,0 +1,33 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Chamäleon","english":"Chameleon","hoster":[]},
+                {"german":"Die Böse Stiefmutter","english":"Deception","hoster":[]},
+                {"german":"Der Todesengel","english":"Vulnerable","hoster":[]},
+                {"german":"Tod im Central Park","english":"Lust","hoster":[]},
+                {"german":"Die Russen-Mafia","english":"Disappearing Acts","hoster":[]},
+                {"german":"Engel","english":"Angels","hoster":[]},
+                {"german":"Puppen","english":"Dolls","hoster":[]},
+                {"german":"Stammzellen","english":"Waste","hoster":[]},
+                {"german":"Jeremy","english":"Juvenile","hoster":[]},
+                {"german":"Zum Wohl der Familie","english":"Resilience","hoster":[]},
+                {"german":"Kaputt","english":"Damaged","hoster":[]},
+                {"german":"Drogenkuriere","english":"Risk","hoster":[]},
+                {"german":"Abschaum","english":"Rotten","hoster":[]},
+                {"german":"Gnade","english":"Mercy","hoster":[]},
+                {"german":"Pandora","english":"Pandora","hoster":[]},
+                {"german":"Die gute Mutter","english":"Tortured","hoster":[]},
+                {"german":"Der Lamery-Clan","english":"Privilege","hoster":[]},
+                {"german":"Tommy","english":"Desperate","hoster":[]},
+                {"german":"Tödliche Versuchung","english":"Appearances","hoster":[]},
+                {"german":"Komplizen","english":"Dominance","hoster":[]},
+                {"german":"Im falschen Körper","english":"Fallacy","hoster":[]},
+                {"german":"Sinnlos","english":"Futility","hoster":[]},
+                {"german":"Auge um Auge","english":"Grief","hoster":[]},
+                {"german":"Geklonte Liebe","english":"Perfect","hoster":[]},
+                {"german":"Schwarze Seele","english":"Soulless","hoster":[]}
+         ]
+}

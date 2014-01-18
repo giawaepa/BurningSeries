@@ -1,0 +1,30 @@
+{
+        "series":"Legend of the Seeker",
+        "seasons":2,
+        "cover":"Legend-of-the-Seeker_851bd677fc0eac31860885703613832d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Prophezeiung (1)","english":"Prophecy (1)","hoster":[]},
+                {"german":"Die Prophezeiung (2)","english":"Prophecy (2)","hoster":[]},
+                {"german":"Kopfgeld","english":"Bounty","hoster":[]},
+                {"german":"Brennidon","english":"Brennidon","hoster":[]},
+                {"german":"Der Lauscher","english":"Listener","hoster":[]},
+                {"german":"Zaubertrank","english":"Elixir","hoster":[]},
+                {"german":"Das Gesicht im Spiegel","english":"Identity","hoster":[]},
+                {"german":"Stilles Leid","english":"Denna","hoster":[]},
+                {"german":"Der Puppenspieler","english":"Puppeteer","hoster":[]},
+                {"german":"Die letzten Konfessoren","english":"Sacrifice","hoster":[]},
+                {"german":"Azzallels Kugel","english":"Confession","hoster":[]},
+                {"german":"Der Zauber des Lügenden Mondes","english":"Home","hoster":[]},
+                {"german":"Der Fluch der Liebe","english":"Revenant","hoster":[]},
+                {"german":"Die Wälder des Schreckens","english":"Hartland","hoster":[]},
+                {"german":"Die Burg der Finsternis","english":"Conversion","hoster":[]},
+                {"german":"Die Magie der Ordnung","english":"Bloodline","hoster":[]},
+                {"german":"Schattenbringer","english":"Deception","hoster":[]},
+                {"german":"Der Zauberspiegel","english":"Mirror","hoster":[]},
+                {"german":"Shotas Fluch","english":"Cursed","hoster":[]},
+                {"german":"Ein Bild vom Paradies","english":"Sanctuary","hoster":[]},
+                {"german":"Feuerfieber","english":"Fever","hoster":[]},
+                {"german":"Die Mauer der Zeit","english":"Reckoning","hoster":[]}
+         ]
+}

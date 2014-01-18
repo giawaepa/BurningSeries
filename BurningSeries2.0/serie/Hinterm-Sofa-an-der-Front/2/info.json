@@ -1,0 +1,30 @@
+{
+        "series":"Hinterm Sofa an der Front",
+        "seasons":2,
+        "cover":"Hinterm-Sofa-an-der-Front_2a04b9e394e0effae17ca769f2acf4bd.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Endlich keine Ferien mehr!","english":"Back to School","hoster":["YouTube","PutLocker"]},
+                {"german":"Eltern gegen Kinder","english":"Dream Crusher","hoster":["YouTube"]},
+                {"german":"Super Dave","english":"Super Dave","hoster":["YouTube"]},
+                {"german":"Nicht mit Eltern einlassen!","english":"Car Wars","hoster":["YouTube","PutLocker"]},
+                {"german":"Ein jeder täuscht, kaut oder verheimlicht","english":"I Wash My Hands of You","hoster":["YouTube"]},
+                {"german":"Warnung vor den Wünschen","english":"Be Careful What You Ask For","hoster":["YouTube"]},
+                {"german":"Geht Glück auch anders?","english":"Love This","hoster":["YouTube"]},
+                {"german":"Unser schöner Gazastreifen","english":"Gaza Strip","hoster":["YouTube","PutLocker"]},
+                {"german":"Prost Falschheit!","english":"Cork Screwed","hoster":["YouTube"]},
+                {"german":"Auf der Straße der Verlierer","english":"Love is Blind","hoster":["YouTube"]},
+                {"german":"Coming Out ... Coming In","english":"Out &amp; In","hoster":["YouTube"]},
+                {"german":"Zeigt her das Pflegekind!","english":"Put on a Happy Face","hoster":["YouTube"]},
+                {"german":"Grün zu sein, das ist nicht leicht","english":"It&#039;s Not Easy Being Green","hoster":["YouTube","PutLocker"]},
+                {"german":"Schwarzmarkt der Mittelschicht","english":"A Lower-Middle-Upper-Middle-Class Problem","hoster":["YouTube"]},
+                {"german":"Hanfdampf in allen Gassen","english":"Zero Tolerance","hoster":["YouTube"]},
+                {"german":"Oma, Sex und erste Liebe","english":"No Weddings and a Funeral","hoster":["YouTube","PutLocker"]},
+                {"german":"Um Kopf und Kragen geredet","english":"Kenny Doesn&#039;t Live Here Anymore","hoster":["YouTube"]},
+                {"german":"Job hin, Job her","english":"Take This Job and Bleep It","hoster":["PutLocker"]},
+                {"german":"Kranke Kompositionen","english":"The White Shadow","hoster":["YouTube"]},
+                {"german":"Krieg und Unfrieden","english":"The War of the Golds","hoster":["YouTube"]},
+                {"german":"Wer ohne Schuld ist ... der wohne nicht bei den Golds","english":"A Bitter Pill to Swallow","hoster":["YouTube"]},
+                {"german":"Gut abgegangen!","english":"The Graduate","hoster":["YouTube"]}
+         ]
+}

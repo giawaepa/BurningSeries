@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Blinde Fotograf",
+         "titleen":"In the dark",
+         "description":"Ein Fotograf hat einen Mord beobachtet. Das Interessante daran ist: er ist blind.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4058758/Part1_Der_blinde_Fotograf"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4059420/Part2_Der_blinde_Fotograf"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4059935/Part3_Der_blinde_Fotograf"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"4061010/Part4_Der_blinde_Fotograf"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"A5B2EA1F66AB2E36"
+                }
+       ]
+}

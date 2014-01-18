@@ -1,0 +1,21 @@
+{
+        "series":"Mad Men",
+        "seasons":4,
+        "cover":"Mad-Men_281facf042e84d97cba1d07f887cbd79.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Schall und Rauch","english":"Smoke Gets In Your Eyes","hoster":["PutLocker"]},
+                {"german":"Was wollen Frauen?","english":"Ladies Room","hoster":["PutLocker"]},
+                {"german":"Figaros Hochzeit","english":"Marriage of Figaro","hoster":["PutLocker"]},
+                {"german":"Rückgrat","english":"New Amsterdam","hoster":["PutLocker"]},
+                {"german":"5G","english":"Five G","hoster":["PutLocker"]},
+                {"german":"Babylon","english":"Babylon","hoster":["PutLocker"]},
+                {"german":"Blass um die Nase","english":"Red in the Face","hoster":["PutLocker"]},
+                {"german":"Ehrenmitglied","english":"The Hobo Code","hoster":[]},
+                {"german":"Schaulaufen","english":"Shoot","hoster":["PutLocker"]},
+                {"german":"Herz oder Magen?","english":"Long Weekend","hoster":["PutLocker"]},
+                {"german":"Hitzewelle","english":"Indian Summer","hoster":["PutLocker"]},
+                {"german":"Kein Interesse","english":"Nixon vs. Kennedy","hoster":["PutLocker"]},
+                {"german":"Das Karussell","english":"The Wheel","hoster":[]}
+         ]
+}

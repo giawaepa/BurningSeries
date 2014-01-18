@@ -1,0 +1,32 @@
+{
+        "series":"M*A*S*H",
+        "seasons":11,
+        "cover":"M-A-S-H_ba9c37303b185e8c205e7b06cbc0acda.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Trapper ist weg / Hunnicut ante Portas","english":"Welcome to Korea / Hunnicutt ant...","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ich bin Colonel Potter","english":"Change of Command","hoster":[]},
+                {"german":"Guter Schuß, Margaret","english":"It Happened One Night","hoster":["PutLocker","Sockshare"]},
+                {"german":"Tote lügen nie","english":"The Late Captain Pierce","hoster":["PutLocker"]},
+                {"german":"Kimbles Koreanisches Café","english":"Hey, Doc","hoster":["PutLocker"]},
+                {"german":"Frank und der Feind","english":"The Bus","hoster":["PutLocker"]},
+                {"german":"Meine liebste Mildred","english":"Dear Mildred","hoster":["Sockshare"]},
+                {"german":"Kaiserschnitt und Orden","english":"The Kids","hoster":[]},
+                {"german":"Quo Vadis, Chandler?","english":"Quo Vadis, Captain Chandler?","hoster":["Sockshare"]},
+                {"german":"Dieses Briefeschreiben","english":"Dear Peggy","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Einheimischen abtasten","english":"Of Moose and Men","hoster":["Sockshare"]},
+                {"german":"Soldat des Monats","english":"Soldier of the Month","hoster":["Sockshare"]},
+                {"german":"Ein altes, schönes Stück","english":"The Gun","hoster":["PutLocker","Sockshare"]},
+                {"german":"Heute: Heimatnachrichten","english":"Mail Call Again","hoster":[]},
+                {"german":"Verrückt nach Tomatensaft","english":"The Price of Tomato Juice","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hurra, wir sind noch da","english":"Dear Ma","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Laster des Frank B","english":"Der Tag","hoster":["Sockshare"]},
+                {"german":"Hawkeyes Gehirnerschütterung","english":"Hawkeye","hoster":["Sockshare"]},
+                {"german":"Sein Hobby: Müll","english":"Some 38th Parallels","hoster":[]},
+                {"german":"Meuterei und Schlimmeres","english":"The Novocaine Mutiny","hoster":[]},
+                {"german":"Der ewig lächelnde Jack","english":"Smilin&#039; Jack","hoster":["Sockshare"]},
+                {"german":"Das letzte Wiedersehen","english":"The More I See You","hoster":["Sockshare"]},
+                {"german":"Die Chinesen kommen","english":"Deluge","hoster":["Sockshare"]},
+                {"german":"Das Interview der Woche","english":"The Interview","hoster":["Sockshare"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Eifersucht (2)",
+         "titleen":"Episode 109",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=xmVxvhhNJPE"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5382875/Detektiv_Conan_Folge_109_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5383292/Detektiv_Conan_Folge_109_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5383546/Detektiv_Conan_Folge_109_3_3"
+                }
+       ]
+}

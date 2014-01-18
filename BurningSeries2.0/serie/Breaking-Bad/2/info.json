@@ -1,0 +1,21 @@
+{
+        "series":"Breaking Bad",
+        "seasons":4,
+        "cover":"Breaking-Bad_d346b0f571ed1b31d81cf304d0f2cb65.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Vorsichtsmaßnahmen","english":"Seven Thirty-Seven","hoster":["PutLocker","Sockshare","RapidVideo","UploadC"]},
+                {"german":"In der Falle","english":"Grilled","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Gedächtnisschwund","english":"Bit by a Dead Bee","hoster":["PutLocker","Sockshare","RapidVideo","UploadC"]},
+                {"german":"Ganz unten","english":"Down","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Bruchschäden","english":"Breakage","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Kuckuck","english":"Peakaboo","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Negro Y Azul","english":"Negro Y Azul","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Beauftragen Sie Saul","english":"Better Call Saul","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"4 Tage Auszeit","english":"4 Days Out","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Schluss","english":"Over","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Mandala","english":"Mandala","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Phoenix","english":"Phoenix","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Krisen","english":"ABQ","hoster":["PutLocker","Sockshare","RapidVideo","UploadC"]}
+         ]
+}

@@ -1,0 +1,23 @@
+{
+        "series":"Weeds",
+        "seasons":7,
+        "cover":"Weeds_eccc3dc026f23617b18608ae7cb24016.png",
+        "movies":false,
+        "episodes":[
+                {"german":"Treffer versenkt","english":"Doing the Backstroke","hoster":["RapidVideo"]},
+                {"german":"Das Geld im Pool","english":"A Pool and His Money","hoster":["RapidVideo"]},
+                {"german":"Der Fisch und die Kuh","english":"The Brick Dance","hoster":["RapidVideo"]},
+                {"german":"Neue Nachbarn","english":"Shit Highway","hoster":["RapidVideo"]},
+                {"german":"Die Schatztruhe","english":"Bill Sussman","hoster":["PutLocker"]},
+                {"german":"Grashüpfer","english":"Grasshopper","hoster":["RapidVideo"]},
+                {"german":"Hola Nancy","english":"He Taught Me How to Drive By","hoster":["RapidVideo"]},
+                {"german":"Ruhe in Frieden","english":"The Two Mrs. Scottsons","hoster":["RapidVideo"]},
+                {"german":"Die neue Freundin","english":"Release the Hounds","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Anruf","english":"Roy Till Called","hoster":["RapidVideo"]},
+                {"german":"Ein traumhafter Morgen","english":"Cankles","hoster":["RapidVideo"]},
+                {"german":"Schwere Zeiten","english":"The Dark Time","hoster":["RapidVideo"]},
+                {"german":"Biker Gras","english":"Risk","hoster":["RapidVideo"]},
+                {"german":"Feuerschutz","english":"Protection","hoster":["RapidVideo"]},
+                {"german":"Weg","english":"Go","hoster":["RapidVideo"]}
+         ]
+}

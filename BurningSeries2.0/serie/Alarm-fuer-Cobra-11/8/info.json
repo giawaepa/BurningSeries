@@ -1,0 +1,23 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Für immer und ewig","english":"","hoster":["PutLocker"]},
+                {"german":"Falsche Freundschaft","english":"","hoster":["PutLocker"]},
+                {"german":"Im Visier des Todes","english":"","hoster":[]},
+                {"german":"Ohne Ausweg","english":"","hoster":[]},
+                {"german":"Freunde in Not","english":"","hoster":["PutLocker"]},
+                {"german":"Die Zeugin","english":"","hoster":[]},
+                {"german":"Die Todesliste","english":"","hoster":[]},
+                {"german":"Muttertag","english":"","hoster":["PutLocker"]},
+                {"german":"Gnadenlos","english":"","hoster":["PutLocker"]},
+                {"german":"Vertrauter Feind","english":"","hoster":[]},
+                {"german":"Extrem","english":"","hoster":["PutLocker"]},
+                {"german":"Showdown","english":"","hoster":["PutLocker"]},
+                {"german":"Feuer und Flamme","english":"","hoster":["PutLocker"]},
+                {"german":"Um jeden Preis","english":"","hoster":["PutLocker"]},
+                {"german":"Wer Wind sät ...","english":"","hoster":["PutLocker"]}
+         ]
+}

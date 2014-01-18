@@ -1,0 +1,20 @@
+{
+        "series":"Pastewka",
+        "seasons":5,
+        "cover":"Pastewka_c14d0f557e43bef7f93fb672271d3ab9.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Pusher","english":"","hoster":["MySpass"]},
+                {"german":"Der Spender","english":"","hoster":["MySpass"]},
+                {"german":"Das Experiment","english":"","hoster":["MySpass"]},
+                {"german":"Die WG","english":"","hoster":["MySpass"]},
+                {"german":"Der Priester","english":"","hoster":["MySpass"]},
+                {"german":"Das Knöllchen","english":"","hoster":["MySpass"]},
+                {"german":"Der Aufzug","english":"","hoster":["MySpass"]},
+                {"german":"Der Pilates-Kurs","english":"","hoster":["MySpass"]},
+                {"german":"Der Tarif","english":"","hoster":["MySpass"]},
+                {"german":"Der große Kessler","english":"","hoster":["MySpass"]},
+                {"german":"Der Kratzer","english":"","hoster":["MySpass"]},
+                {"german":"Der Brühwürfel","english":"","hoster":["MySpass"]}
+         ]
+}

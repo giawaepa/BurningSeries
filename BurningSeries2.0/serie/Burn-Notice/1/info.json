@@ -1,0 +1,20 @@
+{
+        "series":"Burn Notice",
+        "seasons":5,
+        "cover":"Burn-Notice_2a43426d672b7e1063d29f86d40d4679.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Kaltgestellt","english":"Pilot","hoster":["RapidVideo"]},
+                {"german":"Ausgetrickst","english":"Identity","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Allein gegen das Kartell","english":"Fight or Flight","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Alte Freunde","english":"Old Friends","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wein und Waffen","english":"Family Business","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Jamaika-Gang","english":"Unpaid Debts","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schutzgeld","english":"Broken Rules","hoster":["RapidVideo"]},
+                {"german":"Auf der Flucht","english":"Wanted Man","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Haussitter","english":"Hard Bargain","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eingewickelt","english":"False Flag","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sackgasse (1)","english":"Dead Drop (1)","hoster":["RapidVideo"]},
+                {"german":"Sackgasse (2)","english":"Loose Ends (2)","hoster":[]}
+         ]
+}

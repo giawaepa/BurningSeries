@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Stärker als gestern",
+         "titleen":"Episode 28",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6535716/Naruto_Shippuuden_UNCUT_Folge_28_Deutsch_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6536335/Naruto_Shippuuden_UNCUT_Folge_28_Deutsch_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6536581/Naruto_Shippuuden_UNCUT_Folge_28_Deutsch_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"6F9F290FFC6DE47A"
+                }
+       ]
+}

@@ -1,0 +1,29 @@
+{
+        "series":"Crossing Jordan ? Pathologin mit Profil",
+        "seasons":6,
+        "cover":"Crossing-Jordan-Pathologin-mit-Profil_6dac90ade86fd217c84a73877cbf765b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Im Dunkeln","english":"After Dark","hoster":[]},
+                {"german":"Schmutzige Geschäfte","english":"Out Of Sight","hoster":[]},
+                {"german":"Alte Wunden","english":"Intruded","hoster":[]},
+                {"german":"Haus der Schatten","english":"Deja Past","hoster":[]},
+                {"german":"Späte Gerechtigkeit","english":"Justice Delayed","hoster":[]},
+                {"german":"Blauer Mond","english":"Blue Moon","hoster":[]},
+                {"german":"","english":"What Happens in Vegas Dies in Boston","hoster":[]},
+                {"german":"Feuerball","english":"Fire From The Sky","hoster":[]},
+                {"german":"Ausgebeutet","english":"Necessary Risks","hoster":[]},
+                {"german":"Leichenschmaus","english":"A Stranger Among Us","hoster":[]},
+                {"german":"Der Racheengel","english":"Murder In The Rue Morgue","hoster":[]},
+                {"german":"Mord, Lügen und Videos","english":"Family Affair","hoster":[]},
+                {"german":"Der einarmige Bandit","english":"You Really Got Me","hoster":[]},
+                {"german":"Weißer Tod","english":"Gray Murders","hoster":[]},
+                {"german":"In der Hitze der Nacht","english":"It Happened One Night","hoster":[]},
+                {"german":"Die Knochenjäger","english":"Skin And Bone","hoster":[]},
+                {"german":"Späte Rache","english":"Locard&#039;s Exchange","hoster":[]},
+                {"german":"Geiselnahme","english":"Sanctuary","hoster":[]},
+                {"german":"Tod einer Nonne","english":"Embraceable You","hoster":[]},
+                {"german":"Blut und Tränen","english":"Forget Me Not","hoster":[]},
+                {"german":"Im Kreuzfeuer","english":"Jump Push Fall","hoster":[]}
+         ]
+}

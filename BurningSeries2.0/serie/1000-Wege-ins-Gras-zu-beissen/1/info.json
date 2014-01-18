@@ -1,0 +1,20 @@
+{
+        "series":"1000 Wege, ins Gras zu beißen",
+        "seasons":5,
+        "cover":"1000-Wege-ins-Gras-zu-beissen_d594f972824143107e1c196ef0f8a724.png",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1","english":"Life Will Kill You","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Episode 2","english":"Hard Lives, Easy Deaths","hoster":["PutLocker","DivxStage"]},
+                {"german":"Episode 3","english":"Unforced Errors","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Episode 4","english":"Death Over Easy","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Episode 5","english":"Dead and Deader","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Episode 6","english":"Death Gets Busy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Episode 7","english":"The Lighter Side of Death","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Episode 8","english":"The Good, The Bad, and the Dead","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Episode 9","english":"Death Be Not Stupid","hoster":["PutLocker","DivxStage"]},
+                {"german":"Episode 10","english":"Cure for the Common Death, Part I","hoster":["PutLocker","DivxStage"]},
+                {"german":"Episode 11","english":"Death: A User&#039;s Manual","hoster":["PutLocker","DivxStage"]},
+                {"german":"Episode 12","english":"I See Dead People (And They&#039;re Cracking Me Up","hoster":["PutLocker","DivxStage"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Showdown",
+         "titleen":"The Showdown",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7160990/O_C_California_s02e22_Der_Showdown_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7160995/O_C_California_s02e22_Der_Showdown_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7161002/O_C_California_s02e22_Der_Showdown_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7161010/O_C_California_s02e22_Der_Showdown_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"44A2FC7A42DC24B2"
+                }
+       ]
+}

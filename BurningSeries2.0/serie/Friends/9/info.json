@@ -1,0 +1,32 @@
+{
+        "series":"Friends",
+        "seasons":10,
+        "cover":"Friends_ecd9c11d4588bc6ea50e8829954d980f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Willst Du ...?","english":"The One Where No One Proposes","hoster":["PutLocker","DivxStage"]},
+                {"german":"Don&#039;t Cry for Me, Emma","english":"The One Where Emma Cries","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Doktor lebt","english":"The One With The Pediatrician","hoster":["PutLocker","DivxStage"]},
+                {"german":"Welcher Mann für welches Leben?","english":"The One With The Sharks","hoster":["PutLocker","DivxStage"]},
+                {"german":"Dinner for six","english":"The One With Phoebe&#039;s Birthday Dinner","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Kindermann","english":"The One With The Male Nanny","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kein Lied von guten Eltern","english":"The One With Ross&#039;s Inappropriate Song","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die schreckliche Schwester","english":"The One With Rachel&#039;s Other Sister","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rachels Nummer","english":"The One With Rachel&#039;s Phone Number","hoster":["PutLocker","DivxStage"]},
+                {"german":"Chandlers Fest","english":"The One With Christmas In Tulsa","hoster":["PutLocker","DivxStage"]},
+                {"german":"Phoebe - Superstar","english":"The One Where Rachel Goes Back To Work","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Rattenbabys","english":"The One With Phoebe&#039;s Rats","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kuss mit Folgen","english":"The One Where Monica Sings","hoster":["PutLocker","DivxStage"]},
+                {"german":"Blind Dates","english":"The One With The Blind Dates","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hände hoch","english":"The One With The Mugging","hoster":["PutLocker","DivxStage"]},
+                {"german":"Toll bestückt!","english":"The One With The Boob Job","hoster":["PutLocker","DivxStage"]},
+                {"german":"Verknallt in einen Toten","english":"The One With The Memorial Service","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Taube war&#039;s!","english":"The One With The Lottery","hoster":["PutLocker","DivxStage"]},
+                {"german":"Jungs im Hotel","english":"The One With Rachel&#039;s Dream","hoster":["PutLocker","DivxStage"]},
+                {"german":"Party auf dem Dach","english":"The One With The Soap Opera Party","hoster":["PutLocker","DivxStage"]},
+                {"german":"Bitte eine kleine Spende","english":"The One With The Fertility Test","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Sperminator","english":"The One With The Donor","hoster":["PutLocker","DivxStage"]},
+                {"german":"Regen im Paradies - Teil 1","english":"The One In Barbados (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Regen im Paradies - Teil 2","english":"The One In Barbados (2)","hoster":[]}
+         ]
+}

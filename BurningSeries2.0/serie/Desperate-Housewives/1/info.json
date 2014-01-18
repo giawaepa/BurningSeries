@@ -1,0 +1,31 @@
+{
+        "series":"Desperate Housewives",
+        "seasons":8,
+        "cover":"Desperate-Housewives_291bdfe287207faf11aaf9df229de65d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Schmutzige Wäsche","english":"Pilot","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Unter der Oberfläche","english":"Ah, But Underneath","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die nackte Wahrheit","english":"Pretty Little Picture","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Mit allen Mitteln","english":"Who&#039;s That Woman?","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Eindringlinge","english":"Come In, Stranger","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schlachtfelder","english":"Running To Stand Still","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Gewinner und Verlierer","english":"Anything You Can Do","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schuldig","english":"Guilty","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Geständnis","english":"Suspicious Minds","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Versteckspiele","english":"Come Back To Me","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die große Suche","english":"Move On","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Asche auf mein Haupt","english":"Every Day A Little Death","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ertappt!","english":"Your Fault","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Liebe liegt in der Luft","english":"Love Is in the Air","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Lauter Lügen","english":"Impossible","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Das kleine schwarze Buch","english":"The Ladies Who Lunch","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Helden","english":"There Won&#039;t Be Trumpets","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Mutterglück","english":"Children Will Listen","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Einsame Herzen","english":"Live Alone and Like It / An Unexpected Song","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Frühlingsgefühle","english":"Fear No More","hoster":["PutLocker","Sockshare","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Versprechen","english":"Sunday in the Park with George","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Hals über Kopf","english":"Goodbye For Now","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Alles ist wunderbar","english":"One Wonderful Day","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]}
+         ]
+}

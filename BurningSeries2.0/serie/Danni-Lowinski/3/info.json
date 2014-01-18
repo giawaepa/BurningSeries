@@ -1,0 +1,14 @@
+{
+        "series":"Danni Lowinski",
+        "seasons":3,
+        "cover":"Danni-Lowinski_fcffaab29229e3ec57adb108901be8c6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Zigeunerjunge","english":"","hoster":["PutLocker"]},
+                {"german":"Optimisten","english":"","hoster":[]},
+                {"german":"Kita","english":"","hoster":[]},
+                {"german":"Sperrbezirk","english":"","hoster":[]},
+                {"german":"Auf der Flucht","english":"","hoster":[]},
+                {"german":"Karoshi","english":"","hoster":[]}
+         ]
+}

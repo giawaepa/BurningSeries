@@ -1,0 +1,30 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Zahltag","english":"Payback","hoster":["YouTube","PutLocker"]},
+                {"german":"Ein Tiefer Fall","english":"A Single Life","hoster":[]},
+                {"german":"Schönheit hat ihren Preis","english":"?Or Just Look Like One","hoster":[]},
+                {"german":"Der Serienmörder","english":"Hysteria","hoster":[]},
+                {"german":"Reisefieber","english":"Wanderlust","hoster":[]},
+                {"german":"Mord an der Uni","english":"Sophomore Jinx","hoster":[]},
+                {"german":"Der Kinderschänder","english":"Uncivilized","hoster":[]},
+                {"german":"Tod einer Staatsanwältin","english":"Stalked","hoster":[]},
+                {"german":"Gefährliche Spiele","english":"Stocks &amp; Bondage","hoster":[]},
+                {"german":"Davon gekommen","english":"Closure","hoster":[]},
+                {"german":"Es liegt in der Familie","english":"Bad Blood","hoster":[]},
+                {"german":"Liebesgrüße aus Moskau","english":"Russian Love Poem","hoster":[]},
+                {"german":"Ein Ehrenwerter Richter","english":"Disrobed","hoster":[]},
+                {"german":"Verjährungsfrist","english":"Limitations","hoster":[]},
+                {"german":"Opfer des Ruhms","english":"Entitled","hoster":[]},
+                {"german":"Der Dritte Mann","english":"The Third Guy","hoster":[]},
+                {"german":"Der Betrogene Sohn","english":"Misleader","hoster":[]},
+                {"german":"Chat Room","english":"Chat Room","hoster":[]},
+                {"german":"Der U-Bahn Vergewaltiger","english":"Contact","hoster":[]},
+                {"german":"Späte Reue","english":"Remorse","hoster":[]},
+                {"german":"Der Klavierlehrer","english":"Nocturne","hoster":[]},
+                {"german":"Versklavt","english":"Slaves","hoster":[]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Geschenke für die Falschen",
+         "titleen":"Winter",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7035597/Die_wilden_70er_Geschenke_fuer_die_falschen_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7035708/Die_wilden_70er_Geschenke_fuer_die_falschen_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7035848/Die_wilden_70er_Geschenke_fuer_die_falschen_3_3"
+                }
+       ]
+}

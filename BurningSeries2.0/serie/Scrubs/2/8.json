@@ -1,0 +1,36 @@
+{ 
+         "titlede":"Mein Pudding",
+         "titleen":"My Fruit Cups",
+         "description":"Alles läuft für Dr. Cox super mit seiner neuen Freundin July bis Jordan auftaucht.Und sie ist schwanger...",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=sf0_g2dlSrQ"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=185SYuf_uVc"
+                },{
+                        "hoster":"YouTube",
+                        "part":3,
+                        "link":"=28wchKHjlqA"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6018565/Scrubs_Die_Anfaenger_St_2_Folge_08_Teil_1_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6018769/Scrubs_Die_Anfaenger_St_2_Folge_08_Teil_2_2"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"833FC7CA12A01871"
+                },{
+                        "hoster":"Ecostream",
+                        "part":1,
+                        "link":"a561ffd02a85f0e152eb0b2f8a6f4561.html"
+                }
+       ]
+}

@@ -1,0 +1,17 @@
+{
+        "series":"Greys Anatomy",
+        "seasons":8,
+        "cover":"Greys-Anatomy_f235f0fb485b9c44061fc1bf7bd65edchtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Nur 48 Stunden","english":"A Hard Days Night","hoster":["YouTube","MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Grenzen","english":"The first Cut is the Deepest","hoster":["YouTube","MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Überleben ist alles","english":"Winning a Battle, losing the War","hoster":["YouTube","MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Niemandsland","english":"No Mans Land","hoster":["YouTube","MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Last der Verantwortung","english":"Shake your groove Thing","hoster":["YouTube","MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Morgen danach","english":"If tommorow never comes","hoster":["YouTube","MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Selbstzerstörungsknopf","english":"The Self Destruct Button","hoster":["YouTube","MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Glaubensfragen","english":"Save Me","hoster":["YouTube","MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Geheimnisse","english":"Whos zoomin&#039; who?","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]}
+         ]
+}

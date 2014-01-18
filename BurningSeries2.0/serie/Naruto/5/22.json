@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Sand oder Knochen?",
+         "titleen":"Episode 126",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6140387/Naruto_folge_126_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6140510/Naruto_folge_126_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6140584/Naruto_folge_126_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"3E653AA243376677"
+                }
+       ]
+}

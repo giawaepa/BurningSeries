@@ -1,0 +1,30 @@
+{
+        "series":"Buffy ? Im Bann der Dämonen",
+        "seasons":7,
+        "cover":"Buffy-Im-Bann-der-Daemonen_2390181eb7a9fad2f38e699ee61e40e3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Anne gefangen in der Unterwelt","english":"Anne","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Die Nacht der lebenden Toten","english":"Dead Man&#039;s Party","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Neue Freunde, neue Feinde","english":"Faith, Hope and Trick","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Dr. Jekyll und Mr. Hyde","english":"Beauty and the Beasts","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Die Qual der Wahl","english":"Homecoming","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Außer Rand und Band","english":"Band Candy","hoster":["Sockshare","RapidVideo"]},
+                {"german":"Der Handschuh von Myhnegon","english":"Revelations","hoster":["RapidVideo"]},
+                {"german":"Liebe und andere Schwierigkeiten","english":"Lover&#039;s Walk","hoster":["RapidVideo"]},
+                {"german":"Was wäre wenn...","english":"The Wish","hoster":["RapidVideo"]},
+                {"german":"Heimsuchungen","english":"Amends","hoster":["RapidVideo"]},
+                {"german":"Hänsel und Gretel","english":"Gingerbread","hoster":["RapidVideo"]},
+                {"german":"Die Reifeprüfung","english":"Helpless","hoster":[]},
+                {"german":"Die Nacht der lebenden Leichen","english":"The Zeppo","hoster":["RapidVideo"]},
+                {"german":"Der neue Wächter","english":"Bad Girls","hoster":["RapidVideo"]},
+                {"german":"Konsequenzen","english":"Consequences","hoster":["RapidVideo"]},
+                {"german":"Doppelgängerland","english":"Doppelgangland","hoster":["RapidVideo"]},
+                {"german":"Gefährliche Spiele","english":"Enemies","hoster":["RapidVideo"]},
+                {"german":"Fremde Gedanken","english":"Earshot","hoster":["RapidVideo"]},
+                {"german":"Die Box von Gavrock","english":"Choices","hoster":["RapidVideo"]},
+                {"german":"Der Höllenhund","english":"The Prom","hoster":["RapidVideo"]},
+                {"german":"Das Blut der Jägerin","english":"Graduation Day (1)","hoster":["RapidVideo"]},
+                {"german":"Der Tag der Vergeltung","english":"Graduation Day (2)","hoster":["RapidVideo"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Kleine Augenzeugen",
+         "titleen":"Episode 303",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=t41ckudf7uw"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=d1BeTmYY29c"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6171161/Detektiv_Conan_Folge_303_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6171369/Detektiv_Conan_Folge_303_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6171549/Detektiv_Conan_Folge_303_3_3"
+                }
+       ]
+}

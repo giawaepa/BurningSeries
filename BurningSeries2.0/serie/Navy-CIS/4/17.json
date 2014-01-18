@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Skelette",
+         "titleen":"Skeletons",
+         "description":"Es kommt zu einer Explosion in einem Mausoleum. Zwei Mitarbeiter werden leicht verletzt. Schnell stellt sich heraus, was die Explosion verursacht hat und das mehr als nur ein Mensch in dieser Kammer seine letzte Ruhe fand. Steckt ein Serienkiller dahinter?",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"3432606/Part1_Skelette"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"3432848/Part2_Skelette"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"3433098/Part3_Skelette"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"3433424/Part4_Skelette"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"08C76570A786766F"
+                }
+       ]
+}

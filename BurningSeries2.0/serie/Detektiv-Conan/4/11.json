@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Der steinerne Kreisel",
+         "titleen":"Episode 264",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=KiaHQH8XHag"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=3T1zRg2kiYQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6020066/Detektiv_Conan_Folge_264_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6020479/Detektiv_Conan_Folge_264_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6020868/Detektiv_Conan_Folge_264_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"8F076BD37EFC91AE"
+                }
+       ]
+}

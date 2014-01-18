@@ -1,0 +1,26 @@
+{
+        "series":"Simpsons Shorts",
+        "seasons":3,
+        "cover":"Simpsons-Shorts_8bc3066ba8e34cdd81a5ed0d74edb69c.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Familienzwist","english":"Shut up, Simpsons","hoster":[]},
+                {"german":"Hütchenspiele","english":"Shell Game","hoster":[]},
+                {"german":"Seine Eigene Show (engl.)","english":"The Bart Simpson Show","hoster":[]},
+                {"german":"Alles nur Spiel (engl.)","english":"Punching Bag","hoster":[]},
+                {"german":"Weihnachten","english":"Simpson Christmas","hoster":["MyVideo"]},
+                {"german":"Krusty der Clown","english":"The Krusty the Clown Show","hoster":[]},
+                {"german":"Held des Tages (engl.)","english":"Bart the Hero","hoster":["MyVideo"]},
+                {"german":"Eine Bart-Geschichte (engl.)","english":"Barts Little Fantasy","hoster":[]},
+                {"german":"Angst und Schrecken (engl.)","english":"Scary Movie","hoster":[]},
+                {"german":"Hypnose (engl.)","english":"Homer Hypnotism","hoster":[]},
+                {"german":"Der Ladendiebstahl (engl.)","english":"Shoplifting","hoster":[]},
+                {"german":"Das Echo","english":"Echo Canyon","hoster":[]},
+                {"german":"Badezeit (engl.)","english":"Bathtime","hoster":[]},
+                {"german":"Barts Alptraum (engl.)","english":"Barts Nightmare","hoster":[]},
+                {"german":"Wilde Kinder","english":"Bart of The Jungle","hoster":[]},
+                {"german":"Familientherapie (engl.)","english":"Family Therapy","hoster":[]},
+                {"german":"Maggie in Gefahr (engl./dt.)","english":"Maggie in Peril","hoster":[]},
+                {"german":"Die Fernsehfamilie (engl.)","english":"TV Simpsons","hoster":[]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Die Piratenfahne ist weg",
+         "titleen":"Episode 328",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4002316/One_Piece_Folge_328_Der_Traum_sinkt_in_der_neuen_Welt_Teil_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4002506/One_Piece_Folge_328_Der_Traum_sinkt_in_der_neuen_Welt_Teil_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4002756/One_Piece_Folge_328_Der_Traum_sinkt_in_der_neuen_Welt_Teil_3"
+                }
+       ]
+}

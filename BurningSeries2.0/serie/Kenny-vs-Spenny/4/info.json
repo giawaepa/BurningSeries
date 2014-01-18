@@ -1,0 +1,18 @@
+{
+        "series":"Kenny vs. Spenny",
+        "seasons":6,
+        "cover":"Kenny-vs-Spenny_b242cb25f204a30c0cf52db43ae9de9f.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Wer zuerst eine Erektion bekommt, verliert.","english":"First Guy to Get a Boner Loses.","hoster":["YouTube"]},
+                {"german":"Wer produziert den größten Furz?","english":"Who Can Blow the Biggest Fart?","hoster":["YouTube"]},
+                {"german":"Wer produziert das bessere virale Video?","english":"Who Can Produce the Best Viral Video?","hoster":[]},
+                {"german":"Wer kann mehr Fleisch essen?","english":"Who Can Eat More Meat?","hoster":[]},
+                {"german":"Wer zuerst schmutzig wird, verliert.","english":"First Guy to Get a Stain Loses.","hoster":[]},
+                {"german":"Wer kann länger an einer Ziege angebunden bleiben?","english":"Who Can Be Tied to a Goat the Longest?","hoster":[]},
+                {"german":"Wer hält mehr Folter aus?","english":"Who Can Handle More Torture?","hoster":["MyVideo"]},
+                {"german":"Wer zuerst aufhört zu singen, verliert.","english":"First Guy to Stop Singing Loses.","hoster":[]},
+                {"german":"Wer kann länger ?fettleibig? sein?","english":"Who Can Be Obese the Longest?","hoster":[]},
+                {"german":"Wer kann mehr Verbrechen begehen?","english":"Who Can Commit the Most Crime?","hoster":[]}
+         ]
+}

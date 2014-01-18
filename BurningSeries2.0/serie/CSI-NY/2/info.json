@@ -1,0 +1,32 @@
+{
+        "series":"CSI: NY",
+        "seasons":8,
+        "cover":"CSI-NY_01987587a2ebb5130440caece7c6127b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Sommermorde","english":"Summer In The City","hoster":["PutLocker"]},
+                {"german":"Kunstfehler","english":"Grand Murder At Central Station","hoster":["PutLocker"]},
+                {"german":"Tod im Zoo","english":"Zoo York","hoster":["PutLocker"]},
+                {"german":"Kopflos","english":"Corporate Warriors","hoster":["PutLocker"]},
+                {"german":"Eine Ladung Schrot","english":"Dancing with the Fishes","hoster":["PutLocker"]},
+                {"german":"Gondel in den Tod","english":"YoungBlood","hoster":["PutLocker"]},
+                {"german":"Treibjagd","english":"Manhattan Manhunt","hoster":["PutLocker"]},
+                {"german":"Das letzte Spiel","english":"Bad Beat","hoster":["PutLocker"]},
+                {"german":"Puppenmord","english":"City Of The Dolls","hoster":["PutLocker"]},
+                {"german":"Die Handschrift des Mörders","english":"Jamalot","hoster":["PutLocker"]},
+                {"german":"Tod im Rampenlicht","english":"Trapped","hoster":["PutLocker"]},
+                {"german":"Die Farbe des Todes","english":"Wasted","hoster":["PutLocker"]},
+                {"german":"Personenschaden","english":"Risk","hoster":["PutLocker"]},
+                {"german":"Mitten ins Herz","english":"Stuck on You","hoster":["PutLocker"]},
+                {"german":"Spiel ohne Grenzen","english":"Fare Game","hoster":["PutLocker"]},
+                {"german":"Tod im Wassertank","english":"Cool Hunter","hoster":["PutLocker"]},
+                {"german":"Leichenschau","english":"Necrophilia Americana","hoster":["PutLocker"]},
+                {"german":"Organraub","english":"Live or Let Die","hoster":["PutLocker"]},
+                {"german":"Supermänner","english":"Super Men","hoster":["PutLocker"]},
+                {"german":"Grünes Grab","english":"Run Silent, Run Deep","hoster":["PutLocker"]},
+                {"german":"Tödliche Nähe","english":"All Access","hoster":["PutLocker"]},
+                {"german":"Die tote Meerjungfrau","english":"Stealing Home","hoster":["PutLocker"]},
+                {"german":"Nahkampf","english":"Heroes","hoster":["PutLocker"]},
+                {"german":"Bombenalarm","english":"Charge of This Post","hoster":["PutLocker"]}
+         ]
+}

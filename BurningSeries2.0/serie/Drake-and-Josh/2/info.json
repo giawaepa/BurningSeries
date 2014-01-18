@@ -1,0 +1,22 @@
+{
+        "series":"Drake &amp; Josh",
+        "seasons":4,
+        "cover":"Drake-Josh_4641eaa9bacd6e8baff66898514f6ae3.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Drake`s süßes Laster","english":"The Bet","hoster":[]},
+                {"german":"Drake wird Rockstar","english":"Guitar","hoster":[]},
+                {"german":"Das Popcorndesaster","english":"Movie Job","hoster":[]},
+                {"german":"Josh, der Footballprofi","english":"Football","hoster":[]},
+                {"german":"Der Billiardkönig","english":"Pool Shark","hoster":[]},
+                {"german":"Die Schwindelbrüder","english":"Smart Girl","hoster":[]},
+                {"german":"Die Kleine Diva","english":"Little Diva","hoster":[]},
+                {"german":"Der Wetterfrosch","english":"Blue`s Brothers","hoster":[]},
+                {"german":"Chauffeur wider Willen","english":"Driver&#039;s License","hoster":[]},
+                {"german":"Drakes allergrößter Fan","english":"Number One Fan","hoster":["YouTube"]},
+                {"german":"Das Glückshemd","english":"Mean Teacher","hoster":[]},
+                {"german":"Gute Geschäfte","english":"The Gary Grill","hoster":[]},
+                {"german":"Die Doppelgänger","english":"Drew &amp; Jerry","hoster":[]},
+                {"german":"Das Auto im Klassenzimmer","english":"Honor Council","hoster":[]}
+         ]
+}

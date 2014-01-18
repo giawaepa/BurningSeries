@@ -1,0 +1,21 @@
+{
+        "series":"Rules of Engagement",
+        "seasons":6,
+        "cover":"Rules-of-Engagement_f7ad76ee4c30c6ef6ea68cc1c33264b1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Bibelstunde","english":"Flirting","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Schlummertaste","english":"Snoozin&#039; for a Bruisin&#039;","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wer legt besser?","english":"Atlantic City","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das indische Mädchen","english":"Ghost Story","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Vier Säulen","english":"The Four Pillars","hoster":["PutLocker","DivxStage"]},
+                {"german":"Sechs Pfund plus","english":"Third Wheel","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der perfekte Moment","english":"Indian Giver","hoster":["PutLocker","DivxStage"]},
+                {"german":"So richtig frei","english":"Free Free Time","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Östrogen Querschläger","english":"The Score","hoster":["PutLocker","DivxStage"]},
+                {"german":"Glückliche Fügung","english":"The Surrogate","hoster":["PutLocker","DivxStage"]},
+                {"german":"Central Park South","english":"The Reunion","hoster":["PutLocker","DivxStage"]},
+                {"german":"Eine Stellung für Ryan","english":"Harassment","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Bingham Intervention","english":"They Do?","hoster":["PutLocker","DivxStage"]}
+         ]
+}

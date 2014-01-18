@@ -1,0 +1,30 @@
+{
+        "series":"Simpsons Shorts",
+        "seasons":3,
+        "cover":"Simpsons-Shorts_8bc3066ba8e34cdd81a5ed0d74edb69c.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Grimassen Schneiden (engl.)","english":"Making Faces","hoster":[]},
+                {"german":"Die Beerdigung (engl.)","english":"The Funeral","hoster":["YouTube"]},
+                {"german":"Maggies Gehirn","english":"Maggies Brain","hoster":[]},
+                {"german":"Football","english":"Football","hoster":[]},
+                {"german":"Das Kartenhaus (engl.)","english":"House of Cards","hoster":[]},
+                {"german":"Vater und Sohn (engl.)","english":"Bart&#039;s and Homer&#039;s Dinner","hoster":[]},
+                {"german":"Im All (engl.)","english":"Space Patrol","hoster":["YouTube"]},
+                {"german":"Der neue Haarschnitt (engl.)","english":"Bart&#039;s Haircut","hoster":["YouTube","MyVideo"]},
+                {"german":"Der 3. Weltkrieg","english":"World War III","hoster":[]},
+                {"german":"Das Perfekte Verbrechen","english":"The Perfect Crime","hoster":[]},
+                {"german":"Gespenstergeschichten (engl.)","english":"Scary Stories","hoster":[]},
+                {"german":"Opa und die Kinder (engl.)","english":"Grandpa and the Kids","hoster":["YouTube"]},
+                {"german":"Angeln Gehen","english":"Gone Fishin&#039; (Sort of)","hoster":[]},
+                {"german":"Skateboard Fahren (engl.)","english":"Skateboarding","hoster":[]},
+                {"german":"Die Heiden","english":"The Pagans","hoster":["YouTube"]},
+                {"german":"Der Schrank (engl.)","english":"Closeted","hoster":["YouTube"]},
+                {"german":"Im Aquarium (engl.)","english":"The Aquarium","hoster":["YouTube"]},
+                {"german":"Familienportrait (engl.)","english":"Family Portrait","hoster":[]},
+                {"german":"Barts Schluckauf (engl.)","english":"Bart&#039;s Hiccups","hoster":["YouTube"]},
+                {"german":"Geld, Geld, Geld (engl.)","english":"The Money Jar","hoster":["YouTube"]},
+                {"german":"Im Kunstmuseum","english":"The Art Museum","hoster":[]},
+                {"german":"Zoogeschichten (engl.)","english":"Zoo Story","hoster":[]}
+         ]
+}

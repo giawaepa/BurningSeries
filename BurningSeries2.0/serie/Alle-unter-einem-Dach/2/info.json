@@ -1,0 +1,33 @@
+{
+        "series":"Alle unter einem Dach",
+        "seasons":9,
+        "cover":"Alle-unter-einem-Dach_2db8eb16cd5d05a61805adfcf8c1d513.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Steve der Feuerteufel","english":"Rachel&#039;s Place","hoster":[]},
+                {"german":"Ein Verehrer zu viel","english":"Torn Between Two Lovers","hoster":[]},
+                {"german":"Die erste Mrs. Urkel","english":"Marriage 101","hoster":[]},
+                {"german":"Fred Astaire mit Hexenschuss	","english":"Flashpants","hoster":[]},
+                {"german":"Mit dem Kombi durch die Wand","english":"The Crash Course","hoster":[]},
+                {"german":"Unter Rindern","english":"Boxcar Blues","hoster":[]},
+                {"german":"Bankraub mit Daddy","english":"Dog Day Halloween","hoster":[]},
+                {"german":"Zwei Urkels im Haus","english":"Cousin Urkel","hoster":[]},
+                {"german":"Musik aus der Unterhose","english":"Dedicated to the One I Love","hoster":[]},
+                {"german":"Albtraum mit Urkel","english":"The Science Project","hoster":[]},
+                {"german":"Steve der Champion","english":"Requiem for an Urkel","hoster":[]},
+                {"german":"Billard-Tiger","english":"Fast Eddie Winslow","hoster":[]},
+                {"german":"Urkels größter Wunsch","english":"Have Yourself a Very Winslow Christmas","hoster":[]},
+                {"german":"Drei Männer im Eis","english":"Ice Station Winslow","hoster":[]},
+                {"german":"Vater und Sohn","english":"Son","hoster":[]},
+                {"german":"Gewissensfragen","english":"Do the Right Thing","hoster":[]},
+                {"german":"Carls Höhenflug","english":"High Hopes","hoster":[]},
+                {"german":"Tanz den Urkel!","english":"Life of the Party","hoster":[]},
+                {"german":"Die Tante in der Urne","english":"Busted","hoster":[]},
+                {"german":"Lauras Kampf!","english":"Fight the Good Fight","hoster":[]},
+                {"german":"Ehre, wem Ehre gebührt","english":"Taking Credit","hoster":[]},
+                {"german":"Wer ist der Kerl?","english":"Skip to My Lieu","hoster":[]},
+                {"german":"Verschmähte Liebe","english":"The Good the Bad and the Urkel","hoster":[]},
+                {"german":"Colt Urkels letzter Schuss","english":"I Should Have Done Something","hoster":[]},
+                {"german":"Der Steve Urkel-Trick","english":"(I Should Have Done Something","hoster":[]}
+         ]
+}

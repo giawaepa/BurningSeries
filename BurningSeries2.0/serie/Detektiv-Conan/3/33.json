@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Kogoro unter Verdacht (2)",
+         "titleen":"Episode 215",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=vKLkmq6Jc1U"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5781422/Detektiv_Conan_Folge_215_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5781500/Detektiv_Conan_Folge_215_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5781569/Detektiv_Conan_Folge_215_3_3"
+                }
+       ]
+}

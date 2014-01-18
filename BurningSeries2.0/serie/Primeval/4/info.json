@@ -1,0 +1,15 @@
+{
+        "series":"Primeval ? Rückkehr der Urzeitmonster",
+        "seasons":5,
+        "cover":"Primeval-Rueckkehr-der-Urzeitmonster_47ee7ae09f21f49ecbfcafc9c0d9edcc.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Zurück aus der Kreidezeit","english":"Episode 1","hoster":["PutLocker","Sockshare"]},
+                {"german":"Verhaltet Euch unauffällig","english":"Episode 2","hoster":["PutLocker","Sockshare"]},
+                {"german":"Lockdown","english":"Episode 3","hoster":["PutLocker","Sockshare"]},
+                {"german":"Breakfast Club","english":"Episode 4","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Wurm","english":"Episode 5","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Braut, die sich was traut","english":"Episode 6","hoster":["PutLocker","Sockshare"]},
+                {"german":"Überraschender Besuch","english":"Episode 7","hoster":["PutLocker","Sockshare"]}
+         ]
+}

@@ -1,0 +1,16 @@
+{
+        "series":"Die Ludolfs ? 4 Brüder auf&#039;m Schrottplatz",
+        "seasons":8,
+        "cover":"Die-Ludolfs-4-Brueder-auf-m-Schrottplatz_7ba678b4ad0cf41bab5e69183b76d4f3.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Vollgas unter roter Sonne","english":"","hoster":[]},
+                {"german":"Gentlemen, starten Sie die Motoren!","english":"","hoster":[]},
+                {"german":"Mercedes flambé","english":"","hoster":[]},
+                {"german":"Rückwärts schneller als vorwärts","english":"","hoster":[]},
+                {"german":"Herbie vs. Ralleyei","english":"","hoster":[]},
+                {"german":"Der Caravan zieht weiter","english":"","hoster":[]},
+                {"german":"Die Zitrone auf drei Rädern","english":"","hoster":[]},
+                {"german":"Elchtest à la Ludolfs","english":"","hoster":[]}
+         ]
+}

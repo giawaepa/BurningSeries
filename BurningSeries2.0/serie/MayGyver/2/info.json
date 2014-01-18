@@ -1,0 +1,30 @@
+{
+        "series":"MacGyver",
+        "seasons":7,
+        "cover":"MacGyver_32b13a08c0cdaa31b722c1f6cf3618cd.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der tödliche Computer","english":"The Human Factor","hoster":["PutLocker"]},
+                {"german":"Killer im Ruhestand","english":"The Eraser","hoster":["PutLocker"]},
+                {"german":"Der betrogene Betrüger","english":"Twice Stung","hoster":["PutLocker"]},
+                {"german":"Das Wunschkind","english":"The Wish Child","hoster":["PutLocker"]},
+                {"german":"Der Bewährungshelfer","english":"Final Approach","hoster":["PutLocker"]},
+                {"german":"Der Meisterlügner","english":"Jack of Lies","hoster":["PutLocker"]},
+                {"german":"Ein Rosenkranz für alle Fälle","english":"The Road Not Taken","hoster":["PutLocker"]},
+                {"german":"Adler in Not","english":"Eagles","hoster":["PutLocker"]},
+                {"german":"Warnende Träume","english":"Silent World","hoster":["PutLocker"]},
+                {"german":"Mord an einem Cadillac","english":"Three For the Road","hoster":["PutLocker"]},
+                {"german":"Phönix in Gefahr","english":"Phoenix Under Siege","hoster":["PutLocker"]},
+                {"german":"Familienangelegenheiten","english":"Family Matter","hoster":["PutLocker"]},
+                {"german":"Tödliche Worte","english":"Soft Touch","hoster":[]},
+                {"german":"Klapperstorch auf Abwegen","english":"Birth Day","hoster":["PutLocker"]},
+                {"german":"Piraten","english":"Pirates","hoster":["PutLocker"]},
+                {"german":"Wintersport ist Mord","english":"Out in the Cold","hoster":["PutLocker"]},
+                {"german":"Der Spion aus dem Sarg","english":"Dalton, Jack of Spies","hoster":["PutLocker"]},
+                {"german":"Totgesagte leben länger","english":"Partners","hoster":[]},
+                {"german":"Die Befreiung","english":"Bushmaster","hoster":["PutLocker"]},
+                {"german":"Erinnerungen","english":"Friends","hoster":["PutLocker"]},
+                {"german":"Black Out","english":"D.O.A.: MacGyver","hoster":["PutLocker"]},
+                {"german":"Gefährliche Freiheit","english":"For Love or Money","hoster":["PutLocker"]}
+         ]
+}

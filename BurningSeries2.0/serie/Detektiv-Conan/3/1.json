@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Mysteriöse Buchstaben (1)",
+         "titleen":"Episode 183",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=59FtpeLCPv4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5623580/Detektiv_Conan_Folge_183_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5624093/Detektiv_Conan_Folge_183_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5624405/Detektiv_Conan_Folge_183_3_3"
+                }
+       ]
+}

@@ -1,0 +1,31 @@
+{
+        "series":"30 Rock",
+        "seasons":6,
+        "cover":"30-Rock_b940447e54c3e6b55d29c9ff4abd16a4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Fabius-Strategie","english":"The Fabian Strategy","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Wenn?s kommt, dann kommt?s richtig!","english":"When It Rains, It Pours","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Verfechter der Vielfalt","english":"Let&#039;s Stay Together","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Live Show","english":"Live Show","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Meister des Reaganing","english":"Reaganing","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Ehepause","english":"Gentleman&#039;s Intermission","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Gegenkandidat","english":"Brooklyn Without Limits","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die gute alte Zeit","english":"College","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Ich bin ein Protein!","english":"Chain Reaction Of Mental Anguish","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Mentaliz in der Angriffszone","english":"Christmas Attack Zone","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Scheidungskrieg","english":"Mrs. Donaghy","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Von einer Katastrophe in die nächste","english":"Operation Righteous Cowboy Lightning","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Schwangerschaftsgefallen","english":"Qué Sorpresa!","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Das zweischneidige Schwert","english":"Double Edged Sword","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Vom Glück einer alten Jungfer","english":"It?s Never Too Late for Now","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"TGS hasst Frauen","english":"TGS Hates Women","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Das Leben ist eine Dokusoap","english":"Queen of Jordan","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Zwangspause","english":"Plan B","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Wo ist Tracy","english":"I Heart Connecticut","hoster":["PutLocker","DivxStage"]},
+                {"german":"100. Folge Teil 1","english":"100th Episode (1)","hoster":["PutLocker","UploadC"]},
+                {"german":"100. Folge Teil 2","english":"100th Episode (2)","hoster":["PutLocker"]},
+                {"german":"","english":"Everything Sunny All the Time Always","hoster":["PutLocker"]},
+                {"german":"","english":"Respawn","hoster":["PutLocker"]}
+         ]
+}

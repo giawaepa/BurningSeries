@@ -1,0 +1,21 @@
+{
+        "series":"Der letzte Bulle",
+        "seasons":3,
+        "cover":"Der-letzte-Bulle_fb9934d518c58b52b3fa28930338da0d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mord auf Distanz","english":"","hoster":["PutLocker"]},
+                {"german":"Tod eines Strippers","english":"","hoster":["PutLocker"]},
+                {"german":"Camping für Anfänger","english":"","hoster":["PutLocker"]},
+                {"german":"Wer findet, der stirbt","english":"","hoster":["PutLocker"]},
+                {"german":"Alle Wege führen zum Du","english":"","hoster":["PutLocker"]},
+                {"german":"Die Nackttanker von Huttrop","english":"","hoster":["PutLocker"]},
+                {"german":"Ich sehe was, was du nicht siehst","english":"","hoster":["PutLocker"]},
+                {"german":"Das 5. Gebot","english":"","hoster":["PutLocker"]},
+                {"german":"Mord auf Seite 1","english":"","hoster":["PutLocker"]},
+                {"german":"Ich weiß von nichts","english":"","hoster":["PutLocker"]},
+                {"german":"Kita des Grauens","english":"","hoster":["PutLocker"]},
+                {"german":"Liebe in Not","english":"","hoster":["PutLocker"]},
+                {"german":"Die verpasste Chance","english":"","hoster":["PutLocker"]}
+         ]
+}

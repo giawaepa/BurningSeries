@@ -1,0 +1,30 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Grundschul-Musical","english":"Elementary School Musical","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Auf diese Lisa können sie bauen","english":"Loan-a Lisa","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"The Lisa Series","english":"MoneyBART","hoster":["PutLocker","Sockshare","Ecostream"]},
+                {"german":"Blut und Spiele","english":"Treehouse of Horror XXI","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Die Lisa-Studie","english":"Lisa Simpson, This Isn?t Your Life","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Das Wunder von Burns","english":"The Fool Monty","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Eine Taube macht noch keinen Sommer","english":"How Munched is that Birdie in the Window?","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"The Fight Before Christmas","english":"The Fight Before Christmas","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Donnie Fatso","english":"Donnie Fatso","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Im Zeichen des Schwertes","english":"Moms I&#039;d Like to Forget","hoster":["YouTube","PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Moeback Mountain","english":"Flaming Moe","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Wenn der Homer mit dem Sohne","english":"Homer the Father","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Die Farbe Grau","english":"The Blue and the Gray","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Wütender Dad - Der Film","english":"Angry Dad - The Movie","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Scorpione wie wir","english":"The Scorpions Tale","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Ein Sommernachtstrip","english":"A Midsummer&#039;s Nice Dream","hoster":["PutLocker","Sockshare"]},
+                {"german":"Denn sie wissen nicht wen sie würgen","english":"Love Is a Many Strangled Thing","hoster":["BitShare","UploadC"]},
+                {"german":"","english":"The Great Simpsina","hoster":["PutLocker"]},
+                {"german":"","english":"The Real Housewifes of Fat Tony","hoster":["PutLocker"]},
+                {"german":"","english":"Homer Scissorhands","hoster":["PutLocker"]},
+                {"german":"","english":"500 Keys","hoster":["PutLocker"]},
+                {"german":"","english":"The Ned-Liest Catch","hoster":["PutLocker"]}
+         ]
+}

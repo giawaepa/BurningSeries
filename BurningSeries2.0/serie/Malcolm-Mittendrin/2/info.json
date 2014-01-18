@@ -1,0 +1,33 @@
+{
+        "series":"Malcolm Mittendrin",
+        "seasons":7,
+        "cover":"Malcolm-Mittendrin_1bb1532f3e072d63b21fae3c0fc10a51.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Verkehrsstau","english":"Traffic Jam","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Halloween mal anders","english":"Halloween approximately","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lois Geburtstag","english":"Lois&#039;s Birthday","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein Essen unter Freunden","english":"Dinner out","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein total verkorkstes Wochenende","english":"Casino","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Erzfeind","english":"Convention","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Fliegende Ratten mit Radar","english":"Robbery","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Therapie","english":"Therapy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Sommernachtstraum","english":"High School Play","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Alpha-Idiot","english":"The Bully","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Hexe","english":"Old Mrs. Old","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Frühlingsgefühle","english":"Krelboyne Girl","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Neue Nachbarn","english":"New Neighbors","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Midlife Crisis","english":"Hal quits","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hilfe, Oma und Opa sind da","english":"The Grandparents","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Strafzettel","english":"Traffic Ticket","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Familien-Duell","english":"Surgery","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Meisterkoch","english":"Reese cooks","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schulstress","english":"Tutoring Reese","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bowling","english":"Bowling","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Malcolm gegen Reese","english":"Malcolm vs. Reese","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Mini-Bike","english":"Mini-Bike","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lügen haben kurze Beine","english":"Carnival","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Großalarm","english":"Evacuation","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schwangerschaftsalarm","english":"Flashback","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

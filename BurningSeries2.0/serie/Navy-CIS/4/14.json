@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Der Frosch",
+         "titleen":"Blowback",
+         "description":"Ein bekannter und lang gesuchter Waffenhändler fällt dem Team in die Hände. Vom ihm erfahren sie wichtige Details über einen bestimmten Handel, der viel Geld einbringen soll. Der NCIS verfolgt die Verhandlungen und als es ernst wird muss Ducky als Undercoveragent einsteigen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"3909570/Part1_Der_Frosch"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"3909922/Part2_Der_Frosch"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"3911029/Part3_Der_Frosch"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"3911427/Part4_Der_Frosch"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"35883EB345B3C9DD"
+                }
+       ]
+}

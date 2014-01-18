@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Mysteriöse Buchstaben (2)",
+         "titleen":"Episode 184",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=lBH0vZfYtxU"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5624722/Detektiv_Conan_Folge_184_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5624913/Detektiv_Conan_Folge_184_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5625024/Detektiv_Conan_Folge_184_3_3"
+                }
+       ]
+}

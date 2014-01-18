@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Frescorts",
+         "titleen":"Frescorts",
+         "description":"Die wohl bekannteste Begleitperson einer Rent-a-Friend-Agentur wird tot aufgefunden, woraufhin sich das Team auf die Suche nach dem Mörder macht. Indessen taucht Emersons Mutter Calista in der Detektei auf. Emerson liebt seine Mutter über alles und hat vor ihr keine Geheimnisse - bis auf eines: Calista weiß nicht, dass Emerson eine Tochter hat ...",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5911706/Pushing_Daisies_2x04_Part_1_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5911745/Pushing_Daisies_2x04_Part_2_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5911769/Pushing_Daisies_2x04_Part_3_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5911812/Pushing_Daisies_2x04_Part_4_4"
+                }
+       ]
+}

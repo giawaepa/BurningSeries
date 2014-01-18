@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Tödlicher Zauber (2)",
+         "titleen":"Episode 143",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=uQ6-DGJ6NT8"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5491326/Detektiv_Conan_Folge_143_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5491641/Detektiv_Conan_Folge_143_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5492197/Detektiv_Conan_Folge_143_3_3"
+                }
+       ]
+}

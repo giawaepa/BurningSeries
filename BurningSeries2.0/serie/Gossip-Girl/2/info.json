@@ -1,0 +1,33 @@
+{
+        "series":"Gossip Girl",
+        "seasons":5,
+        "cover":"Gossip-Girl_f9c8cb175a5621ae8be8f5da39d9a280.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Sommer ist vorbei","english":"Summer Kind Of Wonderful","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Lady Blair","english":"Never Been Marcused","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schmerzliche Wahrheit","english":"The Dark Night","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Ex-Akte","english":"The Ex-Files","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Fashion-Week","english":"The Serena Also Rises","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Traum von Yale","english":"New Haven Can Wait","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wer ist Chuck?","english":"Chuck In Real Life","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Pret-A-Poor-J","english":"Pret-A-Poor-J","hoster":["PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]},
+                {"german":"J. Humphrey Designs","english":"There Might Be Blood","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Happy Birthday Bass Industries","english":"Bonfire Of The Vanity","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Familiensinn","english":"The Magnificent Archibalds","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Snowflake-Ball","english":"It&#039;s A Wonderful Lie","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der verlorene Sohn","english":"O Brother, Where Bart Thou?","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Neues Jahr, neue Geheimnisse","english":"In The Realm Of The Basses","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schweres Erbe","english":"Gone With The Will","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Anfang und Ende","english":"You&#039;ve Got Yale","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Gerücht","english":"Carrnal Knowledge","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Zeit der Missklänge","english":"The Age Of Dissonance","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Großvater","english":"The Grandfather","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Sweet Sexteen","english":"Remains Of The J","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Aus der Traum","english":"Seder Anything","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Blondinen bevorzugt","english":"Southern Gentlemen Prefer Blondes","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"...Und mein ist die Rache","english":"The Wrath Of Con","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wie alles anfing","english":"Valley Girls","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Bye-bye Gossip Girl","english":"The Goodbye Gossip Girl","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]}
+         ]
+}

@@ -1,0 +1,32 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ella","english":"Locum","hoster":["PutLocker"]},
+                {"german":"Maskenmann","english":"Bullseye","hoster":["PutLocker"]},
+                {"german":"Verjährt","english":"Behave","hoster":["PutLocker"]},
+                {"german":"Kinderhandel","english":"Merchandise","hoster":["PutLocker"]},
+                {"german":"Die Tote im Brunnen","english":"Wet","hoster":["PutLocker"]},
+                {"german":"Brandzeichen","english":"Branded","hoster":["PutLocker"]},
+                {"german":"Folterkammer","english":"Trophy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Deckname Star","english":"Penetration","hoster":["PutLocker","DivxStage"]},
+                {"german":"Grauzone","english":"Gray","hoster":["PutLocker"]},
+                {"german":"","english":"Rescue","hoster":[]},
+                {"german":"","english":"Pop","hoster":[]},
+                {"german":"","english":"Possessed","hoster":[]},
+                {"german":"","english":"Mask","hoster":["PutLocker"]},
+                {"german":"","english":"Dirty","hoster":[]},
+                {"german":"","english":"Flight","hoster":[]},
+                {"german":"","english":"Spectacle","hoster":[]},
+                {"german":"","english":"Pursuit","hoster":[]},
+                {"german":"","english":"Bully","hoster":[]},
+                {"german":"","english":"Bombshell","hoster":[]},
+                {"german":"","english":"Totem","hoster":[]},
+                {"german":"","english":"Reparations","hoster":[]},
+                {"german":"","english":"Bang","hoster":[]},
+                {"german":"","english":"Delinquent","hoster":["PutLocker"]},
+                {"german":"","english":"Smoked","hoster":["PutLocker"]}
+         ]
+}

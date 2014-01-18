@@ -1,0 +1,20 @@
+{
+        "series":"V - Die Besucher",
+        "seasons":2,
+        "cover":"V-Die-Besucher_13bffc40ab79d1c87178166e602d1fe8.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Wir kommen in Frieden","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Nichts ist mehr normal","english":"There Is No Normal Anymore","hoster":["PutLocker"]},
+                {"german":"Ein strahlender Tag","english":"A Bright New Day","hoster":["PutLocker"]},
+                {"german":"Das ist nur der Anfang","english":"It s Only The Beginning","hoster":["Sockshare"]},
+                {"german":"Willkommen im Krieg","english":"Welcome To The War","hoster":["Sockshare"]},
+                {"german":"Ein Pfund Fleisch","english":"Pound of Flesh","hoster":["PutLocker"]},
+                {"german":"John May","english":"John May","hoster":["MyVideo","PutLocker"]},
+                {"german":"Wir können nicht gewinnen","english":"We Can&#039;t Win","hoster":["PutLocker"]},
+                {"german":"Die Ketzergabel","english":"Heretic&#039;s Fork","hoster":["PutLocker"]},
+                {"german":"Herz und Verstand","english":"Hearts and Minds","hoster":["PutLocker"]},
+                {"german":"Reifezeit","english":"Fruition","hoster":["PutLocker"]},
+                {"german":"Brennender Himmel","english":"Red Sky","hoster":["PutLocker"]}
+         ]
+}

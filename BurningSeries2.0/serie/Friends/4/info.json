@@ -1,0 +1,32 @@
+{
+        "series":"Friends",
+        "seasons":10,
+        "cover":"Friends_ecd9c11d4588bc6ea50e8829954d980f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Quallen-Qual","english":"The One With The Jellyfish","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die reinkarnierte Katze","english":"The One With The Cat","hoster":["PutLocker","DivxStage"]},
+                {"german":"Fesselspiele","english":"The One With The &#039;Cuffs","hoster":["PutLocker","DivxStage"]},
+                {"german":"Männertanz","english":"The One With The Ballroom Dancing","hoster":["PutLocker","DivxStage"]},
+                {"german":"Drei sind einer zuviel","english":"The One With Joey&#039;s New Girlfriend","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Veloursamt-Kaninchen","english":"The One With The Dirty Girl","hoster":["PutLocker","DivxStage"]},
+                {"german":"Verrat unter Freunden","english":"The One Where Chandler Crosses The Line","hoster":["PutLocker","DivxStage"]},
+                {"german":"Chandler in der Kiste","english":"The One With Chandler In A Box","hoster":["PutLocker","DivxStage"]},
+                {"german":"Laßt die Bären tanzen","english":"The One Where They&#039;re Going To Party!","hoster":["PutLocker","DivxStage"]},
+                {"german":"Nur ein kleines Abenteuer","english":"The One With The Girl From Poughkeepsie","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die sieben Zonen einer Frau","english":"The One With Phoebe&#039;s Uterus","hoster":["PutLocker","DivxStage"]},
+                {"german":"Alles ist relativ","english":"The One With The Embryos","hoster":["PutLocker","DivxStage"]},
+                {"german":"Graue Theorie","english":"The One With Rachel&#039;s Crush","hoster":["PutLocker","DivxStage"]},
+                {"german":"Toter Fisch stinkt!","english":"The One With Joey&#039;s Dirty Day","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hilfe, sie ist wieder da!","english":"The One With All The Rugby","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Club der Nieten!","english":"The One With The Fake Party","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Gratis-Porno","english":"The One With The Free Porn","hoster":["PutLocker","DivxStage"]},
+                {"german":"Gib dem Kind einen Namen","english":"The One With Rachel&#039;s New Dress","hoster":["PutLocker","DivxStage"]},
+                {"german":"Tausche Kuß gegen Wohung","english":"The One With All The Haste","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wild entschlossen","english":"The One With The Wedding Dresses","hoster":["PutLocker","DivxStage"]},
+                {"german":"Sie küssten und sie schlugen sich","english":"The One With The Invitations","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der beste Trauzeuge aller Zeiten","english":"The One With The Worst Best Man Ever","hoster":["PutLocker","DivxStage"]},
+                {"german":"Endlich Hochzeit? - Teil 1","english":"The One With Ross&#039;s Wedding (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Endlich Hochzeit? - Teil 2","english":"The One With Ross&#039;s Wedding (2)","hoster":["PutLocker","DivxStage"]}
+         ]
+}

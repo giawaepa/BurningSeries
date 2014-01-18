@@ -1,0 +1,21 @@
+{
+        "series":"Weeds",
+        "seasons":7,
+        "cover":"Weeds_eccc3dc026f23617b18608ae7cb24016.png",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Thwack","hoster":[]},
+                {"german":"","english":"Felling and Swamping","hoster":[]},
+                {"german":"","english":"A Yippity Sippity","hoster":[]},
+                {"german":"","english":"Bliss","hoster":[]},
+                {"german":"","english":"Boomerang","hoster":[]},
+                {"german":"","english":"A Shoe For a Shoe","hoster":[]},
+                {"german":"","english":"Pinwheels and Whirligigs","hoster":[]},
+                {"german":"","english":"Gentle Puppies","hoster":[]},
+                {"german":"","english":"To Moscow, and Quickly","hoster":[]},
+                {"german":"","english":"Dearborn-Again","hoster":[]},
+                {"german":"","english":"Viking Pride","hoster":[]},
+                {"german":"","english":"Fran Tarkenton","hoster":[]},
+                {"german":"","english":"Theoretical Love Is Not Dead","hoster":[]}
+         ]
+}

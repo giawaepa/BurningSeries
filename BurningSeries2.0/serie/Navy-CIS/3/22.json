@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Brüder",
+         "titleen":"Jeopardy",
+         "description":"Ein Drogendealer wird ins NCIS-Quartier gebracht. Als Ziva ihn mit dem Fahrstuhl nach oben bringen soll, bricht er zusammen. Der Bruder des Dealers entführt Director Shepard ? um sie wieder frei zu lassen will er nur seinen Bruder haben ?",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4150411/Part1_Brueder"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4150566/Part2_Brueder"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4150711/Part3_Brueder"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"4151098/Part4_Brueder"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"103C32BCA995330E"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"B88CAE63995EF11D"
+                }
+       ]
+}

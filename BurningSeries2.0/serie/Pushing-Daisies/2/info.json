@@ -1,0 +1,21 @@
+{
+        "series":"Pushing Daisies",
+        "seasons":2,
+        "cover":"Pushing-Daisies_a091ba90589d68af5192add925d031cd.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Betty Bienes Bienen","english":"Bzzzzzzzzz!","hoster":["MyVideo"]},
+                {"german":"Zirkus Zirkus","english":"Circus Circus","hoster":["MyVideo"]},
+                {"german":"Schwestern des göttlichen Trüffel","english":"Bad Habits","hoster":["MyVideo"]},
+                {"german":"Frescorts","english":"Frescorts","hoster":["MyVideo"]},
+                {"german":"Dim Sum-Poker","english":"Dim Sum Lose Some","hoster":["MyVideo"]},
+                {"german":"Oh, oh, oh, Zauberei","english":"Oh Oh Oh?It?s Magic","hoster":["MyVideo"]},
+                {"german":"Robbing Hood","english":"Robbing Hood","hoster":["MyVideo"]},
+                {"german":"Seelenfutter","english":"Comfort Food","hoster":["MyVideo"]},
+                {"german":"Die Diorama-Dame","english":"The Legend of Merle McQuoddy","hoster":["MyVideo"]},
+                {"german":"C.S.I. Norwegen","english":"The Norwegians","hoster":["MyVideo"]},
+                {"german":"Todschick","english":"Window Dressed to Kill","hoster":[]},
+                {"german":"Wasser und Strom","english":"Water and Power","hoster":[]},
+                {"german":"Platsch","english":"Kerplunk","hoster":["MyVideo"]}
+         ]
+}

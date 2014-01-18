@@ -1,0 +1,30 @@
+{
+        "series":"Zack &amp; Cody an Bord",
+        "seasons":3,
+        "cover":"Zack-Cody-an-Bord_1dd26793c360c2867bcc41c87aadcf12.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Schweigen ist Gold","english":"Silent Treatment","hoster":["YouTube"]},
+                {"german":"Die Geschichte einer Ratte","english":"Rat Tale","hoster":["YouTube"]},
+                {"german":"Dates mit Hindernissen","english":"So You Think You Can Date","hoster":["YouTube"]},
+                {"german":"Ein blinder Passagier","english":"My Oh Maya","hoster":["YouTube"]},
+                {"german":"Schachmatt!","english":"Das Boots","hoster":["YouTube"]},
+                {"german":"Gute Reise, Marcus!","english":"Bon Voyage","hoster":["YouTube"]},
+                {"german":"Callie, die perfekte Frau","english":"Computer Date","hoster":["YouTube"]},
+                {"german":"Die Party geht weiter","english":"Party On!","hoster":["YouTube"]},
+                {"german":"Ein Zack, zwei Termine","english":"Love and War","hoster":["YouTube"]},
+                {"german":"Ärger in Tokio","english":"Trouble in Tokyo","hoster":[]},
+                {"german":"Das Geisterschiff","english":"The Ghost and Mr. Martin","hoster":["YouTube"]},
+                {"german":"Schulschwänzertag","english":"Senior Ditch Day","hoster":["YouTube"]},
+                {"german":"Woodys Schwester","english":"My Sister&#039;s Keeper","hoster":["YouTube"]},
+                {"german":"Eingefroren","english":"Frozen","hoster":["YouTube"]},
+                {"german":"Londons Weihnachtsgeschichte","english":"A London Carol","hoster":["YouTube"]},
+                {"german":"Landgang mit Folgen Teil 1","english":"Twister ? Part One","hoster":["YouTube"]},
+                {"german":"Landgang mit Folgen Teil 2","english":"Twister ? Part Two","hoster":["YouTube"]},
+                {"german":"Landgang mit Folgen Teil 3","english":"Twister ? Part Three","hoster":[]},
+                {"german":"Liebe und Verrat","english":"The Play&#039;s the Thing","hoster":[]},
+                {"german":"Schlangenalarm!","english":"Snakes on a Boat","hoster":["YouTube"]},
+                {"german":"Der geheime Abschlussball","english":"Prom Night","hoster":["YouTube"]},
+                {"german":"Der letzte Tag","english":"Graduation on Deck","hoster":["YouTube"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Nichts als Lügen (1)",
+         "titleen":"Episode 239",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=eQJr5EpJRXI"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=1wwVnSNctvA"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5864135/Detektiv_Conan_Folge_239_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5864592/Detektiv_Conan_Folge_239_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5864873/Detektiv_Conan_Folge_239_3_3"
+                }
+       ]
+}

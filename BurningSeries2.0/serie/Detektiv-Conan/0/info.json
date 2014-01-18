@@ -1,0 +1,22 @@
+{
+        "series":"Detektiv Conan",
+        "seasons":4,
+        "cover":"Detektiv-Conan_1dbe0c24dc1acfa8d7f733a03e13565d.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Der tickende Wolkenkratzer","english":"The Time-Bombed Skyscraper","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das 14. Ziel","english":"The 14th Target","hoster":["PutLocker"]},
+                {"german":"Der Magier des letzten Jahrhunderts","english":"The Last Wizard of the Century","hoster":["PutLocker"]},
+                {"german":"Der Killer in ihren Augen","english":"Captured In Her Eyes","hoster":["PutLocker","Sockshare"]},
+                {"german":"Countdown zum Himmel","english":"Countdown to Heaven","hoster":["PutLocker"]},
+                {"german":"Das Phantom der Baker Street","english":"Phantom of Baker Street","hoster":["YouTube","PutLocker","Sockshare"]},
+                {"german":"Die Kreuzung des Labyrinths","english":"Crossroad in the Ancient Capital","hoster":["Sockshare"]},
+                {"german":"Der Magier mit den Silberschwingen","english":"Magician of the Silver Sky","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Komplott über dem Ozean","english":"Strategy Above the Depths","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Requiem der Detektive","english":"The Private Eyes&#039; Requiem","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die azurblaue Piratenflagge","english":"Jolly Roger in the Deep Azure","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Partitur des Grauens","english":"Full Score of Fear","hoster":["PutLocker"]},
+                {"german":"Der nachtschwarze Jäger","english":"The Raven Chaser","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das verlorene Schiff im Himmel","english":"The Lost Ship in the Sky","hoster":["PutLocker","Sockshare"]}
+         ]
+}

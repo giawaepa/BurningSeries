@@ -1,0 +1,21 @@
+{
+        "series":"X-Factor: Das Unfassbare",
+        "seasons":4,
+        "cover":"X-Factor-Das-Unfassbare_7841a7314b8bc90bf4a466b76dcd5431.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1","english":"Episode 1","hoster":["YouTube"]},
+                {"german":"Episode 2","english":"Episode 2","hoster":[]},
+                {"german":"Episode 3","english":"Episode 3","hoster":[]},
+                {"german":"Episode 4","english":"Episode 4","hoster":[]},
+                {"german":"Episode 5","english":"Episode 5","hoster":[]},
+                {"german":"Episode 6","english":"Episode 6","hoster":["YouTube"]},
+                {"german":"Episode 7","english":"Episode 7","hoster":["YouTube"]},
+                {"german":"Episode 8","english":"Episode 8","hoster":[]},
+                {"german":"Episode 9","english":"Episode 9","hoster":["YouTube"]},
+                {"german":"Episode 10","english":"Episode 10","hoster":[]},
+                {"german":"Episode 11","english":"Episode 11","hoster":[]},
+                {"german":"Episode 12","english":"Episode 12","hoster":[]},
+                {"german":"Episode 13","english":"Episode 13","hoster":[]}
+         ]
+}

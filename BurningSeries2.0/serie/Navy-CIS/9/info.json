@@ -1,0 +1,24 @@
+{
+        "series":"Navy CIS",
+        "seasons":9,
+        "cover":"Navy-CIS_141ca3e65244fc72f323f852248d3211.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Phantom 8","english":"Nature of the Beast","hoster":["PutLocker","DivxStage"]},
+                {"german":"Für immer jung","english":"Restless","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das ANAX Prinzip","english":"The Penelope Papers","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der unsichtbare Dritte","english":"Enemy on the Hill","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Safe Harbor","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Thirst","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Devil?s Triangle","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Engaged (I)","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Engaged (II)","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Sins of the Father","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Newborn King","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Housekeeping","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"A Desperate Man","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Life Before His Eyes","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Secrets","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Psych Out","hoster":[]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Star Wars: The Clone Wars",
+        "seasons":4,
+        "cover":"Star-Wars-The-Clone-Wars_164076794aa451946eb1a006e4e3226b.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Der Hinterhalt","english":"Ambush","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Angriff der Malevolence","english":"Rising Malevolence","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Schatten der Malevolence","english":"Shadow of Malevolence","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Zerstörung der Malevolence","english":"Destroy Malevolence","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Rekruten","english":"Rookies","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Fall eines Droiden","english":"Downfall of a Droid","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Kampf der Droiden","english":"Duel of the Droids","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Superheftig Jedi","english":"Bombad Jedi","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Im Mantel der Dunkelheit","english":"Cloak of Darkness","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"In den Fängen von Grievous","english":"Lair of Grievous","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Ergreifung des Count","english":"Dooku Captured","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Freikauf","english":"The Gungan General","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Bruchlandung","english":"Jedi Crash","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Verteidiger des Friedens","english":"Defenders of Peace","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Übergriff","english":"Trespass","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der unsichtbare Feind","english":"The Hidden Enemy","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Virus","english":"Blue Shadow Virus","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Geheimnis der Monde","english":"Mystery of a Thousand Moons","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Sturm über Ryloth","english":"Storm Over Ryloth","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Unschuldigen von Ryloth","english":"Innocents of Ryloth","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Freiheit für Ryloth","english":"Liberty on Ryloth","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Geiseldrama","english":"Hostage Crisis","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Buffy ? Im Bann der Dämonen",
+        "seasons":7,
+        "cover":"Buffy-Im-Bann-der-Daemonen_2390181eb7a9fad2f38e699ee61e40e3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Frischlinge","english":"The Freshman","hoster":["RapidVideo"]},
+                {"german":"Keine Menschenseele","english":"Living Conditions","hoster":["RapidVideo"]},
+                {"german":"Der Stein von Amara","english":"The Harsh Light of Day","hoster":["RapidVideo"]},
+                {"german":"Dämon der Angst","english":"Fear, Itself","hoster":["RapidVideo"]},
+                {"german":"Das Bier der bösen Denkungsart","english":"Beer Bad","hoster":["RapidVideo"]},
+                {"german":"Wilde Herzen","english":"Wild at Heart","hoster":["RapidVideo"]},
+                {"german":"Die Initiative","english":"The Initiative","hoster":["RapidVideo"]},
+                {"german":"Der Geist der Qumash","english":"Pangs","hoster":["RapidVideo"]},
+                {"german":"Mein Wille geschehe","english":"Something Blue","hoster":["RapidVideo"]},
+                {"german":"Das große Schweigen","english":"Hush","hoster":["RapidVideo"]},
+                {"german":"Das Opfer der Drei","english":"Doomed","hoster":["RapidVideo"]},
+                {"german":"Metamorphosen","english":"A New Man","hoster":["RapidVideo"]},
+                {"german":"Schein und Sein","english":"The I in Team","hoster":["RapidVideo"]},
+                {"german":"Die Kampfmaschine","english":"Goodbye Iowa","hoster":["RapidVideo"]},
+                {"german":"Böses Erwachen","english":"This Year&#039;s Girl","hoster":["RapidVideo"]},
+                {"german":"Im Körper des Feindes","english":"Who Are You?","hoster":["RapidVideo"]},
+                {"german":"Jonathan","english":"Superstar","hoster":["RapidVideo"]},
+                {"german":"Die Unersättlichen","english":"Where the Wild Things Are","hoster":["RapidVideo"]},
+                {"german":"Abschiede","english":"New Moon Rising","hoster":["RapidVideo"]},
+                {"german":"Der Yoko-Faktor","english":"The Yoko Factor","hoster":["RapidVideo"]},
+                {"german":"Das letzte Gefecht","english":"Primeval","hoster":["RapidVideo"]},
+                {"german":"Jedem seinen Alptraum","english":"Restless","hoster":["RapidVideo"]}
+         ]
+}

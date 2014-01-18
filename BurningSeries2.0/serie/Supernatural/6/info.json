@@ -1,0 +1,30 @@
+{
+        "series":"Supernatural",
+        "seasons":7,
+        "cover":"Supernatural_a74050852c0b23409201cbcc3b25787e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Normalität als Exil","english":"Exile on Main Street","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Zwei Jäger und ein Baby","english":"Two and a Half Men","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Der dritte Mann","english":"The Third Man","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Immer Ärger mit Bobby","english":"Weekend at Bobby&#039;s","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Vampire weinen nicht","english":"Live Free or Twihard","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Wahrheit tut weh","english":"You Can&#039;t Handle the Truth","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Familienangelegenheiten","english":"Family Matters","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Alle Hunde kommen in den Himmel","english":"All Dogs Go to Heaven","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Kleine grüne Männchen","english":"Clap if you believe","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Express in die Hölle","english":"Caged Heat","hoster":["PutLocker","Ecostream"]},
+                {"german":"Der Tod wartet in Samarra","english":"Appointment in Samarra","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wie man einen Drachen tötet","english":"Like a virgin","hoster":["PutLocker","Sockshare"]},
+                {"german":"Erbarmungslos","english":"Unforgiven","hoster":["PutLocker","Sockshare"]},
+                {"german":"Mannequin 3: Die Abrechnung","english":"Mannequin 3: The Reckoning","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The French Mistake","hoster":["PutLocker"]},
+                {"german":"","english":"And Then There Were None","hoster":["PutLocker"]},
+                {"german":"","english":"My heart will go on","hoster":["PutLocker"]},
+                {"german":"","english":"Frontierland","hoster":["PutLocker"]},
+                {"german":"","english":"Mommy Dearest","hoster":["PutLocker"]},
+                {"german":"","english":"The Man Who Would Be King","hoster":["PutLocker"]},
+                {"german":"","english":"Let It Bleed","hoster":["PutLocker"]},
+                {"german":"","english":"The Man Who Knew Too Much","hoster":["YouTube","PutLocker"]}
+         ]
+}

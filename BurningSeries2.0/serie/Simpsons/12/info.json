@@ -1,0 +1,29 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"D-D-Der G-G-Geister D-D-Dad","english":"Treehouse of Horror XI","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Geschichte der zwei Springfields","english":"A Tale of Two Springfields","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"O mein Clown Papa","english":"Insane Clown Poppy","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Lisa als Baumliebhaberin","english":"Lisa the Tree Hugger","hoster":["PutLocker","DivxStage"]},
+                {"german":"Homer und das Geschenk der Würde","english":"Homer vs. Dignity","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Mr. X und der Website-Schund","english":"The Computer Wore Menace Shoes","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das große Geldabzocken","english":"The Great Money Caper","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rektor Skinners Gespür für Schnee","english":"Skinner&#039;s Sense of Snow","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der berüchtigte Kleinhirn-Malstift","english":"HOMR","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Jack und der Rückgratzylinder","english":"Pokeymom","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die schlechteste Episode überhaupt","english":"Worst Episode Ever","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tennis mit Venus","english":"Tennis the Menace","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hallo, Du kleiner Hypnose-Mörder","english":"Day of the Jackanapes","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die sensationelle Pop-Gruppe","english":"New Kids on the Blecch","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der hungrige, hungrige Homer","english":"Hungry, Hungry Homer","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Lisa knackt den Rowdy-Code","english":"Bye, Bye, Nerdie","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Sippe auf Safari","english":"Simpson Safari","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Trilogie derselben Geschichte","english":"Trilogy of Error","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Wunder gibt es immer","english":"I&#039;m Goin&#039; to Praiseland","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Schwindler und seine Kinder","english":"Children of a Lesser Clod","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Drei unglaubliche Geschichten","english":"Simpsons Tall Tales","hoster":["PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

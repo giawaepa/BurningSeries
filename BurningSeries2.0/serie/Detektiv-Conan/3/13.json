@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Spiel mir das Lied vom Tod (2)",
+         "titleen":"Episode 195",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=pJI-Nx5CRe8"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5655946/Detektiv_Conan_Folge_195_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5656278/Detektiv_Conan_Folge_195_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5656631/Detektiv_Conan_Folge_195_3_3"
+                }
+       ]
+}

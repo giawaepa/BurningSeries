@@ -1,0 +1,21 @@
+{
+        "series":"Zurück in die Zukunft",
+        "seasons":2,
+        "cover":"Zurueck-in-die-Zukunft_f5eb15b1344dcb276c12eacbe22ed4b6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mac, der schwarze Pirat","english":"Mac The Black","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die gestohlenen Erfindungen","english":"Put On Your Thinking Caps, Kids! It&#039;s Time For Mr. Wisdom!","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Trick mit der Tinte","english":"A Friend In Deed","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verne lernt tanzen","english":"Marty McFly PFC","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vernes neuer Freund","english":"Verne&#039;s New Friend","hoster":["RapidVideo"]},
+                {"german":"Im Videospiel verschollen","english":"Bravelord And The Demon Monstrux","hoster":["RapidVideo"]},
+                {"german":"Der Geldbaum","english":"The Money Tree","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein neuer Name für Verne","english":"A Verne By Any Other Name","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Stromausfall in Hill Valley","english":"Hill Valley Brown-Out","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Invasion der Außerirdischen","english":"My Pop&#039;s A Alien","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Doc als Mega-Hirn-Mann","english":"Super Doc","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ausflug zur Weltausstellung","english":"St. Louis Blues","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Besucher aus der Urzeit","english":"Verne Hatches an Egg","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Allein gegen alle",
+         "titleen":"Episode 32",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=xveptQFOh0E"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=g1QMRI2Tke8"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4772644/Naruto_Folge_32_Part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4773163/Naruto_Folge_32_Part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4777130/Naruto_Folge_32_Part_3_3"
+                }
+       ]
+}

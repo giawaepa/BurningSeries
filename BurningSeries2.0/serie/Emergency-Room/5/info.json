@@ -1,0 +1,30 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der falsche Eindruck","english":"Day For Knight","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein echtes Naturtalent","english":"Split Second","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Pferdedoktor","english":"They Treat Horses, Don&#039;t They?","hoster":["PutLocker","Sockshare"]},
+                {"german":"Auge um Auge","english":"Vanishing Act","hoster":["PutLocker","Sockshare"]},
+                {"german":"Außer Kontrolle","english":"Masquerade","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Unzertrennlichen","english":"Stuck on You","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kind nach Wunsch","english":"Hazed and Confused","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein guter Kampf","english":"The Good Fight","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kalte Kinderwelt","english":"Good Luck, Ruth Johnson","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein Werkzeug Gottes","english":"The Miracle Worker","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wer ist Amanda Lee?","english":"Nobody Doesn&#039;t Like Amanda Lee","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die NASA ruft","english":"Double Blind","hoster":["PutLocker","Sockshare"]},
+                {"german":"Moralische Erpressung","english":"Choosing Joi","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Sturm - Teil 1","english":"The Storm (Part One)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Sturm - Teil 2","english":"The Storm (Part Two)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Am Ende der Welt","english":"Middle of Nowhere","hoster":["PutLocker","Sockshare"]},
+                {"german":"Böses Nachspiel","english":"Sticks and Stones","hoster":["PutLocker","Sockshare"]},
+                {"german":"Schmerzhafte Erinnerung","english":"Point of Origin","hoster":["PutLocker","Sockshare"]},
+                {"german":"Göttliche Fügung","english":"Rites of Spring","hoster":["PutLocker","Sockshare"]},
+                {"german":"Minuten der Dunkelheit","english":"Power","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein Feind fürs Leben","english":"Responsible Parties","hoster":["PutLocker","Sockshare"]},
+                {"german":"Überraschung","english":"Getting to Know You","hoster":["PutLocker","Sockshare"]}
+         ]
+}

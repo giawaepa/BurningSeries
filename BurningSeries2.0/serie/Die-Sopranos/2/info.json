@@ -1,0 +1,21 @@
+{
+        "series":"Die Sopranos",
+        "seasons":6,
+        "cover":"Die-Sopranos_3a285a15376f94a24caf2cba6d7ebc27.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Mann ging zum Psychiater","english":"Guy Walks Into a Psychiatrist&#039;s Office","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Beziehung ohne Wiederbelebung","english":"Do Not Resuscitate","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Richie meldet sich zurück","english":"Toodle-F***ing-Oo","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bella Italia","english":"Commendatori","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Große Mädchen weinen nicht","english":"Big Girls Don&#039;t Cry","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die große Partie","english":"The Happy Wanderer","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Patenschaften","english":"D-Girl","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schenken macht Freude","english":"Full Leather Jacket","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verflucht in alle Ewigkeit","english":"From Where to Eternity","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Mit dem Rücken zur Wand","english":"Bust Out","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hausarrest","english":"House Arrest","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein schnelles Ende","english":"Knight in White Satin Armor","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein Freund muss gehen","english":"Funhouse","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"",
+         "titleen":"Tonight, Tonight (1)",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7218892/ALF_Tonight_Tonight_1_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7219462/ALF_Tonight_Tonight_2_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7220252/ALF_Tonight_Tonight_3_5"
+                }
+       ]
+}

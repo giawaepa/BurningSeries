@@ -1,0 +1,10 @@
+{
+        "series":"Sex and the City",
+        "seasons":6,
+        "cover":"Sex-and-the-City_fd70f136f1be8ed1389274454005ddf0.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Sex and the City - Der Film","english":"","hoster":[]},
+                {"german":"Sex and the City 2","english":"Sex and the City 2","hoster":[]}
+         ]
+}

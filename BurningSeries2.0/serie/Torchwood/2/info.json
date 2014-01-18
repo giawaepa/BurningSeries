@@ -1,0 +1,21 @@
+{
+        "series":"Torchwood",
+        "seasons":4,
+        "cover":"Torchwood_8698d3d57d5131cbf2c8f45fc8c5c62b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Kiss Kiss Bang Bang","english":"Kiss Kiss, Bang Bang","hoster":["PutLocker"]},
+                {"german":"Invasion","english":"Sleeper","hoster":["PutLocker"]},
+                {"german":"Bis zum letzten Mann","english":"To the Last Man","hoster":["PutLocker"]},
+                {"german":"Fleisch","english":"Meat","hoster":["PutLocker"]},
+                {"german":"Adam","english":"Adam","hoster":["PutLocker"]},
+                {"german":"Nebenwirkungen","english":"Reset","hoster":["PutLocker"]},
+                {"german":"Untot","english":"Dead Man Walking","hoster":["PutLocker"]},
+                {"german":"Aus dem Leben eines Toten","english":"A Day in the Death","hoster":[]},
+                {"german":"Die Braut, der vor nichts graut","english":"Something Borrowed","hoster":["PutLocker"]},
+                {"german":"Sie kamen aus dem Regen","english":"From Out of the Rain","hoster":[]},
+                {"german":"Verschollen","english":"Adrift","hoster":["PutLocker"]},
+                {"german":"Offenbarungen","english":"Fragments","hoster":[]},
+                {"german":"Wundmale","english":"Exit Wounds","hoster":["PutLocker"]}
+         ]
+}

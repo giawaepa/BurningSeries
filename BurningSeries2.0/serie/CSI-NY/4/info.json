@@ -1,0 +1,29 @@
+{
+        "series":"CSI: NY",
+        "seasons":8,
+        "cover":"CSI-NY_01987587a2ebb5130440caece7c6127b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Stumme Zeugen","english":"Can You Hear Me Now?","hoster":["PutLocker"]},
+                {"german":"Abgetaucht","english":"The Deep","hoster":["PutLocker"]},
+                {"german":"Tod im Smoking","english":"You Only Die Once","hoster":["PutLocker"]},
+                {"german":"Stirb an einem anderen Tag","english":"Time&#039;s Up","hoster":["PutLocker"]},
+                {"german":"Die Venusfalle","english":"Down the Rabbit Hole","hoster":["PutLocker"]},
+                {"german":"Nacht der lebenden Toten","english":"Boo","hoster":["PutLocker"]},
+                {"german":"Racheengel","english":"Commuted Sentences","hoster":["PutLocker"]},
+                {"german":"Giftiger Cocktail","english":"Buzzkill","hoster":["PutLocker"]},
+                {"german":"Blutiges Puzzle","english":"One Wedding And A Funeral","hoster":["PutLocker"]},
+                {"german":"Zimmer 333","english":"The Thing About Heroes","hoster":["PutLocker"]},
+                {"german":"Schlechter Scherz","english":"Child&#039;s Play","hoster":["PutLocker"]},
+                {"german":"Kaltes Herz","english":"Happily Never After","hoster":["PutLocker"]},
+                {"german":"Schrot und Kern","english":"All in the Family","hoster":["PutLocker"]},
+                {"german":"Brennender Asphalt","english":"Playing With Matches","hoster":["PutLocker"]},
+                {"german":"Killer-Lady","english":"DOA for A Day","hoster":["PutLocker"]},
+                {"german":"Brandzeichen","english":"Right Next Door","hoster":["PutLocker"]},
+                {"german":"Der Schokomörder","english":"Like Water For Murder","hoster":["PutLocker"]},
+                {"german":"Abschlussball","english":"Admissions","hoster":["PutLocker"]},
+                {"german":"Böses Foul","english":"Personal Foul","hoster":["PutLocker"]},
+                {"german":"Taxi in den Tod","english":"Taxi","hoster":["PutLocker"]},
+                {"german":"Tod im Tresor","english":"Hostage","hoster":["PutLocker"]}
+         ]
+}

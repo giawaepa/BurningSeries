@@ -1,0 +1,18 @@
+{
+        "series":"Kyle XY",
+        "seasons":3,
+        "cover":"Kyle-XY_13e45f1241882a3fd62b169aa8d71068.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Geburtstag","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Schlaflos in Seattle","english":"Sleepless in Seattle","hoster":["PutLocker"]},
+                {"german":"Lügen verbindet","english":"The Lies That Bind","hoster":["PutLocker"]},
+                {"german":"Eingetaucht","english":"Diving In","hoster":["PutLocker"]},
+                {"german":"Der erste Schultag","english":"This Is Not a Test","hoster":["PutLocker"]},
+                {"german":"Die magische Zahl","english":"Blame It on the Rain","hoster":["YouTube","PutLocker"]},
+                {"german":"Die Geheimwaffe","english":"Kyle Got Game","hoster":["YouTube","PutLocker"]},
+                {"german":"Wer ist Adam Baylin?","english":"Memory Serves","hoster":["YouTube","PutLocker"]},
+                {"german":"Lauschangriff","english":"Overheard","hoster":["YouTube","PutLocker"]},
+                {"german":"Endspiel","english":"Endgame","hoster":["PutLocker"]}
+         ]
+}

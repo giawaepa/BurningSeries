@@ -1,0 +1,30 @@
+{
+        "series":"Family Guy",
+        "seasons":10,
+        "cover":"Family-Guy_1ef52f1420d3e2b6e6e4159f2a83c30a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der schmale weiße Grat","english":"The Thin White Line (1)","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Brian goes to Hollywood","english":"Brian Does Hollywood (2)","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Mr. Griffin geht nach Washington","english":"Mr. Griffin Goes to Washington","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Die Briten kommen","english":"One If By Clam, Two If By Sea","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Und den Größten hat...","english":"And the Wiener is...","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Der Tod lebt","english":"Death Lives","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Lois, die Kampfmaschine","english":"Lethal Weapons","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Wenn Frauen küssen müssen","english":"The Kiss Seen Around the World","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Der schwarze Ritter","english":"Mr. Saturday Knight","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Der dicke Mann und das Meer","english":"Fish Out of Water","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Zeugung verhindert","english":"Emission Impossible","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Lieben und sterben in Dixie","english":"To Love and Die in Dixie","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Scharfe Köter","english":"Screwed The Pooch","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Der schwarze Peter","english":"Peter Griffin: Husband, Father...Brother?","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Die Joe Swanson Story","english":"Ready, Willing, and Disabled","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Ein besonders missglücktes Weihnachten","english":"A Very Special Family Guy Freakin&#039; Christmas","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Das Schwalbennest","english":"Brian Wallows and Peter&#039;s Swallows","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Nackt durchs Leben","english":"From Method to Madness","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Eifersucht und Superkleber","english":"Stuck Together, Torn Apart","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Stewie, Brian und die Welt","english":"Road to Europe","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Family Guy Fan-Post","english":"Family Guy Viewer Mail #1","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Ein Davidstern am Himmel","english":"When You Wish Upon a Weinstein","hoster":["PutLocker","Sockshare"]}
+         ]
+}

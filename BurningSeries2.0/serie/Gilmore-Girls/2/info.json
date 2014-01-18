@@ -1,0 +1,30 @@
+{
+        "series":"Gilmore Girls",
+        "seasons":7,
+        "cover":"Gilmore-Girls_7f16155ca12e6b38d5c40963a00e8818.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Antrag","english":"Sadie, Sadie","hoster":[]},
+                {"german":"Nicht ohne meine Mutter","english":"Hammers And Veils","hoster":[]},
+                {"german":"Kalte Füße","english":"Red Light on the Wedding Night","hoster":[]},
+                {"german":"Auf und davon","english":"The Road Trip to Harvard","hoster":[]},
+                {"german":"Ein schwerer Fall","english":"Nick &amp; Nora/Sid &amp; Nancy","hoster":[]},
+                {"german":"Emily in Nöten","english":"Presenting Lorelai Gilmore","hoster":[]},
+                {"german":"Mutprobe","english":"Like Mother, Like Daughter","hoster":[]},
+                {"german":"Zukunftsträume","english":"The Ins and Outs of Inns","hoster":[]},
+                {"german":"Romeo und Julia","english":"Run Away, Little Boy","hoster":[]},
+                {"german":"Schlittenfahrt","english":"The Bracebridge Dinner","hoster":[]},
+                {"german":"Das Darlehen","english":"Secrets and Loans","hoster":[]},
+                {"german":"Vater-Tag","english":"Richard in Stars Hollow","hoster":[]},
+                {"german":"Picknick","english":"A-Tisket, A-Tasket","hoster":[]},
+                {"german":"Schlechtes Timing","english":"It Should&#039;ve Been Lorelai","hoster":[]},
+                {"german":"Trautes Heim, Stress allein","english":"Lost And Found","hoster":[]},
+                {"german":"Rivalen","english":"There&#039;s the Rub","hoster":[]},
+                {"german":"Eine Hochzeit und ein Todesfall","english":"Dead Uncles and Vegetables","hoster":[]},
+                {"german":"Auf ein Neues","english":"Back in the Saddle Again","hoster":[]},
+                {"german":"Nachhilfe","english":"Teach Me Tonight","hoster":[]},
+                {"german":"Eine Frau für alle Fälle","english":"Help Wanted","hoster":[]},
+                {"german":"Ferngesteuert","english":"Lorelai&#039;s Graduation Day","hoster":[]},
+                {"german":"Herzschmerz","english":"I Can&#039;t Get Started","hoster":[]}
+         ]
+}

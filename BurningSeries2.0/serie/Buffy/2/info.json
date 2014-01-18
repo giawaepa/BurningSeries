@@ -1,0 +1,30 @@
+{
+        "series":"Buffy ? Im Bann der Dämonen",
+        "seasons":7,
+        "cover":"Buffy-Im-Bann-der-Daemonen_2390181eb7a9fad2f38e699ee61e40e3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Im Banne des Bösen","english":"When She Was Bad","hoster":["RapidVideo"]},
+                {"german":"Operation Cordelia","english":"Some Assembly Required","hoster":["RapidVideo"]},
+                {"german":"Elternabend mit Hindernissen","english":"School Hard","hoster":["RapidVideo"]},
+                {"german":"Das Geheimnis der Mumie","english":"Inca Mummy Girl","hoster":["RapidVideo"]},
+                {"german":"Der Geheimbund","english":"Reptile Boy","hoster":["RapidVideo"]},
+                {"german":"Die Nacht der Verwandlung","english":"Halloween","hoster":["RapidVideo"]},
+                {"german":"Todessehnsucht","english":"Lie to Me","hoster":["RapidVideo"]},
+                {"german":"Das Mal des Eyghon","english":"The Dark Age","hoster":["RapidVideo"]},
+                {"german":"Die Rivalin","english":"What&#039;s My Line? (1)","hoster":["RapidVideo"]},
+                {"german":"Das Ritual","english":"What&#039;s My Line? (2)","hoster":["RapidVideo"]},
+                {"german":"Ted","english":"Ted","hoster":["RapidVideo"]},
+                {"german":"Faule Eier","english":"Bad Eggs","hoster":["RapidVideo"]},
+                {"german":"Der Fluch der Zigeuner","english":"Surprise","hoster":["RapidVideo"]},
+                {"german":"Der gefallene Engel","english":"Innocence","hoster":["RapidVideo"]},
+                {"german":"Der Werwolfjäger","english":"Phases","hoster":["RapidVideo"]},
+                {"german":"Der Liebeszauber","english":"Bewitched, Bothered And Bewildered","hoster":["RapidVideo"]},
+                {"german":"Das Jenseits lässt grüßen","english":"Passion","hoster":["RapidVideo"]},
+                {"german":"Der unsichtbare Tod","english":"Killed by Death","hoster":["RapidVideo"]},
+                {"german":"Ein Dämon namens Liebe","english":"I Only Have Eyes for You","hoster":["RapidVideo"]},
+                {"german":"Das Geheimnis der Fischmonster","english":"Go Fish","hoster":["RapidVideo"]},
+                {"german":"Wendepunkte","english":"Becoming (1)","hoster":["RapidVideo"]},
+                {"german":"Spiel mit dem Feuer","english":"Becoming (2)","hoster":["RapidVideo"]}
+         ]
+}

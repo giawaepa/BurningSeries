@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Gabe",
+         "titleen":"Pie-lette",
+         "description":"Der US-Serienhit über das Leben nach dem Tod - Ned (Lee Pace) hat eine übernatürliche Fähigkeit: Er kann durch eine Berührung Menschen wieder Leben einhauchen. So lässt er auch seine Charlotte wieder auferstehen und verliebt sich in sie. Allerdings: Sollte Ned sie nochmals berühren, würde sie erneut sterben - und zwar für immer ...",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5347135/Pushing_Daisies_1x01_Part_1_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5347207/Pushing_Daisies_1x01_Part_2_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5347267/Pushing_Daisies_1x01_Part_3_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5347332/Pushing_Daisies_1x01_Part_4_4"
+                }
+       ]
+}

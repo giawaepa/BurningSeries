@@ -1,0 +1,24 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Todesfahrt auf der Linie 834","english":"","hoster":[]},
+                {"german":"Die schwarze Witwe","english":"","hoster":["PutLocker"]},
+                {"german":"High Speed","english":"","hoster":[]},
+                {"german":"Der Rennstall","english":"","hoster":["PutLocker"]},
+                {"german":"Zwischen allen Stühlen","english":"","hoster":[]},
+                {"german":"Fieberträume","english":"","hoster":[]},
+                {"german":"Crash Kommerz","english":"","hoster":[]},
+                {"german":"Liebe bis in den Tod","english":"","hoster":[]},
+                {"german":"Tina und Aysim","english":"","hoster":["PutLocker"]},
+                {"german":"Ehrensache","english":"","hoster":["PutLocker"]},
+                {"german":"Falsches Spiel","english":"","hoster":["PutLocker"]},
+                {"german":"Doppelter Albtraum","english":"","hoster":["PutLocker"]},
+                {"german":"Feindliche Brüder","english":"","hoster":["PutLocker"]},
+                {"german":"Schmölders Traum","english":"","hoster":["PutLocker"]},
+                {"german":"Kurzes Glück","english":"","hoster":[]},
+                {"german":"Truckstop","english":"","hoster":[]}
+         ]
+}

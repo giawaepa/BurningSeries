@@ -1,0 +1,25 @@
+{
+        "series":"Lost",
+        "seasons":6,
+        "cover":"Lost_49ec17f91f9058c5bd0884ad26d418d5.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Los Angeles, Teil 1","english":"LA X (1)","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Los Angeles, Teil 2","english":"LA X (2)","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Taxi in die Freiheit","english":"What Kate Does","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Stellvertreter","english":"The Substitute","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Leuchtturm","english":"Lighthouse","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Bei Sonnenuntergang","english":"Sundown","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Dr. Linus","english":"Dr. Linus","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Kundschafter","english":"Recon","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Seit Anbeginn der Zeit","english":"Ab Aeterno","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Fracht","english":"The Package","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Bis ans Ende ihrer Tage","english":"Happily Ever After","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Alle lieben Hugo","english":"Everybody Loves Hugo","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der letzte Rekrut","english":"The Last Recruit","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Kandidat","english":"The Candidate","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Übers Meer","english":"Across the Sea","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Wofür sie gestorben sind","english":"What They Died For","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Ende","english":"The End","hoster":["PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

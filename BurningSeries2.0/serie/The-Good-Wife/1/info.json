@@ -1,0 +1,31 @@
+{
+        "series":"The Good Wife",
+        "seasons":3,
+        "cover":"The-Good-Wife_68a0b0f06b57d5a5a182c9ba3db0d5f7.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Pilot","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Die Stripperin","english":"Stripped","hoster":["PutLocker"]},
+                {"german":"Kein Weg zurück","english":"Home","hoster":["PutLocker"]},
+                {"german":"Bestechung","english":"Fixed","hoster":["PutLocker"]},
+                {"german":"Das Zugunglück","english":"Crash","hoster":["PutLocker"]},
+                {"german":"Ehepartner","english":"Conjugal","hoster":["PutLocker"]},
+                {"german":"Unorthodox","english":"Unorthodox","hoster":["PutLocker"]},
+                {"german":"Unvorbereitet","english":"Unprepared","hoster":["PutLocker"]},
+                {"german":"Der dritte Partner","english":"Threesome","hoster":["PutLocker"]},
+                {"german":"Befangen","english":"Lifeguard","hoster":["PutLocker"]},
+                {"german":"Unterstellung","english":"Infamy","hoster":["PutLocker"]},
+                {"german":"Schmerzmittel","english":"Painkiller","hoster":["PutLocker"]},
+                {"german":"Böse","english":"Bad","hoster":["PutLocker"]},
+                {"german":"Unter Beobachtung","english":"Hi","hoster":["PutLocker"]},
+                {"german":"Ins Schwarze getroffen","english":"Bang","hoster":["PutLocker"]},
+                {"german":"Flöhe","english":"Fleas","hoster":["PutLocker"]},
+                {"german":"Ein schmaler Grat","english":"Heart","hoster":["PutLocker"]},
+                {"german":"Zweifel","english":"Doubt","hoster":["PutLocker"]},
+                {"german":"Die Bombe","english":"Boom","hoster":["PutLocker"]},
+                {"german":"Scheinprozess","english":"Mock","hoster":["PutLocker"]},
+                {"german":"Ausgeschaltet","english":"Unplugged","hoster":["PutLocker"]},
+                {"german":"Unter Mordverdacht","english":"Hybristophilia","hoster":["PutLocker"]},
+                {"german":"Fluchtversuche","english":"Running","hoster":["PutLocker"]}
+         ]
+}

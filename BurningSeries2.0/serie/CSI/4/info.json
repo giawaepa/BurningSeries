@@ -1,0 +1,31 @@
+{
+        "series":"CSI: Den Tätern auf der Spur",
+        "seasons":12,
+        "cover":"CSI-Den-Taetern-auf-der-Spur_a5a70731c9e7b0fd031284dab691f885.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein sauberer Schnitt, Teil 1","english":"Assume Nothing (1)","hoster":[]},
+                {"german":"Ein sauberer Schnitt, Teil 2","english":"All for Our Country (2)","hoster":[]},
+                {"german":"Die Angst im Nacken","english":"Homebodies","hoster":[]},
+                {"german":"Hitzewelle","english":"Feeling the Heat","hoster":[]},
+                {"german":"Der pelzige Rivale","english":"Fur and Loathing","hoster":[]},
+                {"german":"Eifersucht","english":"Jackpot","hoster":[]},
+                {"german":"Gegen die Zeit","english":"Invisible Evidence","hoster":[]},
+                {"german":"Zum Sterben schön","english":"After the Show","hoster":[]},
+                {"german":"Tanz auf dem Vulkan","english":"Grissom Versus the Volcano","hoster":[]},
+                {"german":"Kinderspiele","english":"Coming of Rage","hoster":[]},
+                {"german":"Nicht schuldig","english":"Eleven Angry Jurors","hoster":[]},
+                {"german":"Der Saubermann","english":"Butterflied","hoster":[]},
+                {"german":"Blutsauger","english":"Suckers","hoster":[]},
+                {"german":"Der dritte Mann","english":"Paper or Plastic?","hoster":[]},
+                {"german":"Kaltblütig","english":"Early Rollout","hoster":[]},
+                {"german":"Tod eines Clowns","english":"Getting Off","hoster":[]},
+                {"german":"Hinter Gittern","english":"XX","hoster":[]},
+                {"german":"Blinde Wut","english":"Bad to the Bone","hoster":[]},
+                {"german":"Feuerteufel","english":"Bad Words","hoster":[]},
+                {"german":"Sport ist Mord","english":"Dead Ringer","hoster":[]},
+                {"german":"Achterbahn der Gefühle","english":"Turn of the Screws","hoster":[]},
+                {"german":"Falsches Spiel","english":"No More Bets","hoster":[]},
+                {"german":"Die Chimäre","english":"Bloodlines","hoster":[]}
+         ]
+}

@@ -1,0 +1,21 @@
+{
+        "series":"Criminal Minds: Team Red",
+        "seasons":1,
+        "cover":"Criminal-Minds-Team-Red_034f6382db8fcd491848edbe6a982241.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Geschenk","english":"Two Of A Kind","hoster":["PutLocker","DivxStage"]},
+                {"german":"Drei Züge voraus","english":"Lonely Hearts","hoster":["PutLocker","DivxStage"]},
+                {"german":"Nichts sehen, nichts hören","english":"See No Evil","hoster":["PutLocker","DivxStage"]},
+                {"german":"Nur ein Schuss","english":"One Shot Kill","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hier ist das Feuer","english":"Here is the Fire","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Henker","english":"Devotion","hoster":["PutLocker","DivxStage"]},
+                {"german":"Jane Doe","english":"Jane","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die dunkle Seite","english":"Nighthawk","hoster":["PutLocker","DivxStage"]},
+                {"german":"Mutters Liebe","english":"Smother","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Zeit ist jetzt","english":"The Time Is Now","hoster":["PutLocker","DivxStage"]},
+                {"german":"Blick in den Abgrund","english":"Strays","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die blaue Maske","english":"The Girl in the Blue Mask","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein Leben für ein Leben","english":"Death by a Thousand Cuts","hoster":["PutLocker","DivxStage"]}
+         ]
+}

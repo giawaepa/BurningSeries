@@ -1,0 +1,30 @@
+{
+        "series":"Pretender",
+        "seasons":4,
+        "cover":"Pretender_be5de66db36a1ccb7476b575a235da53html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Aus dem Reich der Toten ","english":"Back From the Dead Again ","hoster":[]},
+                {"german":"Panzerknacker ","english":"Scott Free ","hoster":[]},
+                {"german":"Schwindelnde Höhe ","english":"Over the Edge ","hoster":[]},
+                {"german":"Mode, Models und Intrigen ","english":"Exposed ","hoster":[]},
+                {"german":"Entstellt ","english":"Nip And Tuck ","hoster":[]},
+                {"german":"Zeugin der Anklage ","english":"Past Sim ","hoster":[]},
+                {"german":"Im Minenfeld ","english":"Collateral Damage ","hoster":[]},
+                {"german":"Die Feuerprobe ","english":"Toy Surprise ","hoster":[]},
+                {"german":"Tödliche Tricks ","english":"F/X ","hoster":[]},
+                {"german":"Giftmüll ","english":"Hazards ","hoster":[]},
+                {"german":"Ein Mann für gewisse Stunden ","english":"Gigolo Jarod ","hoster":[]},
+                {"german":"Vollgas ","english":"Indy Show ","hoster":[]},
+                {"german":"Ehrenwerte Gesellschaft ","english":"A Stand-Up Guy ","hoster":[]},
+                {"german":"Kaltgestellt ","english":"Unforgotten ","hoster":[]},
+                {"german":"Das Sonderkommando ","english":"Bulletproof ","hoster":[]},
+                {"german":"Stumme Zeugen ","english":"Silence ","hoster":[]},
+                {"german":"Todesflug ","english":"Crash ","hoster":[]},
+                {"german":"Showdown in der Wüste ","english":"Red Rock Jarod ","hoster":[]},
+                {"german":"Entführt ","english":"Stolen ","hoster":[]},
+                {"german":"Unter Beschuß ","english":"Bank ","hoster":[]},
+                {"german":"Blutspuren, Teil 1 ","english":"Bloodlines (1) ","hoster":[]},
+                {"german":"Blutspuren, Teil 2 ","english":"Bloodlines (2) ","hoster":[]}
+         ]
+}

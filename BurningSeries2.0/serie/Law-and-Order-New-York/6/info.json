@@ -1,0 +1,31 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mutterinstinkt","english":"Birthright","hoster":[]},
+                {"german":"Schlangenköpfe","english":"Debt","hoster":[]},
+                {"german":"Obszönitäten","english":"Obscene","hoster":[]},
+                {"german":"Platzangst","english":"Scavenger","hoster":[]},
+                {"german":"Hilfeschrei","english":"Outcry","hoster":[]},
+                {"german":"Gewissenlos","english":"Conscience","hoster":[]},
+                {"german":"Hybris","english":"Charisma","hoster":[]},
+                {"german":"Zweifel","english":"Doubt","hoster":[]},
+                {"german":"Minderwertigkeitskomplex","english":"Weak","hoster":[]},
+                {"german":"Wiedergutmachung","english":"Haunted","hoster":[]},
+                {"german":"Falschaussagen","english":"Contagious","hoster":[]},
+                {"german":"Identität","english":"Identity","hoster":[]},
+                {"german":"Verdacht","english":"Quarry","hoster":[]},
+                {"german":"Realitätsverlust","english":"Game","hoster":[]},
+                {"german":"Verleitet","english":"Hooked","hoster":[]},
+                {"german":"Geist","english":"Ghost","hoster":[]},
+                {"german":"Wut","english":"Rage","hoster":[]},
+                {"german":"Unberührt","english":"Pure","hoster":[]},
+                {"german":"Muttermord","english":"Intoxicated","hoster":[]},
+                {"german":"Familienehre","english":"Night (1)","hoster":[]},
+                {"german":"Blutsbande","english":"Blood","hoster":[]},
+                {"german":"Organe","english":"Parts","hoster":[]},
+                {"german":"Nebenwirkungen","english":"Goliath","hoster":[]}
+         ]
+}

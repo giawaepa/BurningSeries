@@ -1,0 +1,26 @@
+{
+        "series":"The Defenders",
+        "seasons":1,
+        "cover":"The-Defenders_4368cd11120fd36ee32d8aeb1f55a3dc.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Staatsanwälte küsst man nicht","english":"Pilot","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Ergaunertes Geld","english":"Las Vegas v. Reid","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Drehbuch der Fantasie","english":"Nevada v. Carter","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]},
+                {"german":"Das Leben eines High-Rollers","english":"Nevada v. Cerrato","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Senator unter Anklage","english":"Nevada v. Senator Harper","hoster":["PutLocker","BitShare"]},
+                {"german":"Der Elvis-Raub","english":"Nevada v. Rodgers","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Black Betty","english":"Las Vegas v. Johnson","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Killa Diz","english":"Nevada v. Killa Diz","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Das ist Magie","english":"Whitten v. Fenlee","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Rettet den Bären","english":"Nevada v. Dennis","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Sport ist Mord","english":"Nevada v. Riley","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Hinter der Maske","english":"Nevada v. Wayne","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Donnie der Buchhalter","english":"Nevada v. Donnie The Numbers Guy","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Drogenschmuggel","english":"Nevada v. Doug The Mule","hoster":["PutLocker","BitShare"]},
+                {"german":"Richter Hunter","english":"Nevada v. Hunter","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Die falsche Ampulle","english":"Noland v. Galloway Pharmaceuticals","hoster":[]},
+                {"german":"Der Showprozess","english":"Nevada v. Greene","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Morelli versus Kaczmarek","english":"Morelli v. Kaczmarek","hoster":["PutLocker","Sockshare","BitShare"]}
+         ]
+}

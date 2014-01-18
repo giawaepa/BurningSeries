@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Platsch",
+         "titleen":"Kerplunk",
+         "description":"Die Vergangenheit holt die Darling Meerjungfrauen ein, als ihre Rivalinnen, die Aquadolls, ermordet werden. Um den Mörder zu finden, müssen Lily und Vivian aus ihrer Versenkung auftauchen und versuchen, mit Ned als Manager und Olive als Stylistin dem Mörder auf die Schliche zu kommen. Olive kommt dabei Sidwith näher, der diskriminiert wird, da er ein männlicher Synchronschwimmer ist. Doch welche Beziehung hat Sid zu den Aquadolls, und ist er vielleicht der Mörder?",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6121313/Pushing_Daisies_2x13_Part_1_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6121458/Pushing_Daisies_2x13_Part_2_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6121703/Pushing_Daisies_2x13_Part_3_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"6283370/Pushing_Daisies_2x13_Part_4_4"
+                }
+       ]
+}

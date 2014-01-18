@@ -1,0 +1,16 @@
+{
+        "series":"Hausmeister Krause",
+        "seasons":8,
+        "cover":"Hausmeister-Krause_ee4628169cc6aaba3cd245b263b75349.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Grizzly","english":"","hoster":[]},
+                {"german":"Scheintod","english":"","hoster":["PutLocker"]},
+                {"german":"Der Richterstuhl","english":"","hoster":[]},
+                {"german":"Dötzi der Urdackel","english":"","hoster":["PutLocker"]},
+                {"german":"Der Pate","english":"","hoster":["PutLocker"]},
+                {"german":"Der Killerkomet","english":"","hoster":[]},
+                {"german":"Tanz der Teufel","english":"","hoster":["PutLocker"]},
+                {"german":"Samenraub","english":"","hoster":[]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Nejis Schwachpunkt",
+         "titleen":"Episode 117",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4878354/Naruto_Folge_117_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4879169/Naruto_Folge_117_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4879306/Naruto_Folge_117_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"8B5461CCDF1F25FD"
+                }
+       ]
+}

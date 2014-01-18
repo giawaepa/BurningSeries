@@ -1,0 +1,17 @@
+{
+        "series":"Dragonball Z",
+        "seasons":10,
+        "cover":"Dragonball-Z_7d6ce1eb7a20cddb926ffffe5d01bb68.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Garlic Jr. kehrt zurück","english":"Episode 108","hoster":["PutLocker"]},
+                {"german":"Der Teufelsdampf","english":"Episode 109","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Geschöpfe des Bösen","english":"Episode 110","hoster":["PutLocker"]},
+                {"german":"Nicht mehr viel Zeit","english":"Episode 111","hoster":["PutLocker"]},
+                {"german":"Piccolo - Freund oder Feind?","english":"Episode 112","hoster":["PutLocker"]},
+                {"german":"Die sieben Weltströme","english":"Episode 113","hoster":["PutLocker"]},
+                {"german":"Gotts Wettlauf mit der Zeit","english":"Episode 114","hoster":["PutLocker"]},
+                {"german":"Mit letztem Einsatz","english":"Episode 115","hoster":["PutLocker"]},
+                {"german":"Zurück in die Dead Zone","english":"Episode 116","hoster":["PutLocker"]}
+         ]
+}

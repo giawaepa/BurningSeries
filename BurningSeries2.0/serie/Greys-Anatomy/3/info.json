@@ -1,0 +1,33 @@
+{
+        "series":"Greys Anatomy",
+        "seasons":8,
+        "cover":"Greys-Anatomy_f235f0fb485b9c44061fc1bf7bd65edchtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Alle Zeit der Welt","english":"Time has Come today","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Genug Muffins","english":"I&#039;m a Tree","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Fantasie","english":"Sometimes a Fantasy","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Man ist, was man ist","english":"What I Am","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schuldgefühle","english":"Oh, the Guilt","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Von Schweinen und Hühnern","english":"Let the Angels commit","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Unter Männern","english":"Where the Boys are","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Der blinde Fleck","english":"Staring at the Sun","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Verrat","english":"From a Whisper to a Scream","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die richtige Distanz","english":"Don&#039;t stand so close to Me","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Vater-Syndrom","english":"Six Days (1)","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die große Stille","english":"Six Days (2)","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Hohe Erwartungen","english":"Great Expectations","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Toxisch","english":"Wishin&#039; and Hopin&#039;","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Katastrophenalarm","english":"Walk on Water","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Verschwunden","english":"Drowning on dry Land","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Tot","english":"Some Kind of Miracle","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Alte Wunden","english":"Scars and Souvenirs","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Alles nach Plan","english":"My favorite Mistake","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Von der Vergangenheit eingeholt","english":"Time after Time","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Verlangen","english":"Desire","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Die andere Seite des Lebens (1)","english":"The Other Side of this Life (1)","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Die andere Seite des Lebens (2)","english":"The Other Side of this Life (2)","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Der Test","english":"Testing 1-2-3","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed"]},
+                {"german":"Fast am Ziel","english":"Didn&#039;t we almost have it all","hoster":["MyVideo","PutLocker","Sockshare","DivxStage","BitShare","VideoWeed","UploadC"]}
+         ]
+}

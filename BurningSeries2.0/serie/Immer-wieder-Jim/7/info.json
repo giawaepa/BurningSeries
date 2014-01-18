@@ -1,0 +1,26 @@
+{
+        "series":"Immer wieder Jim",
+        "seasons":8,
+        "cover":"Immer-wieder-Jim_e97064bc1cd1f073436d59cb3f2bf1fa.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Gottes Werk und Jims Beitrag","english":"Jim Almighty","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Reizende Cheryl","english":"The Hot Wife","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Joggen kann gefährlich sein!","english":"Safety Last","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Friede ohne Worte","english":"The Perfect Fight","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Hausfrauenrallye","english":"Cheryl Goes to Florida","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Rubys erstes Date","english":"Ruby&#039;s First Date","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Hühnchenkampf","english":"Period Peace","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das Rendezvous","english":"The Rendezvous","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Eine Spende für die Armen","english":"Goodwill Hunting","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Puppenschlacht","english":"All Dolled Up","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Schwangerschafts-Blödheit","english":"Pregnancy Brain","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das besondere Geburtstagsgeschenk","english":"The Gift Certificate","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das Tribunal","english":"I Drink Your Milkshake","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Jim als Babysitter","english":"The Chaperone","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Sechs-Wochen-Fluch","english":"The Six-Week Curse","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Jim ärgere dich nicht","english":"The Cheater","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Bettruhe verboten!","english":"No Bedrest for the Wicked","hoster":["PutLocker","DivxStage"]},
+                {"german":"Jim und der Prinz der Finsternis","english":"The Devil Went Down to Oak Park","hoster":["PutLocker","DivxStage"]}
+         ]
+}

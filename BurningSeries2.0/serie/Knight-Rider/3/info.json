@@ -1,0 +1,30 @@
+{
+        "series":"Knight Rider",
+        "seasons":4,
+        "cover":"Knight-Rider_9188b0ea252ebce4c306fb51cc8d4f12.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Ein geheimnisvoller Roboter (Teil 1)","english":"Knight Of The Drones (1)","hoster":["PutLocker"]},
+                {"german":"Ein geheimnisvoller Roboter (Teil 2)","english":"Knight Of The Drones (2)","hoster":["PutLocker"]},
+                {"german":"Das zweite Gesicht","english":"The Ice Bandits","hoster":["PutLocker"]},
+                {"german":"Fahrerflucht","english":"Knights Of The Fast Lane","hoster":["PutLocker"]},
+                {"german":"Tödliches Kostümfest","english":"Halloween Knight","hoster":["PutLocker"]},
+                {"german":"Der schwarze Teufel taucht wieder auf","english":"K.I.T.T. Vs. K.A.R.R.","hoster":["PutLocker"]},
+                {"german":"Viehdiebe ? der gemeine Apfel","english":"The Rotten Apples","hoster":["PutLocker"]},
+                {"german":"Michael fällt in Ungnade","english":"Knight In Disgrace","hoster":["YouTube","PutLocker"]},
+                {"german":"Tödliche Orchideen","english":"Dead Of Knight","hoster":["PutLocker"]},
+                {"german":"K.I.T.T. kriegt einen Schlag","english":"Lost Knight","hoster":["PutLocker"]},
+                {"german":"Das Chamäleon","english":"Knight Of The Chameleon","hoster":["PutLocker"]},
+                {"german":"Mord nach Maß","english":"Custom Made Killer","hoster":["PutLocker"]},
+                {"german":"Eine Nasenlänge voraus","english":"Knight By A Nose","hoster":["PutLocker"]},
+                {"german":"Eine schreckliche Falle","english":"Junk Yard Dog","hoster":["PutLocker"]},
+                {"german":"Der Konkurs","english":"Buy Out","hoster":["PutLocker"]},
+                {"german":"Ein Neubau mit Wanzen","english":"Knightlines","hoster":["PutLocker"]},
+                {"german":"Das 19. Loch","english":"The Nineteenth Hole","hoster":["PutLocker"]},
+                {"german":"Elliott, der Schlaukopf","english":"Knight And Knerd","hoster":["PutLocker"]},
+                {"german":"Shatners Komplott","english":"Ten Wheel Trouble","hoster":["PutLocker"]},
+                {"german":"Michael Knight und die Zuflucht","english":"Knight In Retreat","hoster":["YouTube","PutLocker"]},
+                {"german":"Die Waffenbörse","english":"Knight Strike","hoster":["PutLocker"]},
+                {"german":"Der Tod unter der Zirkuskuppel","english":"Circus Knights","hoster":["PutLocker"]}
+         ]
+}

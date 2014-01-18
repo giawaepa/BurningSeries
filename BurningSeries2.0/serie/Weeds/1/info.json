@@ -1,0 +1,18 @@
+{
+        "series":"Weeds",
+        "seasons":7,
+        "cover":"Weeds_eccc3dc026f23617b18608ae7cb24016.png",
+        "movies":false,
+        "episodes":[
+                {"german":"Bärenjagd","english":"You Can&#039;t Miss the Bear","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Welche Ziege?","english":"Free Goat","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Viele bunte Lollies","english":"Good Shit Lollipop","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Was würde Jesus tun?","english":"Fashion of the Christ","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Foxy Lady","english":"Lude Awakening","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Dschungelfieber","english":"Dead in the Nethers","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Alles für die Bildung","english":"Higher Education","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Penny rollt","english":"The Punishment Light","hoster":["YouTube","PutLocker"]},
+                {"german":"Feuerteufel","english":"The Punishment Lighter","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Patin","english":"The Godmother","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

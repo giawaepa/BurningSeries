@@ -1,0 +1,24 @@
+{ 
+         "titlede":"",
+         "titleen":"Beauty and the Beac",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"2623944/Pokemon_Folge_18_Beauty_and_the_Beach_1_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"2624140/Pokemon_Folge_18_Beauty_and_the_Beach_2_2"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"6B69CF50D91F45A6"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"98DA63B6D009BD32"
+                }
+       ]
+}

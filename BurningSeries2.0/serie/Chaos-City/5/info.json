@@ -1,0 +1,31 @@
+{
+        "series":"Chaos City",
+        "seasons":6,
+        "cover":"Chaos-City_1ad3cd7b69a489f93e37c45bd58a219d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Hallo, Charlie","english":"Hello Charlie","hoster":[]},
+                {"german":"Keep Smiling","english":"Smile","hoster":[]},
+                {"german":"Der Musterschüler","english":"The Spanish Prisoner","hoster":[]},
+                {"german":"Einmal im Rampenlicht","english":"The Bone Collectors","hoster":[]},
+                {"german":"Nachhilfe mit Folgen","english":"Blind Faith","hoster":[]},
+                {"german":"Die Thanksgiving-Parade","english":"Balloons Over Broadway","hoster":[]},
+                {"german":"Der Trip nach New Orleans","english":"Lost And Found","hoster":[]},
+                {"german":"Squash für Fortgeschrittene","english":"All The Wrong Moves","hoster":[]},
+                {"german":"Der Burger-Meister","english":"The Burgers Of Wrath","hoster":[]},
+                {"german":"Heißer Schnee","english":"Toy Story","hoster":[]},
+                {"german":"Positives Denken","english":"The Perfect Dorm","hoster":[]},
+                {"german":"Liebe macht blind","english":"Hey Judith","hoster":[]},
+                {"german":"Der Spieler","english":"The Gambler","hoster":[]},
+                {"german":"Traumtypen","english":"In The Company Of Dudes","hoster":[]},
+                {"german":"Image ist alles","english":"The Image Maker","hoster":[]},
+                {"german":"Schluss mit lustig!","english":"Trainstopping","hoster":[]},
+                {"german":"Beste Beziehungen","english":"Rain On My Charades","hoster":[]},
+                {"german":"Allein unter Männern","english":"You&#039;ve Got Male","hoster":[]},
+                {"german":"Die Chance seines Lebens","english":"Minor League","hoster":[]},
+                {"german":"Liebesgrüße aus dem All","english":"Science Fiction","hoster":[]},
+                {"german":"Hahnenkampf","english":"Brotherly Love","hoster":[]},
+                {"german":"Unter Beschuss","english":"A Shot In The Dark, Part 1","hoster":[]},
+                {"german":"Alte Freunde","english":"A Shot In The Dark, Part 2","hoster":[]}
+         ]
+}

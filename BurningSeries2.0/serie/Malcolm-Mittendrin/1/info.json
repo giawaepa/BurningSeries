@@ -1,0 +1,24 @@
+{
+        "series":"Malcolm Mittendrin",
+        "seasons":7,
+        "cover":"Malcolm-Mittendrin_1bb1532f3e072d63b21fae3c0fc10a51.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Malcolm, der Held","english":"Pilot","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Lois sieht rot","english":"Red Dress","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Allein zu Haus","english":"Home Alone 4","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gewissensbisse","english":"Shame","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eine fast perfekte Familie","english":"Malcolm babysits","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Ausreißer","english":"Sleepover","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Francis auf der Flucht","english":"Francis escapes","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Begabten-Chaos","english":"Krelboyne Picnic","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ohne Moos nichts los","english":"Lois vs. Evil","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Stock-Car-Rennen","english":"Stock Car Races","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Sündenbock","english":"Funeral","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Cheerleader","english":"Cheerleader","hoster":["RapidVideo"]},
+                {"german":"Rollerskates","english":"Rollerskates","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Killer-Roboter","english":"The Bots and the Bees","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Immer wieder Sonntag","english":"Smunday","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wasserspiele","english":"Water Park","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Episode 1",
+         "titleen":"",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5177746/Switch_Reloaded_Staffel_3_Folge_1_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5177891/Switch_Reloaded_Staffel_3_Folge_1_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5178095/Switch_Reloaded_Staffel_3_Folge_1_3_3"
+                }
+       ]
+}

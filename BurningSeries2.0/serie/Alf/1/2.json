@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Nacht, in der die Pizza kam",
+         "titleen":"Strangers In The Night",
+         "description":"Mutter Kate hat die Nachbarin, Mrs. Ochmonek, als Babysitter für Brian ins Haus gebeten. Alf hat versprochen, sich versteckt zu halten. Aber er möchte so gern fernsehen und hat großen Hunger.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6583426/ALF_S01E02_Part_1_3_Die_Nacht_in_der_die_Pizza_kam"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6585332/ALF_S01E02_Part_2_3_Die_Nacht_in_der_die_Pizza_kam"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6587678/ALF_S01E02_Part_3_3_Die_Nacht_in_der_die_Pizza_kam"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"6ADCD5EC77C886BF"
+                }
+       ]
+}

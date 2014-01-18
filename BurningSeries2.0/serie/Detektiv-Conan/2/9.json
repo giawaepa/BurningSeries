@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Das Spukhaus der Goblins (2)",
+         "titleen":"Episode 111",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=R9v2UdVL74Q"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5389531/Detektiv_Conan_Folge_111_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5389857/Detektiv_Conan_Folge_111_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5390175/Detektiv_Conan_Folge_111_3_3"
+                }
+       ]
+}

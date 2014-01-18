@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Das Geheimnis, das geheim bleiben wird?",
+         "titleen":"Episode 101",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6288486/Naruto_Folge_101_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6288549/Naruto_Folge_101_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6288608/Naruto_Folge_101_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"17DBEE953F647387"
+                }
+       ]
+}

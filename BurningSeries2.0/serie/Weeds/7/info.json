@@ -1,0 +1,21 @@
+{
+        "series":"Weeds",
+        "seasons":7,
+        "cover":"Weeds_eccc3dc026f23617b18608ae7cb24016.png",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Bags","hoster":["PutLocker"]},
+                {"german":"","english":"From Trauma Cometh Something","hoster":["PutLocker"]},
+                {"german":"","english":"Game-Played","hoster":["PutLocker"]},
+                {"german":"","english":"A Hole in Her Niqab","hoster":["PutLocker"]},
+                {"german":"","english":"Fingers Only Meat Banquet","hoster":["PutLocker"]},
+                {"german":"","english":"Object Impermanence","hoster":["PutLocker"]},
+                {"german":"","english":"Playing With Fire!","hoster":["PutLocker"]},
+                {"german":"","english":"Synthetics","hoster":["PutLocker"]},
+                {"german":"","english":"Cats! Cats! Cats!","hoster":["PutLocker"]},
+                {"german":"","english":"System Overhead","hoster":["PutLocker"]},
+                {"german":"","english":"Une Mère Que J&#039;aimerais Baiser","hoster":["PutLocker"]},
+                {"german":"","english":"Qualitative Spatial Reasoning","hoster":["PutLocker"]},
+                {"german":"","english":"Do Her/Don?t Do Her","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,21 @@
+{
+        "series":"Boston Legal",
+        "seasons":5,
+        "cover":"Boston-Legal_b9c234cb27a3f4de023d2a52a7df4c73.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Rauchzeichen","english":"Smoke Signals","hoster":[]},
+                {"german":"Überdosis","english":"Guardians and Gatekeepers","hoster":[]},
+                {"german":"Jagdsaison","english":"Dances With Wolves","hoster":[]},
+                {"german":"Mitten ins Herz","english":"True Love","hoster":[]},
+                {"german":"Geschwisterliebe","english":"The Bad Seed","hoster":[]},
+                {"german":"Wild im Westen","english":"Happy Trails","hoster":[]},
+                {"german":"Rinderwahn","english":"Mad Cows","hoster":[]},
+                {"german":"Glaubenskrieg","english":"Roe","hoster":[]},
+                {"german":"Hinrichtung","english":"Kill Baby, Kill","hoster":[]},
+                {"german":"Thanksgiving","english":"Thanksgiving","hoster":[]},
+                {"german":"Auf Droge","english":"Juiced","hoster":[]},
+                {"german":"Feindliche Übernahme (1)","english":"Made in China (1)","hoster":[]},
+                {"german":"Kuss und Schluss (2)","english":"Last Call (2)","hoster":[]}
+         ]
+}

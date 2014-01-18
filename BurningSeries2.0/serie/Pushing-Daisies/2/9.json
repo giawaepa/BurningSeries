@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Diorama-Dame",
+         "titleen":"The Legend of Merle McQuoddy",
+         "description":"Charles Charles, Chucks Vater, wird immer mehr zum Problem. Anfänglich scheint Chuck den Konflikt zwischen ihm und Ned ganz locker zu nehmen, bis Charles seine Tochter vor die Wahl stellt - Ned oder er ... Währenddessen arbeiten Olive und Emerson an dem Mordfall von Nora McQuoddy - ein Fall der weit größere Kreise zieht, als anfangs angenommen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6030815/Pushing_Daisies_2x09_Part_1_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6030883/Pushing_Daisies_2x09_Part_2_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6031139/Pushing_Daisies_2x09_Part_3_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"6031247/Pushing_Daisies_2x09_Part_4_4"
+                }
+       ]
+}

@@ -1,0 +1,28 @@
+{
+        "series":"Battlestar Galactica",
+        "seasons":4,
+        "cover":"Battlestar-Galactica_19e85954f3a2b7522194ce3f0b1a0c8d.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Die verlorene Flotte","english":"Scattered (1)","hoster":["PutLocker"]},
+                {"german":"Im Tal der Finsternis","english":"Valley of Darkness","hoster":["PutLocker"]},
+                {"german":"Die Gesetze des Krieges","english":"Fragged","hoster":["PutLocker"]},
+                {"german":"Leben und Sterben","english":"Resistance","hoster":[]},
+                {"german":"Die Farm","english":"The Farm","hoster":["PutLocker"]},
+                {"german":"Heimat, Teil 1","english":"Home: Part 1","hoster":["PutLocker"]},
+                {"german":"Heimat, Teil 2","english":"Home: Part 2","hoster":["PutLocker"]},
+                {"german":"Die Reporterin","english":"Final Cut","hoster":["PutLocker"]},
+                {"german":"Die Hoffung lebt","english":"Flight of the Phoenix","hoster":["PutLocker"]},
+                {"german":"Pegasus","english":"Pegasus","hoster":["PutLocker"]},
+                {"german":"Die Auferstehung, Teil 1","english":"Resurrection Ship, Part 1","hoster":[]},
+                {"german":"Die Auferstehung, Teil 2","english":"Resurrection Ship, Part 2","hoster":["PutLocker"]},
+                {"german":"Sabotage","english":"Epiphanies","hoster":["PutLocker"]},
+                {"german":"Schwarzmarkt","english":"Black Market","hoster":["PutLocker"]},
+                {"german":"Der beste Jäger der Zylonen","english":"Scar","hoster":[]},
+                {"german":"Das Opfer","english":"Sacrifice","hoster":["PutLocker"]},
+                {"german":"Mensch und Maschine","english":"The Captain&#039;s Hand","hoster":["PutLocker"]},
+                {"german":"Download","english":"Downloaded","hoster":["PutLocker"]},
+                {"german":"Das neue Caprica, Teil 1","english":"Lay Down Your Burdens, Part 1","hoster":["PutLocker"]},
+                {"german":"Das neue Caprica, Teil 2","english":"Lay Down Your Burdens, Part 2","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"CSI: Den Tätern auf der Spur",
+        "seasons":12,
+        "cover":"CSI-Den-Taetern-auf-der-Spur_a5a70731c9e7b0fd031284dab691f885.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Bombenalarm in Las Vegas","english":"Shock Waves","hoster":["PutLocker","DivxStage"]},
+                {"german":"Solange es Haie gibt","english":"Pool Shark","hoster":["PutLocker","DivxStage"]},
+                {"german":"Biss zum Mord","english":"Blood Moon","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wer ist Sqweegel?","english":"Sqweegel","hoster":["PutLocker"]},
+                {"german":"Vom Suchen und Finden der Leichen","english":"House of Hoarders","hoster":["PutLocker","DivxStage"]},
+                {"german":"Opfer der Vergangenheit","english":"Cold Blooded","hoster":["PutLocker","DivxStage"]},
+                {"german":"Venusmuscheln à la Card","english":"Bump and Grind","hoster":["PutLocker","DivxStage"]},
+                {"german":"Pesthauch des Todes","english":"Fracked","hoster":["PutLocker","DivxStage"]},
+                {"german":"Friedhof der kuschelnden Tiere","english":"Wild Life","hoster":["PutLocker"]},
+                {"german":"Stadt der verlorenen Kinder","english":"418/427","hoster":["PutLocker"]},
+                {"german":"Verschwendeter Mut","english":"Man Up","hoster":["PutLocker"]},
+                {"german":"Nächte der Burleque","english":"A Kiss Before Frying","hoster":["PutLocker"]},
+                {"german":"Die zwei Mrs. Grissoms","english":"The Two Mrs. Grissoms","hoster":["PutLocker"]},
+                {"german":"Asche ins Haupt","english":"All That Remains","hoster":["PutLocker"]},
+                {"german":"","english":"Targets of Obsession","hoster":["PutLocker"]},
+                {"german":"","english":"Turn On, Tune In, Drop Dead","hoster":["PutLocker"]},
+                {"german":"","english":"The List","hoster":["PutLocker"]},
+                {"german":"","english":"Hitting for the Cycle","hoster":["PutLocker"]},
+                {"german":"","english":"Unleashed","hoster":["PutLocker"]},
+                {"german":"","english":"Father of the Bride","hoster":["PutLocker"]},
+                {"german":"","english":"Cello and Goodbye","hoster":["PutLocker"]},
+                {"german":"","english":"In a Dark, Dark House","hoster":["PutLocker"]}
+         ]
+}

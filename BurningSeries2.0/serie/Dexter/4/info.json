@@ -1,0 +1,20 @@
+{
+        "series":"Dexter",
+        "seasons":6,
+        "cover":"Dexter_e97f436efe89e3a3de52918566ece733.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Lebe Deinen Traum","english":"Living the Dream","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Hängepartie","english":"Remains to Be Seen","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Vandalenjagd","english":"Blinded By the Light","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Sucht nach Freiheit","english":"Dex Takes a Holiday","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Dirty Harry","english":"Dirty Harry","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Familienväter","english":"If I Had a Hammer","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"	Models, Morde, Missverständnisse","english":"Slack Tide","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Bereuen ist menschlich","english":"Road Kill","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Das Fest der Dankbarkeit","english":"Hungry Man","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Die Unschuld eines Kindes","english":"Lost Boys","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Hallo, Dexter Morgan","english":"Hello, Dexter Morgan","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]},
+                {"german":"Die Schlinge zieht sich zu","english":"The Getaway","hoster":["PutLocker","Sockshare","DivxStage","Ecostream"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Urgo",
+         "titleen":"Urgo",
+         "description":"O&#039;Neill und seine Leute wollen auf einen Paradiesplaneten reisen, landen stattdessen aber wieder in der Stargate-Basis. Als sie erfahren, dass sie 15 Stunden unterwegs waren, ist die Aufregung groß. Dr. Fraiser untersucht das Team und findet Mikrochips in den Gehirnen, die sie nicht entfernen kann. Plötzlich hört das gesamte Team eine rätselhafte Stimme.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6850133/Stargate_SG_1_Season_3_Folge_16_Urgo_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6860203/Stargate_SG_1_Season_3_Folge_16_Urgo_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7027945/Stargate_SG_1_Season_3_Folge_16_Urgo_part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7028030/Stargate_SG_1_Season_3_Folge_16_Urgo_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"2052F083229FF724"
+                }
+       ]
+}

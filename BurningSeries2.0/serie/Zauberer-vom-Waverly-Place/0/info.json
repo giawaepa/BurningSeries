@@ -1,0 +1,9 @@
+{
+        "series":"Die Zauberer vom Waverly Place",
+        "seasons":4,
+        "cover":"Die-Zauberer-vom-Waverly-Place_0d88dca953212894fd04bfa22d72954f.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Die Zauberer vom Waverly Place ? Der Film","english":"Wizards of Waverly Place: The Movie","hoster":["MyVideo"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{
+        "series":"Entourage",
+        "seasons":8,
+        "cover":"Entourage_bf0bdac8ab078439059a825957b1c9b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Star wird geboren","english":"Aquamom","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein Tag im St. Fernando Valley","english":"One Day in the Valley","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Alte Freunde","english":"Dominated","hoster":["PutLocker"]},
+                {"german":"Shrek in der Morgenstunde","english":"Guys and Doll","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Crash and Burn","english":"Crash and Burn","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zu hoch gepokert","english":"Three&#039;s Company","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sex und andere Gefühllosigkeiten","english":"Strange Days","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Auf zu neuen Ufern","english":"The Release","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vegas, Baby, Vegas","english":"Vegas, Baby, Vegas","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eine Punkband aus Queens","english":"I Wanna Be Sedated","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Was ist mit Bob?","english":"What About Bob?","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tut mir Leid, Ari","english":"Sorry, Ari","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Geburtstag","english":"Less Than 30","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Ausflug","english":"Dog Day Afternoon","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verrückter Montag","english":"Manic Monday","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Reingelegt","english":"Gotcha","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Rückkehr des Königs","english":"Return of the King","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Auferstehung","english":"The Resurrection","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Braut des Prinzen","english":"The Prince&#039;s Bride","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Adios Amigos","english":"Adios Amigos","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Das Golfturnier / Mikey und Kurst",
+         "titleen":"The Principals of Golf / Kurst the Not so Bad",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=UMch9puT21M"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=0-olr7GPXIA"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6488519/Disneys_Grosse_Pause_Episode_123_Das_Golfturnier"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6488044/Disneys_Grosse_Pause_Episode_124_Mikey_und_Kurst"
+                }
+       ]
+}

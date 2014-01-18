@@ -1,0 +1,9 @@
+{
+        "series":"Prison Break",
+        "seasons":4,
+        "cover":"Prison-Break_1f2df02c26805c40ef09a6df7b5115b6.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Prison Break The Final Break","english":"Prison Break The Final Break","hoster":[]}
+         ]
+}

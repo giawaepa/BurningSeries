@@ -1,0 +1,20 @@
+{
+        "series":"Royal Pains",
+        "seasons":3,
+        "cover":"Royal-Pains_d7a42bf21454fc4d9aeb0ac4fb1717a4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Traffic","hoster":["PutLocker"]},
+                {"german":"","english":"But There&#039;s a Catch","hoster":["PutLocker"]},
+                {"german":"","english":"Rash Talk","hoster":["PutLocker"]},
+                {"german":"","english":"The Shaw/Hank Redemption","hoster":["PutLocker"]},
+                {"german":"","english":"A Man Called Grandpa","hoster":["PutLocker"]},
+                {"german":"","english":"An Apple a Day","hoster":["PutLocker"]},
+                {"german":"","english":"Ta Da For","hoster":["PutLocker"]},
+                {"german":"","english":"Run, Hank, Run","hoster":["PutLocker"]},
+                {"german":"","english":"Me First","hoster":["PutLocker"]},
+                {"german":"","english":"A Little Art, A Little Science","hoster":["PutLocker"]},
+                {"german":"","english":"A Farewell to Barnes","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Some Pig","hoster":["PutLocker","DivxStage"]}
+         ]
+}

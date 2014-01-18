@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der geklaute Clown",
+         "titleen":"Fun It",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7112401/Die_wilden_70er_der_geklaute_Clown_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7112630/Die_wilden_70er_der_geklaute_Clown_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7112787/Die_wilden_70er_der_geklaute_Clown_3_3"
+                }
+       ]
+}

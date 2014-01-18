@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Eine gespenstige Entdeckung",
+         "titleen":"Episode 021",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6730077/D_C_Folge_021_Eine_gespenstische_Entdeckung_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6730115/D_C_Folge_021_Eine_gespenstische_Entdeckung_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6730130/D_C_Folge_021_Eine_gespenstische_Entdeckung_3_3"
+                }
+       ]
+}

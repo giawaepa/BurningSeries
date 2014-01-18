@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Eine Reise durch die Nacht",
+         "titleen":"Night Train",
+         "description":"Nicht nur Alf, auch Willie denkt sehnsüchtig an vergangene Abenteuer. Sie gehen zum Bahnhof, um den Güterzügen zuzuschauen. Und ehe sich die beiden versehen, sitzen sie in einem Waggon und rollen ungewissen Ereignissen entgegen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6727729/ALF_Eine_Reise_durch_die_Nacht_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6727803/ALF_Eine_Reise_durch_die_Nacht_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6727853/ALF_Eine_Reise_durch_die_Nacht_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"AC61A0167B24D846"
+                }
+       ]
+}

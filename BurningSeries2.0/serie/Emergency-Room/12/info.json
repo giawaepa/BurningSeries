@@ -1,0 +1,30 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Cañon City","english":"Cañon City","hoster":[]},
+                {"german":"Niemandskind","english":"Nobody&#039;s Baby","hoster":[]},
+                {"german":"Mann ohne Namen","english":"Man with No Name","hoster":[]},
+                {"german":"Großer Mann im Gewitter","english":"Blame It on the Rain","hoster":[]},
+                {"german":"Aufwachen","english":"Wake Up","hoster":[]},
+                {"german":"Affentheater","english":"Dream House","hoster":[]},
+                {"german":"Der menschliche Schutzschild","english":"The Human Shield","hoster":[]},
+                {"german":"Zusammenstoß","english":"Two Ships","hoster":[]},
+                {"german":"Ja, ich will","english":"I Do","hoster":[]},
+                {"german":"Friede auf Erden","english":"All About Christmas Eve","hoster":[]},
+                {"german":"Wann, wenn nicht jetzt","english":"If Not Now","hoster":[]},
+                {"german":"Einsame Entscheidungen","english":"Split Decisions","hoster":[]},
+                {"german":"Leib und Seele","english":"Body and Soul","hoster":[]},
+                {"german":"Quintessenz des Staubs","english":"Quintessence of Dust","hoster":[]},
+                {"german":"Darfur","english":"Darfur","hoster":[]},
+                {"german":"Auf wackligen Beinen","english":"Out on a Limb","hoster":[]},
+                {"german":"Fremde Heimat","english":"Lost in America","hoster":[]},
+                {"german":"Lebensgefährten","english":"Strange Bedfellows","hoster":[]},
+                {"german":"Kein Entkommen","english":"No Place to Hide","hoster":[]},
+                {"german":"Hier gibt es keine Engel","english":"There Are No Angels Here","hoster":[]},
+                {"german":"Von Helden und Gefallenen","english":"The Gallant Hero and the Tragic Victor","hoster":[]},
+                {"german":"21 Schüsse","english":"21 Guns","hoster":[]}
+         ]
+}

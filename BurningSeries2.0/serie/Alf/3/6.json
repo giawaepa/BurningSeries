@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Reden ist Blech",
+         "titleen":"Promises, Promises",
+         "description":"Lynns neuer Freund gefällt dem Ehepaar Tanner nicht. Deshalb gibt Lynn vor, mit einem anderen Jungen zu gehen. Dem erteilt sie in Wahrheit aber nur Nachhilfestunden. Alf kommt hinter Lynns Geheimnis und verplappert sich.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6806086/ALF_Reden_ist_Blech_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6806197/ALF_Reden_ist_Blech_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6806342/ALF_Reden_ist_Blech_3_3"
+                }
+       ]
+}

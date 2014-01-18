@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Episode 7",
+         "titleen":"",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5208988/Switch_Reloaded_Staffel_3_Folge_7_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5209200/Switch_Reloaded_Staffel_3_Folge_7_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5209341/Switch_Reloaded_Staffel_3_Folge_7_3_3"
+                }
+       ]
+}

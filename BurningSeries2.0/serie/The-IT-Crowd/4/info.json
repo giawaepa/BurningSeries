@@ -1,0 +1,14 @@
+{
+        "series":"The IT Crowd",
+        "seasons":4,
+        "cover":"The-IT-Crowd_18ba26fab4f72050ce30de428ce1e031.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Jen the Fredo","english":"Jen the Fredo","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ich bin kein Fensterputzer","english":"The Final Countdown","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hokus Po-Kuss","english":"Something Happened","hoster":[]},
+                {"german":"Italienisch für Anfänger","english":"Italian for Beginners","hoster":[]},
+                {"german":"Maurice macht blau","english":"Bad Boys","hoster":[]},
+                {"german":"Reynholm gegen Reynholm","english":"Reynholm vs Reynholm","hoster":[]}
+         ]
+}

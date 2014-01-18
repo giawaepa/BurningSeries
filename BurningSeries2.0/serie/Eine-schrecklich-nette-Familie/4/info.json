@@ -1,0 +1,31 @@
+{
+        "series":"Eine schrecklich nette Familie",
+        "seasons":11,
+        "cover":"Eine-schrecklich-nette-Familie_c1fd2e1979181b45a7c4bb6c755e10b3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Barbecue","english":"Hot off the grill","hoster":["YouTube"]},
+                {"german":"Tote turnen nicht","english":"Dead men don´t do aerobics","hoster":["YouTube"]},
+                {"german":"Wochenende im Wald","english":"Buck saves the day","hoster":["YouTube"]},
+                {"german":"Zahnweh","english":"Tooth and consequences","hoster":["YouTube"]},
+                {"german":"Klein aber mein","english":"He ain´t much, but he´s m","hoster":["YouTube"]},
+                {"german":"Her mit den kleinen Französinnen","english":"Fair exchange","hoster":["YouTube"]},
+                {"german":"Miss Faltblatt","english":"Desperately seeking Miss October","hoster":["YouTube"]},
+                {"german":"Al wird Unternehmer","english":"976-Shoe","hoster":[]},
+                {"german":"Der Sparstrumpf","english":"Oh what a feeling","hoster":[]},
+                {"german":"Der Aussteiger","english":"At the Zoo","hoster":[]},
+                {"german":"Frohe Weihnacht (1)","english":"It´s a bundyful life (1)","hoster":[]},
+                {"german":"Frohe Weihnacht (2)","english":"It´s a bundyful life (2)","hoster":[]},
+                {"german":"Do it yourself","english":"Who´ll stop the rain?","hoster":[]},
+                {"german":"Eine haarige Angelegenheit","english":"A taxing problem","hoster":[]},
+                {"german":"Das Model","english":"Rock and Roll Girl","hoster":[]},
+                {"german":"Las Vegas (1)","english":"You gotta know when to fold ´em (1)","hoster":[]},
+                {"german":"Las Vegas (2)","english":"You gotta know when to fold ´em (2)","hoster":[]},
+                {"german":"Die Freuden der Rache","english":"What goes around comes around","hoster":[]},
+                {"german":"Wer trifft mehr?","english":"Peggy turns","hoster":[]},
+                {"german":"Staatlich geprüfte Hausfrau","english":"Peggy made a little lamb","hoster":[]},
+                {"german":"Das Wettermädchen","english":"Raingirl","hoster":[]},
+                {"german":"Die Liebesnacht","english":"The agony of defeet","hoster":[]},
+                {"german":"Ausverkauf","english":"Yard Sale","hoster":[]}
+         ]
+}

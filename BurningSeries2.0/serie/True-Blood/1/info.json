@@ -1,0 +1,20 @@
+{
+        "series":"True Blood",
+        "seasons":4,
+        "cover":"True-Blood_56b6d15f0252ad8a86476d77313c2347html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Strange Love","english":"Strange Love","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Blut geleckt","english":"The First Taste","hoster":["PutLocker","Ecostream"]},
+                {"german":"Sie gehört zu mir","english":"Mine","hoster":["PutLocker","Ecostream"]},
+                {"german":"Flucht aus dem Drachenhaus","english":"Escape From Dragon House","hoster":["PutLocker","Ecostream"]},
+                {"german":"Funkenflug","english":"Sparks Fly Out","hoster":["PutLocker","Ecostream"]},
+                {"german":"Kalte Erde","english":"Cold Ground","hoster":["PutLocker"]},
+                {"german":"Brennende Leidenschaft","english":"Burning House of Love","hoster":["PutLocker","Ecostream"]},
+                {"german":"Der vierte Mann im Feuer","english":"The Fourth Man in the Fire","hoster":["PutLocker","Ecostream"]},
+                {"german":"Plaisir D&#039;Amour","english":"Plaisir D&#039;Amour","hoster":["PutLocker"]},
+                {"german":"Gefährliches Spiel","english":"I Don&#039;t Wanna Know","hoster":["PutLocker"]},
+                {"german":"Begräbnis aus Liebe","english":"To Love is to Bury","hoster":["PutLocker","Ecostream"]},
+                {"german":"Du wirst mein Tod sein","english":"You&#039;ll Be the Death of Me","hoster":["PutLocker","Ecostream"]}
+         ]
+}

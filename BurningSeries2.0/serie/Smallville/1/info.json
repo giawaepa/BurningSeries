@@ -1,0 +1,29 @@
+{
+        "series":"Smallville",
+        "seasons":10,
+        "cover":"Smallville_9b035bf1ed4971800a10af943bd17d18.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Nicht von dieser Welt","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Häutung bei Vollmond","english":"Metamorphosis","hoster":["PutLocker"]},
+                {"german":"Feuerball","english":"Hothead","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ich sehe was, was Du nicht bist...","english":"X-Ray","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schockgefroren","english":"Cool","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Blinde Augen sehen mehr","english":"Hourglass","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zum Fressen gern","english":"Craving","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Körperbeben","english":"Jitters","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Von Mit- und Besserwissern","english":"Rogue","hoster":["PutLocker"]},
+                {"german":"Hollow Boy","english":"Shimmer","hoster":["PutLocker"]},
+                {"german":"Zum Teufel mit dem Willen anderer","english":"Hug","hoster":["PutLocker"]},
+                {"german":"Plötzlich verletzlich","english":"Leech","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ab durch die Wand!","english":"Kinetic","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schlechte Leute, einst wie heute","english":"Zero","hoster":["RapidVideo"]},
+                {"german":"Blütenterror","english":"Nicodemus","hoster":["RapidVideo"]},
+                {"german":"Wie ein kleiner Bruder","english":"Stray","hoster":["PutLocker"]},
+                {"german":"Nur die Asche bleibt zurück","english":"Reaper","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Clark Kent for President!","english":"Drone","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tele-Kill-Nese","english":"Crush","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das letzte Stück zur Wahrheit","english":"Obscura","hoster":["RapidVideo"]},
+                {"german":"Als der Sturm kam ...","english":"Tempest (1)","hoster":["RapidVideo"]}
+         ]
+}

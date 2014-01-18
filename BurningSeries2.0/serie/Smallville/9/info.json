@@ -1,0 +1,30 @@
+{
+        "series":"Smallville",
+        "seasons":10,
+        "cover":"Smallville_9b035bf1ed4971800a10af943bd17d18.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Last der Verantwortung","english":"Savior","hoster":["PutLocker"]},
+                {"german":"Metallo","english":"Metallo","hoster":["PutLocker"]},
+                {"german":"Todesvirus","english":"Rabid","hoster":["PutLocker"]},
+                {"german":"Offene Rechnungen","english":"Echo","hoster":["PutLocker"]},
+                {"german":"Das Spiel beginnt","english":"Roulette","hoster":["PutLocker"]},
+                {"german":"Blind Date","english":"Crossfire","hoster":["PutLocker"]},
+                {"german":"Jor-Els Rückkehr","english":"Kandor","hoster":["PutLocker"]},
+                {"german":"Im Zeichen des Helden","english":"Idol","hoster":["PutLocker"]},
+                {"german":"Erinnerungen an die Zukunft","english":"Pandora","hoster":["PutLocker"]},
+                {"german":"Der Meister und sein Schüler","english":"Disciple","hoster":["PutLocker"]},
+                {"german":"Helden der Vergangenheit (1)","english":"Absolute Justice (1)","hoster":["PutLocker"]},
+                {"german":"Helden der Vergangenheit (2)","english":"Absolute Justice (2)","hoster":["PutLocker"]},
+                {"german":"Die Geburt eines Schurken","english":"Warrior","hoster":["PutLocker"]},
+                {"german":"Hypnose wider Willen","english":"Persuasion","hoster":["PutLocker"]},
+                {"german":"Verschwörung","english":"Conspiracy","hoster":["PutLocker"]},
+                {"german":"Der Geist aus der Unterwelt","english":"Escape","hoster":["PutLocker"]},
+                {"german":"Checkmate","english":"Checkmate","hoster":["PutLocker"]},
+                {"german":"Metallos Rückkehr","english":"Upgrade","hoster":["PutLocker"]},
+                {"german":"Phantombild","english":"Charade","hoster":["PutLocker"]},
+                {"german":"Gefangen im Wachturm","english":"Sacrifice","hoster":["PutLocker"]},
+                {"german":"Die rote Königin","english":"Hostage","hoster":["PutLocker"]},
+                {"german":"Erlösung","english":"Salvation","hoster":["PutLocker"]}
+         ]
+}

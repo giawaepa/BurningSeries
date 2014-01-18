@@ -1,0 +1,32 @@
+{
+        "series":"Star Trek: Enterprise",
+        "seasons":4,
+        "cover":"Star-Trek-Enterprise_c68fc25a7922c34dd2fc5e5bc8eedce5.png",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Xindi","english":"The Xindi","hoster":[]},
+                {"german":"Anomalie","english":"Anomaly","hoster":[]},
+                {"german":"Transformation","english":"Extinction","hoster":[]},
+                {"german":"Rajiin","english":"Rajiin","hoster":[]},
+                {"german":"Impulsiv","english":"Impulse","hoster":[]},
+                {"german":"Exil","english":"Exile","hoster":[]},
+                {"german":"Die Ladung","english":"The Shipment","hoster":[]},
+                {"german":"Dämmerung","english":"Twilight","hoster":[]},
+                {"german":"Faustrecht","english":"North Star","hoster":[]},
+                {"german":"Ebenbild","english":"Similitude","hoster":[]},
+                {"german":"Carpenter Street","english":"Carpenter Street","hoster":[]},
+                {"german":"Das auserwählte Reich","english":"Chosen Realm","hoster":[]},
+                {"german":"Testgebiet","english":"Proving Ground","hoster":[]},
+                {"german":"Kriegslist","english":"Stratagem","hoster":[]},
+                {"german":"Der Vorbote","english":"Harbinger","hoster":[]},
+                {"german":"Auf ärztliche Anweisung","english":"Doctor&#039;s Orders","hoster":[]},
+                {"german":"Brutstätte","english":"Hatchery","hoster":[]},
+                {"german":"Azati Prime","english":"Azati Prime","hoster":[]},
+                {"german":"Beschädigungen","english":"Damage","hoster":[]},
+                {"german":"Die Vergessenen","english":"The Forgotten","hoster":[]},
+                {"german":"E²","english":"E²","hoster":[]},
+                {"german":"Der Rat","english":"The Council","hoster":[]},
+                {"german":"Countdown","english":"Countdown","hoster":[]},
+                {"german":"Stunde Null","english":"Zero Hour","hoster":[]}
+         ]
+}

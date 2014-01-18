@@ -1,0 +1,30 @@
+{
+        "series":"Malcolm Mittendrin",
+        "seasons":7,
+        "cover":"Malcolm-Mittendrin_1bb1532f3e072d63b21fae3c0fc10a51.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein Tag im Zoo","english":"Zoo","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Alles auf Anfang","english":"Humilithon","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Familienfest","english":"Family Reunion","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Dumm, aber glücklich","english":"Stupid Girl","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Auge um Auge","english":"Forwards backwards","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verbotene Freuden","english":"Forbidden Girlfriend","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schweigen ist ungesund","english":"Malcolm holds his Tongue","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Männersache","english":"Boys at Ranch","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Babyalarm","english":"Grandma sues","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wenn Jungs Mädchen wären","english":"If Boys were Girls","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eine lange Fahrt","english":"Long Drive","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Rauswurf","english":"Kicked out","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Babysitter","english":"Stereo Store","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hals Freund","english":"Hal&#039;s Friend","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Trödel","english":"Garage Sale","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Akademischer Achtkampf","english":"Academic Octathalon","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schlechte Eltern","english":"Clip Show #2","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Sturmfreie Bude","english":"Reese&#039;s Party","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Schachduell","english":"Future Malcolm","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hallo, Baby!, Teil 1","english":"Baby, Part 1","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hallo, Baby!, Teil 2","english":"Baby, Part 2","hoster":["PutLocker","RapidVideo"]},
+                {"german":"(K)Ein Platz für Jamie","english":"Day Care","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

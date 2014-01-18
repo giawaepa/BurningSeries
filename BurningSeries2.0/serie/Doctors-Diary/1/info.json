@@ -1,0 +1,16 @@
+{
+        "series":"Doctors Diary",
+        "seasons":3,
+        "cover":"Doctors-Diary_2e4f5105e2c180960d2ae718b9034d3d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Männer sind Schweine!","english":"","hoster":[]},
+                {"german":"Hilfe, ich brauche ein Date!","english":"","hoster":["PutLocker"]},
+                {"german":"Bin ich fett?","english":"","hoster":["PutLocker"]},
+                {"german":"Marc will Sex","english":"","hoster":["PutLocker"]},
+                {"german":"Dr. Kaan ist doch süß!","english":"","hoster":["PutLocker"]},
+                {"german":"Frauen auf dem Ärzteball","english":"","hoster":["PutLocker"]},
+                {"german":"Nonnen sind auch nur Frauen","english":"","hoster":["PutLocker"]},
+                {"german":"Brauche dringend Happy End","english":"","hoster":["PutLocker"]}
+         ]
+}

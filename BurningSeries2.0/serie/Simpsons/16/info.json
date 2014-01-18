@@ -1,0 +1,29 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Vier Enthauptungen und ein Todesfall","english":"Treehouse of Horror XV","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die geheime Zutat","english":"All&#039;s Fair in Oven War","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Feind in meinem Bett","english":"Sleeping with the Enemy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Marges alte Freundin","english":"She Used to Be My Girl","hoster":["PutLocker","DivxStage"]},
+                {"german":"Dicker Mann und kleiner Junge","english":"Fat Man and Little Boy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Nach Kanada der Pillen wegen","english":"Midnight Rx","hoster":["PutLocker","DivxStage"]},
+                {"german":"Moes Taverne","english":"Mommie Beerest","hoster":["PutLocker","DivxStage"]},
+                {"german":"Homer und die Halbzeit-Show","english":"Homer and Ned&#039;s Hail Mary Pass","hoster":["PutLocker"]},
+                {"german":"Pranksta Rap","english":"Pranksta Rap","hoster":["PutLocker","DivxStage"]},
+                {"german":"Drum prüfe, wer sich ewig bindet","english":"There&#039;s Something About Marrying","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die böse Hexe des Westens","english":"On a Clear Day I Can&#039;t See My Sister","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der lächelnde Buddha","english":"Goo Goo Gai Pan","hoster":["PutLocker","DivxStage"]},
+                {"german":"Homer Mobil","english":"Mobile Homer","hoster":["PutLocker","DivxStage"]},
+                {"german":"Homer, die Ratte","english":"The Seven-Beer Snitch","hoster":["PutLocker","DivxStage"]},
+                {"german":"Future-Drama","english":"Future-Drama","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der eingebildete Dachdecker","english":"Don&#039;t Fear the Roofer","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das große Fressen","english":"The Heartbroke Kid","hoster":["PutLocker"]},
+                {"german":"Lisa Simpson: Superstar","english":"A Star Is Torn","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das jüngste Gericht","english":"Thank God, It&#039;s Doomsday","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schau heimwärts, Flanders","english":"Home Away From Homer","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Vater, der Sohn und der heilige Gaststar","english":"The Father, The Son, and The Holy Guest Star","hoster":["PutLocker","DivxStage"]}
+         ]
+}

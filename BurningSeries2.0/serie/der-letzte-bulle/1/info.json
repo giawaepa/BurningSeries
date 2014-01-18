@@ -1,0 +1,21 @@
+{
+        "series":"Der letzte Bulle",
+        "seasons":3,
+        "cover":"Der-letzte-Bulle_fb9934d518c58b52b3fa28930338da0d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die letzte Runde","english":"","hoster":["PutLocker"]},
+                {"german":"Der Weihnachtsmann ist tot","english":"","hoster":["PutLocker"]},
+                {"german":"Überlebenstraining","english":"","hoster":["PutLocker"]},
+                {"german":"Nachtschicht","english":"","hoster":["PutLocker"]},
+                {"german":"Im Schatten von Feng Shui","english":"","hoster":["PutLocker"]},
+                {"german":"Der verlorene Sohn","english":"","hoster":["PutLocker"]},
+                {"german":"Ich hab sie alle gehabt","english":"","hoster":["PutLocker"]},
+                {"german":"Das Runde muss ins Eckige","english":"","hoster":["PutLocker"]},
+                {"german":"Fremdgehen für Anfänger","english":"","hoster":["PutLocker"]},
+                {"german":"Gepflegter Tod","english":"","hoster":["PutLocker"]},
+                {"german":"Klassentreffen","english":"","hoster":["PutLocker"]},
+                {"german":"Bei Kuscheln Mord","english":"","hoster":["PutLocker"]},
+                {"german":"Ein Stern über Essen","english":"","hoster":["PutLocker"]}
+         ]
+}

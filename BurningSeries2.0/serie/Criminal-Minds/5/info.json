@@ -1,0 +1,31 @@
+{
+        "series":"Criminal Minds",
+        "seasons":7,
+        "cover":"Criminal-Minds_b57c4c9433b36cce49ad96d3ca0a8cc4html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Ohne Namen, ohne Gesicht","english":"Faceless, Nameless","hoster":["PutLocker"]},
+                {"german":"Die Quelle des Leids","english":"Haunted","hoster":["PutLocker"]},
+                {"german":"Die letzte Rate","english":"Reckoner","hoster":["PutLocker"]},
+                {"german":"Das Rudel","english":"Hopeless","hoster":["PutLocker"]},
+                {"german":"Von der Wiege bis zur Bahre","english":"Cradle to Grave","hoster":["PutLocker"]},
+                {"german":"Jäger in der Dunkelheit","english":"The Eyes Have It","hoster":["PutLocker"]},
+                {"german":"Die Musik des Blutes","english":"The Performer","hoster":["PutLocker"]},
+                {"german":"Der Fuchs","english":"Out Foxed","hoster":["PutLocker"]},
+                {"german":"	Der Reaper","english":"100","hoster":["PutLocker"]},
+                {"german":"Der Weg der Rose","english":"The Slave of Duty","hoster":["PutLocker"]},
+                {"german":"Retaliation","english":"Retaliation","hoster":["PutLocker"]},
+                {"german":"Das Haus der Puppen","english":"The Uncanny Valley","hoster":["PutLocker"]},
+                {"german":"Risky Business","english":"Risky Business","hoster":["PutLocker"]},
+                {"german":"Die Namen der Lüge","english":"Parasite","hoster":["PutLocker"]},
+                {"german":"Hass ohne Ende","english":"Public Enemy","hoster":["PutLocker"]},
+                {"german":"Hoffen und Bangen","english":"Mosley Lane","hoster":["PutLocker"]},
+                {"german":"Der einsame König","english":"Solitary Man","hoster":["PutLocker"]},
+                {"german":"The Fight","english":"The Fight","hoster":["PutLocker"]},
+                {"german":"Rite of Passage","english":"Rite of Passage","hoster":["PutLocker"]},
+                {"german":"?A Thousand Words","english":"?A Thousand Words","hoster":["PutLocker"]},
+                {"german":"Exit Wounds","english":"Exit Wounds","hoster":["PutLocker"]},
+                {"german":"Das Netz vergisst nichts","english":"The Internet is Forever","hoster":["PutLocker"]},
+                {"german":"Der Fürst der Dunkelheit - Teil 1","english":"Our Darkest Hour (1)","hoster":["PutLocker"]}
+         ]
+}

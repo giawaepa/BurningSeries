@@ -1,0 +1,31 @@
+{
+        "series":"Ally McBeal",
+        "seasons":5,
+        "cover":"Ally-McBeal_a187e7187d7119128b6a6f4f34c52063.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Bodycheck","english":"Sex, Lies and Second Thoughts","hoster":["PutLocker"]},
+                {"german":"Pyjama für sechs","english":"Girls&#039; Night Out","hoster":["PutLocker"]},
+                {"german":"Verliebte Jungs","english":"Two&#039;s a Crowd","hoster":["PutLocker"]},
+                {"german":"Duo im Abseits","english":"Without a Net","hoster":["PutLocker"]},
+                {"german":"Die letzte Jungfrau","english":"The Last Virgin","hoster":["PutLocker"]},
+                {"german":"Schrille Nacht","english":"&#039;Tis the Season","hoster":["PutLocker"]},
+                {"german":"Unterm Hammer","english":"Love on Holiday","hoster":["PutLocker"]},
+                {"german":"Die Lametta-Krise","english":"The Man with the Bag","hoster":["PutLocker"]},
+                {"german":"Ticks und Tricks","english":"Reasons to Believe","hoster":["PutLocker"]},
+                {"german":"Akte Ex","english":"The Ex-Files","hoster":["PutLocker"]},
+                {"german":"Im Schwitzkasten","english":"Mr. Bo","hoster":["PutLocker"]},
+                {"german":"Damenwahl","english":"Hats Off to Larry","hoster":["PutLocker"]},
+                {"german":"Kanzleikoller","english":"Reach Out And Touch","hoster":["PutLocker"]},
+                {"german":"Männerliebe","english":"Boys Town","hoster":["PutLocker"]},
+                {"german":"Knall auf Fall","english":"Falling Up","hoster":["PutLocker"]},
+                {"german":"Tapetenwechsel","english":"The Getaway","hoster":["PutLocker"]},
+                {"german":"Wunschlos unglücklich","english":"The Pursuit of Unhappiness","hoster":["PutLocker"]},
+                {"german":"Kleinkram","english":"The Obstacle Course","hoster":["PutLocker"]},
+                {"german":"Barry ... verzweifelt gesucht!","english":"In Search of Barry White","hoster":["PutLocker"]},
+                {"german":"Geburtstagsblues","english":"Cloudy Skies, Chance of Parade","hoster":["PutLocker"]},
+                {"german":"Das Summen der Drohnen","english":"Queen Bee","hoster":["PutLocker"]},
+                {"german":"Ring frei","english":"Home Again","hoster":["PutLocker"]},
+                {"german":"Solo für Ally","english":"The Wedding","hoster":["PutLocker"]}
+         ]
+}

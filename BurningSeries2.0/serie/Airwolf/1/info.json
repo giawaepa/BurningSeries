@@ -1,0 +1,20 @@
+{
+        "series":"Airwolf",
+        "seasons":4,
+        "cover":"Airwolf_f48f2fca362cb732879901de9450548f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Eine unschlagbare Waffe (1)","english":"Shadow of the Hawke (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Eine unschlagbare Waffe (2)","english":"Shadow of the Hawke (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Rogers Plan","english":"Daddy´s gone a hunt´n","hoster":["PutLocker","Sockshare"]},
+                {"german":"Mit Speck fängt man Mäuse","english":"Bite of the Jackal","hoster":["PutLocker","Sockshare"]},
+                {"german":"Im Dunkel der Nacht","english":"Proof through the night","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der große Bluff","english":"One way express","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der falsche Bruder","english":"Echoes from the past","hoster":["PutLocker","Sockshare"]},
+                {"german":"Von der Vergangenheit","english":"Fight Like A Dove","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wer zahlt schon doppeltes Lösegeld?","english":"Mad over Miami","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Zweikampf","english":"And they are us","hoster":["Sockshare"]},
+                {"german":"Eine Kopie von Airwolf","english":"Mind of the machine","hoster":["Sockshare"]},
+                {"german":"Dem Wolf eine Falle stellen","english":"To snare a wolf","hoster":[]}
+         ]
+}

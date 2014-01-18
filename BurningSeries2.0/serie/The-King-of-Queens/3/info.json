@@ -1,0 +1,33 @@
+{
+        "series":"The King of Queens",
+        "seasons":9,
+        "cover":"The-King-of-Queens_bbc35c6d9ebd3e1bdb5e304bbb42d956.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Latin Lover","english":"Do Rico","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Spaßvogel","english":"Roast Chicken","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die Nulldiät","english":"Fatty McButterpants","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Ohrwurm","english":"Class Struggle","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der mit dem Geld tanzt","english":"Strike One","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Wann ist ein Mann ein Mann?","english":"Strike Too","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Trio Infernale","english":"Strike Out","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Einmal und nie wieder","english":"Dark Meet","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"In Flagranti","english":"Twisted Sitters","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Mister April","english":"Work Related","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Camera Obscura","english":"Better Camera","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Hokuspokus, unsichtbar","english":"Wedding Presence","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die verkaufte Schwester","english":"Hi Def-Jam","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Kampf der Giganten","english":"Paint Misbehavin&#039;","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Vertreibung aus dem Paradies","english":"Deacon Blues","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Das Liebesverbot","english":"Horizontal Hold","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Volles Programm","english":"Inner Tube","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Außer Rand und Band","english":"Papa Pill","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die Kündigung","english":"Package Deal","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Stille Post","english":"Separation Anxiety","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Familientreffen","english":"Departure Time","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Schwimmende Nachbarn","english":"Swim Neighbors","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Ungeliebte Verwandtschaft","english":"S&#039;no Job","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Kindertheater (1)","english":"Pregnant Pause (1)","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Kindertheater (2)","english":"Pregnant Pause (2)","hoster":["YouTube","MyVideo","PutLocker"]}
+         ]
+}

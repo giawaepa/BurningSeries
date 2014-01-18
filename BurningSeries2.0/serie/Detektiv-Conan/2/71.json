@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Mord an Bord (2)",
+         "titleen":"Episode 173",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=h9YpKCFtars"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5593403/Detektiv_Conan_Folge_173_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5593764/Detektiv_Conan_Folge_173_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5594097/Detektiv_Conan_Folge_173_3_3"
+                }
+       ]
+}

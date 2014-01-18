@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Verschwörung / Die Wette",
+         "titleen":"Partners in Crime / The Bet",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=M4mLtfHmNkA"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=7pim3qsrWhw"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6583723/Disneys_Grosse_Pause_Episode_58_Die_Verschwoerung"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6583758/Disneys_Grosse_Pause_Episode_59_Die_Wette"
+                }
+       ]
+}

@@ -1,0 +1,23 @@
+{
+        "series":"Psych",
+        "seasons":6,
+        "cover":"Psych_a6900fd3ffbe74c30b48832b726da02b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mit einer Ausrede fängt es an","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"So spannend kann ein Buchstabierwettbewerb sein!","english":"Spellingg Bee","hoster":["PutLocker"]},
+                {"german":"Man möge jetzt sprechen ? oder für immer schweigen","english":"Speak Now Or Forever Hold Your Piece","hoster":["PutLocker"]},
+                {"german":"Attraktive Frau sucht toten Mann zwecks Geldanlage","english":"Woman Seeking Dead Husband - Smokers Okay, No Pets","hoster":["PutLocker"]},
+                {"german":"Katze krallt sich Killer?","english":"9 Lives","hoster":["PutLocker"]},
+                {"german":"Da möchte man in Frieden Bürgerkrieg spielen ?","english":"Weekend Warriors","hoster":["PutLocker"]},
+                {"german":"Ein Geschlechterkampf der etwas anderen Art","english":"Who Ya Gonna Call?","hoster":["PutLocker"]},
+                {"german":"Shawn gegen Das Rote Phantom","english":"Shawn Vs. The Red Phantom","hoster":["PutLocker"]},
+                {"german":"Tiere, Menschen, Endstationen","english":"Forget Me Not","hoster":["PutLocker"]},
+                {"german":"Erde ruft Lassiter","english":"From The Earth To Starbucks","hoster":["PutLocker"]},
+                {"german":"Er liebt mich, er liebt mich nicht, er liebt mich, huch ? er ist tot!","english":"He Loves Me, He Loves Me Not, He Loves Me, Oops He&#039;s Dead","hoster":["PutLocker"]},
+                {"german":"Überwiegend wolkig ? gebietsweise Mord","english":"Cloudy?Chance Of Murder","hoster":["PutLocker"]},
+                {"german":"Spiel, Satz ? und Straftat?","english":"Game Set? Muuurder?","hoster":["PutLocker"]},
+                {"german":"Pokerface gegen Pokerface","english":"Poker? I Barely Know Her","hoster":["PutLocker"]},
+                {"german":"Zimmer 413: Studentinnen des Todes","english":"Scary Sherry: Bianca&#039;s Toast","hoster":["PutLocker"]}
+         ]
+}

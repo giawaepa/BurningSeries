@@ -1,0 +1,26 @@
+{
+        "series":"MythBusters ? Die Wissensjäger",
+        "seasons":9,
+        "cover":"MythBusters-Die-Wissensjaeger_cc60346d8cc8ecf4693d55ce07daf622.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Verbrechen und andere Ordnungswidrigkeiten 1","english":"Crimes and Myth-Demeanors 1: Great Hollywood Heists","hoster":[]},
+                {"german":"Archimedische Dampfkanone","english":"Steam Cannon","hoster":[]},
+                {"german":"Todesstrudel","english":"Killer Whirlpool","hoster":[]},
+                {"german":"Mentos + Soda","english":"Diet Coke and Mentos","hoster":[]},
+                {"german":"Zerstörerischer Basslautsprecher","english":"Shattering Subwoofer","hoster":[]},
+                {"german":"Verbrechen und andere Ordnungswidrigkeiten 2","english":"Crimes and Myth-Demeanors 2","hoster":[]},
+                {"german":"Teslas Erdbebenmaschine","english":"Earthquake Machine","hoster":[]},
+                {"german":"Strohhalm durch Palme","english":"Deadly Straw","hoster":["PutLocker"]},
+                {"german":"Killerdrahtseiltest","english":"Killer Cable Snaps","hoster":[]},
+                {"german":"Tödliche Pressluftflasche","english":"Air Cylinder Rocket","hoster":[]},
+                {"german":"Salamirakete / Schotterpistenfahrt / Tongefäß-Aufnahmen / Heckklappe auf oder zu?","english":"More Myths Revisited","hoster":[]},
+                {"german":"Einwegfeuerzeug-Explosion","english":"Exploding Lighter","hoster":["PutLocker"]},
+                {"german":"Betongleiter","english":"Concrete Glider","hoster":[]},
+                {"german":"Feuerwaffenmythen","english":"Firearms Folklore","hoster":["PutLocker"]},
+                {"german":"Antigravitation","english":"Anti-Gravity Device","hoster":[]},
+                {"german":"Sturz aus 6600m Höhe","english":"22,000 Foot Fall","hoster":[]},
+                {"german":"Ein Brennendes Luftschiff","english":"Hindenburg Mystery","hoster":[]},
+                {"german":"PiratenMythen","english":"Pirate Special","hoster":[]}
+         ]
+}

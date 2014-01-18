@@ -1,0 +1,32 @@
+{
+        "series":"One Tree Hill",
+        "seasons":9,
+        "cover":"One-Tree-Hill_2fa03b219e492507d3b23615a456128d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Hochzeitspläne","english":"Touch Me I?m Going to Scream","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Von einer Sekunde zur anderen: alles anders","english":"One Million Billionth of a Millisecond on a Sunday Morning","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Cape, mit dem du fliegen lernst","english":"Get Cape. Wear Cape. Fly.","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das große Abschiedsspiel","english":"Bridge Over Troubled Water","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Geplatztes Comeback","english":"You?ve Dug Your Own Grave, Now Lie in It","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lebenswege","english":"Choosing My Own Way of Life","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Anführer und Mitläufer","english":"Messin? with the Kid","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Filmangebot","english":"Our Life Is Not a Movie or Maybe","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Stunde der Wahrheit","english":"Sympathy for the Devil","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Angst vor der Realität","english":"Even Fairytale Characters Would Be Jealous","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Casablanca in Tree Hill","english":"We Three (My Echo, My Shadow and Me)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wie der Vater so der Sohn","english":"You Have to Be Joking (Autopsy of the Devil?s Brain)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wo ist Sam?","english":"Things a Mama Don?t Know","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eltern auf Probe","english":"A Hand to Take Hold of the Scene","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die kleinen Dinge des Lebens","english":"We Change, We Wait","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das große Casting","english":"Screenwriter&#039;s Bluess","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Momente der Wahrheit","english":"You and Me and the Bottle Makes 3 Tonight","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Traum - Tree Hill","english":"Searching for a Former Clarity","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Geplatzte Filme","english":"Letting Go","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das kleine Supergenie","english":"I Would for You","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wenn Träume wahr werden","english":"A Kiss to Build a Dream On","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zeig mir das Leben","english":"Show Me How to Live","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Für immer und fast ewig","english":"Forever and Almost Always","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Fast alle Träume werden wahr","english":"Remember Me as a Time of Day","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,23 @@
+{
+        "series":"Rules of Engagement",
+        "seasons":6,
+        "cover":"Rules-of-Engagement_f7ad76ee4c30c6ef6ea68cc1c33264b1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Flirt-Weltmeister","english":"Flirting with Disaster","hoster":["PutLocker"]},
+                {"german":"Die kalifornische Schwester","english":"Audrey&#039;s Sister","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die blasse Wirklichkeit","english":"Mr. Fix It","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Kerle-Code","english":"Guy Code","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eine unglaubliche Nacht","english":"Bag Ladies","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Old School Jeff","english":"Old School Jeff","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das perfekte Verbrechen","english":"Engagement Party","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Mann im Aufzug","english":"Fix-up &amp; Downs","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hot Mamma","english":"A Visit from Fay","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein ganz besonderes Wochenende","english":"Time Share","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Gott der Fruchtbarkeit","english":"Jen at Work","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Fünf Kilo bis Montag","english":"Optimal Male","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Waschbecken-Nummer","english":"Russell&#039;s Father&#039;s Son","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kein Bock auf Sparen","english":"Buyer&#039;s Remorse","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Eine geile Karre","english":"Pimp My Bride","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

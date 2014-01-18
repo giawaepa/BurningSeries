@@ -1,0 +1,32 @@
+{
+        "series":"How I Met Your Mother",
+        "seasons":7,
+        "cover":"How-I-Met-Your-Mother_470f96f81545d60a203d278bb3b9b0a1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Kennen wir uns?","english":"Do I Know You?","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der beste Burger in New York","english":"The Best Burger in  New York","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ich liebe New Jersey","english":"I Heart NJ","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der alte Mann und drei Umzüge","english":"Intervention","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Unerwünschte Gäste","english":"Shelter Island","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Unter dem Tisch","english":"Happily Ever After","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Nicht-Vatertag","english":"Not a Father&#039;s Day","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Woooo!","english":"Woooo!","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Nackter Mann","english":"The Naked Man","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Weicheier","english":"The Fight","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Im Exil","english":"Little Minnesota","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Sex mit der Ex","english":"Benefits","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Drei Tage Schnee","english":"Three Days of Snow","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Tänzerhüfte","english":"The Possimpible","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Stinsons","english":"The Stinsons","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Hosenlos","english":"Sorry, Bro","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Veranda-Test","english":"The Front Porch","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Old King Clancy","english":"Old King Clancy","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Murtaugh-Liste","english":"Murtaugh","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Mosbius Designs","english":"Mosbius Designs","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Dreitageregel","english":"The Three Day Rule","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Zur richtigen Zeit am richtigen Ort","english":"Right Place Right Time","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Hilfe wider Willen","english":"As Fast As She Can","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Absprung","english":"The Leap","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]}
+         ]
+}

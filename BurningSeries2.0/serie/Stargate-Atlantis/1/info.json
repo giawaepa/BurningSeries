@@ -1,0 +1,28 @@
+{
+        "series":"Stargate Atlantis",
+        "seasons":5,
+        "cover":"Stargate-Atlantis_ee999920628865c8e0efe0eced7ee852html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Aufbruch in eine neue Welt (1)","english":"Rising (1)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Aufbruch in eine neue Welt (2)","english":"Rising (2)","hoster":["PutLocker"]},
+                {"german":"Dunkle Schatten","english":"Hide and Seek","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"38 Minuten","english":"Thirty Eight Minutes","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Unter Verdacht","english":"Suspicion","hoster":["MyVideo","PutLocker"]},
+                {"german":"Selbstopfer","english":"Childhood&#039;s End","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Tödliche Verteidigung","english":"Poisoning the Well","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Im Untergrund","english":"Underground","hoster":["PutLocker","DivxStage"]},
+                {"german":"Zurück auf die Erde","english":"Home","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Sturm","english":"The Storm (1)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Das Auge","english":"The Eye (2)","hoster":["PutLocker"]},
+                {"german":"Der Überlebende","english":"The Defiant One","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Hot Zone","english":"Hot Zone","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Chaya","english":"Sanctuary","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"10.000 Jahre","english":"Before I Sleep","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Bruderschaft","english":"The Brotherhood","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Nachrichten aus der Pegasus-Galaxie","english":"Letters from Pegasus","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Gabe","english":"The Gift","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Belagerung, Teil 1","english":"The Siege (1)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Belagerung, Teil 2","english":"The Siege (2)","hoster":["MyVideo","PutLocker","DivxStage"]}
+         ]
+}

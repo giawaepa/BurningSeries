@@ -1,0 +1,28 @@
+{
+        "series":"Stargate SG-1",
+        "seasons":10,
+        "cover":"Stargate-SG-1_6b5b9978ee26b1880a53c96bc53f8c10.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Neue Machtverhältnisse, Teil 1","english":"New Order (1)","hoster":[]},
+                {"german":"Neue Machtverhältnisse, Teil 2","english":"New Order (2)","hoster":[]},
+                {"german":"Colonel Vaselov","english":"Lockdown","hoster":[]},
+                {"german":"Stunde der Bewährung","english":"Zero Hour","hoster":[]},
+                {"german":"Soren","english":"Icon","hoster":[]},
+                {"german":"Avatar","english":"Avatar","hoster":[]},
+                {"german":"Affinität","english":"Affinity","hoster":[]},
+                {"german":"Colson","english":"Covenant","hoster":[]},
+                {"german":"Die Vertreibung","english":"Sacrifices","hoster":[]},
+                {"german":"Endspiel","english":"Endgame","hoster":[]},
+                {"german":"Gemini","english":"Gemini","hoster":[]},
+                {"german":"Vala","english":"Prometheus Unbound","hoster":[]},
+                {"german":"König Arkhan","english":"It&#039;s Good To Be King","hoster":[]},
+                {"german":"Konfrontation","english":"Full Alert","hoster":[]},
+                {"german":"Abrechnung - Teil 1","english":"Citizen Joe","hoster":[]},
+                {"german":"Abrechnung - Teil 2","english":"Reckoning (1)","hoster":[]},
+                {"german":"Jim","english":"Reckoning (2)","hoster":[]},
+                {"german":"Joe","english":"Threads","hoster":[]},
+                {"german":"Möbius, Teil 1","english":"Moebius (1)","hoster":[]},
+                {"german":"Möbius, Teil 2","english":"Moebius (2)","hoster":[]}
+         ]
+}

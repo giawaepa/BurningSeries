@@ -1,0 +1,30 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Chaostheorie","english":"Chaos Theory","hoster":[]},
+                {"german":"Der zweite Tod","english":"Dead Again","hoster":[]},
+                {"german":"Der Aufstand","english":"Insurrection","hoster":[]},
+                {"german":"Schlagabtausch","english":"Walk Like a Man","hoster":[]},
+                {"german":"Offene Wunden","english":"A Hopeless Wound","hoster":[]},
+                {"german":"Die Hoffnung stirbt zuletzt","english":"One Can Only Hope","hoster":[]},
+                {"german":"Innere Verletzung","english":"Tell Me Where It Hurts","hoster":[]},
+                {"german":"Weiss wie Schnee","english":"First Snowfall","hoster":[]},
+                {"german":"Familienbande","english":"Next of Kin","hoster":[]},
+                {"german":"Im Nachhinein","english":"Hindsight","hoster":[]},
+                {"german":"Mit etwas Beistand","english":"A Little Help from My Friends","hoster":[]},
+                {"german":"Der Stadtheilige","english":"A Saint in the City","hoster":[]},
+                {"german":"Keine gute Tat bleibt ungestraft","english":"No Good Deed Goes Unpunished","hoster":[]},
+                {"german":"Absturz","english":"No Strings Attached","hoster":[]},
+                {"german":"Der verlorene Sohn","english":"A Boy Falling out of the Sky","hoster":[]},
+                {"german":"Tausend Kraniche","english":"A Thousand Cranes","hoster":[]},
+                {"german":"Der Fürsprecher","english":"The Advocate","hoster":[]},
+                {"german":"Fundsachen","english":"Finders Keepers","hoster":[]},
+                {"german":"Veränderungen","english":"Things Change","hoster":[]},
+                {"german":"Fremdbestimmt","english":"Foreign Affairs","hoster":[]},
+                {"german":"Tag und Nacht","english":"When Night Meets Day","hoster":[]},
+                {"german":"Kisangani","english":"Kisangani","hoster":[]}
+         ]
+}

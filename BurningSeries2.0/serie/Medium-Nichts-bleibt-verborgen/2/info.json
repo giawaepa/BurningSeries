@@ -1,0 +1,30 @@
+{
+        "series":"Medium ? Nichts bleibt verborgen",
+        "seasons":7,
+        "cover":"Medium-Nichts-bleibt-verborgen_0b0e86f0a8fda0fc1c335a2ccfa7a5d6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Von Herzen, Teil 2","english":"When Push Comes to Shove (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Lied des Lebens","english":"The Song Remains the Same","hoster":["PutLocker","Sockshare"]},
+                {"german":"Reisen durch die Zeit","english":"Time Out of Mind","hoster":["Sockshare"]},
+                {"german":"Traumwandlerin","english":"Light Sleeper","hoster":["PutLocker","Sockshare"]},
+                {"german":"Vier Liter Blut","english":"Sweet Dreams","hoster":["PutLocker","Sockshare"]},
+                {"german":"Betrogene Seelen","english":"Dead Aim","hoster":["PutLocker","Sockshare"]},
+                {"german":"Jäger","english":"Judge, Jury &amp; Executioner","hoster":["PutLocker","Sockshare"]},
+                {"german":"Tödliche Wahl","english":"Too Close to Call","hoster":["PutLocker","Sockshare"]},
+                {"german":"Unter dem Schuhbaum","english":"Still Life","hoster":["PutLocker","Sockshare"]},
+                {"german":"27 Minuten","english":"The Reckoning","hoster":["PutLocker","Sockshare"]},
+                {"german":"Mord ist keine Kunst","english":"Method to His Madness","hoster":["PutLocker","Sockshare"]},
+                {"german":"Auf ärztliche Anweisung","english":"Doctor&#039;s Order&#039;s","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kind der Hölle","english":"Raising Cain","hoster":["PutLocker","Sockshare"]},
+                {"german":"Vergessen und begraben","english":"A Changed Man","hoster":["PutLocker","Sockshare"]},
+                {"german":"Totgeburt","english":"Sweet Child O&#039; Mine","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ungeahntes Genie","english":"Allison Wonderland","hoster":["PutLocker","Sockshare"]},
+                {"german":"Verliebt in eine Tote","english":"Lucky in Love","hoster":["PutLocker","Sockshare"]},
+                {"german":"S.O.S.","english":"S.O.S.","hoster":["PutLocker","Sockshare"]},
+                {"german":"Enttarnt","english":"Knowing Her","hoster":["PutLocker","Sockshare"]},
+                {"german":"Blinde Angst","english":"The Darkness Is Light Enough","hoster":["PutLocker","Sockshare"]},
+                {"german":"Geschäfte mit dem Tod","english":"Death Takes a Policy","hoster":["PutLocker","Sockshare"]},
+                {"german":"Parallelwelten","english":"Twice Upon a Time","hoster":["PutLocker","Sockshare"]}
+         ]
+}

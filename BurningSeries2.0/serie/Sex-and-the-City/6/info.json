@@ -1,0 +1,28 @@
+{
+        "series":"Sex and the City",
+        "seasons":6,
+        "cover":"Sex-and-the-City_fd70f136f1be8ed1389274454005ddf0.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Kursschwankungen","english":"to market, to market","hoster":[]},
+                {"german":"Sexistenzangst","english":"great sexpectations","hoster":[]},
+                {"german":"Die Ex-Akten","english":"the perfect present","hoster":[]},
+                {"german":"Reden ist Silber ...","english":"pick-a-little, talk-a-little","hoster":[]},
+                {"german":"Licht, Kamera, Beziehung!","english":"lights, camera, relationship","hoster":[]},
+                {"german":"Die längste Woche","english":"hop, skip, and a week","hoster":[]},
+                {"german":"In Rauch aufgelöst","english":"the post-it always sticks twice","hoster":[]},
+                {"german":"Fang mich","english":"the catch","hoster":[]},
+                {"german":"Das Recht auf Schuhe","english":"a woman&#039;s right to shoes (a.k.a. no shoes, no service)","hoster":[]},
+                {"german":"Nostalgie, Nostalgie!","english":"boy, interrupted","hoster":[]},
+                {"german":"Der Domino-Effekt","english":"the domino effect","hoster":[]},
+                {"german":"Die Nummer Ein","english":"one","hoster":[]},
+                {"german":"Es werde Licht","english":"let there be light","hoster":[]},
+                {"german":"Der Igitt-Faktor","english":"the ick factor","hoster":[]},
+                {"german":"Zeitgefühl","english":"catch-38","hoster":[]},
+                {"german":"Von Mäusen und Menschen","english":"out of the frying pan","hoster":[]},
+                {"german":"Kalter Krieg","english":"the cold war","hoster":[]},
+                {"german":"Fragen über Fragen","english":"splat!","hoster":[]},
+                {"german":"Eine Amerikanerin in Paris, Teil 1","english":"an american girl in paris (part une)","hoster":[]},
+                {"german":"Eine Amerikanerin in Paris, Teil 2","english":"an american girl in paris (part deux)","hoster":[]}
+         ]
+}

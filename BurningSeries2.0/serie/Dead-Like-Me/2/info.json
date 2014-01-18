@@ -1,0 +1,23 @@
+{
+        "series":"Dead Like Me ? So gut wie tot",
+        "seasons":2,
+        "cover":"Dead-Like-Me-So-gut-wie-tot_32256278fd315cd4de818b126cfb67c5.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Was soll der ganze Zirkus?","english":"Send in the Clown","hoster":[]},
+                {"german":"Ausgewogenheit","english":"The Ledger","hoster":["YouTube","PutLocker"]},
+                {"german":"Geistergeschichten","english":"Ghost Story","hoster":["YouTube","PutLocker"]},
+                {"german":"Unter der Oberfläche","english":"The Shallow End","hoster":[]},
+                {"german":"Beeilung","english":"Hurry","hoster":["PutLocker"]},
+                {"german":"Die Qual der Wahl","english":"In Escrow","hoster":["PutLocker"]},
+                {"german":"Rituale","english":"Rites of Passage","hoster":["PutLocker"]},
+                {"german":"Willkommen im Club","english":"The Escape Artist","hoster":["PutLocker"]},
+                {"german":"Herzflimmern","english":"Be Still My Heart","hoster":[]},
+                {"german":"Nicht loslassen","english":"Death Defying","hoster":["PutLocker"]},
+                {"german":"Asche zu Asche","english":"Ashes to Ashes","hoster":["PutLocker"]},
+                {"german":"Vergiss mich nicht","english":"Forget Me Not","hoster":[]},
+                {"german":"Der letzte Tag auf Erden","english":"Last Call","hoster":[]},
+                {"german":"Abschied nehmen","english":"Always","hoster":["PutLocker"]},
+                {"german":"Rückkehr der Geister","english":"Haunted","hoster":[]}
+         ]
+}

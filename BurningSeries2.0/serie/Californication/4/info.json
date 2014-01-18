@@ -1,0 +1,20 @@
+{
+        "series":"Californication",
+        "seasons":5,
+        "cover":"Californication_9f13e2ff11127a00c2c2b56e0c93860f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Vom Regen in die Traufe","english":"Exile On Main St.","hoster":["PutLocker","DivxStage"]},
+                {"german":"Edel in Gedanken, erbärmlich im Handeln","english":"Suicide Solution","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Märchen vom Selbstmord","english":"Home Sweet Home","hoster":["PutLocker","DivxStage"]},
+                {"german":"Affenmord","english":"Monkey Business","hoster":["PutLocker","DivxStage"]},
+                {"german":"Kahlschlag","english":"Freeze-Frame","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rollenstudium","english":"Lawyers, Guns and Money","hoster":["PutLocker","DivxStage"]},
+                {"german":"Sexuelle Befangenheit","english":"The Rescued","hoster":[]},
+                {"german":"Der letzte Glockenschlag","english":"Lights. Camera. Asshole","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Sehnsucht nach dem perfekten Tag","english":"Another Perfect Day","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Verhandlung","english":"The Trial","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wie in alten Zeiten","english":"The Last Supper","hoster":["PutLocker","DivxStage"]},
+                {"german":"Unbequeme Wahrheiten","english":"And Justice For All","hoster":["PutLocker","DivxStage"]}
+         ]
+}

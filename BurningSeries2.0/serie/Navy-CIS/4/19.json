@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Hinterhalt",
+         "titleen":"Grace Period",
+         "description":"Bei einem Selbstmordanschlag werden zwei von Agent Kessedys&#039; Männer getötet. Doch laut Ducky war der Attentäter zu dem Zeitpunkt schon einen Tag tot...",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"3445999/Part1_Hinterhalt"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"3446389/Part2_Hinterhalt"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"3447647/Part3_Hinterhalt"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"3451803/Part4_Hinterhalt"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"937C8731E2FAFAAF"
+                }
+       ]
+}

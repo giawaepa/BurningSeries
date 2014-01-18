@@ -1,0 +1,21 @@
+{
+        "series":"Weeds",
+        "seasons":7,
+        "cover":"Weeds_eccc3dc026f23617b18608ae7cb24016.png",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Wonderful Wonderful","hoster":[]},
+                {"german":"","english":"Machetes up Top","hoster":[]},
+                {"german":"","english":"Su-Su-Sucio","hoster":[]},
+                {"german":"","english":"Super Lucky Happy","hoster":[]},
+                {"german":"","english":"Van Nuys","hoster":[]},
+                {"german":"","english":"A Modest Proposal","hoster":[]},
+                {"german":"","english":"Where the Sidewalk Ends","hoster":[]},
+                {"german":"","english":"A Distinctive Horn","hoster":[]},
+                {"german":"","english":"Suck &#039;N&#039; Spit","hoster":[]},
+                {"german":"","english":"Perro Insano","hoster":[]},
+                {"german":"","english":"Ducks and Tigers","hoster":[]},
+                {"german":"","english":"Glue","hoster":[]},
+                {"german":"","english":"All About My Mom","hoster":[]}
+         ]
+}

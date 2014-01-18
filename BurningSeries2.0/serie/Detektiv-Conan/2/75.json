@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Spinnenkönigin (1)",
+         "titleen":"Episode 177",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=evDTVrSZskI"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5606682/Detektiv_Conan_Folge_177_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5607113/Detektiv_Conan_Folge_177_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5607518/Detektiv_Conan_Folge_177_3_3"
+                }
+       ]
+}

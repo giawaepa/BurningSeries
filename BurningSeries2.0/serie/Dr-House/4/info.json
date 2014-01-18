@@ -1,0 +1,24 @@
+{
+        "series":"Dr. House",
+        "seasons":8,
+        "cover":"Dr-House_c99673c1059f48ba3467597c75711752.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Allein","english":"Alone","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Stoff, aus dem die Heldin ist","english":"The Right Stuff","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"97 Sekunden","english":"97 Seconds","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schauplatz der Merkwürdigkeiten","english":"Guardian Angels","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Spieglein, Spieglein ...","english":"Mirror, Mirror","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Auf Biegen und Brechen","english":"Whatever It Takes","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Hässlich","english":"Ugly","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed"]},
+                {"german":"Blut und Spiel","english":"You Don&#039;t Want to Know","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Zu vieles kommt in Frage","english":"Games","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ist das Lügen nicht schön?","english":"It&#039;s A Wonderful Lie","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Cate aus dem Eis","english":"Frozen","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schalom, Dr. House","english":"Don&#039;t Ever Change","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Krankhaft nett","english":"No More Mr. Nice Guy","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Folgenreich","english":"Living the Dream","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Im Kopf von House","english":"House&#039;s Head (1)","hoster":["PutLocker","Sockshare","RapidVideo","BitShare","UploadC"]},
+                {"german":"Im Herzen von Wilson","english":"Wilson&#039;s Heart (2)","hoster":["PutLocker","Sockshare","RapidVideo","BitShare"]}
+         ]
+}

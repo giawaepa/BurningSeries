@@ -1,0 +1,24 @@
+{
+        "series":"Star Wars: The Clone Wars",
+        "seasons":4,
+        "cover":"Star-Wars-The-Clone-Wars_164076794aa451946eb1a006e4e3226b.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"","english":"Water War","hoster":["PutLocker"]},
+                {"german":"","english":"Gungan Attack","hoster":["PutLocker"]},
+                {"german":"","english":"Prisoners","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"","english":"Shadow Warrior","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"","english":"Mercy Mission","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"","english":"Nomad Droids","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Darkness on Umbara","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The General","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"","english":"Plan of Dissent","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"","english":"Carnage of Krell","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"","english":"Kidnapped","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Slaves of the Republic","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Escape from Kadavo","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"A Friend in Need","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Deception","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Friends and Enemies","hoster":["PutLocker","DivxStage"]}
+         ]
+}

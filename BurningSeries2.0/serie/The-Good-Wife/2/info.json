@@ -1,0 +1,31 @@
+{
+        "series":"The Good Wife",
+        "seasons":3,
+        "cover":"The-Good-Wife_68a0b0f06b57d5a5a182c9ba3db0d5f7.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Fusion","english":"Taking Control","hoster":["PutLocker"]},
+                {"german":"Zweimal angeklagt","english":"Double Jeopardy","hoster":["PutLocker"]},
+                {"german":"Der Heckenschütze","english":"Breaking Fast","hoster":["PutLocker"]},
+                {"german":"Panik","english":"Cleaning House","hoster":["PutLocker"]},
+                {"german":"VIP-Behandlung","english":"VIP Treatment","hoster":["PutLocker"]},
+                {"german":"David und Goliath","english":"Poisoned Pill","hoster":["PutLocker"]},
+                {"german":"Böses Mädchen","english":"Bad Girls","hoster":["PutLocker"]},
+                {"german":"Abgehört","english":"On Tap","hoster":["PutLocker"]},
+                {"german":"Neun Stunden","english":"Nine Hours","hoster":["PutLocker"]},
+                {"german":"Getrennte Wege","english":"Breaking Up","hoster":["PutLocker"]},
+                {"german":"Befangenheit","english":"Two Courts","hoster":["PutLocker"]},
+                {"german":"Sommerloch","english":"Silly Season","hoster":["PutLocker"]},
+                {"german":"Der Maulwurf","english":"Real Deal","hoster":["PutLocker"]},
+                {"german":"Künstlerische Freiheit","english":"Net Worth","hoster":["PutLocker"]},
+                {"german":"Die Wunderwaffe","english":"Silver Bullet","hoster":["PutLocker"]},
+                {"german":"Die chinesische Mauer","english":"Great Firewall","hoster":["PutLocker"]},
+                {"german":"Aussageverweigerung","english":"Ham Sandwich","hoster":["PutLocker"]},
+                {"german":"Killersong","english":"Killer Song","hoster":["PutLocker"]},
+                {"german":"Psychoterror","english":"Wrongful Termination","hoster":["PutLocker"]},
+                {"german":"Wendepunkte","english":"Foreign Affairs","hoster":["PutLocker"]},
+                {"german":"Neue Fronten","english":"In Sickness","hoster":["PutLocker"]},
+                {"german":"Getting Off","english":"Getting Off","hoster":["PutLocker"]},
+                {"german":"Closing Arguments","english":"Closing Arguments","hoster":["PutLocker"]}
+         ]
+}

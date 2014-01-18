@@ -1,0 +1,24 @@
+{
+        "series":"Monk",
+        "seasons":8,
+        "cover":"Monk_bfa22242c5b58dd205872102d92eeed7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Mr. Monk kauft ein Haus","english":"Mr. Monk Buys A House","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der angekündigte Mord","english":"Mr. Monk and the Genius","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und Natalie gehen getrennte Wege?","english":"Mr. Monk gets Lotto Fever","hoster":["PutLocker"]},
+                {"german":"Mr. Monk steigt in den Ring","english":"Mr. Monk Takes a Punch","hoster":["PutLocker"]},
+                {"german":"Mr. Monk geht unter","english":"Mr. Monk is Underwater","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und die Liebe auf den ersten Blick","english":"Mr. Monk Falls in Love","hoster":["PutLocker"]},
+                {"german":"Mr. Monks 100ster Fall","english":"Mr. Monk","hoster":["PutLocker"]},
+                {"german":"Mr. Monk als Kind im Manne","english":"Mr. Monk Gets Hypnotized","hoster":["PutLocker"]},
+                {"german":"Mr. Monk wundert sich über das Weihnachtswunder","english":"Mr. Monk and the Miracle","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der ganz andere Bruder","english":"Mr. Monk and The Other Brother","hoster":["PutLocker"]},
+                {"german":"Mr. Monk auf Rädern","english":"Mr. Monk on Wheels (Mr. Monk Gets Shot)","hoster":["PutLocker"]},
+                {"german":"Mr. Monk wird bemuttert","english":"Mr. Monk and the Lady Next Door","hoster":["PutLocker"]},
+                {"german":"Mr. Monk möchte eigentlich nicht ins Stadion","english":"Mr. Monk Makes the Playoffs","hoster":["PutLocker"]},
+                {"german":"Mr. Monks Mitgefühl hält sich in Grenzen","english":"Mr. Monk and the Bully","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und die Magie des Mordens","english":"Mr. Monk and the Magician","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und das Letzte, was Trudy sah","english":"Mr. Monk Fights City Hall","hoster":["PutLocker"]}
+         ]
+}

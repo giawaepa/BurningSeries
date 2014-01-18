@@ -1,0 +1,33 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Hugo, kleine Wesen und Kang","english":"Treehouse of Horror VII","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das verlockende Angebot","english":"You Only Move Twice","hoster":["PutLocker","DivxStage"]},
+                {"german":"Auf in den Kampf!","english":"The Homer They Fall","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Mr. Burns&#039; Sohn Larry","english":"Burns Baby Burns","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der beliebte Amüsierbetrieb","english":"Bart After Dark","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Scheide sich, wer kann","english":"A Milhouse Divided","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Lisa will lieben","english":"Lisa&#039;s Date with Density","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der total verrückte Ned","english":"Hurricane Neddy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Homers merkwürdiger Chili-Trip","english":"El Viaje Misterioso de Nuestro Jomer (The Mysterious Voyage of Homer)","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Akte Springfield","english":"The Springfield Files","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Marge und das Brezelbacken","english":"The Twisted World of Marge Simpson","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Berg des Wahnsinns","english":"Mountain of Madness","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das magische Kindermädchen","english":"Simpsoncalifragilisticexpiala(Annoyed Grunt)cious","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Homer ist Poochie, der Wunderhund","english":"The Itchy &amp; Scratchy &amp; Poochie Show","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Homer und gewisse Ängste","english":"Homer&#039;s Phobia","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die beiden hinterhältigen Brüder","english":"Brother from Another Series","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Babysitten - ein Alptraum","english":"My Sister, My Sitter","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der mysteriöse Bier-Baron","english":"Homer vs. the 18th Amendment","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Wenn der Rektor mit der Lehrerin...","english":"Grade School Confidential","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der tollste Hund der Welt","english":"The Canine Mutiny","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der alte Mann und Lisa","english":"The Old Man and the Lisa","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Marge als Seelsorgerin","english":"In Marge We Trust","hoster":["DivxStage","RapidVideo"]},
+                {"german":"Homer hatte einen Feind","english":"Homer&#039;s Enemy","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ihre Lieblings-Fernsehfamilie","english":"The Simpsons Spin-off Showcase","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Lisas geheimer Krieg","english":"The Secret War of Lisa Simpson","hoster":["PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

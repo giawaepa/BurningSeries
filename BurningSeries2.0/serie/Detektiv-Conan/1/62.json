@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Die Schmetterlingsfrau",
+         "titleen":"Episode 062",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=LP2bUpKZlCo"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=kEGZFRATdGk"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6252500/Detektiv_Conan_Folge_62_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6252614/Detektiv_Conan_Folge_62_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6252848/Detektiv_Conan_Folge_62_3_3"
+                }
+       ]
+}

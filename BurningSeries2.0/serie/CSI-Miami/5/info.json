@@ -1,0 +1,32 @@
+{
+        "series":"CSI: Miami",
+        "seasons":10,
+        "cover":"CSI-Miami_b05c65690e21963e0626d83346766b0ahtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Rio","english":"Rio","hoster":["PutLocker"]},
+                {"german":"Um die Ecke","english":"Going Under","hoster":["PutLocker"]},
+                {"german":"Wer stirbt als nächstes?","english":"Death Pool 100","hoster":[]},
+                {"german":"Nie wieder im Rampenlicht","english":"If Looks Could Kill","hoster":["PutLocker"]},
+                {"german":"Eine Hand tötet die andere","english":"Death Eminent","hoster":["PutLocker"]},
+                {"german":"Ein Fluch geht um","english":"Curse Of The Coffin","hoster":["PutLocker"]},
+                {"german":"Benzin im Blut","english":"High Octane","hoster":["PutLocker"]},
+                {"german":"Wer hat Natalias Schwester?","english":"Darkroom","hoster":["PutLocker"]},
+                {"german":"Miami in Gefahr","english":"Going, Going, Gone","hoster":["PutLocker"]},
+                {"german":"Wahrheiten gibt es viele","english":"Come As You Are","hoster":["PutLocker"]},
+                {"german":"Ein Netz voller Spinnen","english":"Backstabbers","hoster":[]},
+                {"german":"Innere Angelegenheiten","english":"Internal Affairs","hoster":["PutLocker"]},
+                {"german":"Überhitzte Gemüter","english":"Throwing Heat","hoster":["PutLocker"]},
+                {"german":"Einer von uns - Teil 1","english":"No Man&#039;s Land (1)","hoster":["PutLocker"]},
+                {"german":"Einer von uns - Teil 2","english":"Man Down (2)","hoster":["PutLocker"]},
+                {"german":"Feine Familie","english":"Broken Home","hoster":[]},
+                {"german":"Wilde Tiere","english":"A Grizzly Murder","hoster":["PutLocker"]},
+                {"german":"Drei sind einem zu viel","english":"Triple Threat","hoster":["PutLocker"]},
+                {"german":"Wege zum Mord","english":"Bloodline","hoster":["PutLocker"]},
+                {"german":"Vorschnell","english":"Rush","hoster":["PutLocker"]},
+                {"german":"Der Tod lädt ein zum Rosenkrieg","english":"Just Murdered","hoster":["PutLocker"]},
+                {"german":"Zu heiß!","english":"Burned","hoster":[]},
+                {"german":"Im Sumpf des Verbrechens","english":"Kill Switch","hoster":["PutLocker"]},
+                {"german":"Von Natur aus böse?","english":"Born To Kill","hoster":["PutLocker"]}
+         ]
+}

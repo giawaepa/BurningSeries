@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Drei Einzelkämpfer für Sasuke",
+         "titleen":"Episode 121",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6135959/Naruto_folge_121_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6135981/Naruto_folge_121_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6136008/Naruto_folge_121_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"B95B3F1C8C96E67A"
+                }
+       ]
+}

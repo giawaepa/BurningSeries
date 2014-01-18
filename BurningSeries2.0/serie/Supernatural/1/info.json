@@ -1,0 +1,30 @@
+{
+        "series":"Supernatural",
+        "seasons":7,
+        "cover":"Supernatural_a74050852c0b23409201cbcc3b25787e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Frau in Weiß","english":"Pilot","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","UploadC"]},
+                {"german":"Wendigo","english":"Wendigo","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","UploadC"]},
+                {"german":"Tod im Wasser","english":"Dead in the Water","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","UploadC"]},
+                {"german":"Phantom-Reisende","english":"Phantom Traveler","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","UploadC"]},
+                {"german":"Bloody Mary","english":"Bloody Mary","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","UploadC"]},
+                {"german":"Haut","english":"Skin","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","BitShare","UploadC"]},
+                {"german":"Hakenmann","english":"Hook Man","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Insekten","english":"Bugs","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Zu Hause","english":"Home","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Asylum","english":"Asylum","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Vogelscheuche","english":"Scarecrow","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Wunderheiler","english":"Faith","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Route 666","english":"Route 666","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Albtraum","english":"Nightmare","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Menschenjäger","english":"The Benders","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Tödliche Schatten","english":"Shadow","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Spukhaus","english":"Hell House","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Eine Hexe kehrt zur","english":"Something Wicked","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Gemälde","english":"Provenance","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Wunder-Colt","english":"Dead Mans Blood","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Erlösung","english":"Salvation","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Teufelsfalle","english":"Devils Trap","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

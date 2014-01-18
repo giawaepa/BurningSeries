@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Ab in den Tunnel!",
+         "titleen":"One in Every Crowd",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6168588/ab_in_den_tunnel_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6168747/ab_in_den_tunnel_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6168894/ab_in_den_tunnel_3_3"
+                }
+       ]
+}

@@ -1,0 +1,14 @@
+{
+        "series":"Drake &amp; Josh",
+        "seasons":4,
+        "cover":"Drake-Josh_4641eaa9bacd6e8baff66898514f6ae3.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Brüder wider Willen","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Die geteilte Freundin","english":"Believe me Brother","hoster":["PutLocker"]},
+                {"german":"Zwei Jungs und ein Baby","english":"Two Idiots and a Baby","hoster":[]},
+                {"german":"Solo für Josh","english":"First Cruch","hoster":["PutLocker"]},
+                {"german":"Sturmfrei","english":"Grammy","hoster":["PutLocker"]},
+                {"german":"Josh, der Sündenbock","english":"Dune Buggy","hoster":[]}
+         ]
+}

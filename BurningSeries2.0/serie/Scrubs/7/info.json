@@ -1,0 +1,19 @@
+{
+        "series":"Scrubs ? Die Anfänger",
+        "seasons":9,
+        "cover":"Scrubs-Die-Anfaenger_bb19dab1f0d35358b688f3a4a8bac13e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mein voller Durchblick","english":"My Own Worst Enemy","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine schwere Geburt","english":"My Hard Labor","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Erwachsenwerden","english":"My Inconvenient Truth","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Eselsbrücken","english":"My Identity Crisis","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein inneres Kind","english":"My Growing Pains","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Tabellenführung","english":"My #1 Doctor","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Wasserbomben","english":"My Bad Too","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Leben als Mann","english":"My Manhood","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Dusel Diagnose","english":"My Dumb Luck","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein neuer Chef","english":"My Waste of Time","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Märchen","english":"My Princess","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]}
+         ]
+}

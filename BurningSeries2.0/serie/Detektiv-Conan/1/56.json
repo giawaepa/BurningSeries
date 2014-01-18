@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Fatale Verwechslung",
+         "titleen":"Episode 056",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=H50ik09cw7g"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6244079/Detektiv_Conan_Folge_56_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6244204/Detektiv_Conan_Folge_56_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6244421/Detektiv_Conan_Folge_56_3_3"
+                }
+       ]
+}

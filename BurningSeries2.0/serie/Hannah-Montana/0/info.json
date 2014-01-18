@@ -1,0 +1,9 @@
+{
+        "series":"Hannah Montana",
+        "seasons":4,
+        "cover":"Hannah-Montana_bdd18800b77fa223224ed85b46624495.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Hannah Montana - Der Film","english":"The Hannah Montana Movie","hoster":["YouTube"]}
+         ]
+}

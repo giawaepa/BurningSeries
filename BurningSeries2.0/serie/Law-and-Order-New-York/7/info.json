@@ -1,0 +1,30 @@
+{
+        "series":"Law &amp; Order: New York",
+        "seasons":13,
+        "cover":"Law-Order-New-York_267bec13970e73f11ea285ae5af0ca71.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Dämonen","english":"Demons","hoster":[]},
+                {"german":"Perfekt","english":"Design (1)","hoster":[]},
+                {"german":"Notruf","english":"911","hoster":[]},
+                {"german":"Väter","english":"Ripped","hoster":[]},
+                {"german":"Killer","english":"Strain","hoster":[]},
+                {"german":"Hass","english":"Raw","hoster":[]},
+                {"german":"Name","english":"Name","hoster":[]},
+                {"german":"Kontrolle","english":"Starved","hoster":[]},
+                {"german":"Betrogen","english":"Rockabye","hoster":[]},
+                {"german":"Anthrax","english":"Storm","hoster":[]},
+                {"german":"Ausgestoßen","english":"Alien","hoster":[]},
+                {"german":"Infiziert","english":"Infected","hoster":[]},
+                {"german":"Ausweglos","english":"Blast","hoster":[]},
+                {"german":"Inzest","english":"Taboo","hoster":[]},
+                {"german":"Manipuliert","english":"Manipulated","hoster":[]},
+                {"german":"Skrupellos","english":"Gone","hoster":[]},
+                {"german":"Spielsucht","english":"Class","hoster":[]},
+                {"german":"Ungeliebt","english":"Venom","hoster":[]},
+                {"german":"Schuldgefühle","english":"Fault","hoster":[]},
+                {"german":"Verachtet","english":"Fat","hoster":[]},
+                {"german":"Missbraucht","english":"Web","hoster":[]},
+                {"german":"Beeinflusst","english":"Influence","hoster":[]}
+         ]
+}

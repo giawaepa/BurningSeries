@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Fall der Hundert-Yen-Münze",
+         "titleen":"Episode 230",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=t_5kkOVfvXY"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5836904/Detektiv_Conan_Folge_230_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5837310/Detektiv_Conan_Folge_230_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5837724/Detektiv_Conan_Folge_230_3_3"
+                }
+       ]
+}

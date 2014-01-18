@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die letzte Ausfahrt (2)",
+         "titleen":"Episode 213",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=sfx2Ohjlnm8"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5771758/Detektiv_Conan_Folge_213_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5772070/Detektiv_Conan_Folge_213_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5772399/Detektiv_Conan_Folge_213_3_3"
+                }
+       ]
+}

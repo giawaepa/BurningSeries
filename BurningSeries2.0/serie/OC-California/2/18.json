@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Lockere Geschäfte",
+         "titleen":"The Risky Business",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7159414/O_C_California_s02e18_Lockere_Geschaefte_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7159430/O_C_California_s02e18_Lockere_Geschaefte_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7159451/O_C_California_s02e18_Lockere_Geschaefte_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7159471/O_C_California_s02e18_Lockere_Geschaefte_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"F9B75FDDD10A05D1"
+                }
+       ]
+}

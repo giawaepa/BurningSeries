@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Das Experiment / Wir wollen unseren Schrotti",
+         "titleen":"The Experiment / The Great Jungle Gym Stand off",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=q_2FqE9JSHk"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=t_ywiPwClJc"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6109743/Disneys_Grosse_Pause_Episode_3_Das_Experiment"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6110413/Disneys_Grosse_Pause_Episode_4_Wir_wollen_unseren_Schrotti"
+                }
+       ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"One Tree Hill",
+        "seasons":9,
+        "cover":"One-Tree-Hill_2fa03b219e492507d3b23615a456128d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Brandwunden","english":"Like You Like an Arsonist","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Sommerabschluss-Party","english":"From the Edge of the Deep Green Sea","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Exklusive Neuigkeiten","english":"First Day on a Brand New Planet","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Maskenball","english":"An Attempt to Tip the Scales","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wahnsinn um Mitternacht","english":"A Multitude of Casualties","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Traumfreund-Wahl","english":"Locked Hearts and Hand Grenades","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Falsche Dates","english":"Champagne for My Real Friends, Real Pain for My Sham Friends","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Doppelte Herzschwäche","english":"The Worst Day Since Yesterday","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Pokerspiel","english":"How a Resurrection Really Feels","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schöne neue Welt","english":"Brave New World","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Keiths Rückkehr","english":"Return of the Future","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Die große College-Frage","english":"I?ve Got Dreams to Remember","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Abschied","english":"The Wind That Blew My Heart Away","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Brookes großer Auftritt","english":"All Tomorrow?s Parties","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zündstoff","english":"Just Watch the Fireworks","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Jimmy Edwards","english":"With Tired Eyes, Tired Minds, Tired Souls, We Slept","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Liebe besiegt Trauer","english":"Who Will Survive, and What Will Be Left of Them","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Wochenendausflug","english":"When It Isn?t Like It Should Be","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Herzensangelegenheiten","english":"I Slept with Someone in Fall Out Boy and All I Got Was This Stupid Song Written about Me","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Liebe und Lügen","english":"Everyday Is a Sunday Evening","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Märchen von Haley und Nathan","english":"Over the Hills and Far Away","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hochzeit mit Folgen","english":"The Show Must Go On","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

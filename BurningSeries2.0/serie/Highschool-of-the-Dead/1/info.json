@@ -1,0 +1,21 @@
+{
+        "series":"Highschool of the Dead",
+        "seasons":1,
+        "cover":"Highschool-of-the-Dead_595dcd3c31b8d080c9f556c1d785edb6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Frühling der Toten","english":"Spring of the DEAD","hoster":["YouTube","PutLocker"]},
+                {"german":"Flucht vor den Toten","english":"Escape from the DEAD","hoster":["YouTube","PutLocker"]},
+                {"german":"Demokratie unter den Toten","english":"Democracy under the DEAD","hoster":["YouTube","PutLocker"]},
+                {"german":"Rennen der Toten","english":"Running in the DEAD","hoster":["YouTube","PutLocker"]},
+                {"german":"Straßen der Toten","english":"Streets of the DEAD","hoster":["YouTube","PutLocker"]},
+                {"german":"Die Toten in der Nacht","english":"In the DEAD of the night","hoster":["YouTube","PutLocker"]},
+                {"german":"Tote in der Nacht und wieder zurück","english":"DEAD night and the DEAD ruck","hoster":["YouTube","PutLocker"]},
+                {"german":"Die Toten gehen Nach Hause","english":"The DEAD way home","hoster":["YouTube","PutLocker"]},
+                {"german":"Die Rasen der Toten","english":"The Sward and DEAD","hoster":["YouTube","PutLocker"]},
+                {"german":"Die Hausregeln der Toten","english":"The DEAD?S house rules","hoster":["YouTube","PutLocker"]},
+                {"german":"Der Sturm der Toten bricht auf","english":"DEAD storm rising","hoster":["YouTube","PutLocker"]},
+                {"german":"Alle Toten greifen an","english":"All DEAD&#039;S attack.","hoster":["YouTube","PutLocker"]},
+                {"german":"","english":"Drifters of the DEAD","hoster":["MyVideo"]}
+         ]
+}

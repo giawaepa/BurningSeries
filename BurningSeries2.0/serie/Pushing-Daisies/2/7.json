@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Robbing Hood",
+         "titleen":"Robbing Hood",
+         "description":"Emerson Cod und Ned werden von dem Anwalt des verstorbenen Millionärs Gustav Hoffer engagiert, um rauszufinden, wie sein Klient gestorben ist. Entweder der Millionär ist durch die Gunst eines heutigen Robin Hood oder durch seine viel jüngere Witwe zu Tode gekommen. In der Zwischenzeit rast Lily vor Wut, da der Verdächtige Dwight sich an Vivian heranmacht.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5990023/Pushing_Daisies_2x07_Part_1_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5990133/Pushing_Daisies_2x07_Part_2_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5990199/Pushing_Daisies_2x07_Part_3_4"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"5990286/Pushing_Daisies_2x07_Part_4_4"
+                }
+       ]
+}

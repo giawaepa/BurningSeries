@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die fünf Haie",
+         "titleen":"Episode 14",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6439778/Naruto_Shippuuden_UNCUT_Folge_14_Deutsch_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6440255/Naruto_Shippuuden_UNCUT_Folge_14_Deutsch_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6440487/Naruto_Shippuuden_UNCUT_Folge_14_Deutsch_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"6DD716B628F41835"
+                }
+       ]
+}

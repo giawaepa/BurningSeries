@@ -1,0 +1,33 @@
+{
+        "series":"Der Prinz von Bel Air",
+        "seasons":6,
+        "cover":"Der-Prinz-von-Bel-Air_8852ec7f531d3cc12b2010591068939f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Gesangskarriere Teil 1","english":"The Client Part 1","hoster":["PutLocker","Sockshare","UploadC"]},
+                {"german":"Die Gesangskarriere Teil 2","english":"The Client Part 2","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Der alte Will und das Meerestier","english":"Reality Bites","hoster":["MyVideo","PutLocker","Sockshare"]},
+                {"german":"Der Videoabend","english":"Grumpy Young Men","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wer andern eine Grube gräbt ...","english":"Fresh Prince: The Movie","hoster":["PutLocker","Sockshare"]},
+                {"german":"Unheimliche Begegnung","english":"Will&#039;s Misery","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Schulwechsel","english":"Father Knows Best","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der mit der Braut tanzt","english":"Soul Train","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Ehre des Mannes","english":"Love Hurts","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das 10-Millionen-Dollar-Foto","english":"Wills up the Dirt Road","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein Opfer der Liebe","english":"Will Steps Out","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Lieblingskind","english":"Same Game Next Season","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Todessprung","english":"Three&#039;s A Crowd","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wer einmal lügt ...","english":"It&#039;s a Wonderful Lie","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Lebensretter","english":"Bullets over Bel Air","hoster":["PutLocker","Sockshare"]},
+                {"german":"Will auf Freiersfüßen","english":"A Descent Proposal","hoster":["PutLocker","Sockshare"]},
+                {"german":"Paartherapie","english":"Will Is from Mars","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hochzeitspläne in Bel-Air","english":"The Wedding Show","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Miethai","english":"Slum Like It ... Not!","hoster":["PutLocker","Sockshare"]},
+                {"german":"Will fällt aus der Rolle","english":"As the Will Turns","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Aufnahmeprüfung","english":"Save the Last Trance for Me","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die grüne Versuchung","english":"To Thine Own Self Be Blue ... an...","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der standhafte Will","english":"Cold Seat, Hot Body","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Junggesellenparty","english":"Love in an Elevator","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wo die Liebe hinfällt","english":"For Whom the Wedding Bells Toll","hoster":["PutLocker","Sockshare"]}
+         ]
+}

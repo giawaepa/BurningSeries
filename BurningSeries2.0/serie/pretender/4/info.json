@@ -1,0 +1,28 @@
+{
+        "series":"Pretender",
+        "seasons":4,
+        "cover":"Pretender_be5de66db36a1ccb7476b575a235da53html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Afrika-Connection ","english":"The World s Changing ","hoster":[]},
+                {"german":"Das Loch ","english":"Survival ","hoster":[]},
+                {"german":"Das Puzzelspiel ","english":"Angel s Flight ","hoster":[]},
+                {"german":"Die Sexfalle ","english":"Risqué Business ","hoster":[]},
+                {"german":"Liebe auf der Flucht ","english":"Road Trip ","hoster":[]},
+                {"german":"Geh aufs Ganze ","english":"Extreme ","hoster":[]},
+                {"german":"Wolfskind ","english":"Wild Child ","hoster":[]},
+                {"german":"Eine Herzensangelegenheit ","english":"Rules of Engagement ","hoster":[]},
+                {"german":"Kopflos ","english":"Til Death do us Part ","hoster":[]},
+                {"german":"Doppeltes Spiel ","english":"Spin Doctor ","hoster":[]},
+                {"german":"Für eine Handvoll Kleingeld ","english":"Cold Dick ","hoster":[]},
+                {"german":"Bodyguard ","english":"Lifeline ","hoster":[]},
+                {"german":"Der General ","english":"Ghosts from the Past ","hoster":[]},
+                {"german":"Der Schlächter ","english":"The Agent of Year Zero ","hoster":[]},
+                {"german":"Harter Stoff ","english":"Junk ","hoster":[]},
+                {"german":"Tod nach Stundenplan ","english":"School Daze ","hoster":[]},
+                {"german":"Giftalarm ","english":"Meltdown ","hoster":[]},
+                {"german":"Die unüblichen Verdächtigen ","english":"Corn Man a Coming ","hoster":[]},
+                {"german":"Endspiel, Teil 1 ","english":"The Inner Sense (1) ","hoster":[]},
+                {"german":"Endspiel, Teil 2 ","english":"The Inner Sense (1)","hoster":[]}
+         ]
+}

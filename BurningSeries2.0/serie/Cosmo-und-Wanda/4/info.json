@@ -1,0 +1,29 @@
+{
+        "series":"Cosmo und Wanda ? Wenn Elfen helfen",
+        "seasons":8,
+        "cover":"Cosmo-und-Wanda-Wenn-Elfen-helfen_efab7858e8f9b95490bb33ca474e61ca.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der 500-Seiten Aufsatz","english":"Shelf Life","hoster":[]},
+                {"german":"Der Zauberkopierer / Diebische Eltern?","english":"Hard Copy / Parent Hoods","hoster":[]},
+                {"german":"Der Kinohit des Jahres / Liebes Tagebuch...","english":"Lights...Camera...Adam! / A Bad Case of Diary-Uh!","hoster":[]},
+                {"german":"Gefangen in der Welt der Feen, Teil 1","english":"The Jimmy Timmy Power Hour, Part 1","hoster":[]},
+                {"german":"Gefangen in der Welt der Feen, Teil 2","english":"The Jimmy Timmy Power Hour, Part 2","hoster":[]},
+                {"german":"Baby für einen Tag / Falsch oder Richtig?","english":"Baby Face / Mr. Right!","hoster":[]},
+                {"german":"Vicky ist nicht mehr zickig / Kobold, übernehmen sie","english":"Vicky Loses Her Icky / Pixies Inc.","hoster":[]},
+                {"german":"Vicky ist verliebt / Selten so gelacht","english":"The Odd Couple / Class Clown","hoster":[]},
+                {"german":"Der große Super-Helden Wunsch","english":"The Big Superhero Wish","hoster":[]},
+                {"german":"Falsche Freunde / Aber bitte mit Gefühl","english":"Power Pals / Emotion Commotion","hoster":[]},
+                {"german":"Zauberhafte Nachbarn / Nur du und ich","english":"Fairly Friends &amp; New Neighbors! / Just the Two of Us!","hoster":[]},
+                {"german":"Mama ist die Beste / Rund um die Uhr","english":"Who&#039;s Your Daddy? / HomeWrecker","hoster":[]},
+                {"german":"Ein Bräutigam auf der Flucht / Gute Wünsche - Schlechte Wünsche","english":"A New Squid in Town! / Wish Fixers","hoster":[]},
+                {"german":"Sag die Wahrheit, Cosmo! / Das Seetang-Monster","english":"Truth or Cosmoquenes / Beach Bummed!","hoster":[]},
+                {"german":"Altagshelden, Teil 1","english":"Channel Chasers, Part 1","hoster":[]},
+                {"german":"Altagshelden, Teil 2","english":"Channel Chasers, Part 2","hoster":[]},
+                {"german":"Altagshelden, Teil 3","english":"Channel Chasers, Part 3","hoster":[]},
+                {"german":"Die Verbrechensbekämpfer / Der Geist aus der Lampe","english":"Catman Meets the Crimson Chin / Genie Meanie Minie Mo","hoster":[]},
+                {"german":"Kinder an die Macht, Teil 1","english":"School&#039;s Out: The Musical!, Part 1","hoster":[]},
+                {"german":"Kinder an die Macht, Teil 2","english":"School&#039;s Out: The Musical!, Part 2","hoster":[]},
+                {"german":"Negativ Timmy / Kleiner Mann - Große Liebe","english":"Nega-Timmy / Love at First Height","hoster":[]}
+         ]
+}

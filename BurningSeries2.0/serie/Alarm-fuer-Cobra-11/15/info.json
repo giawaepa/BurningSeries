@@ -1,0 +1,21 @@
+{
+        "series":"Alarm für Cobra 11",
+        "seasons":16,
+        "cover":"Alarm-fuer-Cobra-11_caf748c1856b2b550c7577b326da6fe4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Anschlag","english":"","hoster":["PutLocker"]},
+                {"german":"Der letzte Tag","english":"","hoster":["PutLocker"]},
+                {"german":"Der Prüfer","english":"","hoster":[]},
+                {"german":"Für das Leben eines Freundes","english":"","hoster":["PutLocker"]},
+                {"german":"Der Angriff","english":"","hoster":[]},
+                {"german":"Formel Zukunft","english":"","hoster":[]},
+                {"german":"Turbo und Tacho","english":"","hoster":[]},
+                {"german":"Bad Bank","english":"","hoster":[]},
+                {"german":"Das zweite Leben","english":"","hoster":[]},
+                {"german":"Höher, schneller, weiter","english":"","hoster":[]},
+                {"german":"Und Action!","english":"","hoster":[]},
+                {"german":"In der Schusslinie","english":"","hoster":[]},
+                {"german":"Toter Bruder","english":"","hoster":[]}
+         ]
+}

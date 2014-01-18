@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Shikamarus Schatten",
+         "titleen":"Episode 43",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=4y33ll_Lz0U"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=mfgFdLPs1Fc"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6356887/Naruto_folge_43_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6356978/Naruto_folge_43_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6357019/Naruto_folge_43_part_3_3"
+                }
+       ]
+}

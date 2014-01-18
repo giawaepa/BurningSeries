@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Die Sommerschule",
+         "titleen":"Graduation",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=6TswHd2zhRM"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=DDkTlijvWRo"
+                },{
+                        "hoster":"YouTube",
+                        "part":3,
+                        "link":"=u-ZJvRd2O7M"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5286284/Staffel_3_Folge_1_1_2_Die_Sommerschule_Hotel_Zack_And_Cody"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5287322/Staffel_3_Folge_1_2_2_Die_Sommerschule_Hotel_Zack_And_Cody"
+                }
+       ]
+}

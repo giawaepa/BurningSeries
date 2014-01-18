@@ -1,0 +1,30 @@
+{
+        "series":"Emergency Room",
+        "seasons":15,
+        "cover":"Emergency-Room_0aea79540946568b1a9df659407b9e41.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Sport ist Mord","english":"Homecoming","hoster":["PutLocker","Sockshare"]},
+                {"german":"Warten auf ein Wunder","english":"Sand and Water","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Außerirdischen kommen","english":"Mars Attacks","hoster":["PutLocker","Sockshare"]},
+                {"german":"Rufmord","english":"Benton Backwards","hoster":["PutLocker","Sockshare"]},
+                {"german":"Aus der Bahn geworfen","english":"Flight of Fancy","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Besuch","english":"The Visit","hoster":["PutLocker","Sockshare"]},
+                {"german":"Überraschende Diagnosen","english":"Rescue Me","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sündenfall","english":"The Dance We Do","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das größte Geschenk","english":"The Greatest of Gifts","hoster":["PutLocker","Sockshare"]},
+                {"german":"Schritt für Schritt","english":"Piece of Mind","hoster":["PutLocker","Sockshare"]},
+                {"german":"Mein ist die Rache","english":"Rock, Paper, Scissors","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Alibi-Schwarze","english":"Surrender","hoster":["PutLocker","Sockshare"]},
+                {"german":"Dr. Green an Mr. Hyde","english":"Thy Will Be Done","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein Spaziergang im Wald","english":"A Walk in the Woods","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Kreuzung","english":"The Crossing","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hexenjagd","english":"Witch Hunt","hoster":["PutLocker","Sockshare"]},
+                {"german":"Tödliche Entscheidung","english":"Survival of the Fittest","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hochzeit mit Hindernissen","english":"April Showers","hoster":["PutLocker","Sockshare"]},
+                {"german":"Tödliche Rituale","english":"Sailing Away","hoster":["PutLocker","Sockshare"]},
+                {"german":"Auf eigenen Wunsch","english":"Fear of Commitment","hoster":["PutLocker","Sockshare"]},
+                {"german":"Das Leben ist ein Risiko","english":"Where the Heart Is","hoster":["PutLocker","Sockshare"]},
+                {"german":"Gnadenloser Rachefeldzug","english":"Rampage","hoster":["PutLocker","Sockshare"]}
+         ]
+}

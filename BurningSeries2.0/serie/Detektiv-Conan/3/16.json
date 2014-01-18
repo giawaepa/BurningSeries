@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Das Haus der 200 Masken (1)",
+         "titleen":"Episode 198",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=uBTMgJJKN1s"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5731197/Detektiv_Conan_Folge_198_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5731494/Detektiv_Conan_Folge_198_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5731747/Detektiv_Conan_Folge_198_3_3"
+                }
+       ]
+}

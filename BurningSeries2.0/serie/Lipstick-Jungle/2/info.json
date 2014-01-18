@@ -1,0 +1,21 @@
+{
+        "series":"Lipstick Jungle",
+        "seasons":2,
+        "cover":"Lipstick-Jungle_93e8cbeaafc0f6928d50ed1b8650fb7e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Büchse der Pandora","english":"Chapter Eight: Pandora&#039;s Box","hoster":[]},
+                {"german":"Help!","english":"Chapter Nine: Help!","hoster":[]},
+                {"german":"Let It Be","english":"Chapter Ten: Let It Be","hoster":[]},
+                {"german":"Familienbande","english":"Chapter Eleven: The F-Word","hoster":[]},
+                {"german":"Albträume","english":"Chapter Twelve: Scary, Scary Night!","hoster":[]},
+                {"german":"Große Show","english":"Chapter Thirteen: The Lyin&#039;, The Bitch and The Wardrobe","hoster":[]},
+                {"german":"Die Spiele sind eröffnet","english":"Chapter Fourteen: Let the Games Begin","hoster":[]},
+                {"german":"Drei Pradataschen auf Reisen","english":"Chapter Fifteen: Sisterhood of the Traveling Prada","hoster":[]},
+                {"german":"Rat mal, wer nicht zum Essen kommt","english":"Chapter Sixteen: Thanksgiving","hoster":[]},
+                {"german":"Bye, bye Baby","english":"Chapter Seventeen: Bye, Bye Baby","hoster":[]},
+                {"german":"Zu viel ist zu viel","english":"Chapter Eighteen: Indecent Exposure","hoster":[]},
+                {"german":"Zweiter Anlauf","english":"Chapter Nineteen: Lovers&#039; Leaps","hoster":[]},
+                {"german":"La Vie En Pose","english":"Chapter Twenty: La Vie En Pose","hoster":[]}
+         ]
+}

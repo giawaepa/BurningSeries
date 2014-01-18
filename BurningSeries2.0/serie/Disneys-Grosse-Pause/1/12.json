@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Mikey ist verliebt / Psychoterror",
+         "titleen":"The Voice / Kids in the Mist",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=_2L7TJG0xWM"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=AkTJSE6IUxU"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6358189/Disneys_Grosse_Pause_Episode_23_Mikey_ist_verliebt"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6358256/Disneys_Grosse_Pause_Episode_24_Psychoterror"
+                }
+       ]
+}

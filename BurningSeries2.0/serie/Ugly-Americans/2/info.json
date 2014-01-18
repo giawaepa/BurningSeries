@@ -1,0 +1,18 @@
+{
+        "series":"Ugly Americans",
+        "seasons":2,
+        "cover":"Ugly-Americans_44da35a8a58c78e1dd87271eb9ea31a6.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Wet Hot Demonic Summer","hoster":[]},
+                {"german":"","english":"Callie and her sister","hoster":["PutLocker"]},
+                {"german":"","english":"Ride me to hell","hoster":["PutLocker"]},
+                {"german":"","english":"G. I. Twayne","hoster":["PutLocker"]},
+                {"german":"","english":"The Ring of Powers","hoster":["PutLocker"]},
+                {"german":"","english":"Attack of Mark&#039;s Clone","hoster":["PutLocker"]},
+                {"german":"","english":"Wail Street","hoster":["PutLocker"]},
+                {"german":"","english":"Little Ship of Horrors","hoster":["PutLocker"]},
+                {"german":"","english":"Lilly and the Beast","hoster":["PutLocker"]},
+                {"german":"","english":"Mummy Dearest","hoster":["PutLocker"]}
+         ]
+}

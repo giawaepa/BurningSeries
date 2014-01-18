@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Schneller als die Polizei erlaubt",
+         "titleen":"Episode 115",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=Gb8e8Xv8Abw"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5406101/Detektiv_Conan_Folge_115_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5406484/Detektiv_Conan_Folge_115_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5406750/Detektiv_Conan_Folge_115_3_3"
+                }
+       ]
+}

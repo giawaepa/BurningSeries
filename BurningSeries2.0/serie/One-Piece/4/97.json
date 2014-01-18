@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Das Kirschblütenfest",
+         "titleen":"Episode 303",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4159956/One_Piece_Folge_303_1_3_Das_Kirschbluetenfest"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4160614/One_Piece_Folge_303_2_3_Das_Kirschbluetenfest"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4161228/One_Piece_Folge_303_3_3_Das_Kirschbluetenfest"
+                }
+       ]
+}

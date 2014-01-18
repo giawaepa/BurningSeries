@@ -1,0 +1,15 @@
+{
+        "series":"Simpsons Shorts",
+        "seasons":3,
+        "cover":"Simpsons-Shorts_8bc3066ba8e34cdd81a5ed0d74edb69c.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Gute Nacht","english":"Good Night","hoster":[]},
+                {"german":"Fernsehen","english":"Watching TV","hoster":["YouTube"]},
+                {"german":"Bart Springt (engl.)","english":"Jumping Bart","hoster":["YouTube"]},
+                {"german":"Babysitting","english":"Babysitting Maggie","hoster":[]},
+                {"german":"Der Schnuller","english":"The Pacifier","hoster":[]},
+                {"german":"Rülpswettbewerb","english":"Burping Contest","hoster":["YouTube"]},
+                {"german":"Abendessen (engl.)","english":"Dinner Time","hoster":["YouTube"]}
+         ]
+}

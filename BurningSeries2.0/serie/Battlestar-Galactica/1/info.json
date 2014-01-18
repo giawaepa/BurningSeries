@@ -1,0 +1,21 @@
+{
+        "series":"Battlestar Galactica",
+        "seasons":4,
+        "cover":"Battlestar-Galactica_19e85954f3a2b7522194ce3f0b1a0c8d.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"33 Minuten","english":"33","hoster":["RapidVideo"]},
+                {"german":"Wassermangel","english":"Water","hoster":["RapidVideo"]},
+                {"german":"Meuterei auf der Astral Queen","english":"Bastille Day","hoster":["RapidVideo"]},
+                {"german":"Zeichen der Reue","english":"Act of Contrition (1)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kein Weg zurück","english":"You Can&#039;t Go Home Again (2)","hoster":["RapidVideo"]},
+                {"german":"Das Tribunal","english":"Litmus","hoster":["RapidVideo"]},
+                {"german":"Unter Verdacht","english":"Six Degrees of Separation","hoster":["RapidVideo"]},
+                {"german":"Fleisch und Blut","english":"Flesh and Bone","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ellen","english":"Tigh Me Up, Tigh Me Down","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Hand Gottes","english":"The Hand of God","hoster":["RapidVideo"]},
+                {"german":"Der Zwölferrat","english":"Colonial Day","hoster":["RapidVideo"]},
+                {"german":"Kobol (I)","english":"Kobol&#039;s Last Gleaming, Part 1","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kobol (II)","english":"Kobol&#039;s Last Gleaming, Part 2","hoster":["RapidVideo"]}
+         ]
+}

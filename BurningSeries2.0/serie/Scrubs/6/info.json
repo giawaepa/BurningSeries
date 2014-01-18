@@ -1,0 +1,30 @@
+{
+        "series":"Scrubs ? Die Anfänger",
+        "seasons":9,
+        "cover":"Scrubs-Die-Anfaenger_bb19dab1f0d35358b688f3a4a8bac13e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mein Spiegelbild","english":"My Mirror Image (2)","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Baby und sein Baby","english":"My Best Friend&#039;s Baby&#039;s Baby and My Baby&#039;s Baby","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Kaffee","english":"My Coffee","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Dr. House","english":"My House","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Neid","english":"My Friend With Money","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Musical","english":"My Musical","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine streitsüchtigen Kollegen","english":"His Story IV","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Spritztour","english":"My Road to Nowhere","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Durchhänger","english":"My Perspective","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Abmachung","english":"My Therapeutic Month","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine Erinnerungen","english":"My Night To Remember","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Goldfischglas","english":"My Fishbowl","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine neuen Klamotten","english":"My Scrubs","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein scharfes Kindermädchen","english":"My No Good Reason (1)","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine Patenschaft","english":"My Long Goodbye (2)","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein tauber Patient","english":"My Words of Wisdom","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Nebendarsteller","english":"Their Story","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Eifersucht","english":"My Turf War","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine kalte Dusche","english":"My Cold Shower","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Meine Reise nach Phoenix","english":"My Conventional Wisdom","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein Kaninchen","english":"My Rabbit","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Zukunft","english":"My Point Of No Return","hoster":["YouTube","PutLocker","Ecostream"]}
+         ]
+}

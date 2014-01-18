@@ -1,0 +1,25 @@
+{
+        "series":"CSI: Den Tätern auf der Spur",
+        "seasons":12,
+        "cover":"CSI-Den-Taetern-auf-der-Spur_a5a70731c9e7b0fd031284dab691f885.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Tote Puppen ? Teil 2","english":"Dead Doll","hoster":[]},
+                {"german":"Stockfinster","english":"A La Cart","hoster":[]},
+                {"german":"Teufels Lieblinge","english":"Go To Hell","hoster":[]},
+                {"german":"Die Karpfen Horror Picture Show","english":"Case of the Cross Dressing Carp","hoster":[]},
+                {"german":"Ronnie Lake im Filmstudio des Todes","english":"The Chick Chop Flick Shop","hoster":[]},
+                {"german":"Mordlust","english":"Who and What","hoster":[]},
+                {"german":"Zuviel Vergangenheit für die Zukunft","english":"Goodbye &amp; Good Luck","hoster":[]},
+                {"german":"CSI: Die Spieler auf der Spur","english":"You Kill Me","hoster":[]},
+                {"german":"Ungeziefer","english":"Cockroaches","hoster":[]},
+                {"german":"Noch mehr Ungeziefer","english":"Lying Down with Dogs","hoster":[]},
+                {"german":"Bullen kommen teuer","english":"Bull","hoster":[]},
+                {"german":"Inferno, Fegefeuer ... Paradies?","english":"Grissom&#039;s Divine Comedy","hoster":[]},
+                {"german":"Tausend Tage Leben","english":"A Thousand Days on Earth","hoster":[]},
+                {"german":"Bündnis mit dem Bösen","english":"Drops&#039; Out","hoster":[]},
+                {"german":"Vulkanier in Vegas?","english":"The Theory of Everything","hoster":[]},
+                {"german":"Wer ist der Star im Schlangennest?","english":"Two and a Half Deaths","hoster":[]},
+                {"german":"Tot ist nur, wer vergessen wird","english":"For Gedda (1)","hoster":[]}
+         ]
+}

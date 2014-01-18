@@ -1,0 +1,14 @@
+{
+        "series":"The Walking Dead",
+        "seasons":2,
+        "cover":"The-Walking-Dead_02bcd4ff935cc460b6aabe067b22c394.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Gute alte Zeit","english":"Days Gone Bye","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Gefangene der Toten","english":"Dead Man&#039;s Identity","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Tag der Frösche","english":"Fresh Meat","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Vatos","english":"Cold Blood","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"Tag 194","english":"Wildfire","hoster":["PutLocker","RapidVideo","Ecostream"]},
+                {"german":"TS-19","english":"TS-19","hoster":["PutLocker","RapidVideo","Ecostream"]}
+         ]
+}

@@ -1,0 +1,32 @@
+{
+        "series":"Cold Case ? Kein Opfer ist je vergessen",
+        "seasons":7,
+        "cover":"Cold-Case-Kein-Opfer-ist-je-vergessen_d952da7f4cf1e5ddc35621c07baa7a54.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Vor laufender Kamera","english":"Rampage","hoster":["PutLocker"]},
+                {"german":"Veteranen","english":"The War at Home","hoster":["PutLocker"]},
+                {"german":"Erdschweine","english":"Sandhogs","hoster":["PutLocker"]},
+                {"german":"Baby-Blues","english":"Baby Blues","hoster":["PutLocker"]},
+                {"german":"Plan B","english":"Saving Sammy","hoster":["PutLocker"]},
+                {"german":"Rock &#039;n&#039; Roll","english":"Static","hoster":["PutLocker"]},
+                {"german":"Der Schlüssel","english":"The Key","hoster":[]},
+                {"german":"Glühwürmchen","english":"Fireflies","hoster":["PutLocker"]},
+                {"german":"Einsame Herzen","english":"Lonely Hearts","hoster":["PutLocker"]},
+                {"german":"Einmal Cop, immer Cop","english":"Forever Blue","hoster":["PutLocker"]},
+                {"german":"Die Sugar Boys","english":"The Red and the Blue","hoster":["PutLocker"]},
+                {"german":"Fight Club","english":"Knuckle Up","hoster":["PutLocker"]},
+                {"german":"Blackout","english":"Blackout","hoster":["PutLocker"]},
+                {"german":"8:03 Uhr","english":"8:03 AM","hoster":["PutLocker"]},
+                {"german":"Bomben für den Frieden","english":"Blood on the Tracks","hoster":["PutLocker"]},
+                {"german":"Barbara","english":"The Good-Bye Room","hoster":["PutLocker"]},
+                {"german":"Vater und Sohn","english":"Shuffle, Ball Change","hoster":["PutLocker"]},
+                {"german":"Der Ein-Dollar-Traum","english":"A Dollar, A Dream","hoster":["PutLocker"]},
+                {"german":"Recht und Gerechtigkeit","english":"Offender","hoster":["PutLocker"]},
+                {"german":"Cheerleader","english":"Stand Up and Holler","hoster":["PutLocker"]},
+                {"german":"Suffragetten","english":"Torn","hoster":["PutLocker"]},
+                {"german":"Menschliche Fracht","english":"Cargo","hoster":["PutLocker"]},
+                {"german":"Ein schöner Tod","english":"The Good Death","hoster":["PutLocker"]},
+                {"german":"Stalker","english":"Stalker","hoster":[]}
+         ]
+}

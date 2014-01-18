@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Team 10 greift ein",
+         "titleen":"Episode 33",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=FRuM1UZt8lk"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=a7yR35BS-dQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"4778676/Naruto_Folge_33_Part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"4782750/Naruto_Folge_33_Part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"4783064/Naruto_Folge_33_Part_3_3"
+                }
+       ]
+}

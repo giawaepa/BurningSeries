@@ -1,0 +1,22 @@
+{
+        "series":"Doctor Who",
+        "seasons":6,
+        "cover":"Doctor-Who_afb3def19dd3034de70546d97c212148.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die neue Erde","english":"New Earth","hoster":["PutLocker"]},
+                {"german":"Mit Zähnen und Klauen","english":"Tooth and Claw","hoster":["PutLocker"]},
+                {"german":"Klassentreffen","english":"School Reunion","hoster":["PutLocker"]},
+                {"german":"Das Mädchen im Kamin","english":"The Girl in the Fireplace","hoster":["PutLocker"]},
+                {"german":"Die Auferstehung der Cybermen - Teil 1","english":"Rise of the Cybermen (1)","hoster":["PutLocker"]},
+                {"german":"Die Ära des Stahl - Teil 2","english":"The Age of Steel (2)","hoster":["PutLocker"]},
+                {"german":"Die Glotze","english":"The Idiot&#039;s Lantern","hoster":["PutLocker"]},
+                {"german":"Der unmögliche Planet - Teil 1","english":"The Impossible Planet (1)","hoster":["PutLocker"]},
+                {"german":"Der Höllenschlund - Teil 2","english":"The Satan Pit (2)","hoster":["PutLocker"]},
+                {"german":"Liebe und Monster","english":"Love and Monsters","hoster":["PutLocker"]},
+                {"german":"Fürchtet sie!","english":"Fear Her","hoster":["PutLocker"]},
+                {"german":"Die Armee der Geister - Teil 1","english":"Army of Ghosts (1)","hoster":["PutLocker"]},
+                {"german":"Der Weltuntergang","english":"Doomsday (2)","hoster":["PutLocker"]},
+                {"german":"","english":"The Runaway Bride","hoster":["Sockshare"]}
+         ]
+}

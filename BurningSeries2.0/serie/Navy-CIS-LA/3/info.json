@@ -1,0 +1,24 @@
+{
+        "series":"Navy CIS: L.A.",
+        "seasons":3,
+        "cover":"Navy-CIS-L-A_0d8edda38f185e62323fa5717d0cf385.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Entscheidung am schwarzen Meer","english":"Lange, H. (3)","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Die Cyberattacke","english":"Cyber Threat","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"","english":"Backstopped","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Deadline","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Sacrifice","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Lone Wolf","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Honor","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Greed","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Betrayal","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Debt","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Higher Power","hoster":["PutLocker"]},
+                {"german":"","english":"The Watchers","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Exit Strategy","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Partners","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Crimeleon","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"","english":"Blye, K.","hoster":[]}
+         ]
+}

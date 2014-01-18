@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Die sieben schmutzigen Wörter",
+         "titleen":"It&#039;s All Over Now",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7050104/Die_wilden_70er_die_sieben_schmutzigen_Woerter_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7050250/Die_wilden_70er_die_sieben_schmutzigen_Woerter_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7050402/Die_wilden_70er_die_sieben_schmutzigen_Woerter_3_3"
+                }
+       ]
+}

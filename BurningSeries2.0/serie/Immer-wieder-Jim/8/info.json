@@ -1,0 +1,26 @@
+{
+        "series":"Immer wieder Jim",
+        "seasons":8,
+        "cover":"Immer-wieder-Jim_e97064bc1cd1f073436d59cb3f2bf1fa.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Schmusedecken-Affäre","english":"The Blankie","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Meine neue beste Freundin","english":"New Best Friend","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Jami McFame","english":"Jami McFame","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Andys Heiratsantrag","english":"Andy&#039;s Proposal","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Früh übt sich ...","english":"Two for the Money","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das Männerwochenende","english":"Cabin Boys","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Ex-Flamme","english":"The Ego Boost","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Yoga-Bär","english":"The Yoga Bear","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Kyles erstes Date","english":"Kyle&#039;s Crush","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Ein bedeutungsvolles Geschenk","english":"The Meaningful Gift","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Väter unter sich","english":"The Daddy Way","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Krankengymnastik","english":"Physical Therapy","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Daddy Cool","english":"The Cooler One","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der nette Jim","english":"Happy Jim","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Kampf der Giganten","english":"King of the Nerds","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Komm nicht ab vom rechten Weg","english":"I Hate the High Road","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Ein Geschenk mit Nebenwirkung","english":"Diamonds Are a Ghoul&#039;s Best Friend","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Himmel oder Hölle","english":"Heaven Opposed to Hell","hoster":["YouTube","PutLocker","DivxStage"]}
+         ]
+}

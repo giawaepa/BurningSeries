@@ -1,0 +1,33 @@
+{
+        "series":"The King of Queens",
+        "seasons":9,
+        "cover":"The-King-of-Queens_bbc35c6d9ebd3e1bdb5e304bbb42d956.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein seltsames Paar","english":"Arthur, Spooner","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Des einen Leid ...","english":"Window Pain","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Himmel und Hölle","english":"Holy Mackerel","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der mit dem Ball tanzt","english":"Kirbed Enthusiasm","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Grabscher","english":"Mammary Lane","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Mann meiner Frau","english":"Business Affairs","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Margys Song","english":"Flame Resistant","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Ein Männlein steht im Walde","english":"Flash Photography","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Carrie Frankenstein","english":"Connect Four","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die geborgte Frau","english":"Loaner Car","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Die Stimme aus dem Grab","english":"Mentalo Case","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Hexenmeister","english":"Jung Frankenstein","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Falsch gedacht","english":"Attention Deficit","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Neid macht erfinderisch","english":"Prints Charming","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Pinguin-Alarm","english":"Animal Attraction","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Verschimmelter Urlaub","english":"Golden Moldy","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Gigolo","english":"S&#039;Poor House","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Russisches Roulette","english":"Steve Moscow","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Lügen haben dicke Beine","english":"Cowardly Lyin&#039;","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Fahrer aus Leidenschaft","english":"Driving Reign","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Kaufrausch","english":"Clothes Encounter","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der Affenjunge","english":"Queens&#039;bro Bridge","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Der unsterbliche Hund","english":"Dog Shelter","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Schlaraffenland","english":"Taste Buds","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Bettgeschichten","english":"Bed Spread","hoster":["YouTube","MyVideo","PutLocker"]}
+         ]
+}

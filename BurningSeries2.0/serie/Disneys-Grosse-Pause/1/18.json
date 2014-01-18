@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Wettkampf / Freunde in Windeln",
+         "titleen":"The Challenge / Wild Child",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=4P_Uv24ujwc"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=Eagr-uFm2Ek"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6474464/Disneys_Grosse_Pause_Episode_35_Der_Wettkampf"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6474470/Disneys_Grosse_Pause_Episode_36_Freunde_in_Windeln"
+                }
+       ]
+}

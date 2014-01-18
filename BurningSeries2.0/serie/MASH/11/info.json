@@ -1,0 +1,24 @@
+{
+        "series":"M*A*S*H",
+        "seasons":11,
+        "cover":"M-A-S-H_ba9c37303b185e8c205e7b06cbc0acda.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das kostbare Mauerblümchen","english":"Look Me Over","hoster":[]},
+                {"german":"Überirdische Geschichten","english":"Trick or Treatment","hoster":[]},
+                {"german":"Ein Schuß Propaganda","english":"Foreign Affairs","hoster":[]},
+                {"german":"Flair, Stil und Fantasie","english":"The Joker is Wild","hoster":[]},
+                {"german":"Nur der Himmel weiß","english":"Who Knew?","hoster":[]},
+                {"german":"Die Monroe kommt!","english":"Bombshells","hoster":[]},
+                {"german":"Mildreds Handschrift","english":"Settling Debts","hoster":[]},
+                {"german":"Klinger nimmt die Pille","english":"The Moon is Not Blue","hoster":[]},
+                {"german":"Das Rennen des Jahres","english":"Run for the Money","hoster":[]},
+                {"german":"Höherer Besuch","english":"U.N., the Night and the Music","hoster":[]},
+                {"german":"Vulgäre Gewohnheiten","english":"Strange Bedfellows","hoster":[]},
+                {"german":"Zuwenig der Worte","english":"Say No More","hoster":[]},
+                {"german":"Wozu hat man denn Freunde?","english":"Friends and Enemies","hoster":[]},
+                {"german":"Bestechung und Erpressung","english":"Give and Take","hoster":[]},
+                {"german":"Die Zeitkapsel","english":"As Time Goes By","hoster":[]},
+                {"german":"Mach&#039;s gut, leb wohl und Amen","english":"Goodbye, Farewell And Amen","hoster":[]}
+         ]
+}

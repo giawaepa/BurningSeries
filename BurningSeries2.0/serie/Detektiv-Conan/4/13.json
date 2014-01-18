@@ -1,0 +1,32 @@
+{ 
+         "titlede":"Gefangen im Netz (2)",
+         "titleen":"Episode 266",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=6uhbAC2yVGY"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=C-jhoMORqUQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6025601/Detektiv_Conan_Folge_266_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6026016/Detektiv_Conan_Folge_266_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6026367/Detektiv_Conan_Folge_266_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"A189A73A01B34429"
+                }
+       ]
+}

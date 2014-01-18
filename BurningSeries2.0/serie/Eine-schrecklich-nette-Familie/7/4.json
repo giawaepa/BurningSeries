@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Al oben ohne",
+         "titleen":"Al on the rocks",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=pGnrmAnnuAw"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=Ha5cOCxlHkM"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"3871007/Eine_schrecklich_nette_Familie_Folge_Al_oben_ohne_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"3871129/Eine_schrecklich_nette_Familie_Folge_Al_oben_ohne_2"
+                }
+       ]
+}

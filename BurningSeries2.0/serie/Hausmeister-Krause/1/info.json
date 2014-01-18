@@ -1,0 +1,21 @@
+{
+        "series":"Hausmeister Krause",
+        "seasons":8,
+        "cover":"Hausmeister-Krause_ee4628169cc6aaba3cd245b263b75349.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Hochzeitstag","english":"","hoster":["PutLocker"]},
+                {"german":"Der böse Nachbar","english":"","hoster":["PutLocker"]},
+                {"german":"Die Hundebescherung","english":"","hoster":["PutLocker"]},
+                {"german":"Die Notoperation","english":"","hoster":["PutLocker"]},
+                {"german":"Die Ratte","english":"","hoster":["PutLocker"]},
+                {"german":"Das Kommando-Unternehmen","english":"","hoster":["PutLocker"]},
+                {"german":"Der falsche Dackel","english":"","hoster":["PutLocker"]},
+                {"german":"Die Goldlawine 1","english":"","hoster":["PutLocker"]},
+                {"german":"Die Goldlawine 2","english":"","hoster":["PutLocker"]},
+                {"german":"Der Sittenstrolch","english":"","hoster":["PutLocker"]},
+                {"german":"Die Erbtante","english":"","hoster":["PutLocker"]},
+                {"german":"Der Sündenfall","english":"","hoster":["PutLocker"]},
+                {"german":"Der Einbruch","english":"","hoster":["PutLocker"]}
+         ]
+}

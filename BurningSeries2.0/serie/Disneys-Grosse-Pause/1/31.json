@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Premiere / Der Schicksalstag",
+         "titleen":"The First Picture Show / Gus´Fortune",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=ME6c-LfL4N0"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=6mwz0SkI6yo"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6583899/Disneys_Grosse_Pause_Episode_60_Die_Premiere"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6583906/Disneys_Grosse_Pause_Episode_61_Der_Schicksalstag"
+                }
+       ]
+}

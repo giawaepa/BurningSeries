@@ -1,0 +1,32 @@
+{
+        "series":"Alle lieben Raymond",
+        "seasons":9,
+        "cover":"Alle-lieben-Raymond_fc686af2b853c140fb5eda67e16ef9c7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Debras Schönheitsoperation","english":"Boob Job","hoster":["PutLocker"]},
+                {"german":"Der Dosenöffner","english":"You Bet","hoster":["PutLocker"]},
+                {"german":"Wettbetrug","english":"The Can Opener","hoster":["PutLocker"]},
+                {"german":"Eheberatung","english":"Sex Talk","hoster":["PutLocker"]},
+                {"german":"Das Testament","english":"The Will","hoster":["PutLocker"]},
+                {"german":"Meine Schwester, die Nonne","english":"The Sister","hoster":["PutLocker"]},
+                {"german":"Vetter Gerard","english":"Cousin Gerard","hoster":["PutLocker"]},
+                {"german":"Im Bett ist es nett","english":"Debra&#039;s Workout","hoster":["PutLocker"]},
+                {"german":"Kritik in der Küche","english":"No Thanks","hoster":["PutLocker"]},
+                {"german":"Spätzünder","english":"Left Back","hoster":["PutLocker"]},
+                {"german":"Familienfoto unterm Weihnachtsbaum","english":"The Christmas Picture","hoster":["PutLocker"]},
+                {"german":"Was ist mit Robert los?","english":"What&#039;s With Robert?","hoster":["PutLocker"]},
+                {"german":"Zoff im Schulbus","english":"Bully on the Bus","hoster":["PutLocker"]},
+                {"german":"Gottes Kinder","english":"Prodigal Son","hoster":["PutLocker"]},
+                {"german":"Bullenattacke","english":"Robert&#039;s Rodeo","hoster":["PutLocker"]},
+                {"german":"Der 10. Jahrestag","english":"The Tenth Anniversary","hoster":["PutLocker"]},
+                {"german":"Die Sammelkarte","english":"Hackidu","hoster":["PutLocker"]},
+                {"german":"Gut gekocht!","english":"Debra Makes Something Good","hoster":["PutLocker"]},
+                {"german":"Neue Freunde","english":"Marie and Frank&#039;s New Friends","hoster":["PutLocker"]},
+                {"german":"Auszeit","english":"Alone Time","hoster":["PutLocker"]},
+                {"german":"Roberts Genesung","english":"Someone&#039;s Cranky","hoster":["PutLocker"]},
+                {"german":"Stimmungsschwankung","english":"Bad Moon Rising","hoster":["PutLocker"]},
+                {"german":"Dem Feind ins Auge sehen","english":"Confronting the Attacker","hoster":["PutLocker"]},
+                {"german":"Scheiden tut weh","english":"Robert&#039;s Divorce","hoster":["PutLocker"]}
+         ]
+}

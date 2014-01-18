@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Der Geburtshelfer",
+         "titleen":"Having My Baby",
+         "description":"Alf bereitet sich intensiv auf die Geburt im Hause Tanner vor. Er macht dies so gründlich, dass er die Familie nervt. Er bricht schließlich erschöpft zusammen - zur großen Erleichterung der anderen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6857089/ALF_Der_Geburtshelfer_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6857248/ALF_Der_Geburtshelfer_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6857654/ALF_Der_Geburtshelfer_3_3"
+                }
+       ]
+}

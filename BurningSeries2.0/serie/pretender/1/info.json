@@ -1,0 +1,30 @@
+{
+        "series":"Pretender",
+        "seasons":4,
+        "cover":"Pretender_be5de66db36a1ccb7476b575a235da53html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Auf der Flucht","english":"Pilot","hoster":[]},
+                {"german":"Stille Wasser","english":"Every Picture Tells a Story","hoster":[]},
+                {"german":"Der Testpilot ","english":"Flyer ","hoster":[]},
+                {"german":"Ein As im Ärmel ","english":"Curious Jarod ","hoster":[]},
+                {"german":"Späte Gerechtigkeit ","english":"The Paper Clock ","hoster":[]},
+                {"german":"Freund und Helfer ","english":"To Serve And Protect ","hoster":[]},
+                {"german":"Tödlicher Virus ","english":"A Virus Among us ","hoster":[]},
+                {"german":"Fahrerflucht ","english":"Not Even a Mouse ","hoster":[]},
+                {"german":"Fata Morgana ","english":"Mirage ","hoster":[]},
+                {"german":"Spiel mit dem Feuer ","english":"The Better Part of Valor ","hoster":[]},
+                {"german":"Das Bombenkommando ","english":"Potato Head Blues ","hoster":[]},
+                {"german":"In der Todeszelle ","english":"Prison Story ","hoster":[]},
+                {"german":"Auf hoher See ","english":"Bazooka Jarod ","hoster":[]},
+                {"german":"Die Sache mit den Frauen ","english":"Ranger Jarod ","hoster":[]},
+                {"german":"Der Kameramann ","english":"Jaroldo ","hoster":[]},
+                {"german":"Koma ","english":"Under the Reds ","hoster":[]},
+                {"german":"Im Auge des Orkans ","english":"Keys ","hoster":[]},
+                {"german":"Der einzige Zeuge ","english":"Unhappy Landings ","hoster":[]},
+                {"german":"Der Auftragskiller ","english":"Jarod s Honor ","hoster":[]},
+                {"german":"Das Findelkind ","english":"Baby Love ","hoster":[]},
+                {"german":"Blutsbande, Teil 1 ","english":"The Dragon House (1) ","hoster":[]},
+                {"german":"Blutsbande, Teil 2 ","english":"The Dragon House (2) ","hoster":[]}
+         ]
+}

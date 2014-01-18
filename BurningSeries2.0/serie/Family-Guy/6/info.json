@@ -1,0 +1,20 @@
+{
+        "series":"Family Guy",
+        "seasons":10,
+        "cover":"Family-Guy_1ef52f1420d3e2b6e6e4159f2a83c30a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Blue Harvest","english":"Blue Harvest","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Brian zieht aus","english":"Movin&#039; Out (Brian&#039;s Song)","hoster":["PutLocker","Sockshare","UploadC"]},
+                {"german":"Joes Auferstehung","english":"Believe It Or Not, Joe&#039;s Walking On Air","hoster":["PutLocker","Sockshare"]},
+                {"german":"Stewie killt Lois (1)","english":"Stewie Kills Lois (1)","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Stewie killt Lois (2)","english":"Lois Kills Stewie (2)","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Pedro Griffin","english":"Padre de Familia","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Peters Tochter","english":"Peter&#039;s Daughter","hoster":["PutLocker","Sockshare","UploadC"]},
+                {"german":"Schnurrbart und Schlaganfall","english":"McStroke","hoster":["PutLocker","Sockshare"]},
+                {"german":"Immer wieder Woods","english":"Back to the Woods","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Spiel&#039;s noch einmal, Brian","english":"Play it Again, Brian","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Das frühere Leben des Brian","english":"The Former Life of Brian","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Long John Peter","english":"Long John Peter","hoster":["PutLocker","Sockshare","BitShare","UploadC"]}
+         ]
+}

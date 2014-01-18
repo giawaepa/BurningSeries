@@ -1,0 +1,31 @@
+{
+        "series":"CSI: Den Tätern auf der Spur",
+        "seasons":12,
+        "cover":"CSI-Den-Taetern-auf-der-Spur_a5a70731c9e7b0fd031284dab691f885.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Rache ist süß","english":"Revenge Is Best Served Cold","hoster":[]},
+                {"german":"Aus Mangel an Beweisen","english":"The Accused Is Entitled","hoster":[]},
+                {"german":"Blutrausch","english":"Let the Seller Beware","hoster":[]},
+                {"german":"Ein kleiner Mord","english":"A Little Murder","hoster":[]},
+                {"german":"Fauler Zauber","english":"Abra Cadaver","hoster":[]},
+                {"german":"Tödlicher Irrtum","english":"The Execution of Catherine Willows","hoster":[]},
+                {"german":"Ein harter Schlag","english":"Fight Night","hoster":[]},
+                {"german":"Bis auf die Knochen","english":"Snuff","hoster":[]},
+                {"german":"Spur aus Blut","english":"Blood Lust","hoster":[]},
+                {"german":"Freier Fall","english":"High and Low","hoster":[]},
+                {"german":"Mord à la Carte","english":"Recipe for Murder","hoster":[]},
+                {"german":"Auge um Auge","english":"Got Murder?","hoster":[]},
+                {"german":"In der Schusslinie","english":"Random Acts of Violence","hoster":[]},
+                {"german":"Steckschuss","english":"One Hit Wonder","hoster":[]},
+                {"german":"Die Schaumparty","english":"Lady Heather&#039;s Box","hoster":[]},
+                {"german":"Todesfahrt","english":"Lucky Strike","hoster":[]},
+                {"german":"Von Sinnen","english":"Crash and Burn","hoster":[]},
+                {"german":"Das Todesfass","english":"Precious Metal","hoster":[]},
+                {"german":"Bei Anruf Mord","english":"A Night at the Movies","hoster":[]},
+                {"german":"Wer zuletzt lacht","english":"Last Laugh","hoster":[]},
+                {"german":"Tod in der Wüste","english":"Forever","hoster":[]},
+                {"german":"Beweisnot","english":"Play with Fire","hoster":[]},
+                {"german":"Blutsbande","english":"Inside the Box","hoster":[]}
+         ]
+}

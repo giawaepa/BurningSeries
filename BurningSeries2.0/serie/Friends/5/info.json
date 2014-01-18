@@ -1,0 +1,32 @@
+{
+        "series":"Friends",
+        "seasons":10,
+        "cover":"Friends_ecd9c11d4588bc6ea50e8829954d980f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Flitterwochen mit der anderen","english":"The One After Ross Says Rachel","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hilfe, die Babies kommen","english":"The One With All The Kissing","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hurra, die Drillinge sind da","english":"The One Hundredth","hoster":["PutLocker","DivxStage"]},
+                {"german":"Harte Bedingung","english":"The One Where Phoebe Hates PBS","hoster":["PutLocker","DivxStage"]},
+                {"german":"Endlich allein!","english":"The One With The Kips","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein Yeti im Keller","english":"The One With The Yeti","hoster":["PutLocker","DivxStage"]},
+                {"german":"Keine Party ohne Rachel","english":"The One Where Ross Moves In","hoster":["PutLocker","DivxStage"]},
+                {"german":"Fatales Geständnis","english":"The One With The Thanksgiving Flashbacks (a.k.a. The One With All The Thanksgivings)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wer mit wem?","english":"The One With Ross&#039;s Sandwich","hoster":["PutLocker","DivxStage"]},
+                {"german":"Feuerball","english":"The One With The Inappropriate Sister","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die guten Vorsätze","english":"The One With All The Resolutions","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Arbeitslachen","english":"The One With Chandler&#039;s Work Laugh","hoster":[]},
+                {"german":"Die beste Massage der Welt","english":"The One With Joey&#039;s Bag","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das kollektive Geheimnis","english":"The One Where Everybody Finds Out","hoster":["PutLocker","DivxStage"]},
+                {"german":"Mädchenprügel","english":"The One With The Girl Who Hits Joey","hoster":["PutLocker","DivxStage"]},
+                {"german":"Verdeckte Ermittlung","english":"The One With The Cop","hoster":["PutLocker","DivxStage"]},
+                {"german":"Belästigung am Arbeitsplatz","english":"The One With Rachel&#039;s Inadvertent Kiss","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rauchende Köpfe","english":"The One Where Rachel Smokes","hoster":["DivxStage"]},
+                {"german":"Der Flirtweltmeister","english":"The One Where Ross Can&#039;t Flirt","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Hilfspolizisten","english":"The One With The Ride Along","hoster":["DivxStage"]},
+                {"german":"Immer am Ball","english":"The One With The Ball","hoster":["DivxStage"]},
+                {"german":"Die Hauptrolle","english":"The One With Joey&#039;s Big Break","hoster":["PutLocker","DivxStage"]},
+                {"german":"Glück in Las Vegas (1)","english":"The One In Vegas (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Glück in Las Vegas (2)","english":"The One In Vegas (2)","hoster":["PutLocker","DivxStage"]}
+         ]
+}

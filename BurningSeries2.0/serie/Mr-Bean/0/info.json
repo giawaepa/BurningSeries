@@ -1,0 +1,12 @@
+{
+        "series":"Mr. Bean",
+        "seasons":1,
+        "cover":"Mr-Bean_6e6efdfef6b62e73d17839b481c86228.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Bean - Der ultimative Katastrophenfilm","english":"Bean","hoster":["PutLocker"]},
+                {"german":"Mr. Bean macht Ferien","english":"Mr. Bean&#039;s Holiday","hoster":["PutLocker"]},
+                {"german":"","english":"bitte löschen!","hoster":[]},
+                {"german":"","english":"bitte löschen!","hoster":[]}
+         ]
+}

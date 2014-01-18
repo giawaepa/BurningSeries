@@ -1,0 +1,22 @@
+{
+        "series":"Dead Like Me ? So gut wie tot",
+        "seasons":2,
+        "cover":"Dead-Like-Me-So-gut-wie-tot_32256278fd315cd4de818b126cfb67c5.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Pilot","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Neue Erkenntnis","english":"Dead Girl Walking","hoster":["PutLocker"]},
+                {"german":"Nochmal zurück","english":"Curious George","hoster":["PutLocker"]},
+                {"german":"Seelen retten","english":"Reapercussions","hoster":["PutLocker"]},
+                {"german":"Das Sammelalbum","english":"Reaping Havoc","hoster":["PutLocker"]},
+                {"german":"Mein Zimmer","english":"My Room","hoster":["PutLocker"]},
+                {"german":"Ganz normal verrückt","english":"Reaper Madness","hoster":["PutLocker"]},
+                {"german":"Rezept eines Toten","english":"A Cook","hoster":["PutLocker"]},
+                {"german":"Eine neue Freundin","english":"Sunday Mornings","hoster":["PutLocker"]},
+                {"german":"Unerledigte Dinge","english":"Business Unfinished","hoster":["PutLocker"]},
+                {"german":"Jobwechsel","english":"The Bicycle Thief","hoster":["PutLocker"]},
+                {"german":"Nachtschwärmer","english":"Nighthawks","hoster":["PutLocker"]},
+                {"german":"Ferien","english":"Vacation","hoster":["PutLocker"]},
+                {"german":"Es ist dein Tag","english":"Rest in Peace","hoster":["PutLocker"]}
+         ]
+}

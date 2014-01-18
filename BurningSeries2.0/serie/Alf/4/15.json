@@ -1,0 +1,20 @@
+{ 
+         "titlede":"In letzter Minute",
+         "titleen":"Love on the Rocks",
+         "description":"Margaret hat beschlossen, zu ihrem Exmann Neal zurückzukehren. Alf versucht mit ganzem Einsatz, die drohende Heirat der beiden zu verhindern.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7012810/ALF_In_letzter_Minute_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7012859/ALF_In_letzter_Minute_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7012895/ALF_In_letzer_Minute_3_3"
+                }
+       ]
+}

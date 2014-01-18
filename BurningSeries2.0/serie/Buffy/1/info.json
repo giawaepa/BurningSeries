@@ -1,0 +1,20 @@
+{
+        "series":"Buffy ? Im Bann der Dämonen",
+        "seasons":7,
+        "cover":"Buffy-Im-Bann-der-Daemonen_2390181eb7a9fad2f38e699ee61e40e3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Zentrum des Bösen","english":"Welcome to the Hellmouth","hoster":["RapidVideo"]},
+                {"german":"Die Zeit der Ernte","english":"The Harvest","hoster":["RapidVideo"]},
+                {"german":"Verhext","english":"Witch","hoster":["RapidVideo"]},
+                {"german":"Die Gottesanbeterin","english":"Teacher&#039;s Pet","hoster":["RapidVideo"]},
+                {"german":"Ohne Buffy lebt sich&#039;s länger","english":"Never Kill a Boy on the First Date","hoster":["RapidVideo"]},
+                {"german":"Das Lied der Hyänen","english":"The Pack","hoster":["RapidVideo"]},
+                {"german":"Angel - Blutige Küsse","english":"Angel","hoster":["RapidVideo"]},
+                {"german":"Computerdämon","english":"I Robot, You Jane","hoster":["RapidVideo"]},
+                {"german":"Buffy lässt die Puppen tanzen","english":"The Puppet Show","hoster":["RapidVideo"]},
+                {"german":"Die Macht der Träume","english":"Nightmares","hoster":["RapidVideo"]},
+                {"german":"Aus den Augen, aus dem Sinn","english":"Out of Mind, Out of Sight","hoster":["RapidVideo"]},
+                {"german":"Das Ende der Welt","english":"Prophecy Girl","hoster":["RapidVideo"]}
+         ]
+}

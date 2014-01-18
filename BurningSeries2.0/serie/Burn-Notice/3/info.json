@@ -1,0 +1,24 @@
+{
+        "series":"Burn Notice",
+        "seasons":5,
+        "cover":"Burn-Notice_2a43426d672b7e1063d29f86d40d4679.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Freischwimmer","english":"Friends and Family","hoster":["RapidVideo"]},
+                {"german":"Riskantes Verhör","english":"Question &amp; Answer","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zahn um Zahn","english":"End Run","hoster":["RapidVideo"]},
+                {"german":"In der Schusslinie","english":"Fearless Leader","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Alien-Code","english":"Signals and Codes","hoster":[]},
+                {"german":"Treibjagd","english":"The Hunter","hoster":["RapidVideo"]},
+                {"german":"Kugelhagel","english":"Shot in the Dark","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Datenklau","english":"Friends Like These","hoster":["PutLocker"]},
+                {"german":"Irisches Blut","english":"Long Way Back","hoster":["RapidVideo"]},
+                {"german":"Heißes Pflaster","english":"A Dark Road","hoster":["RapidVideo"]},
+                {"german":"Robin Hood","english":"Friendly Fire","hoster":["RapidVideo"]},
+                {"german":"Durch die Blume","english":"Noble Causes","hoster":["PutLocker"]},
+                {"german":"Enge Feinde","english":"Enemies Closer","hoster":["RapidVideo"]},
+                {"german":"Tödlicher Stoff","english":"Partners in Crime","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Racheengel","english":"Good Intentions","hoster":["PutLocker"]},
+                {"german":"Explosiv","english":"Devil You Know","hoster":[]}
+         ]
+}

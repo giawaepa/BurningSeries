@@ -1,0 +1,27 @@
+{
+        "series":"Die Zauberer vom Waverly Place",
+        "seasons":4,
+        "cover":"Die-Zauberer-vom-Waverly-Place_0d88dca953212894fd04bfa22d72954f.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Doppelter Ärger","english":"Crazy Ten Minute Sale","hoster":["YouTube"]},
+                {"german":"Der erste Kuss","english":"First Kiss","hoster":["YouTube"]},
+                {"german":"Rache ist süß","english":"I Almost Drowned in a Chocolate Fountain","hoster":["YouTube"]},
+                {"german":"Die neue Mitarbeiterin","english":"New Employee","hoster":["YouTube"]},
+                {"german":"Verzauberte Eltern","english":"Disenchanted Evening","hoster":["YouTube"]},
+                {"german":"Der fliegende Teppich","english":"You Can&#039;t Always Get What You Carpet","hoster":["YouTube"]},
+                {"german":"Der Drachenhund","english":"Curb Your Dragon","hoster":["YouTube"]},
+                {"german":"Der Horrorfilm","english":"Movies","hoster":["YouTube"]},
+                {"german":"Cyrano de Pickel","english":"Pop Me and We Both Go Down","hoster":["YouTube"]},
+                {"german":"Der hinterlistige Dschinn","english":"Justin&#039;s Little Sister","hoster":[]},
+                {"german":"Das Zaubercollege ? Teil 1","english":"Wizard School ? Part 1","hoster":[]},
+                {"german":"Das Zaubercollege ? Teil 2","english":"Wizard School ? Part 2","hoster":[]},
+                {"german":"Übernatürlich","english":"The Supernatural","hoster":[]},
+                {"german":"Onkel Kelbo","english":"Alex in The Middle","hoster":[]},
+                {"german":"Das Zeugnis","english":"Report Card","hoster":[]},
+                {"german":"Der Modeteufel","english":"Credit Check","hoster":[]},
+                {"german":"Das Frühlingsfest","english":"Alex&#039;s Spring Fling","hoster":[]},
+                {"german":"Körpertausch","english":"Quinceañera","hoster":[]},
+                {"german":"Der Museumsbesuch","english":"Art Museum Piece","hoster":[]}
+         ]
+}

@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Brians Sternstunde",
+         "titleen":"Weird Science",
+         "description":"Brian hat für einen Schülerwettbewerb das Modell des Sonnensystems nachgebaut. Alf veranlaßt ihn, noch die Planeten Dave und Alvin hinzuzufügen. Damit beschwört er einen Streit herauf.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6718489/ALF_Brians_Sternstunde_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6718582/ALF_Brians_Sternstunde_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6718704/ALF_Brians_Sternstunde_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"E95EC791731DD0EE"
+                }
+       ]
+}

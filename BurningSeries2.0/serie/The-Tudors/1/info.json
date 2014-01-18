@@ -1,0 +1,18 @@
+{
+        "series":"The Tudors",
+        "seasons":4,
+        "cover":"The-Tudors_b0319774fd5c74fdbfb03d128ee004df.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1","english":"In Cold Blood","hoster":[]},
+                {"german":"Episode 2","english":"Simply Henry","hoster":[]},
+                {"german":"Episode 3","english":"Wolsey, Wolsey, Wolsey!","hoster":[]},
+                {"german":"Episode 4","english":"His Majesty, The King","hoster":["PutLocker"]},
+                {"german":"Episode 5","english":"Arise, My Lord","hoster":["PutLocker"]},
+                {"german":"Episode 6","english":"True Love","hoster":[]},
+                {"german":"Episode 7","english":"Message to the Emperor","hoster":[]},
+                {"german":"Episode 8","english":"Truth and Justice","hoster":[]},
+                {"german":"Episode 9","english":"Look to God First","hoster":[]},
+                {"german":"Episode 10","english":"The Death of Wolsey","hoster":[]}
+         ]
+}

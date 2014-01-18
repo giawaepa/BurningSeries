@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Marathon",
+         "titleen":"",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"5AA45FCE10B847F4"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"C665C5B9D1A12A10"
+                },{
+                        "hoster":"RapidVideo",
+                        "part":1,
+                        "link":"vblbu503"
+                },{
+                        "hoster":"MySpass",
+                        "part":1,
+                        "link":"3505"
+                }
+       ]
+}

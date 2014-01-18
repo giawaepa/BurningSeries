@@ -1,0 +1,28 @@
+{
+        "series":"Akte X",
+        "seasons":9,
+        "cover":"Akte-X_81ab1803846af5b33207b81b56a64620html.html",
+        "movies":true,
+        "episodes":[
+                {"german":"Redux (1)","english":"Redux","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Redux (2)","english":"Redux II","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die unüblichen Verdächtigen","english":"Unusual Suspects","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Vom Erdboden verschluckt","english":"Detour","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der große Mutato","english":"Post-Modem Prometheus","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Emily (1)","english":"Christmas Carol","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Emily (2)","english":"Emily","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kitsunegari","english":"Kitsunegari","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Wurzeln des Bösen","english":"Schizogeny","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ein Spiel","english":"Chinga","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kill Switch","english":"Kill Switch","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Böses Blut","english":"Bad Blood","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Cassandra (1)","english":"Patient X","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Cassandra (2)","english":"The Red and the Black","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gute Patrioten","english":"Travelers","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das innere Auge","english":"Mind&#039;s Eye","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Alle Seelen","english":"All Souls","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Pine-Bluff-Variante","english":"The Pine Bluff Variant","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Folie à deux","english":"Folie à deux","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Ende","english":"The End","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

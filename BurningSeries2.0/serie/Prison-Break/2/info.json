@@ -1,0 +1,30 @@
+{
+        "series":"Prison Break",
+        "seasons":4,
+        "cover":"Prison-Break_1f2df02c26805c40ef09a6df7b5115b6.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Jäger und Gejagte","english":"Manhunt","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wer ist Otis?","english":"Otis","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Partnerschaften","english":"Scan","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Einer fällt","english":"First Down","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Seite 1213","english":"Map 1213","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Jeanette","english":"Subdivision","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Unheil","english":"Buried","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Reingefallen","english":"Dead Fall","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verjährungsfristen","english":"Unearthed","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Rendezvous","english":"Rendezvous","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bolshoi Booze","english":"Bolshoi Booze","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Verbindung abgebrochen","english":"Disconnect","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Abrechnung!","english":"The Killing Box","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hilft der Beweis?","english":"John Doe","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Botschaften","english":"The Message","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Chicago","english":"Chicago","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Böses Blut","english":"Bad Blood","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Hand in Hand mit dem Schicksal","english":"Wash","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Jeder gegen jeden","english":"Sweet Caroline","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Panama","english":"Panama","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Zieländerung","english":"Fin Del Camino","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Projekt Sona","english":"Sona","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

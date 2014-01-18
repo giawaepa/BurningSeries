@@ -1,0 +1,32 @@
+{
+        "series":"Chuck",
+        "seasons":5,
+        "cover":"Chuck_e64842e7889ebfe9486715b4c589901b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Chuck vs. The Anniversary","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Vs. The Suitcase","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck vs. The Cubic Z","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck vs. The Coup D&#039;Etat","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck vs. The Couch Lock","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck vs. the Aisle of Terror","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the First Fight","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Fear of Death","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus Phase Three","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Leftovers","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Balcony","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Gobbler","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Push Mix","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Seduction Impossible","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Cat Squad","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the First Mate","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus The First Bank of Evil","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the A-Team","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Muuurder","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Family Volkoff","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Wedding Planner","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus Agent X","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Last Details","hoster":["PutLocker"]},
+                {"german":"","english":"Chuck Versus the Cliffhanger","hoster":["PutLocker"]}
+         ]
+}

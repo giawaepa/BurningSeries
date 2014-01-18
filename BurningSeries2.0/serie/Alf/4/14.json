@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Es war einmal ein Komiker",
+         "titleen":"Make &#039;em Laugh",
+         "description":"Alf träumt von einer Karriere als Komiker. Doch in seinem Traum ist sein Erfolg nicht von Dauer. Also entschließt sich Alf, es lieber erst einmal als Tellerjongleur zu versuchen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7007775/ALF_Es_war_einmal_ein_Komiker_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7007802/ALF_Es_war_einmal_ein_Komiker_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7007815/ALF_Es_war_einmal_ein_Komiker_3_3"
+                }
+       ]
+}

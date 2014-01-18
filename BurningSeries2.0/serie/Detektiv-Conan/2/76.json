@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die Spinnenkönigin (2)",
+         "titleen":"Episode 178",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=JwJj79wCq_8"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5610478/Detektiv_Conan_Folge_178_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5610799/Detektiv_Conan_Folge_178_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5611135/Detektiv_Conan_Folge_178_3_3"
+                }
+       ]
+}

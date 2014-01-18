@@ -1,0 +1,30 @@
+{
+        "series":"Cold Case ? Kein Opfer ist je vergessen",
+        "seasons":7,
+        "cover":"Cold-Case-Kein-Opfer-ist-je-vergessen_d952da7f4cf1e5ddc35621c07baa7a54.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Überfahrt","english":"The Crossing","hoster":["PutLocker"]},
+                {"german":"Super-Skater","english":"Hood Rats","hoster":["PutLocker"]},
+                {"german":"Jurisprudenz","english":"Jurisprudence","hoster":["PutLocker"]},
+                {"german":"Soul","english":"Soul","hoster":["PutLocker"]},
+                {"german":"WASP","english":"WASP","hoster":["PutLocker"]},
+                {"german":"Totes Rennen","english":"Dead Heat","hoster":["PutLocker"]},
+                {"german":"Zwischen den Zeilen","english":"Read Between the Lines","hoster":["PutLocker"]},
+                {"german":"Dragon Boys","english":"Chinatown","hoster":["PutLocker"]},
+                {"german":"Debatten","english":"Forensics","hoster":["PutLocker"]},
+                {"german":"Das Hockey-Wunder","english":"Iced","hoster":["PutLocker"]},
+                {"german":"Der gute Soldat","english":"The Good Soldier","hoster":["PutLocker"]},
+                {"german":"Bunny","english":"The Runaway Bunny","hoster":["PutLocker"]},
+                {"german":"Graffiti","english":"Bombers","hoster":["PutLocker"]},
+                {"german":"Metamorphose","english":"Metamorphosis","hoster":["PutLocker"]},
+                {"german":"Zwei Hochzeiten","english":"Two Weddings","hoster":["PutLocker"]},
+                {"german":"Wrestling","english":"One Fall","hoster":["PutLocker"]},
+                {"german":"Feuerhölle","english":"Flashover","hoster":["PutLocker"]},
+                {"german":"Rachefeldzug (1)","english":"The Last Drive-In (1)","hoster":["PutLocker"]},
+                {"german":"Rachefeldzug","english":"Bullet (2)","hoster":["PutLocker"]},
+                {"german":"Woodstock","english":"Free Love","hoster":["PutLocker"]},
+                {"german":"Ballkönigin","english":"Almost Paradise (1)","hoster":["PutLocker"]},
+                {"german":"Schwestern","english":"Shattered (2)","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,18 @@
+{
+        "series":"One Piece",
+        "seasons":6,
+        "cover":"One-Piece_7a8b8b72aafffbbdd1425b5876412191.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"One Piece - Der Film","english":"One Piece ? The Movie","hoster":["PutLocker"]},
+                {"german":"Abenteuer auf der Spiralinsel!","english":"","hoster":["PutLocker"]},
+                {"german":"Chopper auf der Insel der seltsamen Tiere","english":"","hoster":["DivxStage"]},
+                {"german":"Das Dead End Rennen","english":"","hoster":["PutLocker"]},
+                {"german":"Der Fluch des heiligen Schwertes","english":"","hoster":["DivxStage"]},
+                {"german":"Baron Omatsuri und die geheimnisvolle Insel","english":"","hoster":["PutLocker","DivxStage"]},
+                {"german":"Schloss Karakuris Metall-Soldaten","english":"","hoster":[]},
+                {"german":"Episode of Alabasta","english":"","hoster":[]},
+                {"german":"Episode of Chopper","english":"","hoster":[]},
+                {"german":"Strong World","english":"","hoster":[]}
+         ]
+}

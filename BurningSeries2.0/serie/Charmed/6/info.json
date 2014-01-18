@@ -1,0 +1,31 @@
+{
+        "series":"Charmed - Zauberhafte Hexen",
+        "seasons":8,
+        "cover":"Charmed-Zauberhafte-Hexen_722c3c2a985260f00d8e5b09cc808f39.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Im Bann der Walküren (1)","english":"Valhalley of the Dolls (1)","hoster":["YouTube"]},
+                {"german":"Im Bann der Walküren (2)","english":"Valhalley of the Dolls (2)","hoster":["YouTube","MyVideo"]},
+                {"german":"Vergissmeinnicht","english":"Forget Me... Not","hoster":["YouTube"]},
+                {"german":"Die Ohnmacht der Drei","english":"The Power of Three Blondes","hoster":["YouTube"]},
+                {"german":"Tödliche Liebe","english":"Love&#039;s A Witch","hoster":["YouTube"]},
+                {"german":"Opfer der Sehnsucht","english":"My Three Witches","hoster":["YouTube"]},
+                {"german":"Seelenqualen","english":"Soul Survivor","hoster":["YouTube"]},
+                {"german":"Piper und die Tafelrunde","english":"Sword and the City","hoster":["YouTube"]},
+                {"german":"Kleine Monster","english":"Little Monsters","hoster":["YouTube"]},
+                {"german":"Zwischen den Zeiten","english":"Chris-Crossed","hoster":["YouTube"]},
+                {"german":"Witchstock","english":"Witchstock","hoster":["YouTube"]},
+                {"german":"Der perfekte Mann","english":"Prince Charmed","hoster":["YouTube"]},
+                {"german":"Schlechtes Karma","english":"Used Karma","hoster":[]},
+                {"german":"Die kopflosen Drei","english":"The Legend of Sleepy Halliwell","hoster":["YouTube"]},
+                {"german":"Bezaubernde Phoebe","english":"I Dream of Phoebe","hoster":["YouTube"]},
+                {"german":"Piper und Leo","english":"The Courtship of Wyatt&#039;s Father","hoster":["YouTube"]},
+                {"german":"Klassentreffen","english":"Hyde School Reunion","hoster":["YouTube"]},
+                {"german":"Die Spinne","english":"Spin City","hoster":["YouTube"]},
+                {"german":"Das Tribunal","english":"Crimes and Witch-Demeanors","hoster":["YouTube"]},
+                {"german":"Magische Männer","english":"A Wrong Day&#039;s Journey into Right","hoster":["YouTube"]},
+                {"german":"Witch Wars","english":"Witch Wars","hoster":["YouTube"]},
+                {"german":"Gute und böse Welt (1)","english":"It&#039;s a Bad, Bad, Bad, Bad World (1)","hoster":["YouTube"]},
+                {"german":"Gute und Böse Welt (2)","english":"It&#039;s a Bad, Bad, Bad, Bad World (2)","hoster":["YouTube"]}
+         ]
+}

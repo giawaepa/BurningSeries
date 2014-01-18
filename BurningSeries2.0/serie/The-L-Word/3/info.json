@@ -1,0 +1,20 @@
+{
+        "series":"The L Word",
+        "seasons":6,
+        "cover":"The-L-Word_2989b24ba4baa8267a2baadbeff05c51.jpeg",
+        "movies":false,
+        "episodes":[
+                {"german":"Wirrungen","english":"Labia Majora","hoster":["PutLocker"]},
+                {"german":"Mannweiber","english":"Lost Weekend","hoster":[]},
+                {"german":"Rückkehr","english":"Lobsters","hoster":[]},
+                {"german":"Light My Fire","english":"Light My Fire","hoster":[]},
+                {"german":"Speed-Dating","english":"Lifeline","hoster":["PutLocker"]},
+                {"german":"Umwandlung","english":"Lifesize","hoster":[]},
+                {"german":"Goldstern","english":"Lone Star","hoster":[]},
+                {"german":"Auf Leben und Tod","english":"Latecomer","hoster":[]},
+                {"german":"Reingelegt","english":"Lead, Follow, Or Get Out of the Way","hoster":[]},
+                {"german":"Auf dunklen Wegen","english":"Losing the Light","hoster":["PutLocker"]},
+                {"german":"Ihr Wille geschehe","english":"Last Dance","hoster":[]},
+                {"german":"Drum prüfe, wer sich ewig bindet","english":"Left Hand of the Goddess","hoster":[]}
+         ]
+}

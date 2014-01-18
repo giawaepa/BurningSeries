@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Gus, der Dieb / Der Physik-Wettbewerb",
+         "titleen":"Gus and the Misdemeanors / Science to Remember",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=o8fwEvLR-F4"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=mxLF6HxwT3M"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6695531/Disneys_Grosse_Pause_Episode_76_Gus_der_Dieb"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6695495/Disneys_Grosse_Pause_Episode_77_Der_Physik_Wettbewerb"
+                }
+       ]
+}

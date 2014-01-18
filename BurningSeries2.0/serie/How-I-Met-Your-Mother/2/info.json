@@ -1,0 +1,30 @@
+{
+        "series":"How I Met Your Mother",
+        "seasons":7,
+        "cover":"How-I-Met-Your-Mother_470f96f81545d60a203d278bb3b9b0a1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das große Baby","english":"Where Were We?","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Neues Leben, alte Fehler","english":"The Scorpion and the Toad","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Brunch","english":"Brunch","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Ted Mosby, Architekt","english":"Ted Mosby, Architect","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das ideale Paar","english":"World&#039;s Greatest Couple","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Auf Safari","english":"Aldrin Justice","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Swarley","english":"Swarley","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Atlantic City","english":"Atlantic City","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Schlag auf Schlag","english":"Slap Bet","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Im Pärchen-Koma","english":"Single Stamina","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"	Wie Lily Weihnachten gestohlen hat","english":"How Lily Stole Christmas","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Erste Male","english":"First Time In New York","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Säulen der Menschheit","english":"Columns","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Das Montagsspiel","english":"Monday Night Football","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wer den Penny ehrt","english":"Lucky Penny","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Nur Theater","english":"Stuff","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Arrivederci, Fiero","english":"Arrivederci, Fiero","hoster":["PutLocker","Sockshare","DivxStage","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Der Abschlepp-Wagen","english":"Moving Day","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Pikante Partys","english":"Bachelor Party","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Showdown","english":"Showdown","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Hochzeit mit Harfe","english":"Something Borrowed","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]},
+                {"german":"Kinder oder Argentinien","english":"Something Blue","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo","Ecostream","BitShare","VideoWeed","UploadC"]}
+         ]
+}

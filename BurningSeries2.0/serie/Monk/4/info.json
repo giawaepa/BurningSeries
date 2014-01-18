@@ -1,0 +1,24 @@
+{
+        "series":"Monk",
+        "seasons":8,
+        "cover":"Monk_bfa22242c5b58dd205872102d92eeed7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Mr. Monk bekommt Konkurrenz","english":"Mr. Monk and the Other Detective","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und Frankenstein","english":"Mr. Monk Goes Home Again","hoster":["PutLocker"]},
+                {"german":"Mr. Monk hütet das Bett","english":"Mr. Monk Stays in Bed","hoster":["PutLocker"]},
+                {"german":"Mr. Monk als Bürohengst","english":"Mr. Monk Goes to the Office","hoster":["PutLocker"]},
+                {"german":"Mr. Monk ist betrunken","english":"Mr. Monk Gets Drunk","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und Mrs. Monk","english":"Mr. Monk and Mrs. Monk","hoster":["MyVideo","PutLocker"]},
+                {"german":"Mr. Monk und die schwarze Witwe","english":"Mr. Monk Goes to a Wedding","hoster":["PutLocker"]},
+                {"german":"Mr. Monk war auch mal klein","english":"Mr. Monk and Little Monk","hoster":["PutLocker"]},
+                {"german":"Spezial: Mr. Monk unterwegs als Weihnachtsmann","english":"Mr. Monk and the Secret Santa","hoster":["PutLocker"]},
+                {"german":"Mr. Monk betritt die Modewelt","english":"Mr. Monk Goes to a Fashion Show","hoster":["PutLocker"]},
+                {"german":"Mr. Monk erinnert sich an nichts","english":"Mr. Monk Bumps His Head","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und das Geheimnis einer Ehe","english":"Mr. Monk and the Captain&#039;s Marriage","hoster":["PutLocker"]},
+                {"german":"Mr. Monk auf der Jagd nach dem verschwundenen Juwel","english":"Mr. Monk and the Big Reward","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und das ausserirdische Alibi","english":"Mr. Monk and the Astronaut","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der sadistische Zahnarzt","english":"Mr. Monk Goes to the Dentist","hoster":["PutLocker"]},
+                {"german":"Mr. Monk als Geschworener","english":"Mr. Monk Gets Jury Duty","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,16 @@
+{
+        "series":"Elton vs. Simon",
+        "seasons":4,
+        "cover":"Elton-vs-Simon_02d319e1e346b725baa5690ee6ee8160.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Folge 1","english":"","hoster":[]},
+                {"german":"Folge 2","english":"","hoster":[]},
+                {"german":"Folge 3","english":"","hoster":[]},
+                {"german":"Folge 4","english":"","hoster":[]},
+                {"german":"Folge 5","english":"","hoster":[]},
+                {"german":"Folge 6","english":"","hoster":[]},
+                {"german":"Folge 7","english":"","hoster":[]},
+                {"german":"Folge 8","english":"","hoster":[]}
+         ]
+}

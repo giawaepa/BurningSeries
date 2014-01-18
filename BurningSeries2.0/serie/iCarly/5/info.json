@@ -1,0 +1,19 @@
+{
+        "series":"iCarly",
+        "seasons":5,
+        "cover":"iCarly_7203625d55cfd3b4011def326c78e6e2.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"","english":"iLost my Mind","hoster":["PutLocker"]},
+                {"german":"","english":"iDate Sam &amp; Freddie","hoster":[]},
+                {"german":"","english":"iCan`t take it","hoster":["PutLocker"]},
+                {"german":"","english":"iLove You","hoster":["PutLocker"]},
+                {"german":"","english":"iQ","hoster":["PutLocker"]},
+                {"german":"","english":"iBloop 2 - Electric Bloopaloo","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"iStill Psycho","hoster":["PutLocker"]},
+                {"german":"","english":"iBalls","hoster":["PutLocker"]},
+                {"german":"","english":"iMeet the First Lady","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"iToe Fat Cakes","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"iToe Fat Cakes","hoster":[]}
+         ]
+}

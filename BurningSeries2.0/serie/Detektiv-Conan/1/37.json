@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Ein As im Ärmel",
+         "titleen":"Episode 037",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=tFDKr6eSN3g"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=yMHsG6a6LGo"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6759125/D_C_Folge_037_Ein_Ass_im_Aermel_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6759168/D_C_Folge_037_Ein_Ass_im_Aermel_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6759215/D_C_Folge_037_Ein_Ass_im_Aermel_3_3"
+                }
+       ]
+}

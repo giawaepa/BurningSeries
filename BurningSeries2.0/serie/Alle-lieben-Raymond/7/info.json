@@ -1,0 +1,32 @@
+{
+        "series":"Alle lieben Raymond",
+        "seasons":9,
+        "cover":"Alle-lieben-Raymond_fc686af2b853c140fb5eda67e16ef9c7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Pfad der Erleuchtung","english":"The Cult","hoster":["PutLocker"]},
+                {"german":"Die Eheberaterin","english":"Counseling","hoster":["PutLocker"]},
+                {"german":"Der Elternsprecher","english":"Homework","hoster":["PutLocker"]},
+                {"german":"Der Hasenstreichler","english":"Pet the Bunny","hoster":["PutLocker"]},
+                {"german":"Im Club der Senioren","english":"Who Am I?","hoster":["PutLocker"]},
+                {"german":"Viva Las Vegas!","english":"Robert Needs Money","hoster":["PutLocker"]},
+                {"german":"Des Mannes Königreich","english":"The Sigh","hoster":["PutLocker"]},
+                {"german":"Der Kinderhasser","english":"The Annoying Kid","hoster":["PutLocker"]},
+                {"german":"Die Froschkönigin","english":"She&#039;s the One","hoster":["PutLocker"]},
+                {"german":"Glasklar","english":"Marie&#039;s Vision","hoster":["PutLocker"]},
+                {"german":"Das perfekte Geschenk","english":"The Thought That Counts","hoster":["PutLocker"]},
+                {"german":"Opa Langfinger","english":"Grandpa Steals","hoster":["PutLocker"]},
+                {"german":"Hilfe, jemand hasst mich!","english":"Somebody Hates Raymond","hoster":["PutLocker"]},
+                {"german":"Antrag abgelehnt","english":"Just a Formality","hoster":["PutLocker"]},
+                {"german":"Guter Papa, böse Mama","english":"The Disciplinarian","hoster":["PutLocker"]},
+                {"german":"Familientreffen","english":"Meeting the Parents","hoster":["PutLocker"]},
+                {"german":"Edel, hilfreich und gut","english":"Sweet Charity","hoster":["PutLocker"]},
+                {"german":"Einladung zur Nudistenhochzeit","english":"The Plan","hoster":["PutLocker"]},
+                {"german":"Die Grabscherin","english":"Sleepover at Peggy&#039;s","hoster":["PutLocker"]},
+                {"german":"Wer länger lebt, hat Pech gehabt","english":"Who&#039;s Next","hoster":["PutLocker"]},
+                {"german":"Hinter Gittern","english":"The Shower","hoster":["PutLocker"]},
+                {"german":"Der Käse im Koffer","english":"Baggage","hoster":["PutLocker"]},
+                {"german":"Junggesellenabschied","english":"The Bachelor Party","hoster":["PutLocker"]},
+                {"german":"Roberts Hochzeit","english":"Robert&#039;s Wedding","hoster":["PutLocker"]}
+         ]
+}

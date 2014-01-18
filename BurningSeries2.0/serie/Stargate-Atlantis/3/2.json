@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Ein Schlechter Plan",
+         "titleen":"Misbegotten (3)",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7256915/Stargate_Atlantis_S03E02_Ein_schlechter_Plan_1_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7256994/Stargate_Atlantis_S03E02_Ein_schlechter_Plan_2_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7257144/Stargate_Atlantis_S03E02_Ein_schlechter_Plan_3_5"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7257215/Stargate_Atlantis_S03E02_Ein_schlechter_Plan_4_5"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"0D90A7E76E2289E8"
+                }
+       ]
+}

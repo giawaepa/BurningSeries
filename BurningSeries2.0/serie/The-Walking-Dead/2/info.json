@@ -1,0 +1,15 @@
+{
+        "series":"The Walking Dead",
+        "seasons":2,
+        "cover":"The-Walking-Dead_02bcd4ff935cc460b6aabe067b22c394.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Zukunft im Rückspiegel","english":"What Lies Ahead","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Blutsbande","english":"Bloodletting","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Die letzte Kugel","english":"Save the Last One","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Die Cherokee Rose","english":"Cherokee Rose","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Chupacabra","english":"Chupacabra","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Secrets","english":"Secrets","hoster":["PutLocker","DivxStage","Ecostream"]},
+                {"german":"Pretty Much Dead Already","english":"Pretty Much Dead Already","hoster":["PutLocker","DivxStage","Ecostream"]}
+         ]
+}

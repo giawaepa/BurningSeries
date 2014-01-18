@@ -1,0 +1,29 @@
+{
+        "series":"Charmed - Zauberhafte Hexen",
+        "seasons":8,
+        "cover":"Charmed-Zauberhafte-Hexen_722c3c2a985260f00d8e5b09cc808f39.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Verschwörung des Bösen","english":"The Honeymoon&#039;s Over","hoster":["YouTube"]},
+                {"german":"Hexenhochzeit","english":"Magic Hour","hoster":["YouTube"]},
+                {"german":"Von Feen und Trollen","english":"Once Upon a Time","hoster":["YouTube"]},
+                {"german":"Das Zeitportal","english":"All Halliwell&#039;s Eve","hoster":["YouTube"]},
+                {"german":"Die Dämonenfalle","english":"Sight Unseen","hoster":["YouTube"]},
+                {"german":"Die Macht der Gefühle","english":"Primrose Empath","hoster":["YouTube"]},
+                {"german":"Alle oder keine","english":"Power Outage","hoster":["YouTube"]},
+                {"german":"Balthasar","english":"Sleuthing With the Enemy","hoster":["YouTube"]},
+                {"german":"Wenn der Eismann kommt","english":"We All Scream for Ice Cream","hoster":["YouTube"]},
+                {"german":"Gegen alle Regeln","english":"Blinded by the Whitelighter","hoster":["YouTube"]},
+                {"german":"Verlorene Seelen","english":"Wrestling with Demons","hoster":["YouTube"]},
+                {"german":"Das Böse in mir","english":"Bride and Gloom","hoster":["YouTube"]},
+                {"german":"Stadt der Geister","english":"The Good, the Bad and the Cursed","hoster":["YouTube"]},
+                {"german":"Trauung mit Hindernissen","english":"Just Harried","hoster":["YouTube"]},
+                {"german":"Der Tod siegt immer","english":"Death Takes a Halliwell","hoster":["YouTube"]},
+                {"german":"Aller guten Dinge sind neun","english":"Pre-Witched","hoster":["YouTube"]},
+                {"german":"Die sieben Todsünden","english":"Sin Francisco","hoster":["YouTube"]},
+                {"german":"Die Bruderschaft","english":"The Demon Who Came In from the Cold","hoster":["YouTube"]},
+                {"german":"Freund oder Feind?","english":"Exit Strategy","hoster":["YouTube"]},
+                {"german":"Die Todesfee","english":"Look Who&#039;s Barking","hoster":["YouTube"]},
+                {"german":"Das Ende","english":"All Hell Breaks Loose","hoster":["YouTube"]}
+         ]
+}

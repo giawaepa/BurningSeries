@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Zur besten Sendezeit",
+         "titleen":"Prime Time",
+         "description":"Die Tanners werden an das Thompson-System angeschlossen. Das dient der Feststellung der Fernseheinschaltquote. Alf hat somit endlich die Gelegenheit, seine Lieblingssendung durch Manipulation auf Platz Eins zu bringen.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6723345/ALF_Zur_besten_Sendezeit_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6723443/ALF_Zur_besten_Sendezeit_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6723572/ALF_Zur_besten_Sendezeit_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"68B8EC404F8D2CFE"
+                }
+       ]
+}

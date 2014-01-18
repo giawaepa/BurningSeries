@@ -1,0 +1,31 @@
+{
+        "series":"Dr. House",
+        "seasons":8,
+        "cover":"Dr-House_c99673c1059f48ba3467597c75711752.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Und nun?","english":"Now What?","hoster":["PutLocker","Sockshare","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Liebe in der Ellenbogengesellschaft","english":"Selfish","hoster":["PutLocker","Sockshare","BitShare","VideoWeed","UploadC"]},
+                {"german":"Mit anderen Worten","english":"Unwritten","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Neben der Wahrheit","english":"Massage Therapy","hoster":["PutLocker","Sockshare","BitShare","VideoWeed","UploadC"]},
+                {"german":"Wer qualifiziert sich für das vierte Gebot?","english":"Unplanned Parenthood","hoster":["PutLocker","Sockshare","BitShare","VideoWeed","UploadC"]},
+                {"german":"Arena der Genies","english":"Office Politics","hoster":["PutLocker","Sockshare","BitShare","VideoWeed","UploadC"]},
+                {"german":"Gefahr von gestern","english":"A Pox on our House","hoster":["PutLocker","Sockshare","BitShare","VideoWeed","UploadC"]},
+                {"german":"Die Last der Lügen","english":"Small Sacrifices","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Mutter aus heiterer Hölle","english":"Larger Than Life","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Großer Mann, was nun?","english":"Carrot or Stick","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Spießrutenlauf","english":"Family Practice","hoster":["PutLocker","Sockshare","BitShare"]},
+                {"german":"Zwangsarbeit","english":"You Must Remember This","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Fehlerkultur","english":"Two Stories","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Beziehungsweise","english":"Recession Proof","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Schlag auf Schlag","english":"Bombshells","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Schutzlos","english":"Out of the Chute","hoster":["PutLocker","DivxStage","UploadC"]},
+                {"german":"Ungnade","english":"Fall from Grace","hoster":["PutLocker","DivxStage","UploadC"]},
+                {"german":"Verschüttete Wahrheiten","english":"The Dig","hoster":["PutLocker","Sockshare","DivxStage","BitShare"]},
+                {"german":"Masters letzte Versuchung","english":"Last Temptation","hoster":["PutLocker","DivxStage","BitShare","UploadC"]},
+                {"german":"Schneller als die Moral","english":"Changes","hoster":["PutLocker","DivxStage","UploadC"]},
+                {"german":"Unheilsgeschichten","english":"The Fix","hoster":["PutLocker","Sockshare","DivxStage","BitShare","UploadC"]},
+                {"german":"Ärztekummer","english":"After Hours","hoster":["PutLocker","Sockshare","DivxStage","UploadC"]},
+                {"german":"Entzwei","english":"Moving On","hoster":["PutLocker","DivxStage","BitShare"]}
+         ]
+}

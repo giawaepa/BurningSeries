@@ -1,0 +1,13 @@
+{
+        "series":"Torchwood",
+        "seasons":4,
+        "cover":"Torchwood_8698d3d57d5131cbf2c8f45fc8c5c62b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Kinder der Erde: Tag eins","english":"Children of Earth: Day One","hoster":["PutLocker"]},
+                {"german":"Kinder der Erde: Tag zwei","english":"Children of Earth: Day Two","hoster":["PutLocker"]},
+                {"german":"Kinder der Erde: Tag drei","english":"Children of Earth: Day Three","hoster":["PutLocker"]},
+                {"german":"Kinder der Erde: Tag vier","english":"Children of Earth: Day Four","hoster":["PutLocker"]},
+                {"german":"Kinder der Erde: Tag fünf","english":"Children of Earth: Day Five","hoster":["PutLocker"]}
+         ]
+}

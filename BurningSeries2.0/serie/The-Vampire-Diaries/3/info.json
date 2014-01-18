@@ -1,0 +1,21 @@
+{
+        "series":"The Vampire Diaries",
+        "seasons":3,
+        "cover":"The-Vampire-Diaries_bb79592b7f234e95fc4c39172d8b595c.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Geburtstag","english":"The Birthday","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Der Hybrid","english":"The Hybrid","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die dunklen Jahre","english":"The End of the Affair","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"Disturbing Behavior","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"The Reckoning","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"Smells Like Teen Spirit","hoster":["YouTube","PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"Ghost World","hoster":["YouTube","PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"Ordinary People","hoster":["YouTube","PutLocker","Sockshare"]},
+                {"german":"","english":"Homecoming","hoster":["YouTube","PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"The New Deal","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"Our Town","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"The Ties That Bind","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"","english":"Bringing Out the Dead","hoster":["PutLocker","Sockshare"]}
+         ]
+}

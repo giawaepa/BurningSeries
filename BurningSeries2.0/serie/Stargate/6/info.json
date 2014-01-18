@@ -1,0 +1,30 @@
+{
+        "series":"Stargate SG-1",
+        "seasons":10,
+        "cover":"Stargate-SG-1_6b5b9978ee26b1880a53c96bc53f8c10.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Wiedergutmachung - Teil 1","english":"Redemption (1)","hoster":["PutLocker"]},
+                {"german":"Wiedergutmachung - Teil 2","english":"Redemption (2)","hoster":["PutLocker"]},
+                {"german":"Notlandung","english":"Descent","hoster":["PutLocker"]},
+                {"german":"Virus aus dem Eis","english":"Frozen","hoster":["PutLocker"]},
+                {"german":"In den Händen der Goa&#039;uld","english":"Nightwalkers","hoster":["PutLocker"]},
+                {"german":"Am Abgrund","english":"Abyss","hoster":["PutLocker"]},
+                {"german":"Ein Übermächtiger Feind","english":"Shadow Play","hoster":["PutLocker"]},
+                {"german":"Wahre Helden","english":"The Other Guys","hoster":["PutLocker"]},
+                {"german":"Das Bündnis","english":"Allegiance","hoster":["PutLocker"]},
+                {"german":"Heilung","english":"Cure","hoster":["PutLocker"]},
+                {"german":"Prometheus","english":"Prometheus (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"Unnatürliche Auslese","english":"Unnatural Selection (2)","hoster":[]},
+                {"german":"Die Unsichtbaren","english":"Sight Unseen","hoster":[]},
+                {"german":"Das Machtkartell","english":"Smoke &amp; Mirrors","hoster":[]},
+                {"german":"Das Verlorene Paradies","english":"Paradise Lost","hoster":[]},
+                {"german":"Metamorphosis","english":"Metamorphosis","hoster":[]},
+                {"german":"Enthüllung","english":"Disclosure","hoster":[]},
+                {"german":"Gestrandet","english":"Forsaken","hoster":[]},
+                {"german":"Hilfe aus der Traumwelt","english":"The Changeling","hoster":[]},
+                {"german":"Vergangenheit","english":"Memento","hoster":[]},
+                {"german":"Jonas&#039; Visionen","english":"Prophecy","hoster":[]},
+                {"german":"Der Kreis schließt sich","english":"Full Circle","hoster":[]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Futurama",
+        "seasons":6,
+        "cover":"Futurama_979ef846f0c79ee83e7d3bcc3912fa2a.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Amazonen machen Snu Snu","english":"Amazon Women in the Mood","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Im Reich der Parasiten","english":"Parasites Lost","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Alle Jahre wieder","english":"A Tale of Two Santas","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Glück des Phillip J. Fry","english":"The Luck of the Fryrish","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Bender unter Pinguinen","english":"The Birdbot of Ice-catraz","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Bender - bis über beide Ohren","english":"Bendless Love","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Tag, an dem die Erde verdummte","english":"The Day the Earth Stood Stupid","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Zoidberg geht nach Hollywood","english":"That&#039;s Lobstertainment!","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"In den Augen einer Waisen","english":"The Cyber House Rules","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Vierzig Käfer westwärts","english":"Where the Buggalo Roam","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Roboter Roberto - Bankräuber","english":"Insane in the Mainframe","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Wurzel allen Übels","english":"The Route of All Evil","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Bender auf Tour","english":"Bendin&#039; in the Wind","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Wie die Zeit vergeht","english":"Time Keeps on Slippin","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Date mit einem Roboter","english":"I Dated a Robot","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Eine Klasse für sich","english":"A Leela of Her Own","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der unvergessene Pharao","english":"A Pharaoh to Remember","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Geschichten von Interesse Nr. 2","english":"Anthology of Interest II","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Roswell gut - alles gut","english":"Roswell that Ends Well","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der göttliche Bender","english":"Godfellas","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Wer wird Millionär","english":"Future Stock","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Kochduell","english":"The 30% Iron Chef","hoster":["PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

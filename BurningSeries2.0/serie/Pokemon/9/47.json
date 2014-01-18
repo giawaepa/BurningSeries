@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Jedes Ende hat einen Anfang!",
+         "titleen":"Episode 467",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6983973/Pokemon_Folge_468_Part_1_3_Jedes_Ende_hat_einen_Anfang"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6984071/Pokemon_Folge_468_Part_2_3_Jedes_Ende_hat_einen_Anfang"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6984095/Pokemon_Folge_468_Part_3_3_Jedes_Ende_hat_auch_einen_Anfang"
+                }
+       ]
+}

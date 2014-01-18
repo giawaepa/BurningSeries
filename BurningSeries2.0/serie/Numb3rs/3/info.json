@@ -1,0 +1,32 @@
+{
+        "series":"Numb3rs ? Die Logik des Verbrechens",
+        "seasons":6,
+        "cover":"Numb3rs-Die-Logik-des-Verbrechens_8e3e17c52a0c53602826e85ab5fe4c15.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Verfolgungskurven","english":"Spree","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Töchter","english":"Two Daughters","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Überlebende","english":"Provenance","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Der Maulwurf","english":"The Mole","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ampeln","english":"Traffic","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wettkönig","english":"Longshot","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Blackout","english":"Blackout","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Doping-Formel","english":"Hardball","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Giftmüll","english":"Waste Not","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Brutus","english":"Brutus","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gefährlicher Chat","english":"Killer Chat","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Neun Frauen","english":"Nine Wives","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schatzsuche","english":"Finders Keepers","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Kapital à la Carte","english":"Take Out","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Aus nächster Nähe","english":"End of Watch","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Harte Bandagen","english":"Contenders","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Nur eine Stunde","english":"One Hour","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Keine Wahl","english":"Democracy","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Blackbox","english":"Pandora´s Box","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Tödliche Post","english":"Burn Rate","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Trügerische Erinnerung","english":"The Art of Reckoning","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Zelle","english":"Under Pressure","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Unter Geiern","english":"Money For Nothing","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Janus-Liste","english":"The Janus List","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

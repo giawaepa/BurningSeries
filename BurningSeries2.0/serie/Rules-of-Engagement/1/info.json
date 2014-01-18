@@ -1,0 +1,15 @@
+{
+        "series":"Rules of Engagement",
+        "seasons":6,
+        "cover":"Rules-of-Engagement_f7ad76ee4c30c6ef6ea68cc1c33264b1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Heute nicht mehr, Schatz","english":"Pilot","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Der Geburtstagsdeal","english":"The Birthday Deal","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"All die Kerle in meinem Bett","english":"Young and the Restless","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Spielzeug für große Jungs","english":"Game On","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Probleme mit der Munition","english":"Kids","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Stehende Ovation","english":"Hard Day&#039;s Night","hoster":["PutLocker","Sockshare","RapidVideo"]},
+                {"german":"Was nie gesagt wurde","english":"Jeff&#039;s Wooby","hoster":["PutLocker","Sockshare","RapidVideo"]}
+         ]
+}

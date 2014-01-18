@@ -1,0 +1,21 @@
+{
+        "series":"Alles Atze",
+        "seasons":6,
+        "cover":"Alles-Atze_a365bdc14aba8ab98c5db36e9b3a641b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Männersachen","english":"","hoster":["PutLocker"]},
+                {"german":"Die Spießerfalle","english":"","hoster":[]},
+                {"german":"Der Lehrer","english":"","hoster":["PutLocker"]},
+                {"german":"Das Juwel","english":"","hoster":[]},
+                {"german":"Die Kette","english":"","hoster":["PutLocker"]},
+                {"german":"Das Straßenfest","english":"","hoster":["PutLocker"]},
+                {"german":"Die Behindertenwerkstatt","english":"","hoster":["PutLocker"]},
+                {"german":"Plätes Geburtstag","english":"","hoster":[]},
+                {"german":"Alles hat seine Zeit","english":"","hoster":["PutLocker"]},
+                {"german":"Die Währungsreform","english":"","hoster":[]},
+                {"german":"Rivalen der Rennbahn","english":"","hoster":[]},
+                {"german":"Der Clou","english":"","hoster":[]},
+                {"german":"Der Kurschatten","english":"","hoster":[]}
+         ]
+}

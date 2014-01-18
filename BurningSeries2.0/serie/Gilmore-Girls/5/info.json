@@ -1,0 +1,30 @@
+{
+        "series":"Gilmore Girls",
+        "seasons":7,
+        "cover":"Gilmore-Girls_7f16155ca12e6b38d5c40963a00e8818.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ohne Worte","english":"Say Goodbye to Daisy Miller","hoster":[]},
+                {"german":"Ein Brief Mit Folgen","english":"A Messenger, Nothing More","hoster":[]},
+                {"german":"Der Kaffee danach","english":"Written in the Stars","hoster":[]},
+                {"german":"Wahlkampf","english":"Tippecanoe and Taylor, Too","hoster":[]},
+                {"german":"Ein Date zu viert","english":"We Got Us a Pippi Virgin!","hoster":[]},
+                {"german":"Tanz der Hormone","english":"Norman Mailer, I&#039;m Pregnant!","hoster":[]},
+                {"german":"Sprung ins Ungewisse","english":"You Jump, I Jump, Jack","hoster":[]},
+                {"german":"Katerstimmung","english":"The Party&#039;s Over","hoster":[]},
+                {"german":"Auf Männerfang","english":"Emily Says Hello","hoster":[]},
+                {"german":"Die Ausreißerin","english":"But Not as Cute as Pushkin","hoster":[]},
+                {"german":"Auf den Hund gekommen","english":"Women Of Questionable Morals","hoster":[]},
+                {"german":"Süße Stunden","english":"Come Home","hoster":[]},
+                {"german":"Hochzeit in Moll","english":"Wedding Bell Blues","hoster":[]},
+                {"german":"Wahltag","english":"Say Something","hoster":[]},
+                {"german":"So ein Theater!","english":"Jews and Chinese Food","hoster":[]},
+                {"german":"Dicke Luft","english":"So... Good Talk","hoster":[]},
+                {"german":"Hin und weg","english":"Pulp Friction","hoster":[]},
+                {"german":"Der Traum vom Haus","english":"To Live and Let Diorama","hoster":[]},
+                {"german":"Der Küchenspion","english":"But I&#039;m a Gilmore!","hoster":[]},
+                {"german":"Das perfekte Paar","english":"How Many Kropogs to Cape Cod?","hoster":[]},
+                {"german":"Kurzschluss","english":"Blame Booze and Melville","hoster":[]},
+                {"german":"Auszeit","english":"A House Is Not a Home","hoster":[]}
+         ]
+}

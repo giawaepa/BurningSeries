@@ -1,0 +1,30 @@
+{
+        "series":"Joey",
+        "seasons":2,
+        "cover":"Joey_9f09e953dc3350d8833223d157edf85a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Bitteres Ende, Teil 1","english":"Joey and the Big Break (1)","hoster":["PutLocker"]},
+                {"german":"Bitteres Ende, Teil 2","english":"Joey and the Big Break (2)","hoster":["PutLocker"]},
+                {"german":"Der kleine Tyrann","english":"Joey and the Spanking","hoster":["PutLocker"]},
+                {"german":"Der Stuntman","english":"Joey and the Stuntman","hoster":["PutLocker"]},
+                {"german":"Das Traumhaus","english":"Joey and the House","hoster":["PutLocker"]},
+                {"german":"Deutsch für Anfänger","english":"Joey and the ESL","hoster":["PutLocker"]},
+                {"german":"Schlechte Karten","english":"Joey and the Poker","hoster":["PutLocker"]},
+                {"german":"Das Sexvideo","english":"Joey and the Sex Tape","hoster":["PutLocker"]},
+                {"german":"Alles für die Oma","english":"Joey and the Musical","hoster":["PutLocker"]},
+                {"german":"Happy Thanksgiving!","english":"Joey and the Bachelor Thanksgiving","hoster":["PutLocker"]},
+                {"german":"Der Schulfreund","english":"Joey and the High School Friend","hoster":["PutLocker"]},
+                {"german":"Das Ehepaar Tribbiani","english":"Joey and the Tijuana Trip","hoster":["PutLocker"]},
+                {"german":"Die Weihnachtsparty","english":"Joey and the Christmas Party","hoster":["PutLocker"]},
+                {"german":"Die Schneeballschlacht","english":"Joey and the Snowball Fight","hoster":["PutLocker"]},
+                {"german":"Vater und Sohn","english":"Joey and the Dad","hoster":["PutLocker"]},
+                {"german":"Der Heiratsantrag","english":"Joey and the Party for Alex","hoster":["PutLocker"]},
+                {"german":"Das große Feuer","english":"Joey and the Big Move","hoster":["PutLocker"]},
+                {"german":"Das Alibi","english":"Joey and the Beard","hoster":["PutLocker"]},
+                {"german":"Die Kritikerin","english":"Joey and the Critic","hoster":["PutLocker"]},
+                {"german":"","english":"Joey and the Actor&#039;s Studio","hoster":[]},
+                {"german":"Starke Hände","english":"Joey and the Holding Hands","hoster":["PutLocker"]},
+                {"german":"Das flüchtige Brautpaar","english":"Joey and the Wedding","hoster":["PutLocker"]}
+         ]
+}

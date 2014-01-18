@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der geheimnisvolle Kunde",
+         "titleen":"Episode 197",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=Nszji_79wrs"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5661799/Detektiv_Conan_Folge_197_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5662557/Detektiv_Conan_Folge_197_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5663365/Detektiv_Conan_Folge_197_3_3"
+                }
+       ]
+}

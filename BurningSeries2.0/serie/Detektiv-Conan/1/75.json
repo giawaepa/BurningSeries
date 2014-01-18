@@ -1,0 +1,24 @@
+{ 
+         "titlede":"SOS per Flaschenpost",
+         "titleen":"Episode 075",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=MeIkZjkd36o"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6263181/Detektiv_Conan_Folge_75_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6263289/Detektiv_Conan_Folge_75_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6263390/Detektiv_Conan_Folge_75_3_3"
+                }
+       ]
+}

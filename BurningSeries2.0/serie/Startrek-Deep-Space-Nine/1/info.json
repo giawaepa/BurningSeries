@@ -1,0 +1,28 @@
+{
+        "series":"Star Trek: Deep Space Nine",
+        "seasons":7,
+        "cover":"Star-Trek-Deep-Space-Nine_61d0b1426954fb2568d12e07b6fca8ff.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Der Abgesandte - Teil 1","english":"Emissary (1)","hoster":["PutLocker"]},
+                {"german":"Der Abgesandte - Teil 2","english":"Emissary (2)","hoster":[]},
+                {"german":"Die Khon-Ma","english":"Past Prologue","hoster":["PutLocker"]},
+                {"german":"Unter Verdacht","english":"A Man Alone","hoster":["PutLocker"]},
+                {"german":"Babel","english":"Babel","hoster":["PutLocker"]},
+                {"german":"Tosk, der Gejagte","english":"Captive Pursuit","hoster":["PutLocker"]},
+                {"german":"Q ? unerwünscht","english":"Q-Less","hoster":["PutLocker"]},
+                {"german":"Der Fall Dax","english":"Dax","hoster":["PutLocker"]},
+                {"german":"Der Parasit","english":"The Passenger","hoster":["PutLocker"]},
+                {"german":"Chula - das Spiel","english":"Move Along Home","hoster":["PutLocker"]},
+                {"german":"Die Nachfolge","english":"The Nagus","hoster":["PutLocker"]},
+                {"german":"Der Steinwandler","english":"Vortex","hoster":["PutLocker"]},
+                {"german":"Die Prophezeiung","english":"Battle Lines","hoster":["PutLocker"]},
+                {"german":"Die Legende von Dal&#039;Rok","english":"The Storyteller","hoster":["PutLocker"]},
+                {"german":"Mulliboks Mond","english":"Progress","hoster":["PutLocker"]},
+                {"german":"Macht der Phantasie","english":"If Wishes Were Horses","hoster":["PutLocker"]},
+                {"german":"Persönlichkeiten","english":"The Forsaken","hoster":["PutLocker"]},
+                {"german":"Meuterei","english":"Dramatis Personae","hoster":["PutLocker"]},
+                {"german":"Der undurchschaubare Marritza","english":"Duet","hoster":["PutLocker"]},
+                {"german":"Blasphemie","english":"In The Hands Of The Prophets","hoster":["PutLocker"]}
+         ]
+}

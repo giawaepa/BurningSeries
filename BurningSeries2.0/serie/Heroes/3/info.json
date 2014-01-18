@@ -1,0 +1,33 @@
+{
+        "series":"Heroes",
+        "seasons":4,
+        "cover":"Heroes_e41f6f87c707d19cd6da7ea27fdf0a1b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Wiederkunft","english":"(Volume Three: Villains) The Second Coming","hoster":["PutLocker"]},
+                {"german":"Der Schmetterlingseffekt","english":"The Butterfly Effect","hoster":["PutLocker"]},
+                {"german":"Einer von uns, einer von ihnen","english":"One of Us, One of Them","hoster":["PutLocker"]},
+                {"german":"Tödlicher Hunger","english":"I Am Become Death","hoster":["PutLocker"]},
+                {"german":"Engel und Monster","english":"Angels and Monsters","hoster":["PutLocker"]},
+                {"german":"Marionetten","english":"Dying of the Light","hoster":["PutLocker"]},
+                {"german":"Eris quod Sum","english":"Eris Quod Sum","hoster":["PutLocker"]},
+                {"german":"Schurken","english":"Villains","hoster":["PutLocker"]},
+                {"german":"Zeit der Schatten","english":"It&#039;s Coming","hoster":["PutLocker"]},
+                {"german":"Die Sonnenfinsternis - Teil 1","english":"The Eclipse: Part 1","hoster":["PutLocker"]},
+                {"german":"Die Sonnenfinsternis - Teil 2","english":"The Eclipse: Part 2","hoster":["PutLocker"]},
+                {"german":"Vater unser","english":"Our Father","hoster":["PutLocker"]},
+                {"german":"Feuer","english":"Dual","hoster":["PutLocker"]},
+                {"german":"Unmittelbare Gefahr","english":"(Volume Four: Fugitives) A Clear and Present Danger","hoster":["PutLocker"]},
+                {"german":"Blut und Vertrauen","english":"Trust and Blood","hoster":["PutLocker"]},
+                {"german":"Gebäude 26","english":"Building 26","hoster":["PutLocker"]},
+                {"german":"Kalter Krieg","english":"Cold Wars","hoster":["PutLocker"]},
+                {"german":"Bloßgestellt","english":"Exposed","hoster":["PutLocker"]},
+                {"german":"Wurzel des Bösen","english":"Shades of Gray","hoster":["PutLocker"]},
+                {"german":"Hauch des Todes","english":"Cold Snap","hoster":["MyVideo","PutLocker"]},
+                {"german":"Zuflucht","english":"Into Asylum","hoster":["MyVideo","PutLocker"]},
+                {"german":"Verwandlungen","english":"Turn and Face the Strange","hoster":["PutLocker"]},
+                {"german":"1961","english":"1961","hoster":["PutLocker"]},
+                {"german":"Ich bin Sylar","english":"I Am Sylar","hoster":["PutLocker"]},
+                {"german":"Unsichtbare Bedrohung","english":"An Invisible Thread","hoster":["PutLocker"]}
+         ]
+}

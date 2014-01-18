@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Meisterdieb 1412 (1)",
+         "titleen":"Episode 078",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=6XCrwzuic9o"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=nKnKLr1ngLc"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6265201/Detektiv_Conan_Folge_78_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6267096/Detektiv_Conan_Folge_78_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6267212/Detektiv_Conan_Folge_78_3_3"
+                }
+       ]
+}

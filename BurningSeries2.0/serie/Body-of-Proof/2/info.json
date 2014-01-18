@@ -1,0 +1,21 @@
+{
+        "series":"Body of Proof",
+        "seasons":2,
+        "cover":"Body-of-Proof_61028affc1e72184cff390ac8a1f1630.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Love Thy Neighbor","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Hunting Party","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das größte Opfer","english":"Missing","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Lazarus Man","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Schildkröte","english":"Point of Origin","hoster":["PutLocker","DivxStage"]},
+                {"german":"Vier Pferde","english":"Second Chances","hoster":["PutLocker","DivxStage"]},
+                {"german":"Unschuldig Schuldig","english":"Hard Knocks","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Love Bites","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Gross Anatomy","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Your Number`s Up","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Falling for You","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Shades of Blue","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Sympathy for the Devil","hoster":["PutLocker","DivxStage"]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Cousin Blinky",
+         "titleen":"Alone Again, Naturally",
+         "description":"Alf liest von einer Frau, die einen Außerirdischen aufgenommen haben soll. Er glaubt, dass es sich um seinen Cousin Blinky handeln könnte. Leider ist die Frau eine gefährliche Betrügerin.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6811609/ALF_Cousin_Blinky_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6811737/ALF_Cousin_Blinky_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6811818/ALF_Cousin_Blinky_3_3"
+                }
+       ]
+}

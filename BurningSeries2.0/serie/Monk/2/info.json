@@ -1,0 +1,24 @@
+{
+        "series":"Monk",
+        "seasons":8,
+        "cover":"Monk_bfa22242c5b58dd205872102d92eeed7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Mr. Monk geht wieder zur Schule","english":"Mr. Monk Goes Back to School","hoster":["PutLocker"]},
+                {"german":"Mr. Monk fährt nach Mexiko","english":"Mr. Monk Goes to Mexico","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und das Baseballfieber","english":"Mr. Monk Goes to the Ballgame","hoster":["PutLocker"]},
+                {"german":"Mr. Monk geht in den Zirkus","english":"Mr. Monk Goes to the Circus","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der älteste Mann der Welt","english":"Mr. Monk and the Very, Very Old Man","hoster":["PutLocker"]},
+                {"german":"Mr. Monk geht mit Sharona ins Theater","english":"Mr. Monk Goes to the Theater","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der schlafende Verdächtige","english":"Mr. Monk and the Sleeping Suspect","hoster":["PutLocker"]},
+                {"german":"Mr. Monk, ein Playboy und viele schöne Mädchen","english":"Mr. Monk Meets the Playboy","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der 12. Geschworene","english":"Mr. Monk and the 12th Man","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der Zeitungsjunge","english":"Mr. Monk and the Paperboy","hoster":["PutLocker"]},
+                {"german":"Mr. Monk, sein Bruder und drei Kuchen","english":"Mr. Monk and the Three Pies","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und der Fernsehstar","english":"Mr. Monk and the T.V. Star","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und die entführte Großmutter","english":"Mr. Monk and the Missing Granny","hoster":["PutLocker"]},
+                {"german":"Mr. Monk und die Frau des Captains","english":"Mr. Monk and the Captain&#039;s Wife","hoster":["PutLocker"]},
+                {"german":"Mr. Monk heiratet Sharona","english":"Mr. Monk Gets Married","hoster":["PutLocker"]},
+                {"german":"Mr. Monk landet im Gefängnis","english":"Mr. Monk Goes to Jail","hoster":["PutLocker"]}
+         ]
+}

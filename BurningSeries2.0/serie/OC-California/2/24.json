@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Ausser Kontrolle",
+         "titleen":"The Dearly Beloved",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7161040/O_C_California_s02e24_Ausser_Kontrolle_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7161047/O_C_California_s02e24_Ausser_Kontrolle_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7161574/O_C_California_s02e24_Ausser_Kontrolle_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7161595/O_C_California_s02e24_Ausser_Kontrolle_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"175B00E7B2B3327A"
+                }
+       ]
+}

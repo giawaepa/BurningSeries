@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Leo der Held",
+         "titleen":"Long Away",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7109715/Die_wilden_70er_Leo_der_Held_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7109813/Die_wilden_70er_Leo_der_Held_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7110111/Die_wilden_70er_Leo_der_Held_3_3"
+                }
+       ]
+}

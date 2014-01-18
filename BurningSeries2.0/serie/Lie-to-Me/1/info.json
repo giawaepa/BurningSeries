@@ -1,0 +1,21 @@
+{
+        "series":"Lie to Me",
+        "seasons":3,
+        "cover":"Lie-to-Me_50cd757916126ece2ae4905c554e8c77.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Wahrheit der Lüge","english":"Pilot","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Schweres Geschütz","english":"Moral Waiver","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Unter Druck","english":"A Perfect Score","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Das Attentat","english":"Love Always","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Entfesselt","english":"Unchained","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Seelenqualen","english":"Do No Harm","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Um jeden Preis","english":"The Best Policy","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Herz aus Stein","english":"Depraved Heart","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Verschüttet","english":"Life Is Priceless","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Glut und Asche","english":"Better Half","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Undercover","english":"Undercover","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Geblendet","english":"Blinded","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]},
+                {"german":"Explosiv","english":"Sacrifice","hoster":["PutLocker","Sockshare","DivxStage","RapidVideo"]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Star Wars: The Clone Wars",
+        "seasons":4,
+        "cover":"Star-Wars-The-Clone-Wars_164076794aa451946eb1a006e4e3226b.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Klonkadetten","english":"Clone Cadets","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"ARC-Soldaten","english":"ARC Troopers","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Nachschubewege","english":"Supply Lines","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Einflussbereiche","english":"Sphere of Influence","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Korruption","english":"Corruption","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Akademie","english":"The Academy","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Attentäter","english":"Assassin","hoster":["YouTube","PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Böse Absichten","english":"Evil Plans","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Jagd nach Ziro","english":"Hunt for Ziro","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Helden auf beiden Seiten","english":"Heroes on Both Sides","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Das Streben nach Frieden","english":"Pursuit of Peace","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Schwestern der Nacht","english":"Nightsisters","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Monster","english":"Monster","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Hexen des Nebels","english":"Witches of the Mist","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Wächter der Macht","english":"Overlords","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Der Altar von Mortis","english":"Altar of Mortis","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Vergessene Zukunft","english":"Ghosts of Mortis","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Die Zitadelle","english":"The Citadel","hoster":["PutLocker","DivxStage"]},
+                {"german":"Gegenangriff","english":"Counter Attack","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Opfer und Ehre","english":"Citadel Rescue","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Padawan vermisst","english":"Padawan Lost","hoster":["YouTube","PutLocker","DivxStage"]},
+                {"german":"Ein Wookiee schlägt zurück","english":"Wookiee Hunt","hoster":["YouTube","PutLocker","DivxStage"]}
+         ]
+}

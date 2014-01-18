@@ -1,0 +1,30 @@
+{
+        "series":"Alle hassen Chris",
+        "seasons":4,
+        "cover":"Alle-hassen-Chris_51cdef0d24b78b5050a9c0bddde6db58.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Chris hasst seine Schuhe","english":"Everybody hates the Pilot","hoster":["YouTube","PutLocker"]},
+                {"german":"Chris hasst Liebeskummer","english":"Everybody hates Keisha","hoster":["YouTube","PutLocker"]},
+                {"german":"Chris hasst Basketball","english":"Everybody hates Basketball","hoster":["YouTube","PutLocker"]},
+                {"german":"Chris hasst Nachsitzen","english":"Everybody hates Sausage","hoster":["YouTube","PutLocker"]},
+                {"german":"Chris hasst Fahrraddiebe","english":"Everybody hates Fat Mike","hoster":["YouTube"]},
+                {"german":"Chris hasst Halloween","english":"Everybody hates Halloween","hoster":["YouTube","PutLocker"]},
+                {"german":"Chris hasst den Babysitter","english":"Everybody hates the Babysitter","hoster":["YouTube","PutLocker"]},
+                {"german":"Chris hasst den Waschsalon","english":"Everybody hates the Laundromat","hoster":["YouTube","PutLocker"]},
+                {"german":"Chris hasst Lebensmittelkarten","english":"Everybody hates Food Stamps","hoster":["YouTube","PutLocker"]},
+                {"german":"Chris hasst den Schrank","english":"Everybody hates Greg","hoster":["YouTube","PutLocker"]},
+                {"german":"Chris hasst Weihnachten","english":"Everybody hates Christmas","hoster":["PutLocker"]},
+                {"german":"Chris hasst Nachtarbeit","english":"Everybody hates a Part-Time Job","hoster":["PutLocker"]},
+                {"german":"Chris hasst sein Schulfoto","english":"Everybody hates Picture Day","hoster":["YouTube","PutLocker"]},
+                {"german":"Chris hasst den Valentinstag","english":"Everybody hates Valentines Day","hoster":["PutLocker"]},
+                {"german":"Chris hasst die Lotterie","english":"Everybody hates the Lottery","hoster":["PutLocker"]},
+                {"german":"Chris hasst die Gicht","english":"Everybody hates Gout","hoster":["PutLocker"]},
+                {"german":"Chris hasst Trauerfeiern","english":"Everybody hates Funerals","hoster":[]},
+                {"german":"Chris hasst seine Schule","english":"Everybody hates the Corleone","hoster":["PutLocker"]},
+                {"german":"Chris hasst Karate","english":"Everybody hates Drew","hoster":["PutLocker"]},
+                {"german":"Chris hasst den Playboy","english":"Everybody hates Playboy","hoster":["PutLocker"]},
+                {"german":"Chris hasst Windpocken","english":"Everybody hates Jail","hoster":["PutLocker"]},
+                {"german":"Chris hasst den Vatertag","english":"Everybody hates Father&#039;s Day","hoster":["PutLocker"]}
+         ]
+}

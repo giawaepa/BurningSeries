@@ -1,0 +1,31 @@
+{
+        "series":"Ally McBeal",
+        "seasons":5,
+        "cover":"Ally-McBeal_a187e7187d7119128b6a6f4f34c52063.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Fingerspitzengefühle","english":"The Real World","hoster":["PutLocker"]},
+                {"german":"Besonders pferdvoll","english":"They Eat Horses, Don&#039;t They?","hoster":["PutLocker"]},
+                {"german":"Original und Fälschung","english":"Fools Night Out","hoster":["PutLocker"]},
+                {"german":"It&#039;s my Party","english":"It&#039;s My Party","hoster":["PutLocker"]},
+                {"german":"Schlag auf Schlag","english":"Story of Love","hoster":["PutLocker"]},
+                {"german":"Gefährliche Liebschaften","english":"World&#039;s Without Love","hoster":["PutLocker"]},
+                {"german":"Leichenschmaus","english":"Happy Trails","hoster":["PutLocker"]},
+                {"german":"Schlammschlacht","english":"Just Looking","hoster":["PutLocker"]},
+                {"german":"Danke vielmals!","english":"You Never Can Tell","hoster":["PutLocker"]},
+                {"german":"Das letzte Einhorn","english":"Making Spirits Bright","hoster":["PutLocker"]},
+                {"german":"Traumtänzer","english":"In Dreams","hoster":["PutLocker"]},
+                {"german":"Wolke Sieben","english":"Love Unlimited","hoster":["PutLocker"]},
+                {"german":"Engel und Himmelsboote","english":"Angels and Blimps","hoster":["PutLocker"]},
+                {"german":"Liebe im Büro","english":"Pyramids on the Nile","hoster":["PutLocker"]},
+                {"german":"Krieg und Frieden","english":"Sideshow","hoster":["PutLocker"]},
+                {"german":"Sex, Lügen und Politik","english":"Sex, Lies and Politics","hoster":["PutLocker"]},
+                {"german":"Eine schweißtreibende Sache","english":"Civil War","hoster":["PutLocker"]},
+                {"german":"Fingerübungen","english":"Those Lips, That Hand","hoster":["PutLocker"]},
+                {"german":"Auf in den Tanz","english":"Let&#039;s Dance","hoster":["PutLocker"]},
+                {"german":"Ausgehen, aber richtig","english":"Only the Lonely","hoster":["PutLocker"]},
+                {"german":"Flügelkämpfe","english":"The Green Monster","hoster":["PutLocker"]},
+                {"german":"Zur Sache, Schätzchen","english":"Love&#039;s Illusions","hoster":["PutLocker"]},
+                {"german":"Nicht von dieser Welt","english":"I Know Him By Heart","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Ein Buch gibt Rätsel auf",
+         "titleen":"Episode 46",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6637799/Naruto_Shippuuden_UNCUT_Folge_46_Deutsch_1_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6638286/Naruto_Shippuuden_UNCUT_Folge_46_Deutsch_2_3_HQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6638551/Naruto_Shippuuden_UNCUT_Folge_46_Deutsch_3_3_HQ"
+                }
+       ]
+}

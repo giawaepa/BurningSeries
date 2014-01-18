@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Mord in der ersten Reihe (2)",
+         "titleen":"Episode 206",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=6uKlrSiDfvk"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5752149/Detektiv_Conan_Folge_206_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5752502/Detektiv_Conan_Folge_206_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5752802/Detektiv_Conan_Folge_206_3_3"
+                }
+       ]
+}

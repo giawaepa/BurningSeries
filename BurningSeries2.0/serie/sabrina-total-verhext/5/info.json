@@ -1,0 +1,30 @@
+{
+        "series":"Sabrina - total verhext",
+        "seasons":7,
+        "cover":"Sabrina-total-verhext_9bc45f9f48032b5509b0215502c2ce17.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ein magischer Umzug","english":"Every Witch Way but Loose","hoster":["PutLocker","Sockshare"]},
+                {"german":"Party, Party","english":"Double Time","hoster":["PutLocker","Sockshare"]},
+                {"german":"Dating-Zauber","english":"Heart of the Matter","hoster":["PutLocker","Sockshare"]},
+                {"german":"Hexen im Doppelpack","english":"You Can&#039;t Twin","hoster":["PutLocker","Sockshare"]},
+                {"german":"Vorurteile, Vorurteile","english":"House of Pi&#039;s","hoster":["PutLocker","Sockshare"]},
+                {"german":"Halloween, ein Festtag für Hexen","english":"The Halloween Scene","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sektenfalle","english":"Welcome, Traveler","hoster":["PutLocker","Sockshare"]},
+                {"german":"Halb Sterbliche sind nirgendwo ganz zu Hause","english":"Some of My Best Friends are Half-Mortals","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wer will schon eine Drei?","english":"Lost at &#039;C&#039;","hoster":["PutLocker","Sockshare"]},
+                {"german":"Ein perfektes Weihnachten","english":"Sabrina&#039;s Perfect Christmas","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die besten Fotos","english":"My Best Shot","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kleine Zeiger, große Wirkung","english":"Tick-Tock Hilda&#039;s Clock","hoster":["PutLocker","Sockshare"]},
+                {"german":"Locker vom Hocker","english":"Sabrina&#039;s New Roommate","hoster":["PutLocker","Sockshare"]},
+                {"german":"Wahnsinns Noten","english":"Making the Grade","hoster":["PutLocker","Sockshare"]},
+                {"german":"Herzensbrecher","english":"Love Is A Many Complicated Thing","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sabrina, die Muse","english":"Sabrina, The Muse","hoster":["PutLocker","Sockshare"]},
+                {"german":"Strandparty","english":"Beach Blanket Bizarro","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Hexenschule","english":"Witchright Hall","hoster":["PutLocker","Sockshare"]},
+                {"german":"Sabrina legt los","english":"Sabrina, the Activist","hoster":["PutLocker","Sockshare"]},
+                {"german":"Siehst Du, was ich sehe?","english":"Do You See What I See?","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Hausgeist","english":"Sabrina&#039;s Got Spirit","hoster":["PutLocker","Sockshare"]},
+                {"german":"Endlich!","english":"Finally!","hoster":["PutLocker","Sockshare"]}
+         ]
+}

@@ -1,0 +1,22 @@
+{
+        "series":"MythBusters ? Die Wissensjäger",
+        "seasons":9,
+        "cover":"MythBusters-Die-Wissensjaeger_cc60346d8cc8ecf4693d55ce07daf622.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Pilot 1 - Chevy mit Düsenantrieb / Der Brausepulvermythos","english":"Pilot 1 - Jet-Assisted Chevy","hoster":[]},
+                {"german":"Pilot 2 - Das Vakuum-WC / Die Kuchenteig-Waffe / Der abstürzende Anwalt","english":"Pilot 2 - Biscuit Bazooka","hoster":[]},
+                {"german":"Pilot 3 - Der Gartenstuhl-Ballon / Reagieren Drogentests auf Mohnkuchen? / Goldfinger","english":"Pilot 3 - Poppy-Seed Drug Test","hoster":[]},
+                {"german":"","english":"Best Animal Myths","hoster":[]},
+                {"german":"","english":"Best Electric Myths","hoster":[]},
+                {"german":"","english":"Best Explosions","hoster":[]},
+                {"german":"Outtakes","english":"Outtakes","hoster":[]},
+                {"german":"Buster-Crash-Test-Dummy-Special","english":"Buster Special","hoster":[]},
+                {"german":"MythBusters auf dem Prüfstand","english":"Ultimate MythBuster Special","hoster":[]},
+                {"german":"Shoppen bis zum Umfallen","english":"Shopping Special","hoster":[]},
+                {"german":"","english":"MythBusters Revealed","hoster":[]},
+                {"german":"","english":"Mega Movie Myths","hoster":[]},
+                {"german":"Wer hat Angst vorm Weissen Hai?","english":"Jaws Special","hoster":[]},
+                {"german":"Weihnachts-Special","english":"Christmas Special","hoster":["Sockshare"]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Alle hassen Chris",
+        "seasons":4,
+        "cover":"Alle-hassen-Chris_51cdef0d24b78b5050a9c0bddde6db58.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Chris hasst eine High School","english":"Everybody hates Tattaglia","hoster":["YouTube"]},
+                {"german":"Chris hasst Kuchenbacken","english":"Everybody hates Cake","hoster":["YouTube"]},
+                {"german":"Chris hasst heile Welt","english":"Everybody hates Homecoming","hoster":["YouTube"]},
+                {"german":"Chris hasst englische Literatur","english":"Everybody hates the English Teacher","hoster":["YouTube"]},
+                {"german":"Chris hasst den Footballstar","english":"Everybody hates My Man","hoster":[]},
+                {"german":"Chris hasst Docs Freundin","english":"Everybody hates Doc&#039;s","hoster":["YouTube"]},
+                {"german":"Chris hasst den Mitternachtsfilm","english":"Everybody hates Snitches","hoster":["YouTube"]},
+                {"german":"Chris hasst das Mauerblümchen","english":"Everybody hates Big Bird","hoster":[]},
+                {"german":"Chris hasst James","english":"Everybody hates James","hoster":[]},
+                {"german":"Chris hasst gute Vorsätze","english":"Everybody hates New Year&#039;s Eve","hoster":["YouTube"]},
+                {"german":"Chris hasst Mister Levine","english":"Everybody hates Mr. Levine","hoster":["YouTube"]},
+                {"german":"Chris hasst Fisch-Obst-Saft","english":"Everybody hates Varsity Jackets","hoster":["YouTube"]},
+                {"german":"Chris hasst gefälschte Ausweise","english":"Everybody hates Fake IDs","hoster":["YouTube"]},
+                {"german":"Chris hasst die volle Punktzahl","english":"Everybody hates PSAT&#039;s","hoster":["YouTube"]},
+                {"german":"Chris hasst Boxen","english":"Everybody hates Boxing","hoster":["YouTube"]},
+                {"german":"Chris hasst Gras","english":"Everybody hates Lasagna","hoster":["YouTube"]},
+                {"german":"Chris hasst Fahrerflucht","english":"Everybody hates Spring Break","hoster":["YouTube"]},
+                {"german":"Chris hasst sein erstes Auto","english":"Everybody hates the Car","hoster":["MyVideo"]},
+                {"german":"Chris hasst Krach mit Mom","english":"Everybody hates Back Talk","hoster":[]},
+                {"german":"Chris hasst das Mädchen von nebenan","english":"Everybody hates Tasha","hoster":[]},
+                {"german":"Chris hasst Bombendrohungen","english":"Everybody hates Bomb Threats","hoster":[]},
+                {"german":"Chris hasst die zehnte Klasse","english":"Everybody hates G.E.D.","hoster":[]}
+         ]
+}

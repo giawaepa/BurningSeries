@@ -1,0 +1,20 @@
+{
+        "series":"Yu-Gi-Oh!",
+        "seasons":6,
+        "cover":"Yu-Gi-Oh_b86faf678558df324fc4fbaa07157bc3.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ins Spiel gezogen","english":"","hoster":["PutLocker"]},
+                {"german":"Einzelkämpfer","english":"","hoster":["PutLocker"]},
+                {"german":"Endlich wieder vereint","english":"","hoster":["PutLocker"]},
+                {"german":"Die Festung der Angst","english":"","hoster":["PutLocker"]},
+                {"german":"Im Auge des Sturms","english":"","hoster":["PutLocker"]},
+                {"german":"Die Licht-und-Schatten-Prüfung","english":"","hoster":["PutLocker"]},
+                {"german":"Rote Augen, schwarzer Fluch","english":"","hoster":["PutLocker"]},
+                {"german":"Frucht der Evolution","english":"","hoster":["PutLocker"]},
+                {"german":"Die finsteren Fünf (1)","english":"","hoster":["PutLocker"]},
+                {"german":"Die finsteren Fünf (2)","english":"","hoster":["PutLocker"]},
+                {"german":"Der wahre König (1)","english":"","hoster":["PutLocker"]},
+                {"german":"Der wahre König (2)","english":"","hoster":["YouTube","PutLocker"]}
+         ]
+}

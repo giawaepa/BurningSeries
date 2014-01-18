@@ -1,0 +1,17 @@
+{
+        "series":"Pastewka",
+        "seasons":5,
+        "cover":"Pastewka_c14d0f557e43bef7f93fb672271d3ab9.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Gutschein","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Die Strategie der Schnecke","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Der Einzug","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Der Werbetrailer - Teil 1","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Der Werbetrailer - Teil 2","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Das Fitness-Studio","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Die Hochzeit","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Das Praktikum","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Die Einweihungsparty","english":"","hoster":["RapidVideo","MySpass"]}
+         ]
+}

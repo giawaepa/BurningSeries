@@ -1,0 +1,14 @@
+{
+        "series":"The IT Crowd",
+        "seasons":4,
+        "cover":"The-IT-Crowd_18ba26fab4f72050ce30de428ce1e031.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Schnee von gestern","english":"Yesterday&#039;s Jam","hoster":["RapidVideo"]},
+                {"german":"Die Stressmaschine","english":"Calamity Jen","hoster":[]},
+                {"german":"Roy, der Mistkerl","english":"Fifty-Fifty","hoster":[]},
+                {"german":"Die verbotene Tür","english":"The Red Door","hoster":[]},
+                {"german":"Die Super-Lüge","english":"The Haunting Of Bill Crouse","hoster":[]},
+                {"german":"Besuch von Tante Irma","english":"Aunt Irma Visits","hoster":[]}
+         ]
+}

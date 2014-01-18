@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Ein Käfer kommt selten allein",
+         "titleen":"Episode 165",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=OExdZobra6A"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5573171/Detektiv_Conan_Folge_165_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5573452/Detektiv_Conan_Folge_165_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5573755/Detektiv_Conan_Folge_165_3_3"
+                }
+       ]
+}

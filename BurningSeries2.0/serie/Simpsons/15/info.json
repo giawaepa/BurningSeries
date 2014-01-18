@@ -1,0 +1,30 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Todesgrüße aus Springfield","english":"Treehouse of Horror XIV","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wiedersehen nach Jahren","english":"My Mother the Carjacker","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Perlen-Präsidentin","english":"The President Wore Pearls","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Queen ist nicht erfreut!","english":"The Regina Monologues","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Dicke und der Bär","english":"The Fat and the Furriest","hoster":["PutLocker","DivxStage"]},
+                {"german":"Krustys Bar Mitzvah","english":"Today I am A Clown","hoster":["PutLocker","DivxStage"]},
+                {"german":"Eine Simpsons-Weihnachtsgeschichte","english":"&#039;Tis the Fifteenth Season","hoster":["PutLocker","DivxStage"]},
+                {"german":"Marge gegen Singles, Senioren, kinderlose Paare, Teenager und Schwule","english":"Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays","hoster":["PutLocker","DivxStage"]},
+                {"german":"Häuptling Knockahomer","english":"I, (Annoyed Grunt)-Bot","hoster":["PutLocker","DivxStage"]},
+                {"german":"Fantasien einer durchgeknallten Hausfrau","english":"Diatribe of a Mad Housewife","hoster":["PutLocker","DivxStage"]},
+                {"german":"Geschichtsstunde mit Marge","english":"Margical History Tour","hoster":["PutLocker","DivxStage"]},
+                {"german":"Milhouse lebt hier nicht mehr","english":"Milhouse Doesn&#039;t Live Here Anymore","hoster":["PutLocker","DivxStage"]},
+                {"german":"Klug &amp; Klüger","english":"Smart and Smarter","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rat mal, wer zum Essen kommt","english":"The Ziff Who Came to Dinner","hoster":["PutLocker","DivxStage"]},
+                {"german":"Marge im Suff","english":"Co-Dependent&#039;s Day","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Verurteilten","english":"The Wandering Juvie","hoster":["PutLocker","DivxStage"]},
+                {"german":"Hochzeit auf klingonisch","english":"My Big Fat Geek Wedding","hoster":["PutLocker","DivxStage"]},
+                {"german":"Auf der Flucht","english":"Catch &#039;em if You Can","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Tortenmann schlägt zurück","english":"Simple Simpson","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die erste Liebe","english":"The Way We Weren&#039;t","hoster":["PutLocker","DivxStage"]},
+                {"german":"Geächtet","english":"Bart-Mangled Banner","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der große Nachrichtenschwindel","english":"Fraudcast News","hoster":["PutLocker","DivxStage"]}
+         ]
+}

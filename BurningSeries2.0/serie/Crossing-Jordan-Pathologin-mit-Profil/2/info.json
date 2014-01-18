@@ -1,0 +1,30 @@
+{
+        "series":"Crossing Jordan ? Pathologin mit Profil",
+        "seasons":6,
+        "cover":"Crossing-Jordan-Pathologin-mit-Profil_6dac90ade86fd217c84a73877cbf765b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Wieder zu Hause","english":"There&#039;s No Place Like Home","hoster":["PutLocker"]},
+                {"german":"Bombenalarm","english":"Bombs Away","hoster":["PutLocker"]},
+                {"german":"Schatten der Vergangenheit","english":"The Truth Is Out There","hoster":["Sockshare"]},
+                {"german":"Schuld und Sünde","english":"Pay Back","hoster":["PutLocker"]},
+                {"german":"Blind Date","english":"As If By Fate","hoster":["PutLocker"]},
+                {"german":"Der Anschlag","english":"One Twelve","hoster":["Sockshare"]},
+                {"german":"Coming Out","english":"Scared Straight","hoster":["PutLocker"]},
+                {"german":"Sackgasse Hollywood","english":"Don&#039;t Look Back","hoster":["PutLocker"]},
+                {"german":"Die Geister, die ich rief","english":"Prisoner Exchange","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Bastard","english":"Ockham&#039;s Razor","hoster":["Sockshare"]},
+                {"german":"Familienbande","english":"Family Ties","hoster":["PutLocker"]},
+                {"german":"Stürmische Zeiten","english":"Perfect Storm","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Nylon-Killer","english":"Strangled","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Lockvogel","english":"Wild Card","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der unbekannte Tote","english":"John Doe","hoster":["PutLocker","Sockshare"]},
+                {"german":"Tödlicher Qualm","english":"Conspiracy","hoster":["PutLocker"]},
+                {"german":"Henkersmahlzeit","english":"Cruel &amp; Unusual","hoster":["Sockshare"]},
+                {"german":"Feuer und Eis","english":"Fire And Ice","hoster":[]},
+                {"german":"Nasses Grab","english":"Dead Wives Club","hoster":[]},
+                {"german":"Aus heiterem Himmel","english":"Sunset Division","hoster":[]},
+                {"german":"Familiengeheimnis, Teil 1","english":"Pandora&#039;s Trunk, Part 1","hoster":[]},
+                {"german":"Familiengeheimnis, Teil 2","english":"Pandora&#039;s Trunk, Part 2","hoster":[]}
+         ]
+}

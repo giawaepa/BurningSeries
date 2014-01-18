@@ -1,0 +1,24 @@
+{
+        "series":"Brothers &amp; Sisters",
+        "seasons":5,
+        "cover":"Brothers-Sisters_eeae3f2c3ef37d5de2d6d00c0d4e1a07.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Verrückt vor Sorge","english":"Home Front","hoster":[]},
+                {"german":"Der Heimkehrer","english":"An American Family","hoster":[]},
+                {"german":"Kittys Bluff","english":"History Repeating","hoster":["PutLocker"]},
+                {"german":"Eine Frage des Vertrauens","english":"States of the Union","hoster":["PutLocker"]},
+                {"german":"Schwanger?","english":"Domestic Issues","hoster":[]},
+                {"german":"Schadensbegrenzung","english":"Two Places","hoster":["PutLocker"]},
+                {"german":"36 Stunden","english":"36 Hours","hoster":["PutLocker"]},
+                {"german":"Neue Wege","english":"Something New","hoster":[]},
+                {"german":"Das Gelübde","english":"Holy Matrimony!","hoster":["PutLocker"]},
+                {"german":"Die Stunde der Wahrheit","english":"The Feast of Epiphany","hoster":["PutLocker"]},
+                {"german":"Eifersucht","english":"The Missionary Imposition","hoster":["PutLocker"]},
+                {"german":"Kompromisse","english":"Compromises","hoster":[]},
+                {"german":"Verlustangst","english":"Separation Anxiety","hoster":[]},
+                {"german":"Testergebnisse","english":"Double Negative","hoster":["PutLocker"]},
+                {"german":"Offenbarungen mit Folgen","english":"Moral Hazard","hoster":["PutLocker"]},
+                {"german":"Das Foto","english":"Prior Commitments","hoster":["PutLocker"]}
+         ]
+}

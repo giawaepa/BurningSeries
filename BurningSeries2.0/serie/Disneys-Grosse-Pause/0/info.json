@@ -1,0 +1,11 @@
+{
+        "series":"Disneys Große Pause",
+        "seasons":1,
+        "cover":"Disneys-Grosse-Pause_6c3201f2abe518c42811412f7ff62d26.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Die geheime Mission","english":"","hoster":["MyVideo"]},
+                {"german":"Der Weihnachtswunderfilm","english":"","hoster":[]},
+                {"german":"Wir sind Fünftklässler","english":"","hoster":["YouTube","MyVideo"]}
+         ]
+}

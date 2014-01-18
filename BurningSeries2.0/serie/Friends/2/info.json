@@ -1,0 +1,32 @@
+{
+        "series":"Friends",
+        "seasons":10,
+        "cover":"Friends_ecd9c11d4588bc6ea50e8829954d980f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Mitbringsel","english":"The One With Ross&#039;s New Girlfriend","hoster":["PutLocker","DivxStage"]},
+                {"german":"Harte Drinks und coole Cowboys","english":"The One With The Breast Milk","hoster":["PutLocker","DivxStage"]},
+                {"german":"Torschlußpanik","english":"The One Where Heckles Dies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Enthüllungen","english":"The One With Phoebe&#039;s Husband","hoster":["PutLocker","DivxStage"]},
+                {"german":"Falsch verbunden!","english":"The One With Five Steaks And An Eggplant","hoster":["PutLocker","DivxStage"]},
+                {"german":"Baby - Allein in New York","english":"The One With The Baby On The Bus","hoster":["Sockshare","DivxStage"]},
+                {"german":"Geständnis einer Liebenden","english":"The One Where Ross Finds Out","hoster":["PutLocker","Sockshare","DivxStage"]},
+                {"german":"Die Liste des Grauens","english":"The One With The List","hoster":["PutLocker","DivxStage"]},
+                {"german":"Heiße Weihnacht","english":"The One With Phoebe&#039;s Dad","hoster":["PutLocker","DivxStage"]},
+                {"german":"Vorsicht, Sucht!","english":"The One With Russ","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die lesbische Hochzeit","english":"The One With The Lesbian Wedding","hoster":["PutLocker","DivxStage"]},
+                {"german":"Affengeil - Teil 1","english":"The One After The Super Bowl (1)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Affengeil - Teil 2","english":"The One After The Super Bowl (2)","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein Hummer für Ross","english":"The One With The Prom Video","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ross und Rachel, Na endlich","english":"The One Where Ross And Rachel...You Know","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ein idealer Schwiegersohn","english":"The One Where Joey Moves Out","hoster":["DivxStage"]},
+                {"german":"Chandlers Neuer","english":"The One Where Eddie Moves In","hoster":["PutLocker","DivxStage"]},
+                {"german":"Fahrstuhl in den Tod","english":"The One Where Dr. Ramoray Dies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Durch den Wind","english":"The One Where Eddie Won&#039;t Go","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ist das Leben nicht schlecht","english":"The One Where Old Yeller Dies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Im Namen der Männlichkeit","english":"The One With The Bullies","hoster":["PutLocker","DivxStage"]},
+                {"german":"Zwei Parties für Rachel","english":"The One With The Two Parties","hoster":["PutLocker","DivxStage"]},
+                {"german":"Pocken statt Liebe","english":"The One With The Chicken Pox","hoster":["PutLocker","DivxStage"]},
+                {"german":"Rosarote Träume","english":"The One With Barry And Mindy&#039;s Wedding","hoster":["PutLocker","DivxStage"]}
+         ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Angel ? Jäger der Finsternis",
+        "seasons":5,
+        "cover":"Angel-Jäger-der-Finsternis_f5fbc189c7b71cd5c39acd5af755d0f0.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Aus der Tiefe","english":"Deep down","hoster":[]},
+                {"german":"Die Achse der Pythia","english":"Ground state","hoster":[]},
+                {"german":"Die Bank gewinnt immer","english":"The house always wins","hoster":[]},
+                {"german":"Der Hölle entgegen","english":"Slouching toward bethlehem","hoster":[]},
+                {"german":"Vertrauter Feind","english":"Supersymmetry","hoster":[]},
+                {"german":"Flaschendrehen","english":"Spin the bottle","hoster":[]},
+                {"german":"Die Ankunft","english":"Apocalypse, nowish","hoster":[]},
+                {"german":"Das weiße Zimmer","english":"Habeas Corpses","hoster":[]},
+                {"german":"Kampf um die Sonne","english":"Long day&#039;s journey","hoster":[]},
+                {"german":"Das Erwachen","english":"Awakening","hoster":[]},
+                {"german":"Seelenlos","english":"Soulless","hoster":[]},
+                {"german":"Das Geheimnis der Bestie","english":"Calvary","hoster":[]},
+                {"german":"Licht in der Dunkelheit","english":"Salvage","hoster":[]},
+                {"german":"Alte Feinde","english":"Release","hoster":[]},
+                {"german":"Orpheus","english":"Orpheus","hoster":[]},
+                {"german":"Gefährliches Spiel","english":"Players","hoster":[]},
+                {"german":"Die Geburt","english":"Inside out","hoster":[]},
+                {"german":"Jasmine","english":"Shiny happy people","hoster":[]},
+                {"german":"Die magische Kugel","english":"The magic bullet","hoster":[]},
+                {"german":"Die Letzte ihrer Art","english":"Sacrifice","hoster":[]},
+                {"german":"Der Hüter des Wortes","english":"Peace out","hoster":[]},
+                {"german":"Ein verlockendes Angebot","english":"Home","hoster":[]}
+         ]
+}

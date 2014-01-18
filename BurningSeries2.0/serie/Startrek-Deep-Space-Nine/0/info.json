@@ -1,0 +1,9 @@
+{
+        "series":"Star Trek: Deep Space Nine",
+        "seasons":7,
+        "cover":"Star-Trek-Deep-Space-Nine_61d0b1426954fb2568d12e07b6fca8ff.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Gefangen in der Vergangenheit (1)","english":"Past Tense I","hoster":[]}
+         ]
+}

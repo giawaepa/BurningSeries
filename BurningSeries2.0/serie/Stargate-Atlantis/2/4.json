@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Duett",
+         "titleen":"Duet",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7318391/Stargate_Atlantis_S02E04_Duett_1_6"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7318459/Stargate_Atlantis_S02E04_Duett_2_6"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7318557/Stargate_Atlantis_S02E04_Duett_3_6"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7318624/Stargate_Atlantis_S02E04_Duett_4_6"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"E13BECE4CADDFA7E"
+                }
+       ]
+}

@@ -1,0 +1,21 @@
+{
+        "series":"Kenny vs. Spenny",
+        "seasons":6,
+        "cover":"Kenny-vs-Spenny_b242cb25f204a30c0cf52db43ae9de9f.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Wer kann mehr Bier trinken?","english":"Who Can Drink More Beer?","hoster":["YouTube","MyVideo","PutLocker"]},
+                {"german":"Wer kann länger nackt bleiben?","english":"Who Can Stay Naked the Longest?","hoster":["YouTube","MyVideo","RapidVideo"]},
+                {"german":"Wer ist mutiger?","english":"Who Has the Biggest Balls?","hoster":["YouTube","PutLocker"]},
+                {"german":"Wer ist bei alten Menschen beliebter?","english":"Who Do Old People Like More?","hoster":["PutLocker"]},
+                {"german":"Wer kann länger tanzen?","english":"Who Can Dance the Longest?","hoster":["PutLocker"]},
+                {"german":"Wer zuerst redet, verliert.","english":"First One to Talk Loses.","hoster":["PutLocker"]},
+                {"german":"Wer ist lustiger?","english":"Who Is the Funnier?","hoster":["YouTube"]},
+                {"german":"Wer kann mehr Frauen küssen?","english":"Who Can Kiss More Women?","hoster":["YouTube"]},
+                {"german":"Wer gewinnt ein Rattenrennen?","english":"Who Can Win a Rat Race?","hoster":[]},
+                {"german":"Wer ist der bessere Journalist?","english":"Who Is a Better Journalist?","hoster":["YouTube"]},
+                {"german":"Wer kann mehr Bibeln verkaufen?","english":"Who Can Sell More Bibles?","hoster":["YouTube"]},
+                {"german":"Wer zuerst gemein wird, verliert.","english":"First One to Be Mean Loses.","hoster":["YouTube"]},
+                {"german":"Wer ist der bessere Rapper?","english":"Who Is the Better Rapper?","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,21 @@
+{
+        "series":"Die Sopranos",
+        "seasons":6,
+        "cover":"Die-Sopranos_3a285a15376f94a24caf2cba6d7ebc27.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Schuldig bleibt schuldig","english":"For All Debts Public and Private","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Meadow kämpft - wer verliert?","english":"No Show","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Christopher","english":"Christopher","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gewichtsprobleme","english":"The Weight","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lauf, Pie-O-My, lauf!","english":"Pie-O-My","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Gewissensbisse","english":"Everybody Hurts","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Wenn man zuviel Fernsehen sieht","english":"Watching Too Much Television","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Lust, Leid und Laster","english":"Mergers &amp; Acquisitions","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Täter: unbekannt","english":"Whoever Did This","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Chris ist am Ende","english":"The Strong, Silent Type","hoster":["PutLocker","RapidVideo"]},
+                {"german":"«An alle Einheiten!»","english":"Calling All Cars","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Bei Eloise","english":"Eloise","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Whitecaps","english":"Whitecaps","hoster":["PutLocker","RapidVideo"]}
+         ]
+}

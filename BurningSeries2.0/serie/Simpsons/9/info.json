@@ -1,0 +1,33 @@
+{
+        "series":"Die Simpsons",
+        "seasons":23,
+        "cover":"Die-Simpsons_de0670e5eaaff7d83410a2b9783a85c8.png",
+        "movies":true,
+        "episodes":[
+                {"german":"Homer und New York","english":"The City of New York vs. Homer Simpson","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Alles Schwindel","english":"The Principal and The Pauper","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Saxophon-Geschichte","english":"Lisa&#039;s Sax","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Neutronenkrieg und Halloween","english":"Treehouse of Horror VIII","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Homer und der Revolver","english":"The Cartridge Family","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Bart ist mein Superstar","english":"Bart Star","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Hochzeit auf indisch","english":"The Two Mrs. Nahasapeemapetilons","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der Tag der Abrechnung","english":"Lisa the Skeptic","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Todesfalle zu verkaufen","english":"Realty Bites","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die Lieblings-Unglücksfamilie","english":"Miracle on Evergreen Terrace","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Und nun alle singen und tanzen","english":"All Singing, All Dancing","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die armen Vagabunden","english":"Bart Carny","hoster":["PutLocker","DivxStage"]},
+                {"german":"In den Fängen einer Sekte","english":"The Joy of Sect","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der blöde UNO-Club","english":"Das Bus","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Krustys letzte Versuchung","english":"The Last Temptation Of Krusty","hoster":["PutLocker","DivxStage"]},
+                {"german":"Eine Frau für Moe","english":"Dumbbell Indemnity","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Vertrottelt Lisa?","english":"Lisa the Simpson","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der merkwürdige Schlüssel","english":"This Little Wiggy","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Homer geht zur Marine","english":"Simpson Tide","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Trillion-Dollar-Note","english":"The Trouble with Trillions","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die neuesten Kindernachrichten","english":"Girly Edition","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die sich im Dreck wälzen","english":"Trash of the Titans","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"König der Berge","english":"King of the Hill","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Kugel der Isis","english":"Lost Our Lisa","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Gefahr, erwischt zu werden","english":"Natural Born Kissers","hoster":["PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

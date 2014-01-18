@@ -1,0 +1,30 @@
+{
+        "series":"Ehe ist?",
+        "seasons":4,
+        "cover":"Ehe-ist-.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Die neuen Nachbarn","english":"Pilot","hoster":["PutLocker"]},
+                {"german":"Die Sex-gegen-Möbel-Taktik","english":"Sex for Furniture","hoster":["PutLocker"]},
+                {"german":"Der Verlobungsring","english":"The Ring","hoster":["PutLocker"]},
+                {"german":"Das Holz-Ultimatum","english":"The Wood Pile","hoster":["PutLocker"]},
+                {"german":"Die Garagen-Band","english":"The Garage Band","hoster":["PutLocker"]},
+                {"german":"Ehefrau oder Mutter?","english":"Your Mother or Your Wife","hoster":["PutLocker"]},
+                {"german":"Ein traumhaftes Wochenende","english":"Dream Weaver","hoster":["PutLocker"]},
+                {"german":"In Angesicht des Todes","english":"Death Sex","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der Toaster","english":"The Toaster","hoster":["PutLocker"]},
+                {"german":"Papas Liebling","english":"Daddy&#039;s Girl","hoster":[]},
+                {"german":"Von Blumen und Gärtnern","english":"The Anniversary Party","hoster":["PutLocker","Sockshare"]},
+                {"german":"Die Eishockey-Lüge","english":"The Hockey Lie","hoster":["PutLocker"]},
+                {"german":"Die Streitfreundin","english":"Fight Friend","hoster":["PutLocker"]},
+                {"german":"Die neue Kollegin","english":"The Colleague","hoster":["MyVideo","PutLocker"]},
+                {"german":"Die Junggesellenparty","english":"The Bachelor Party","hoster":["Sockshare"]},
+                {"german":"Das Italien-Trauma","english":"The Italian Affair","hoster":["PutLocker"]},
+                {"german":"Die Keramik-Karriere","english":"The Clay Date","hoster":["PutLocker"]},
+                {"german":"Nicht ohne meine Woodcocks","english":"I Heart Woodcocks","hoster":["PutLocker","Sockshare"]},
+                {"german":"Kleine Geschenke erhalten die Feindschaft","english":"The Coffeemaker","hoster":["PutLocker","Sockshare"]},
+                {"german":"Eddie allein zu Haus","english":"That&#039;s Ridiculous","hoster":["PutLocker"]},
+                {"german":"Mein Freund Webby","english":"Webby&#039;s Not Happy","hoster":[]},
+                {"german":"Sommer der Liebe","english":"Summer of Love","hoster":["PutLocker","Sockshare"]}
+         ]
+}

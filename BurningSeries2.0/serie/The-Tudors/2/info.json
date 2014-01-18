@@ -1,0 +1,18 @@
+{
+        "series":"The Tudors",
+        "seasons":4,
+        "cover":"The-Tudors_b0319774fd5c74fdbfb03d128ee004df.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Episode 1","english":"Everything Is Beautiful","hoster":["YouTube"]},
+                {"german":"Episode 2","english":"Tears of Blood","hoster":[]},
+                {"german":"Episode 3","english":"Checkmate","hoster":[]},
+                {"german":"Episode 4","english":"The Act of Succession","hoster":[]},
+                {"german":"Episode 5","english":"His Majesty&#039;s Pleasure","hoster":["PutLocker"]},
+                {"german":"Episode 6","english":"The Definition of Love","hoster":[]},
+                {"german":"Episode 7","english":"Matters of State","hoster":[]},
+                {"german":"Episode 8","english":"Lady in Waiting","hoster":[]},
+                {"german":"Episode 9","english":"The Act of Treason","hoster":[]},
+                {"german":"Episode 10","english":"Destiny and Fortune","hoster":["YouTube"]}
+         ]
+}

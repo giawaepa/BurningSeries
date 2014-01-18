@@ -1,0 +1,33 @@
+{
+        "series":"Sabrina - total verhext",
+        "seasons":7,
+        "cover":"Sabrina-total-verhext_9bc45f9f48032b5509b0215502c2ce17.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Aus zwei mach eins","english":"It&#039;s A Mad Mad Mad Mad Season Opener","hoster":["YouTube","Sockshare"]},
+                {"german":"Peinlich, peinlich","english":"Boy Was My Face Red","hoster":["YouTube","Sockshare"]},
+                {"german":"Trau keinem unter hundert","english":"Suspicious Minds","hoster":["YouTube","Sockshare"]},
+                {"german":"Schöne Aussichten","english":"The Pom Pom Incident","hoster":["YouTube","Sockshare"]},
+                {"german":"Der runde Wahnsinn","english":"Pancake Madness","hoster":["YouTube","Sockshare"]},
+                {"german":"Ein irres Fest","english":"Good Will Haunting","hoster":["YouTube","Sockshare"]},
+                {"german":"Jede Wette","english":"You Bet Your Family","hoster":["YouTube","Sockshare"]},
+                {"german":"Kaiser Larry","english":"And the Sabrina Goes To...","hoster":["Sockshare"]},
+                {"german":"Libby intern","english":"Nobody Nose Libby Like Sabrina Nose Libby","hoster":["YouTube","Sockshare"]},
+                {"german":"Schön hässlich!","english":"Sabrina and the Beast","hoster":["YouTube","Sockshare"]},
+                {"german":"Coole Weihnachten","english":"Christmas Amnesia","hoster":["Sockshare"]},
+                {"german":"Ich bin du","english":"Whose So-Called Life Is It Anyway?","hoster":["YouTube","Sockshare"]},
+                {"german":"Cousine Zsa Zsa","english":"What Price Harvey?","hoster":["YouTube","Sockshare"]},
+                {"german":"Mrs. Kraft","english":"Mrs. Kraft","hoster":["Sockshare"]},
+                {"german":"Piraten im Haus","english":"Sabrina and the Pirates","hoster":["Sockshare"]},
+                {"german":"Liebeszauber mit Folgen","english":"Sabrina the Matchmaker","hoster":["Sockshare"]},
+                {"german":"Salem an die Macht!","english":"Salem, the Boy","hoster":["Sockshare"]},
+                {"german":"Die Kunst des Schreibens","english":"Sabrina, the Teenage Writer","hoster":["UploadC"]},
+                {"german":"Schlaf, Hexe, schlaf","english":"The Big Sleep","hoster":["Sockshare"]},
+                {"german":"Gesucht wird ...","english":"Sabrina&#039;s Pen Pal","hoster":["Sockshare"]},
+                {"german":"Wie im richtigen Leben","english":"Sabrina&#039;s Real World","hoster":["Sockshare"]},
+                {"german":"Vorsicht Abkürzung!","english":"The Long and Winding Short Cut","hoster":["Sockshare"]},
+                {"german":"Traumsehen","english":"Sabrina the Sandman","hoster":["Sockshare"]},
+                {"german":"Ohne Worte","english":"Slient Movie","hoster":["Sockshare"]},
+                {"german":"Hexentreffen","english":"The Good, the Bad and the Luau","hoster":["Sockshare"]}
+         ]
+}

@@ -1,0 +1,19 @@
+{
+        "series":"What&#039;s up, Dad?",
+        "seasons":5,
+        "cover":"What-s-up-Dad_9ead3ecb0bbbf04058baf140971ebfc4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Lust auf Unabhängigkeit","english":"Pilot","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Tattoos mit Folgen","english":"The Truth Hurts","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Kein Spass mit Grass","english":"Grassy Knoll","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Kleiner Busen und große Siege","english":"Of Breasts and Basketball","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Das vermeintliche Mathegenie","english":"Making the Grade","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Mehr als Mathematik","english":"Working It","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"George der Starke","english":"Snapping and Sniffing","hoster":["YouTube","PutLocker"]},
+                {"german":"Nicht zugehört?","english":"He Said, She Said","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Liebe und Triebe","english":"Breaking Up and Breaking It","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Die heiße Freundin","english":"A Little Romance","hoster":["YouTube","PutLocker","RapidVideo"]},
+                {"german":"Machen Haare glücklich?","english":"Hair Today, Gone Tomorrow","hoster":["YouTube","PutLocker"]}
+         ]
+}

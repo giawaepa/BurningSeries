@@ -1,0 +1,21 @@
+{
+        "series":"Harpers Island",
+        "seasons":1,
+        "cover":"Harpers-Island_4ba69c8533fd8b142004d8524bab11a7.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Einer nach dem anderen","english":"Whap","hoster":["MyVideo"]},
+                {"german":"Schnitzeljagd","english":"Crackle","hoster":["MyVideo"]},
+                {"german":"Süße Rache","english":"Ka-Blam","hoster":["MyVideo"]},
+                {"german":"Junggesellenabschied","english":"Bang","hoster":["MyVideo"]},
+                {"german":"Der Mann im Wald","english":"Thwack","hoster":["MyVideo"]},
+                {"german":"Tot oder lebendig?","english":"Sploosh","hoster":["MyVideo"]},
+                {"german":"Von der Vergangenheit eingeholt","english":"Thrack, Splat, Sizzle","hoster":["MyVideo"]},
+                {"german":"Spurlos verschwunden","english":"Gurgle","hoster":[]},
+                {"german":"Wakefields Tagebuch","english":"Seep","hoster":["MyVideo"]},
+                {"german":"Die Abmachung","english":"Snap","hoster":["YouTube","MyVideo"]},
+                {"german":"Das Tunnellabyrinth","english":"Splash","hoster":["YouTube","MyVideo"]},
+                {"german":"Der Komplize","english":"Gasp","hoster":["YouTube","MyVideo"]},
+                {"german":"Die letzten Atemzüge","english":"Sigh","hoster":["YouTube","MyVideo"]}
+         ]
+}

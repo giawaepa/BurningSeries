@@ -1,0 +1,29 @@
+{
+        "series":"Life",
+        "seasons":2,
+        "cover":"Life_a37b04693edc2de97bf762ae8d1430fb.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"10 Kisten","english":"Find Your Happy Place","hoster":[]},
+                {"german":"Mordsbande","english":"Everything ... All the Time","hoster":[]},
+                {"german":"Eiskalt","english":"The Business of Miracles","hoster":[]},
+                {"german":"Das Experiment","english":"Not for Nothing","hoster":[]},
+                {"german":"Abgewrackt","english":"Crushed","hoster":[]},
+                {"german":"Erdbeben","english":"Did You Feel That?","hoster":[]},
+                {"german":"Jackpot","english":"Jackpot","hoster":[]},
+                {"german":"Kaufrausch","english":"Black Friday","hoster":[]},
+                {"german":"Cop-Groupies","english":"Badge Bunny","hoster":[]},
+                {"german":"Halbblut","english":"Evil ... and His Brother Ziggy","hoster":[]},
+                {"german":"Durch die Blume","english":"Canyon Flowers","hoster":[]},
+                {"german":"Russendisko","english":"Trapdoor","hoster":[]},
+                {"german":"Notlandung","english":"Re-Entry","hoster":[]},
+                {"german":"Heavy Metal","english":"Mirror Ball","hoster":[]},
+                {"german":"Dachschaden","english":"I Heart Mom","hoster":[]},
+                {"german":"Taubenfutter","english":"Hit Me Baby","hoster":[]},
+                {"german":"Fronturlaub","english":"Shelf Life","hoster":[]},
+                {"german":"Diamantenfieber","english":"3 Women","hoster":[]},
+                {"german":"Blutzoll","english":"5 Quarts","hoster":[]},
+                {"german":"Schweres Kaliber","english":"Initiative 38","hoster":["PutLocker"]},
+                {"german":"Des Rätsels Lösung","english":"One","hoster":[]}
+         ]
+}

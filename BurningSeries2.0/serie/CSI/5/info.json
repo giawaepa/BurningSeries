@@ -1,0 +1,33 @@
+{
+        "series":"CSI: Den Tätern auf der Spur",
+        "seasons":12,
+        "cover":"CSI-Den-Taetern-auf-der-Spur_a5a70731c9e7b0fd031284dab691f885.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Viva Las Vegas","english":"Viva Las Vegas","hoster":[]},
+                {"german":"Abgründe","english":"Down the Drain","hoster":[]},
+                {"german":"Ausgebeutet","english":"Harvest","hoster":[]},
+                {"german":"Der sterbende Schwan","english":"Crow&#039;s Feet","hoster":[]},
+                {"german":"Partnertausch","english":"Swap Meet","hoster":[]},
+                {"german":"Entwischt","english":"What&#039;s Eating Gilbert Grissom?","hoster":[]},
+                {"german":"Hilferufe","english":"Formalities","hoster":[]},
+                {"german":"Tod im OP","english":"Ch-Ch-Changes","hoster":[]},
+                {"german":"Hexenjagd","english":"Mea Culpa","hoster":[]},
+                {"german":"Ein grausiger Fund","english":"No Humans Involved","hoster":[]},
+                {"german":"Meisterdetektive","english":"Who Shot Sherlock?","hoster":[]},
+                {"german":"Spiel mir das Lied vom Tod","english":"Snakes","hoster":[]},
+                {"german":"Schwarzes Grab","english":"Nesting Dolls","hoster":[]},
+                {"german":"Hetzjagd","english":"Unbearable","hoster":[]},
+                {"german":"Baby Bruce","english":"King Baby","hoster":[]},
+                {"german":"Die Last der Liebe","english":"Big Middle","hoster":[]},
+                {"german":"Zweifelhaftes Geständnis","english":"Compulsion","hoster":[]},
+                {"german":"Das Wunschkind","english":"Spark of Life","hoster":[]},
+                {"german":"Nachtschicht","english":"4x4","hoster":[]},
+                {"german":"Gefallener Engel","english":"Hollywood Brass","hoster":[]},
+                {"german":"Blutiger Wahn","english":"Committed","hoster":[]},
+                {"german":"Flirt mit dem Tod","english":"Weeping Willows","hoster":[]},
+                {"german":"Auf Eis","english":"Iced","hoster":[]},
+                {"german":"Grabesstille - Teil 1","english":"Grave Danger (1)","hoster":[]},
+                {"german":"Grabesstille - Teil 2","english":"Grave Danger (2)","hoster":[]}
+         ]
+}

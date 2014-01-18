@@ -1,0 +1,18 @@
+{
+        "series":"Stromberg",
+        "seasons":5,
+        "cover":"Stromberg_a32dd6d85c1d7c5190c070437e56862e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Beziehungen","english":"","hoster":["PutLocker","DivxStage","RapidVideo","MySpass"]},
+                {"german":"Finsdorf","english":"","hoster":["PutLocker","RapidVideo","MySpass"]},
+                {"german":"Seelsorge","english":"","hoster":["PutLocker","DivxStage","RapidVideo","MySpass"]},
+                {"german":"Helge","english":"","hoster":["PutLocker","DivxStage","RapidVideo","MySpass"]},
+                {"german":"Pärchenabend","english":"","hoster":["PutLocker","DivxStage","RapidVideo","MySpass"]},
+                {"german":"Sally","english":"","hoster":["PutLocker","DivxStage","RapidVideo","MySpass"]},
+                {"german":"Gernot","english":"","hoster":["PutLocker","DivxStage","RapidVideo","MySpass"]},
+                {"german":"Die Rückkehr","english":"","hoster":["PutLocker","DivxStage","RapidVideo","MySpass"]},
+                {"german":"Herr Nehring","english":"","hoster":["PutLocker","DivxStage","RapidVideo","MySpass"]},
+                {"german":"Die Abrechnung","english":"","hoster":["PutLocker","DivxStage","RapidVideo","MySpass"]}
+         ]
+}

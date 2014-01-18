@@ -1,0 +1,16 @@
+{
+        "series":"Pastewka",
+        "seasons":5,
+        "cover":"Pastewka_c14d0f557e43bef7f93fb672271d3ab9.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Unfall","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Der Personalausweis","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Der Besuch","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Der Kinoabend","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Der Mietvertrag","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Der Flohmarkt","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Die Preisverleihung","english":"","hoster":["RapidVideo","MySpass"]},
+                {"german":"Der Test","english":"","hoster":["RapidVideo","MySpass"]}
+         ]
+}

@@ -1,0 +1,20 @@
+{ 
+         "titlede":"The Wood",
+         "titleen":"The Wood",
+         "description":"Die TV-Produzenten Kyle und Mick wollen eine Reality-Show mit dem Titel &quot;The Wood&quot; drehen. Das Casting dafür gewinnen Tori, Jade, Beck und Andre. Die vier müssen jedoch schnell feststellen, dass es bei der Show nicht um wahre Ereignisse geht. Es werden verschiedene Szenen so zusammengeschnitten, dass ein völlig neuer Zusammenhang entsteht und so mehr Pepp in die Sache kommt. Ob das gut geht?",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"8175367/Victorious_S01E11_The_Wood_German_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"8175366/Victorious_S01E11_The_Wood_German_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"8175306/Victorious_S01E11_The_Wood_German_Part_3"
+                }
+       ]
+}

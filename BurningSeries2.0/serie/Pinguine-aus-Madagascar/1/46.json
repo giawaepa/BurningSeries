@@ -1,0 +1,16 @@
+{ 
+         "titlede":"Flubbi",
+         "titleen":"Jiggles",
+         "description":"Kowalski erfindet durch einen Zufall eine grüne, gallertartige Masse, die er liebevoll Flubbi nennt. Er ist überglücklich, dass ihm endlich ein Geniestreich geglückt ist. Doch falsch gedacht: Flubbi entpuppt sich als gefährliches Monster, das vernichtet werden muss. Erst nachdem Kowalski selbst von seiner Erfindung verspeist wird, erkennt er, dass Flubbi Einhalt geboten werden muss.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7456358/Flubbi_Teil_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7456414/Flubbi_Teil_2"
+                }
+       ]
+}

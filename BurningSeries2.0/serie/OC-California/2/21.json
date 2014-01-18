@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Kleine und grosse Sünden",
+         "titleen":"The Return of the Nana",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7160925/O_C_California_s02e21_Kleine_und_grosse_Suenden_Part_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7160950/O_C_California_s02e21_Kleine_und_grosse_Suenden_Part_2"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7160964/O_C_California_s02e21_Kleine_und_grosse_Suenden_Part_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7160975/O_C_California_s02e21_Kleine_und_grosse_Suenden_Part_4"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"1A718238C2314E3B"
+                }
+       ]
+}

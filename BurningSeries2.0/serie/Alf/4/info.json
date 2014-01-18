@@ -1,0 +1,32 @@
+{
+        "series":"Alf",
+        "seasons":4,
+        "cover":"Alf_ba65e200ab200185e3b667800414485d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Eric, wo bist Du?","english":"Baby, Come Back","hoster":["MyVideo"]},
+                {"german":"Mr. Universum","english":"Lies","hoster":["MyVideo"]},
+                {"german":"Der Heiratsschwindler","english":"Wanted: Dead or Alive","hoster":["MyVideo"]},
+                {"german":"Wie gewonnen, so zerronnen","english":"We&#039;re in the Money","hoster":["MyVideo"]},
+                {"german":"Ein Seelenkundler für den Hausgebrauch","english":"Mind Games","hoster":["MyVideo"]},
+                {"german":"Im Baumwollrausch","english":"Hooked on a Feeling","hoster":["MyVideo"]},
+                {"german":"Bruder Neal","english":"He Ain&#039;t Heavy, He&#039;s Willie&#039;s Brother","hoster":["MyVideo"]},
+                {"german":"Darf ich bekannt machen ?","english":"The First Time Ever I Saw Your Face","hoster":["MyVideo"]},
+                {"german":"Alles für die Katz","english":"Live and Let Die","hoster":["MyVideo"]},
+                {"german":"Ungebetene Gäste","english":"Break Up to Make Up","hoster":["MyVideo"]},
+                {"german":"Männerwirtschaft","english":"Happy Together","hoster":["MyVideo"]},
+                {"german":"Ein schwieriger Patient","english":"Fever","hoster":["MyVideo"]},
+                {"german":"Die Hawaii-Party","english":"It&#039;s My Party","hoster":["MyVideo"]},
+                {"german":"Es war einmal ein Komiker","english":"Make &#039;em Laugh","hoster":["MyVideo"]},
+                {"german":"In letzter Minute","english":"Love on the Rocks","hoster":["MyVideo"]},
+                {"german":"Genie und Wahnsinn","english":"True Colors","hoster":["MyVideo"]},
+                {"german":"Der Jodelpriester","english":"Gimme That Old Time Religion","hoster":["MyVideo"]},
+                {"german":"Blendende Aussichten","english":"Future&#039;s So Bright, I Gotta Wear Shades","hoster":["MyVideo"]},
+                {"german":"Die Seniorenparty","english":"When I&#039;m Sixty-Four","hoster":[]},
+                {"german":"Auf Schatzsuche","english":"Mr. Sandman","hoster":[]},
+                {"german":"Der Umweltschützer","english":"Stayin&#039; Alive","hoster":["MyVideo"]},
+                {"german":"Die Wolfshungerdiät","english":"Hungry Like a Wolf","hoster":["MyVideo"]},
+                {"german":"Umzugsfreuden","english":"I Gotta Be Me","hoster":["MyVideo"]},
+                {"german":"Die Entscheidung","english":"Consider Me Gone","hoster":["MyVideo"]}
+         ]
+}

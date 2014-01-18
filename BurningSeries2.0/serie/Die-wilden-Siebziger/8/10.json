@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Willkommen in der Hölle!",
+         "titleen":"Sweet Lady",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7115608/Die_wilden_70er_Willkommen_in_der_Hoelle_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7115703/Die_wilden_70er_Willkommen_in_der_Hoelle_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7115753/Die_wilden_70er_Willkommen_in_der_Hoelle_3_3"
+                }
+       ]
+}

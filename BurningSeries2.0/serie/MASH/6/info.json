@@ -1,0 +1,32 @@
+{
+        "series":"M*A*S*H",
+        "seasons":11,
+        "cover":"M-A-S-H_ba9c37303b185e8c205e7b06cbc0acda.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Frank ist frei / Der neue Feind","english":"Fade Out, Fade In","hoster":["PutLocker"]},
+                {"german":"Orden für Radar","english":"Fallen Idol","hoster":["PutLocker"]},
+                {"german":"Wer zuletzt lacht...","english":"Last Laugh","hoster":["PutLocker"]},
+                {"german":"Infantiler Wahnsinn","english":"War of Nerves","hoster":["PutLocker"]},
+                {"german":"Die Winchester-Tonbänder","english":"The Winchester Tapes","hoster":["PutLocker"]},
+                {"german":"Und der Mörder ist ...","english":"The Light That Failed","hoster":["PutLocker"]},
+                {"german":"Liebe im Krieg","english":"In Love and War","hoster":["PutLocker"]},
+                {"german":"Bei Geld hört&#039;s auf","english":"Change Day","hoster":["PutLocker"]},
+                {"german":"Tätowierung à la Radar","english":"Images","hoster":["PutLocker"]},
+                {"german":"Die eigene Olympiade","english":"The M*A*S*H Olympics","hoster":["PutLocker"]},
+                {"german":"Was Feingefühl bewirkt","english":"The Grim Reaper","hoster":["PutLocker"]},
+                {"german":"Die beiden Abenteurer","english":"Comrades in Arms, Part 1","hoster":["PutLocker"]},
+                {"german":"Immer nur lächeln","english":"Comrades in Arms, Part 2","hoster":["PutLocker"]},
+                {"german":"Der Kaufmann von Korea","english":"The Merchant of Korea","hoster":["PutLocker"]},
+                {"german":"Mit erhobener Nase","english":"The Smell of Music","hoster":["PutLocker"]},
+                {"german":"Not macht erfinderisch","english":"Patient 4077","hoster":["PutLocker"]},
+                {"german":"Jeder hat seine Methode","english":"Tea and Empathy","hoster":["PutLocker"]},
+                {"german":"Musik ist Medizin","english":"Your Hit Parade","hoster":["PutLocker"]},
+                {"german":"Der Schwangerschaftstest","english":"What&#039;s Up, Doc?","hoster":["PutLocker"]},
+                {"german":"Schwere Familienkrisen","english":"Mail Call Three","hoster":["PutLocker"]},
+                {"german":"Gib Gas, Sophie","english":"Temporary Duty","hoster":["PutLocker"]},
+                {"german":"Potters Rückzug","english":"Potter&#039;s Retirement","hoster":["PutLocker"]},
+                {"german":"Die schnellste Maus Koreas","english":"Dr. Winchester and Mr. Hyde","hoster":["PutLocker"]},
+                {"german":"Eine alte List","english":"Major Topper","hoster":["PutLocker"]}
+         ]
+}

@@ -1,0 +1,28 @@
+{
+        "series":"Doctor Who",
+        "seasons":6,
+        "cover":"Doctor-Who_afb3def19dd3034de70546d97c212148.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Partners in Crime","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Fires of Pompeii","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Planet of the Ood","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Sontaran Stratagem (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Poison Sky (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Doctor&#039;s Daughter","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Unicorn and the Wasp","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Silence in the Library (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Forest of the Dead (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Midnight","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Turn Left","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Stolen Earth (1)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Journey&#039;s End (2)","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"Music Of The Spheres","hoster":["Sockshare"]},
+                {"german":"","english":"Special: The Next Doctor","hoster":["Sockshare"]},
+                {"german":"","english":"Special: Top 5 Christmas Moments","hoster":["Sockshare"]},
+                {"german":"","english":"Special: Planet of the Dead","hoster":["Sockshare"]},
+                {"german":"","english":"Special: The Waters of Mars","hoster":["Sockshare"]},
+                {"german":"","english":"Special: The End of Time (1)","hoster":[]},
+                {"german":"","english":"Special: The End of Time (2)","hoster":[]}
+         ]
+}

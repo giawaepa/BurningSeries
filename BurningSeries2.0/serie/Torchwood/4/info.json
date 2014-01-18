@@ -1,0 +1,18 @@
+{
+        "series":"Torchwood",
+        "seasons":4,
+        "cover":"Torchwood_8698d3d57d5131cbf2c8f45fc8c5c62b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"The New World","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Rendition","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Dead of Night","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Escape to L.A.","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Categories of Life","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Middle Men","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Immortal Sins","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"End of the Road","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Gathering","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Blood Line","hoster":["PutLocker","DivxStage"]}
+         ]
+}

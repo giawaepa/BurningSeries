@@ -1,0 +1,20 @@
+{
+        "series":"Dexter",
+        "seasons":6,
+        "cover":"Dexter_e97f436efe89e3a3de52918566ece733.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Those Kinds of Things","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Once Upon a Time","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Smokey and the Bandit","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"A Horse of a Different Color","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Angel of Death","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Just Let Go","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Nebraska","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Sins of Omission","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Get Gellar","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Ricochet Rabbit","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Talk To The Hand","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"This Is The Way The World Ends","hoster":["PutLocker","DivxStage"]}
+         ]
+}

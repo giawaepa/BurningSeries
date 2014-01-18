@@ -1,0 +1,24 @@
+{
+        "series":"Psych",
+        "seasons":6,
+        "cover":"Psych_a6900fd3ffbe74c30b48832b726da02b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Romeo and Juliet and Juliet","hoster":["PutLocker"]},
+                {"german":"","english":"Feet Don?t Kill Me Now","hoster":["PutLocker"]},
+                {"german":"","english":"Not Even Close? Encounters","hoster":["PutLocker"]},
+                {"german":"","english":"Chivalry Is Not Dead? But Someone Is","hoster":["PutLocker"]},
+                {"german":"","english":"Shawn and Gus in Drag (Racing)","hoster":["PutLocker"]},
+                {"german":"","english":"Viagra Falls","hoster":["PutLocker"]},
+                {"german":"","english":"Ferry Tale","hoster":["PutLocker"]},
+                {"german":"","english":"Shawn 2.0","hoster":["PutLocker"]},
+                {"german":"","english":"One, Maybe Two, Ways Out","hoster":["PutLocker"]},
+                {"german":"","english":"Extradition II: The Actual Extradition Part","hoster":["PutLocker"]},
+                {"german":"","english":"In Plain Fright","hoster":["PutLocker"]},
+                {"german":"","english":"Dual Spires","hoster":["PutLocker"]},
+                {"german":"","english":"We&#039;d like to Thank the Academy","hoster":["PutLocker"]},
+                {"german":"","english":"The Polarizing Express","hoster":["PutLocker"]},
+                {"german":"","english":"Dead Bear Walking","hoster":["PutLocker"]},
+                {"german":"","english":"Yang 3 in 2D","hoster":["PutLocker"]}
+         ]
+}

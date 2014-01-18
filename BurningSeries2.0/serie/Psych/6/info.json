@@ -1,0 +1,17 @@
+{
+        "series":"Psych",
+        "seasons":6,
+        "cover":"Psych_a6900fd3ffbe74c30b48832b726da02b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Shawn Rescues Darth Vader","hoster":["DivxStage"]},
+                {"german":"","english":"Last Night Gus","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"This Episode Sucks","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Amazing Psych Man &amp; Tap-Man, Issue #2","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Dead Man&#039;s Curve Ball","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Shawn, Interrupted","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"In for a Penny...","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Tao of Gus","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Neil Simon&#039;s Lover&#039;s Retreat","hoster":["PutLocker","DivxStage"]}
+         ]
+}

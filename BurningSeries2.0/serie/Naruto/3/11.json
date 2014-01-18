@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Merkwürdige Vorkommnisse",
+         "titleen":"Episode 63",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6198276/Naruto_Folge_63_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6198342/Naruto_Folge_63_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6198413/Naruto_Folge_63_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"A8112529A4D055FA"
+                }
+       ]
+}

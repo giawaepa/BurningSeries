@@ -1,0 +1,30 @@
+{
+        "series":"FlashForward",
+        "seasons":1,
+        "cover":"FlashForward_b9a9f131fddbe397b73c5e7d1f7b230f.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Blackout","english":"No More Good Days","hoster":["PutLocker"]},
+                {"german":"Die weiße Dame","english":"White to Play","hoster":["PutLocker"]},
+                {"german":"137 Sekunden","english":"137 Sekunden","hoster":["PutLocker"]},
+                {"german":"Der schwarze Schwan","english":"Black Swan","hoster":["PutLocker"]},
+                {"german":"Machtspiele","english":"Gimme Some Truth","hoster":["PutLocker"]},
+                {"german":"Die blaue Hand","english":"Scary Monsters and Super Creeps","hoster":["PutLocker"]},
+                {"german":"Geister","english":"The Gift","hoster":["PutLocker"]},
+                {"german":"Spiel mit dem Teufel","english":"Playing Cards With Coyote","hoster":["PutLocker"]},
+                {"german":"Keiko","english":"Believe","hoster":["PutLocker"]},
+                {"german":"A 561 984","english":"A561984","hoster":["PutLocker"]},
+                {"german":"Die Offenbarung (1)","english":"Revelation Zero (Part 1)","hoster":["PutLocker"]},
+                {"german":"Die Offenbarung (2)","english":"Revelation Zero (Part 2)","hoster":["PutLocker"]},
+                {"german":"Duell der Väter","english":"Blowback","hoster":["PutLocker"]},
+                {"german":"Bessere Engel","english":"Better Angels","hoster":["PutLocker"]},
+                {"german":"Damenopfer","english":"Queen Sacrifice","hoster":["PutLocker"]},
+                {"german":"Der geheimnisvolle Mr. Frost","english":"Let No Man Put Asunder","hoster":["PutLocker"]},
+                {"german":"Der Garten der sich gabelnden Pfade","english":"The Garden of Forking Paths","hoster":["PutLocker"]},
+                {"german":"Janis","english":"Goodbye Yellow Brick Road","hoster":["PutLocker"]},
+                {"german":"Kurskorrektur","english":"Course Correction","hoster":["PutLocker"]},
+                {"german":"Der Tag davor","english":"The Negotiation","hoster":["PutLocker"]},
+                {"german":"Countdown","english":"Countdown","hoster":["PutLocker"]},
+                {"german":"Die Zukunft passiert","english":"Future Shock","hoster":["PutLocker"]}
+         ]
+}

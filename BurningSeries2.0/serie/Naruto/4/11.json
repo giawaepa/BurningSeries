@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Kräuselnde Wellen",
+         "titleen":"Episode 89",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6272954/Naruto_Folge_89_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6272986/Naruto_Folge_89_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6273073/Naruto_Folge_89_part_3_3"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"189B4726DA3CD758"
+                }
+       ]
+}

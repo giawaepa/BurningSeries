@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Schon wieder Obstsalat?",
+         "titleen":"Stone Cold Crazy",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7109253/Die_wilden_70er_schon_wieder_Obstsalat_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7109406/Die_wilden_70er_schon_wieder_Obstsalat_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7109528/Die_wilden_70er_schon_wieder_Obstsalat_3_3"
+                }
+       ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"Private Practice",
+        "seasons":5,
+        "cover":"Private-Practice_555c7752a33670b8601c85d49ac9e79a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der zweite Anlauf","english":"Take Two","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Einschnitte","english":"Short Cuts","hoster":["PutLocker"]},
+                {"german":"Der Gott-Komplex","english":"Playing God","hoster":["PutLocker"]},
+                {"german":"Ein neues Zuhause","english":"A Better Place to Be","hoster":["PutLocker"]},
+                {"german":"Das perfekte Paar","english":"In or Out","hoster":["PutLocker"]},
+                {"german":"Familiensache","english":"All in the Family","hoster":["PutLocker"]},
+                {"german":"Was mit Charlotte King geschah","english":"Did You Hear What Happened To Charlotte King?","hoster":[]},
+                {"german":"Was nun?","english":"What Happens Next","hoster":["PutLocker"]},
+                {"german":"Kein Weg zurück","english":"Can&#039;t Find My Way Back Home","hoster":["PutLocker"]},
+                {"german":"Die Baby-Sache","english":"Just Lose It","hoster":["PutLocker"]},
+                {"german":"Genies","english":"If You Don&#039;t Know Me By Now","hoster":["PutLocker"]},
+                {"german":"Genug geredet","english":"Heaven Can Wait","hoster":["PutLocker"]},
+                {"german":"Blinde Liebe","english":"Blind Love","hoster":["PutLocker"]},
+                {"german":"Trauer","english":"Home Again","hoster":["PutLocker"]},
+                {"german":"Zwei Schritte zurück","english":"Two Steps Back","hoster":["PutLocker"]},
+                {"german":"Liebe und Lügen","english":"Love and Lies","hoster":[]},
+                {"german":"Die letzte Chance","english":"A Step Too Far","hoster":["PutLocker"]},
+                {"german":"Am Scheideweg","english":"The Hardest Part","hoster":["PutLocker"]},
+                {"german":"Die Anklage","english":"What We Have Here?","hoster":["PutLocker"]},
+                {"german":"Etwas Altes, etwas Neues","english":"Something Old, Something New","hoster":["PutLocker"]},
+                {"german":"Die richtige Entscheidung","english":"God Bless The Child","hoster":["PutLocker"]},
+                {"german":"Alles wird anders","english":"...To Change The Things I Can","hoster":["PutLocker"]}
+         ]
+}

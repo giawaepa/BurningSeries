@@ -1,0 +1,32 @@
+{
+        "series":"Scrubs ? Die Anfänger",
+        "seasons":9,
+        "cover":"Scrubs-Die-Anfaenger_bb19dab1f0d35358b688f3a4a8bac13e.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Mein erster Tag","english":"My First Day","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Mentor","english":"My Mentor","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Kunstfehler","english":"My Best Friend&#039;s Mistake","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Lieblingspatientin","english":"My Old Lady","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Vorbilder","english":"My Two Dads","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Pech","english":"My Bad","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Konkurrent","english":"My Super Ego","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Fünfzehn Minuten als Held","english":"My Fifteen Minutes","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein freier Tag","english":"My Day Off","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Spitzname","english":"My Nickname","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Weihnachtswunder","english":"My Own Personal Jesus","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Date aus der Röhre","english":"My Blind Date","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine zweite Chance","english":"My Balancing Act","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Meine Alex","english":"My Drug Buddy","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Beziehung","english":"My Bed Banter &amp; Beyond","hoster":["YouTube","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Meine Melone","english":"My Heavy Meddle","hoster":["YouTube","MyVideo","PutLocker","DivxStage","Ecostream"]},
+                {"german":"Mein Student","english":"My Student","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein schlimmster Fall","english":"My Tuscaloosa Heart","hoster":["YouTube","PutLocker","Ecostream"]},
+                {"german":"Mein alter Herr","english":"My Old Man","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Freund, der Chirurg","english":"My Way or the Highway","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein größtes Opfer","english":"My Sacrificial Clam","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Zweifel","english":"My Occurrence (1)","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein Held","english":"My Hero (2)","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]},
+                {"german":"Mein letzter Tag","english":"My Last Day","hoster":["YouTube","MyVideo","PutLocker","Ecostream"]}
+         ]
+}

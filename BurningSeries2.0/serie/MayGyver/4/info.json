@@ -1,0 +1,27 @@
+{
+        "series":"MacGyver",
+        "seasons":7,
+        "cover":"MacGyver_32b13a08c0cdaa31b722c1f6cf3618cd.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das Geheimnis des Hauses Parker","english":"The Secret of Parker House","hoster":[]},
+                {"german":"Blutsbrüder","english":"Blood Brothers","hoster":[]},
+                {"german":"Neue Wege","english":"The Outsiders","hoster":[]},
+                {"german":"Raketen für die Rebellen","english":"On a Wing and a Prayer","hoster":[]},
+                {"german":"Sabotage auf der Rennbahn","english":"Collision Course","hoster":[]},
+                {"german":"Überlebenstraining","english":"The Survivors","hoster":[]},
+                {"german":"Der Mann im Hintergrund","english":"Deadly Dreams","hoster":[]},
+                {"german":"Mutter Dalton","english":"Ma Dalton","hoster":[]},
+                {"german":"Cleo Rocks","english":"Cleo Rocks","hoster":[]},
+                {"german":"Die Fünferbande","english":"Fraternity of Thieves","hoster":[]},
+                {"german":"Kein Kinderspiel","english":"The Battle of Tommy Giordano","hoster":[]},
+                {"german":"Druck","english":"The Challenge","hoster":[]},
+                {"german":"Schuldgefühle","english":"Runners","hoster":[]},
+                {"german":"Goldrausch","english":"Gold Rush","hoster":[]},
+                {"german":"Der unsichtbare Tod","english":"The Invisible Killer","hoster":[]},
+                {"german":"Die Gehirnwäsche","english":"Brainwashed","hoster":[]},
+                {"german":"Gelähmte Stadt","english":"Easy Target","hoster":[]},
+                {"german":"Das Sicherheitsrisiko","english":"Renegade","hoster":[]},
+                {"german":"Der Skorpion","english":"Unfinished Business","hoster":[]}
+         ]
+}

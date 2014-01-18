@@ -1,0 +1,16 @@
+{ 
+         "titlede":"Geld",
+         "titleen":"Money",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"3591443/Neds_Ultimativer_S_Neue_Folge_Teil1_2_3_Geld"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"3591493/Neds_Ultimativer_S_Neue_Folge_Teil2_2_3_Geld"
+                }
+       ]
+}

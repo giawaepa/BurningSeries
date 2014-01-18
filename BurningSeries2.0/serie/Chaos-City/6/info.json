@@ -1,0 +1,30 @@
+{
+        "series":"Chaos City",
+        "seasons":6,
+        "cover":"Chaos-City_1ad3cd7b69a489f93e37c45bd58a219d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Wiedersehen mit Mike","english":"The Arrival","hoster":[]},
+                {"german":"Alles aus Liebe","english":"A Tree Falls In Manhattan","hoster":[]},
+                {"german":"Wer ist hier der Boss?","english":"Wife With Mikey","hoster":[]},
+                {"german":"Ungebetene Gäste","english":"The Apartment","hoster":[]},
+                {"german":"Mit allen Mitteln","english":"Yet Another Stakeout","hoster":[]},
+                {"german":"Oh, Baby!","english":"Yeah Baby!","hoster":[]},
+                {"german":"Der Feind in meinem Bett","english":"Sleeping With The Enemy","hoster":[]},
+                {"german":"Meine Freundin, Deine Freundin","english":"She&#039;s Gotta Habit","hoster":[]},
+                {"german":"Traum-Partner","english":"The Wedding Scammer","hoster":[]},
+                {"german":"Wahlkampf mit allen Mitteln","english":"Fight Club","hoster":[]},
+                {"german":"Tag der Entscheidung","english":"Chinatown","hoster":[]},
+                {"german":"Der Unbestechliche","english":"An Officer And A Gentleman","hoster":[]},
+                {"german":"Eine Herzensangelegenheit","english":"O Mother, Where Art Thou?","hoster":[]},
+                {"german":"Die Geburtstagsüberraschung","english":"Rags To Riches","hoster":[]},
+                {"german":"Lügengeschichten","english":"Sex, Lies And Video Date","hoster":[]},
+                {"german":"Schlaflos in New York","english":"Eyes Wide Open","hoster":[]},
+                {"german":"In den besten Jahren","english":"Age Against The Machine","hoster":[]},
+                {"german":"Fast &#039;ne Affäre","english":"An Affair Not To Remember","hoster":[]},
+                {"german":"Auf Sendung","english":"Let&#039;s Give Them Something To Talk About","hoster":[]},
+                {"german":"Ein fast perfektes Paar","english":"Look Who&#039;s Not Talking","hoster":[]},
+                {"german":"Vorsicht Kamera!","english":"A Tale Of Four Cities","hoster":[]},
+                {"german":"Konkurrenzkampf","english":"A Friend In Need","hoster":[]}
+         ]
+}

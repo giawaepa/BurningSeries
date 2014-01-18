@@ -1,0 +1,20 @@
+{ 
+         "titlede":"Live Show",
+         "titleen":"Live Show",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"92C802A59380162A"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"F6DA59CC9FE05930"
+                },{
+                        "hoster":"DivxStage",
+                        "part":1,
+                        "link":"2t0m2ie6sg4sf"
+                }
+       ]
+}

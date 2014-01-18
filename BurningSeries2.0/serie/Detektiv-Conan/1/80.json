@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Späte Sühne (1)",
+         "titleen":"Episode 080",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=InZ5ZPOdNHA"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=cap0quPOixc"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6267760/Detektiv_Conan_Folge_80_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6267877/Detektiv_Conan_Folge_80_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6269552/Detektiv_Conan_Folge_80_3_3"
+                }
+       ]
+}

@@ -1,0 +1,26 @@
+{
+        "series":"One Tree Hill",
+        "seasons":9,
+        "cover":"One-Tree-Hill_2fa03b219e492507d3b23615a456128d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Vier Jahre, sechs Monate, zwei Tage","english":"4 Years, 6 Months, 2 Days","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Das Leben beginnt jetzt","english":"Racing Like a Pro","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ohne Freunde geht nicht","english":"My Way Home Is Through You","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Brookes große Eröffnung","english":"It?s Alright, Ma (I?m Only Bleeding)","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Erinnerung stirbt nie","english":"I Forgot to Remember to Forget","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Es ist noch lange nicht vorbei","english":"Don?t Dream It?s Over","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Geplatzte Träume","english":"In Da Club","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Ich will, Ich will, Ich will","english":"Please Please Please Let Me Get What I Want","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Die Wahrheit","english":"For Tonight You?re Only Here to Know","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Die Vergangenheit ist schneller","english":"Running to Stand Still","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Junggesellenabschied mit Folgen","english":"You?re Gonna Need Someone on Your Side","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Für immer und ewig","english":"Hundred","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Echos der Vergangenheit","english":"Echoes, Silence, Patience &amp; Grace","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Das gute alte Leben","english":"What Do You Go Home To","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Jamies große Geburtstagsparty","english":"Life Is Short","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Das Ende steht bevor","english":"Crying Won?t Help You","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Hass ist stärker als Liebe","english":"Hate Is Safer than Love","hoster":["MyVideo","PutLocker","RapidVideo"]},
+                {"german":"Das große Erwachen","english":"What Comes After the Blues","hoster":["MyVideo","PutLocker","RapidVideo"]}
+         ]
+}

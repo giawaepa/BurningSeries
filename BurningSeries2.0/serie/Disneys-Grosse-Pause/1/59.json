@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der ehrliche Finder / Mikey, der Riese",
+         "titleen":"The C Note / Big Ol&#039; Mikey",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=siO3IM16i3Q"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=hycBsD9QhFQ"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6490226/Disneys_Grosse_Pause_Episode_116_Der_ehrliche_Finder"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6490128/Disneys_Grosse_Pause_Episode_117_Mikey_der_Riese"
+                }
+       ]
+}

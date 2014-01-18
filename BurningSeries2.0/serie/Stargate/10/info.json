@@ -1,0 +1,28 @@
+{
+        "series":"Stargate SG-1",
+        "seasons":10,
+        "cover":"Stargate-SG-1_6b5b9978ee26b1880a53c96bc53f8c10.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"Fleisch und Blut","english":"Flesh and Blood","hoster":[]},
+                {"german":"In Morpheus Armen","english":"Morpheus","hoster":[]},
+                {"german":"Das Pegasus-Prinzip","english":"The Pegasus Project","hoster":[]},
+                {"german":"Insider-Wissen","english":"Insiders","hoster":[]},
+                {"german":"Mutanten","english":"Uninvited","hoster":[]},
+                {"german":"200","english":"200","hoster":[]},
+                {"german":"Adrias Macht","english":"Counterstrike","hoster":[]},
+                {"german":"Tödliche Erinnerungen","english":"Memento Mori","hoster":[]},
+                {"german":"Die Kriegserklärung","english":"Company of Thieves","hoster":[]},
+                {"german":"Die Suche Teil 1","english":"The Quest (1)","hoster":[]},
+                {"german":"Die Suche Teil 2","english":"The Quest (2)","hoster":[]},
+                {"german":"Die Linie im Sand","english":"Line in the Sand","hoster":[]},
+                {"german":"Die Parallelwelt","english":"The Road not taken","hoster":[]},
+                {"german":"Daniel, der Prior","english":"The Shroud","hoster":[]},
+                {"german":"Der Kopfgeldjäger","english":"Bounty","hoster":[]},
+                {"german":"Die Geiselnahme","english":"Bad Guys","hoster":[]},
+                {"german":"Rache muss sein","english":"Talion","hoster":[]},
+                {"german":"Familienbande","english":"Family Ties","hoster":[]},
+                {"german":"Ba&#039;Als letztes Gefecht","english":"Dominion","hoster":[]},
+                {"german":"Endlosigkeit","english":"Unending","hoster":[]}
+         ]
+}

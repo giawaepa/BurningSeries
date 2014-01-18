@@ -1,0 +1,24 @@
+{
+        "series":"O.C., California",
+        "seasons":4,
+        "cover":"O-C-California_8b3c53dedf27a72c47dbf7746c9ffd1d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Fight Club","english":"The Avengers","hoster":["PutLocker"]},
+                {"german":"Gringos","english":"The Gringos","hoster":["PutLocker"]},
+                {"german":"Schuld und Sühne","english":"The Cold Turkey","hoster":["PutLocker"]},
+                {"german":"Die Verwandlungskünstlerin","english":"The Metamorphosis","hoster":["PutLocker"]},
+                {"german":"Schlaflos","english":"The Sleeping Beauty","hoster":["PutLocker"]},
+                {"german":"Falsche Freunde","english":"The Summer Bummer","hoster":["PutLocker"]},
+                {"german":"Die Parallelwelt","english":"The Chrismukk-huh?","hoster":["PutLocker"]},
+                {"german":"Aliens","english":"The Earth Girls Are Easy","hoster":["PutLocker"]},
+                {"german":"Zwei Väter","english":"The My Two Dads","hoster":["PutLocker"]},
+                {"german":"Seite 47","english":"The French Connection","hoster":["PutLocker"]},
+                {"german":"Das Krafttier","english":"The Dream Lover","hoster":["PutLocker"]},
+                {"german":"Seelenverwandte","english":"The Groundhog Day","hoster":["PutLocker"]},
+                {"german":"Wahre Liebe","english":"The Case of the Franks","hoster":["PutLocker"]},
+                {"german":"Drei kleine Worte","english":"The Shake Up","hoster":["PutLocker"]},
+                {"german":"Die längste Nacht","english":"The Night Moves","hoster":["PutLocker"]},
+                {"german":"Das Ende","english":"The End&#039;s Not Near, It&#039;s Here","hoster":["PutLocker"]}
+         ]
+}

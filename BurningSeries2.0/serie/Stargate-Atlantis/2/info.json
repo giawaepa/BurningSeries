@@ -1,0 +1,28 @@
+{
+        "series":"Stargate Atlantis",
+        "seasons":5,
+        "cover":"Stargate-Atlantis_ee999920628865c8e0efe0eced7ee852html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Die Belagerung, Teil 3","english":"The Siege (3)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Eindringling","english":"Intruder","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Läufer","english":"Runner","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Duett","english":"Duet","hoster":["MyVideo","PutLocker"]},
+                {"german":"Verurteilt","english":"Condemned","hoster":["MyVideo","PutLocker"]},
+                {"german":"Das Geheimnis der Antiker","english":"Trinity","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Instinkt","english":"Instinct","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Verwandlung","english":"Conversion","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Aurora","english":"Aurora","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die verlorenen Männer","english":"The Lost Boys (1)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Bienenstock","english":"The Hive (2)","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Offenbarung","english":"Epiphany","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Kritische Masse","english":"Critical Mass","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Unter Druck","english":"Grace Under Pressure","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Der Turm","english":"The Tower","hoster":["PutLocker"]},
+                {"german":"Der lange Abschied","english":"The Long Goodbye","hoster":["PutLocker"]},
+                {"german":"Coup d&#039;Etat","english":"Coup D&#039;etat","hoster":["PutLocker","DivxStage"]},
+                {"german":"Michael","english":"Michael","hoster":["PutLocker","DivxStage"]},
+                {"german":"Inferno","english":"Inferno","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Die Verbündeten","english":"Allies (1)","hoster":["PutLocker","DivxStage"]}
+         ]
+}

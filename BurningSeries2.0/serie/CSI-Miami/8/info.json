@@ -1,0 +1,32 @@
+{
+        "series":"CSI: Miami",
+        "seasons":10,
+        "cover":"CSI-Miami_b05c65690e21963e0626d83346766b0ahtml.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Startschüsse","english":"Out Of Time","hoster":["PutLocker"]},
+                {"german":"Zu schlecht für den Moment","english":"Hostile Takeover","hoster":["PutLocker"]},
+                {"german":"Reifeprüfungen","english":"Bolt Action","hoster":["PutLocker"]},
+                {"german":"Änderung im Flugplan","english":"In Plane Sight","hoster":["PutLocker"]},
+                {"german":"Tödliche Saat","english":"Bad Seed","hoster":["PutLocker"]},
+                {"german":"Ey Mann, wo is&#039; mein Bräutigam?","english":"Dude, Where&#039;s My Groom?","hoster":["PutLocker"]},
+                {"german":"	Eine Reise in die Angst","english":"Bone Voyage","hoster":["PutLocker"]},
+                {"german":"Tödliche Treffpunkte","english":"Point of Impact","hoster":["PutLocker"]},
+                {"german":"Killer-Klausel","english":"Kill Clause","hoster":["PutLocker"]},
+                {"german":"Ausgezählt!","english":"Count Me Out","hoster":["PutLocker"]},
+                {"german":"Loyalität ist eine Frage des Verhaltens","english":"Delko for the Defense","hoster":["PutLocker"]},
+                {"german":"Flammen werfen ihre Schatten","english":"Show Stopper","hoster":["PutLocker"]},
+                {"german":"Wer das Schwert nimmt, wird durch das Schwert umkommen","english":"Die By The Sword","hoster":["PutLocker"]},
+                {"german":"Im Wind liegt die Wahrheit","english":"In the Wind","hoster":["PutLocker"]},
+                {"german":"Miami, wir haben ein Problem","english":"Miami, We Have a Problem","hoster":["PutLocker"]},
+                {"german":"Schatten einer Schuld","english":"LA","hoster":["PutLocker"]},
+                {"german":"Wer spielt hier falsch?","english":"Getting Axed","hoster":["PutLocker"]},
+                {"german":"Eine Frage der Ehre","english":"Dishonor","hoster":["PutLocker"]},
+                {"german":"Frucht der Demütigung","english":"Spring Breakdown","hoster":["PutLocker"]},
+                {"german":"Zwei Stimmen in der Stille","english":"Backfire","hoster":["PutLocker"]},
+                {"german":"Lügen, Gold und Diamanten","english":"Meltdown","hoster":["PutLocker"]},
+                {"german":"Meine tote Rabenmutter","english":"Mommie Deadest","hoster":["PutLocker"]},
+                {"german":"Ein Team muss sich beweisen","english":"Time Bomb","hoster":["PutLocker"]},
+                {"german":"Agonie","english":"All Fall Down","hoster":["PutLocker"]}
+         ]
+}

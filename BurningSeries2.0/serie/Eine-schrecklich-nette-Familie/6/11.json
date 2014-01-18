@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Als zweiter Job",
+         "titleen":"Al Bundy, Shoe Dick",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=fXOwwyOmHqM"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=urfeenUXYpg"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"3899183/Eine_schrecklich_nette_Familie_Folge_Al_s_zweiter_Job_1"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"3899188/Eine_schrecklich_nette_Familie_Folge_Al_s_zweiter_Job_2"
+                }
+       ]
+}

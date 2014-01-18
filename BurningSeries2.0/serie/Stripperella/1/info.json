@@ -1,0 +1,21 @@
+{
+        "series":"Stripperella",
+        "seasons":1,
+        "cover":"Stripperella_8d516505b82ef4cb93e7d599f20089c4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Dick im Geschäft (1)","english":"Beauty And The Obese, 1","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Dick im Geschäft (2)","english":"Beauty And The Obese, 2","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Verbrechen zahlt sich nicht aus... wirklich nicht!","english":"Crime Doesn&#039;t Pay... Seriously, It Doesn&#039;t","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Alle lieben Pushy","english":"Everybody Loves Pushy","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Der Zorn von Klinko","english":"The Wrath Of Klinko","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Man leckt nur zweimal","english":"You Only Lick Twice","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Die Brautjungfer","english":"The Bridesmaid","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Und es kommt doch auf die Größe an...","english":"Evil Things Come In Small Packages","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Zurück auf die Schulbank","english":"Eruption Junction, What&#039;s Your Function?","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Verbrechen auf die magische Tour","english":"The Evil Magicians","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Rache ist süß","english":"Cheapo By The Dozen","hoster":["PutLocker","Sockshare","MySpass"]},
+                {"german":"Queen Clitoris kehrt zurück","english":"The Return Of The Queen","hoster":["PutLocker","MySpass"]},
+                {"german":"Der Fluch des Wer-Bibers","english":"The Curse of the WereBeaver","hoster":["PutLocker","Sockshare","MySpass"]}
+         ]
+}

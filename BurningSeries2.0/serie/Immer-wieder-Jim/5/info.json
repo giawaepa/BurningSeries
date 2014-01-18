@@ -1,0 +1,30 @@
+{
+        "series":"Immer wieder Jim",
+        "seasons":8,
+        "cover":"Immer-wieder-Jim_e97064bc1cd1f073436d59cb3f2bf1fa.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Das blaue Auge","english":"Foul Ball","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die verflixte Cassette, Teil 1","english":"The Tale of the Tape (1)","hoster":[]},
+                {"german":"Die verflixte Cassette, Teil 2","english":"The Tale of the Tape (2)","hoster":[]},
+                {"german":"Cheryls gutes Herz","english":"Charity Begins at Hef&#039;s","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Rennen","english":"The Race","hoster":["PutLocker","DivxStage"]},
+                {"german":"Aufschneider unter sich","english":"Anec-Dont&#039;s","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Puppenflüsterer","english":"The Chick Whisperer","hoster":["PutLocker","DivxStage"]},
+                {"german":"Jim und der Horrorpfirsich","english":"James &amp; the Annoying Peach","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Traum","english":"The Dream","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die alte Flamme","english":"Lean On Me","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wer ist der beste Schwiegersohn","english":"The Gift of Maggie","hoster":["PutLocker","DivxStage"]},
+                {"german":"Das Sexualkundevideo","english":"Sex Ed Fred","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die zweite Hochzeit","english":"Renewing Vows","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der Stock","english":"The Stick","hoster":["PutLocker","DivxStage"]},
+                {"german":"Ist er&#039;s oder ist er&#039;s nicht?","english":"Mr. Right","hoster":["PutLocker","DivxStage"]},
+                {"german":"Verbotene Spiele","english":"Get Your Freak On","hoster":["PutLocker","DivxStage"]},
+                {"german":"Die lieben Nachbarn","english":"The Grumpy Guy","hoster":["PutLocker","DivxStage"]},
+                {"german":"Der taktvolle Jim","english":"Polite Jim","hoster":["PutLocker","DivxStage"]},
+                {"german":"Wiedersehen macht keine Freude","english":"Daddy Dearest","hoster":["PutLocker","DivxStage"]},
+                {"german":"St. Patrick&#039;s Day","english":"The Thin Green Line","hoster":["MyVideo","PutLocker","DivxStage"]},
+                {"german":"Jims bester Freund","english":"Jim&#039;s Best Friend","hoster":["PutLocker","DivxStage"]},
+                {"german":"Dana kriegt ein Baby!","english":"Belaboring the Point","hoster":["PutLocker","DivxStage"]}
+         ]
+}

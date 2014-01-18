@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Der Milliardenraub",
+         "titleen":"Episode 135",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=8N27iJEDU7U"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5464462/Detektiv_Conan_Folge_135_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5464853/Detektiv_Conan_Folge_135_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5465180/Detektiv_Conan_Folge_135_3_3"
+                }
+       ]
+}

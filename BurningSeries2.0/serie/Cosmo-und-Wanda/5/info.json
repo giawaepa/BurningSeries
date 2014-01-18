@@ -1,0 +1,30 @@
+{
+        "series":"Cosmo und Wanda ? Wenn Elfen helfen",
+        "seasons":8,
+        "cover":"Cosmo-und-Wanda-Wenn-Elfen-helfen_efab7858e8f9b95490bb33ca474e61ca.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Ferngesteuert / Gesund - na und?","english":"You Doo / Just Desserts!","hoster":[]},
+                {"german":"Katzenjammer / Der Geburtstagswunsch","english":"Go Young, West Man! / Birthday Wish!","hoster":[]},
+                {"german":"Schwesterliebe / Fünf Tage Party","english":"Blondas Have More Fun! / Five Days of FLARG","hoster":[]},
+                {"german":"Ungebetene Gäste / Wo bleibt die Dankbarkeit?","english":"Timmy&#039;s 2-D House of Horror / It&#039;s a Wishful Life","hoster":[]},
+                {"german":"Die Insel der Unerwünschten / Rettung für Cosmo","english":"Escape from Unwish Island / The Gland Plan","hoster":[]},
+                {"german":"Ein Geist gibt auf / Wackelzähne","english":"Back to the Norm / Teeth for Two!","hoster":[]},
+                {"german":"Zoff im Schloss / Wer plant was?","english":"Hassle in the Castle / Remy Rides Again","hoster":[]},
+                {"german":"Fauler Zauber / Timmy, der Fernsehstar","english":"Talkin&#039; Trash / Timmy TV","hoster":[]},
+                {"german":"Der Maskierte Magier / Die Schnitzeljagd","english":"The Masked Magician / The Big Bash","hoster":[]},
+                {"german":"Der Wunderanzug","english":"Crash Nebula","hoster":[]},
+                {"german":"Die Macht der Milch / Big Wanda","english":"Mooooving Day! / Big Wanda","hoster":[]},
+                {"german":"Ein Tommy für Timmy / Wer suchet, der findet","english":"Oh, Brother! / What&#039;s the Difference?","hoster":[]},
+                {"german":"Klüger als klug! / Die F.U.N. Akademie","english":"Smart Attack! / Operation F.U.N.","hoster":[]},
+                {"german":"Timmy Dorado / Im Körpertausch-Rausch","english":"Something&#039;s Fishy! / Presto Change-O","hoster":[]},
+                {"german":"Spass von gestern / Schnell weg aus der Zukunft","english":"The Good Old Days! / Future Lost","hoster":[]},
+                {"german":"Timmy, der Barbar / Schlimmer geht&#039;s immer","english":"Timmy the Barbarian / No Substitute for Crazy!","hoster":[]},
+                {"german":"Von Ramme sucht den Superstar, Teil 1","english":"Fairy Idol, Part 1","hoster":[]},
+                {"german":"Von Ramme sucht den Superstar, Teil 2","english":"Fairy Idol, Part 2","hoster":[]},
+                {"german":"Freitag, der 13., Teil 1","english":"The Jimmy Timmy Power Hour 2: When Nerds Collide!, Part 1","hoster":[]},
+                {"german":"Freitag, der 13., Teil 2","english":"The Jimmy Timmy Power Hour 2: When Nerds Collide!, Part 2","hoster":[]},
+                {"german":"Ein hinreißend gelungener Schurke , Teil 1","english":"The Jimmy Timmy Power Hour 3: The Jerkinators, Part 1","hoster":[]},
+                {"german":"Ein hinreißend gelungener Schurke , Teil 2","english":"The Jimmy Timmy Power Hour 3: The Jerkinators, Part 2","hoster":[]}
+         ]
+}

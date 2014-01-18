@@ -1,0 +1,19 @@
+{
+        "series":"Glee",
+        "seasons":3,
+        "cover":"Glee_aa7bd911901dda80b0a6f0abaab8966e.jpg",
+        "movies":true,
+        "episodes":[
+                {"german":"","english":"The Purple Piano Project","hoster":["PutLocker"]},
+                {"german":"","english":"I Am Unicorn","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Asian F","hoster":["PutLocker"]},
+                {"german":"","english":"Pot O&#039; Gold","hoster":["PutLocker"]},
+                {"german":"","english":"The First Time","hoster":["PutLocker"]},
+                {"german":"","english":"Mash Off","hoster":["PutLocker"]},
+                {"german":"","english":"I kissed a Girl","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Hold On To Sixteen","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Extraordinary Merry Christmas","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"YES/NO","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Michael","hoster":["PutLocker","DivxStage"]}
+         ]
+}

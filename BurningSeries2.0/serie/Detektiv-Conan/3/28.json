@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Die geheimnisvolle Spieluhr (2)",
+         "titleen":"Episode 210",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=3_PeoGslneA"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5761772/Detektiv_Conan_Folge_210_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5762155/Detektiv_Conan_Folge_210_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5762480/Detektiv_Conan_Folge_210_3_3"
+                }
+       ]
+}

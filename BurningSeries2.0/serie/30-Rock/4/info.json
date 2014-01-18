@@ -1,0 +1,30 @@
+{
+        "series":"30 Rock",
+        "seasons":6,
+        "cover":"30-Rock_b940447e54c3e6b55d29c9ff4abd16a4.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Pagenstreik","english":"Season 4","hoster":["PutLocker","DivxStage"]},
+                {"german":"In die Gletscherspalte","english":"Into the Crevasse","hoster":["PutLocker","DivxStage"]},
+                {"german":"Unterwegs nach Stone Mountain","english":"Stone Mountain","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das große Casting","english":"Audition Day","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die Problemlöser","english":"The Problem Solvers","hoster":["DivxStage","RapidVideo"]},
+                {"german":"Wie werde ich meinen Nachbarn los?","english":"Sun Tea","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das doppelte Lizchen","english":"Dealbreakers Talk Show #0001","hoster":["DivxStage","RapidVideo"]},
+                {"german":"Frohes Merlinpeen, Kenneth!","english":"Secret Santa","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Klaus und Greta","english":"Klaus And Greta","hoster":["PutLocker","RapidVideo"]},
+                {"german":"Schwarzlichtattacke!","english":"Black Light Attack!","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Betriebsausflug","english":"Winter Madness","hoster":["DivxStage","RapidVideo"]},
+                {"german":"Meine liebe Rabenmutter","english":"Verna","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Wurzelbehandlung am Valentinstag","english":"Anna Howard Shaw Day","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Der zukünftige Ehemann","english":"Future Husband","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Die neue Geschäftsidee","english":"Don Geiss, America and Hope","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Floyd","english":"Floyd","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Dreiecksbeziehung","english":"Lee Marvin Vs. Derek Jeter","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Das Hausmeister-Problem","english":"Khonani","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Ein Pfau namens Argus","english":"Argus","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Mütterliche Ratschläge","english":"The Moms","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Liz und die Verflossenen","english":"Emmanuel Goes To Dinasour Land","hoster":["PutLocker","DivxStage","RapidVideo"]},
+                {"german":"Drei Hochzeiten und ein Schwangerschaftsfall","english":"I Do Do","hoster":["PutLocker","DivxStage","RapidVideo"]}
+         ]
+}

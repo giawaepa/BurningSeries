@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Die Überraschung kommt zum Schluss...",
+         "titleen":"Episode 45",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=QU1mPkXqp5Y"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=-H-j2T2_nNc"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6357320/Naruto_folge_45_part_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6357357/Naruto_folge_45_part_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6357372/Naruto_folge_45_part_3_3"
+                }
+       ]
+}

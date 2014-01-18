@@ -1,0 +1,25 @@
+{
+        "series":"How I Met Your Mother",
+        "seasons":7,
+        "cover":"How-I-Met-Your-Mother_470f96f81545d60a203d278bb3b9b0a1.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Trauzeuge","english":"The Best Man","hoster":["YouTube","PutLocker","Sockshare","Ecostream","BitShare","UploadC"]},
+                {"german":"Die nackte Wahrheit","english":"The Naked Truth","hoster":["YouTube","PutLocker","Sockshare","Ecostream","BitShare","UploadC"]},
+                {"german":"Die Entchenkrawatte","english":"Ducky Tie","hoster":["YouTube","PutLocker","Sockshare","Ecostream","BitShare","UploadC"]},
+                {"german":"Die Stinson Krise","english":"The Stinson Missile Crisis","hoster":["PutLocker","Sockshare","Ecostream","BitShare","UploadC"]},
+                {"german":"Die Exkursion","english":"Field Trip","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"Mystery Vs. History","english":"Mystery Vs. History","hoster":["PutLocker","Sockshare","BitShare","UploadC"]},
+                {"german":"","english":"Noretta","hoster":["PutLocker"]},
+                {"german":"","english":"The Slutty Pumpkin Returns","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Disaster Advert","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Tick Tick Tick...","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Rebound Girl","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Symphony of Illumintation","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Tailgate","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"46 Minutes","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"The Burning Beekeeper","hoster":["PutLocker"]},
+                {"german":"","english":"The Drunk Train","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"No Pressure","hoster":[]}
+         ]
+}

@@ -1,0 +1,32 @@
+{
+        "series":"Brothers &amp; Sisters",
+        "seasons":5,
+        "cover":"Brothers-Sisters_eeae3f2c3ef37d5de2d6d00c0d4e1a07.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"The Road Ahead","hoster":["PutLocker"]},
+                {"german":"","english":"Breaking The News","hoster":[]},
+                {"german":"","english":"Almost Normal","hoster":[]},
+                {"german":"","english":"From France With Love","hoster":["PutLocker"]},
+                {"german":"","english":"Last Tango in Pasadena","hoster":["PutLocker"]},
+                {"german":"","english":"Zen &amp; the Art of Mole Making","hoster":["PutLocker"]},
+                {"german":"","english":"The Wig Party","hoster":["PutLocker"]},
+                {"german":"","english":"The Wine Festival","hoster":["PutLocker"]},
+                {"german":"","english":"Pregnant Pause","hoster":["PutLocker"]},
+                {"german":"","english":"Nearlyweds","hoster":[]},
+                {"german":"","english":"A Bone To Pick","hoster":[]},
+                {"german":"","english":"The Science Fair","hoster":[]},
+                {"german":"","english":"A Bone To Pick","hoster":["PutLocker"]},
+                {"german":"","english":"The Pasadena Primary","hoster":["PutLocker"]},
+                {"german":"","english":"A Valued Family","hoster":["PutLocker"]},
+                {"german":"","english":"Leap of Faith","hoster":["PutLocker"]},
+                {"german":"","english":"Freeluc.com","hoster":["PutLocker"]},
+                {"german":"","english":"Time After Time, Parts 1 &amp; 2","hoster":["PutLocker"]},
+                {"german":"","english":"Time After Time, Part 2 of 2","hoster":["PutLocker"]},
+                {"german":"","english":"If You Bake It, He Will Come","hoster":[]},
+                {"german":"","english":"Where There&#039;s Smoke?","hoster":["PutLocker"]},
+                {"german":"","english":"Love All","hoster":[]},
+                {"german":"","english":"Lights Out","hoster":["PutLocker"]},
+                {"german":"","english":"On the Road Again","hoster":["PutLocker"]}
+         ]
+}

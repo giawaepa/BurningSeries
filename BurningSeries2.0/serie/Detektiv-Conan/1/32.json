@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Tatort TV-Show",
+         "titleen":"Episode 032",
+         "description":"Kogoro ist zu einer Live-Sendung über ungeklärte Verbrechen eingeladen. Der Produzent Suwa will den langjährigen Moderator der Sendung ausbooten. Matsuo rächt sich, erschießt ihn, und zwar während er selbst anscheinend live auf Sendung ist. Conan löst auch diesen Fall und Kogoro wird zum Helden einer improvisierten TV-Show. ",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=UKZE4744h84"
+                },{
+                        "hoster":"YouTube",
+                        "part":2,
+                        "link":"=q_YTFY2unMw"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"6743435/D_C_Folge_032_Tatort_TV_Show_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"6743469/D_C_Folge_032_Tatort_TV_Show_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"6743483/D_C_Folge_032_Tatort_TV_Show_3_3"
+                }
+       ]
+}

@@ -1,0 +1,30 @@
+{
+        "series":"One Tree Hill",
+        "seasons":9,
+        "cover":"One-Tree-Hill_2fa03b219e492507d3b23615a456128d.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"Asleep at Heaven?s Gate","hoster":["PutLocker"]},
+                {"german":"","english":"I Can?t See You, But I Know You?re There","hoster":["PutLocker"]},
+                {"german":"","english":"The Space in Between","hoster":["PutLocker"]},
+                {"german":"","english":"We All Fall Down","hoster":["PutLocker"]},
+                {"german":"","english":"Nobody Taught Us to Quit","hoster":["PutLocker"]},
+                {"german":"","english":"Not Afraid","hoster":["PutLocker"]},
+                {"german":"","english":"Luck Be A Lady","hoster":["PutLocker"]},
+                {"german":"","english":"Mouthful of Diamonds","hoster":["PutLocker"]},
+                {"german":"","english":"Between Raising Hell and Amazing Grace","hoster":["PutLocker"]},
+                {"german":"","english":"Lists, Plans","hoster":["PutLocker"]},
+                {"german":"","english":"Darkness on the Edge of Town","hoster":["PutLocker"]},
+                {"german":"","english":"The Drinks We Drank Last Night","hoster":["PutLocker"]},
+                {"german":"","english":"The Other Half of Me","hoster":["PutLocker"]},
+                {"german":"","english":"Holding Out for a Hero","hoster":["PutLocker"]},
+                {"german":"","english":"Valentine?s Day Is Over","hoster":["PutLocker"]},
+                {"german":"","english":"I Think I?m Gonna Like It Here","hoster":["PutLocker"]},
+                {"german":"","english":"The Smoker You Drink, The Player You Get","hoster":["PutLocker"]},
+                {"german":"","english":"Quiet Little Voices","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Where Not to Look for Freedom","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"The Man Who Sailed Around His Soul","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Flightless Bird, American Mouth","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"This Is My House, This Is My Home","hoster":["PutLocker","DivxStage"]}
+         ]
+}

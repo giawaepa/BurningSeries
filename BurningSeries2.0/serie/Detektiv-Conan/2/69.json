@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Was geschah in Zimmer 8?",
+         "titleen":"Episode 171",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=L7ABYzqO9ak"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5590015/Detektiv_Conan_Folge_171_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5590175/Detektiv_Conan_Folge_171_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5590438/Detektiv_Conan_Folge_171_3_3"
+                }
+       ]
+}

@@ -1,0 +1,33 @@
+{
+        "series":"Alle lieben Raymond",
+        "seasons":9,
+        "cover":"Alle-lieben-Raymond_fc686af2b853c140fb5eda67e16ef9c7html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Der Schatten des Ruhms","english":"Ray&#039;s on TV","hoster":["PutLocker"]},
+                {"german":"Ein Naturtalent","english":"Father Knows Least","hoster":["PutLocker"]},
+                {"german":"Männergespräche","english":"Brother","hoster":["PutLocker"]},
+                {"german":"Musik liegt in der Luft","english":"Golf","hoster":["PutLocker"]},
+                {"german":"Trickreich geschlagen","english":"Mozart","hoster":["PutLocker"]},
+                {"german":"Was sich liebt, das neckt sich","english":"Anniversary","hoster":["PutLocker"]},
+                {"german":"Geliebter Arbeitsplatz","english":"Working Late Again","hoster":["PutLocker"]},
+                {"german":"Häschen in der Grube","english":"The Children&#039;s Book","hoster":["PutLocker"]},
+                {"german":"Ein Fisch namens Stan","english":"The Gift","hoster":["PutLocker"]},
+                {"german":"Kahle Adler","english":"High School","hoster":["PutLocker"]},
+                {"german":"Die Tupper-Party","english":"The Letter","hoster":["PutLocker"]},
+                {"german":"Liebesgezeter","english":"Civil War","hoster":["PutLocker"]},
+                {"german":"Tapferer kleiner Soldat","english":"All I Want for Christmas","hoster":["PutLocker"]},
+                {"german":"Tante Sarina","english":"Mia Famiglia","hoster":["PutLocker"]},
+                {"german":"Das Kochduell","english":"Marie&#039;s Meatballs","hoster":["PutLocker"]},
+                {"german":"Der Topmanager","english":"The Checkbook","hoster":["PutLocker"]},
+                {"german":"Die ungeschminkte Wahrheit","english":"The Ride-Along","hoster":["PutLocker"]},
+                {"german":"Bettgeflüster","english":"The Family Bed","hoster":["PutLocker"]},
+                {"german":"Kein gutes Mädchen","english":"Good Girls","hoster":["PutLocker"]},
+                {"german":"Vorbildliche Schummelei","english":"T-Ball","hoster":["PutLocker"]},
+                {"german":"Verkehrserziehung","english":"Traffic School","hoster":["PutLocker"]},
+                {"german":"Der Schrumpfprozess","english":"Six Feet Under","hoster":["PutLocker"]},
+                {"german":"Der Flohmarkt","english":"The Garage Sale","hoster":["PutLocker"]},
+                {"german":"Hochzeitsglocken - Teil 1","english":"The Wedding (1)","hoster":["PutLocker"]},
+                {"german":"Hochzeitsglocken - Teil 2","english":"The Wedding (2)","hoster":["PutLocker"]}
+         ]
+}

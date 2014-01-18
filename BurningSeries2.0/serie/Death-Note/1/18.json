@@ -1,0 +1,16 @@
+{ 
+         "titlede":"Team",
+         "titleen":"Comrade",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"CDAD51B8B56F4408"
+                },{
+                        "hoster":"Sockshare",
+                        "part":1,
+                        "link":"EF293D56BFB952A0"
+                }
+       ]
+}

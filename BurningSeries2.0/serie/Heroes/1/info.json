@@ -1,0 +1,31 @@
+{
+        "series":"Heroes",
+        "seasons":4,
+        "cover":"Heroes_e41f6f87c707d19cd6da7ea27fdf0a1b.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Genesis","english":"(Volume One: Genesis) In His Own Image","hoster":["Ecostream"]},
+                {"german":"Kein Blick zurück","english":"Don&#039;t Look Back","hoster":["PutLocker","Ecostream"]},
+                {"german":"Ein gewaltiger Schritt","english":"One Giant Leap","hoster":["PutLocker","Ecostream"]},
+                {"german":"Kollision","english":"Collision","hoster":["PutLocker"]},
+                {"german":"Botschaft aus der Zukunft","english":"Hiros","hoster":["PutLocker"]},
+                {"german":"Das zweite Gesicht","english":"Better Halves","hoster":["PutLocker"]},
+                {"german":"Nichts zu verbergen","english":"Nothing to Hide","hoster":[]},
+                {"german":"Sieben Minuten bis Mitternacht","english":"Seven Minutes to Midnight","hoster":["PutLocker"]},
+                {"german":"Heimkehr","english":"Homecoming","hoster":["PutLocker"]},
+                {"german":"Sechs Monate zuvor","english":"Six Months Ago","hoster":["PutLocker"]},
+                {"german":"Ausgelöscht","english":"Fallout","hoster":["PutLocker"]},
+                {"german":"Gottesgabe","english":"Godsend","hoster":["PutLocker"]},
+                {"german":"Kontrollverlust","english":"The Fix","hoster":["PutLocker"]},
+                {"german":"Ablenkungen","english":"Distractions","hoster":[]},
+                {"german":"Flucht","english":"Run!","hoster":["PutLocker"]},
+                {"german":"Unerwartet","english":"Unexpected","hoster":["PutLocker"]},
+                {"german":"Die Firma","english":"Company Man","hoster":["PutLocker"]},
+                {"german":"Parasit","english":"Parasite","hoster":["PutLocker"]},
+                {"german":"0,07 Prozent","english":".07%","hoster":["PutLocker"]},
+                {"german":"Fünf Jahre später","english":"Five Years Gone","hoster":["PutLocker"]},
+                {"german":"Der Schwierige Teil","english":"The Hard Part","hoster":["PutLocker"]},
+                {"german":"Erdrutsch","english":"Landslide","hoster":["PutLocker"]},
+                {"german":"Wie man einen explodierenden Mann aufhält","english":"How to Stop an Exploding Man","hoster":["PutLocker"]}
+         ]
+}

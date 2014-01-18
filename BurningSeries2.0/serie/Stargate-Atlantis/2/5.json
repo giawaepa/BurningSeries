@@ -1,0 +1,28 @@
+{ 
+         "titlede":"Verurteilt",
+         "titleen":"Condemned",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"7349749/Stargate_Atlantis_S02E05_Verurteilt_1_6"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"7349895/Stargate_Atlantis_S02E05_Verurteilt_2_6"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"7349991/Stargate_Atlantis_S02E05_Verurteilt_3_6"
+                },{
+                        "hoster":"MyVideo",
+                        "part":4,
+                        "link":"7350080/Stargate_Atlantis_S02E05_Verurteilt_4_6"
+                },{
+                        "hoster":"PutLocker",
+                        "part":1,
+                        "link":"9924E4D3B56D0911"
+                }
+       ]
+}

@@ -1,0 +1,27 @@
+{
+        "series":"Family Guy",
+        "seasons":10,
+        "cover":"Family-Guy_1ef52f1420d3e2b6e6e4159f2a83c30a.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"","english":"And then there were fewer","hoster":["PutLocker"]},
+                {"german":"","english":"Excellence in Broadcasting","hoster":["PutLocker"]},
+                {"german":"","english":"Welcome Back, Carter","hoster":["PutLocker"]},
+                {"german":"","english":"Halloween on Spooner Street","hoster":["PutLocker"]},
+                {"german":"","english":"Baby, You Knock Me Out","hoster":["PutLocker"]},
+                {"german":"","english":"Brian Writes a Bestseller","hoster":["PutLocker"]},
+                {"german":"","english":"Road to the North Pole","hoster":["PutLocker"]},
+                {"german":"","english":"New Kidney in Town","hoster":["PutLocker"]},
+                {"german":"","english":"And I&#039;m Joyce Kinney","hoster":["PutLocker"]},
+                {"german":"","english":"Friends of Peter G.","hoster":["PutLocker"]},
+                {"german":"","english":"German Guy","hoster":["PutLocker"]},
+                {"german":"","english":"The Hand That Rocks The Wheelchair","hoster":["PutLocker"]},
+                {"german":"","english":"Trading Places","hoster":["PutLocker"]},
+                {"german":"","english":"Tiegs for Two","hoster":["PutLocker"]},
+                {"german":"","english":"Brothers &amp; Sisters","hoster":["PutLocker"]},
+                {"german":"","english":"Seahorse Seashell Party","hoster":["PutLocker"]},
+                {"german":"","english":"The Big Bang Theory","hoster":["PutLocker"]},
+                {"german":"","english":"Foreign Affairs","hoster":["PutLocker"]},
+                {"german":"Es ist eine Falle!","english":"It&#039;s a Trap!","hoster":["PutLocker","Sockshare"]}
+         ]
+}

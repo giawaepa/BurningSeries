@@ -1,0 +1,24 @@
+{ 
+         "titlede":"Eifersucht (1)",
+         "titleen":"Episode 108",
+         "description":"Noch keine Beschreibung verfügbar.",
+         "links":[
+                {
+                        "hoster":"YouTube",
+                        "part":1,
+                        "link":"=m02ZjcxjCjE"
+                },{
+                        "hoster":"MyVideo",
+                        "part":1,
+                        "link":"5378523/Detektiv_Conan_Folge_108_1_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":2,
+                        "link":"5378951/Detektiv_Conan_Folge_108_2_3"
+                },{
+                        "hoster":"MyVideo",
+                        "part":3,
+                        "link":"5379182/Detektiv_Conan_Folge_108_3_3"
+                }
+       ]
+}

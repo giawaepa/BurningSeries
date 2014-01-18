@@ -1,0 +1,30 @@
+{
+        "series":"Charmed - Zauberhafte Hexen",
+        "seasons":8,
+        "cover":"Charmed-Zauberhafte-Hexen_722c3c2a985260f00d8e5b09cc808f39.jpg",
+        "movies":false,
+        "episodes":[
+                {"german":"Totgesagte leben länger","english":"Still Charmed &amp; Kicking","hoster":["YouTube","MyVideo"]},
+                {"german":"Halliwells im Wunderland","english":"Malice in Wonderland","hoster":["YouTube","MyVideo"]},
+                {"german":"Lauf, Piper, lauf","english":"Run, Piper, Run","hoster":["YouTube"]},
+                {"german":"Verzweifelte Haushexen","english":"Desperate Housewitches","hoster":["YouTube"]},
+                {"german":"Entzauberte Julie","english":"Rewitched","hoster":["YouTube"]},
+                {"german":"Kill Billie: Vol. 1","english":"Kill Billie: Vol. 1","hoster":["YouTube"]},
+                {"german":"Bitte lächeln","english":"The Lost Picture Show","hoster":["YouTube"]},
+                {"german":"Yin und Yang","english":"Battle of the Hexes","hoster":["YouTube"]},
+                {"german":"Blutsbande","english":"Hulkus Pocus","hoster":["YouTube"]},
+                {"german":"Vaya Con Leos","english":"Vaya Con Leos","hoster":["YouTube"]},
+                {"german":"Billies Killer-Eltern","english":"Mr. &amp; Mrs. Witch","hoster":["YouTube"]},
+                {"german":"Mit gleicher Münze","english":"Payback&#039;s A Witch","hoster":["YouTube"]},
+                {"german":"Klein, aber mein","english":"Repo Manor","hoster":["YouTube"]},
+                {"german":"Büffel, Tiger und Hund","english":"12 Angry Zen","hoster":["YouTube"]},
+                {"german":"Die letzte Versuchung von Christy","english":"The Last Temptation of Christy","hoster":["YouTube"]},
+                {"german":"Verliebt, verlobt, verwirrt","english":"Engaged and Confused","hoster":["YouTube"]},
+                {"german":"Ein hoher Preis","english":"Generation Hex","hoster":["YouTube"]},
+                {"german":"Identitätskrise","english":"The Torn Identity","hoster":["YouTube"]},
+                {"german":"Zeig mir deinen Traum","english":"The Jung and the Restless","hoster":["YouTube"]},
+                {"german":"Hexenkampf","english":"Gone With The Witches","hoster":["YouTube"]},
+                {"german":"Kill Billie: Vol.2","english":"Kill Billie: Vol. 2","hoster":["YouTube"]},
+                {"german":"Das Vermächtnis der Halliwells","english":"Forever Charmed","hoster":["YouTube","MyVideo"]}
+         ]
+}

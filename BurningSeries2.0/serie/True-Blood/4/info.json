@@ -1,0 +1,20 @@
+{
+        "series":"True Blood",
+        "seasons":4,
+        "cover":"True-Blood_56b6d15f0252ad8a86476d77313c2347html.html",
+        "movies":false,
+        "episodes":[
+                {"german":"Sie ist nicht da","english":"She?s Not There","hoster":["PutLocker","Sockshare"]},
+                {"german":"Der König von Louisiana","english":"You Smell Like Dinner","hoster":["PutLocker","Sockshare"]},
+                {"german":"","english":"If You Love Me, Why Am I Dyin??","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"I&#039;m Alive and On Fire","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Me and the Devil","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"I Wish I was the Moon","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Cold Grey Light of Dawn","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Spellbound","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Run","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Burning Down the House","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"Soul of Fire","hoster":["PutLocker","DivxStage"]},
+                {"german":"","english":"And When I Die","hoster":["PutLocker","DivxStage"]}
+         ]
+}
